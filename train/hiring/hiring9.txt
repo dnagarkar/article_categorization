@@ -1,0 +1,59 @@
+5 Tips to Recruit Great Developers
+Hiring developers is hard! It’s estimated that for every one developer, there are five job opportunities. Use these five hiring tips to work through the hiring process and hire top tech talent!
+
+
+Hiring Developers? Check out these 5 Tips to Recruit Top Tech Talent
+I won’t sugarcoat it, hiring qualified, driven, and passionate employees’ is challenging! If it isn’t difficult enough from the get go, add in the lofty experience metrics of complex coding languages and detailed programs, and you’ve got yourself a pretty difficult job to fill.
+Don’t worry! We’re here to help lead you in the right direction with these five tips to hiring top tech talent.
+Interested in learning more about marketing to developers? Sign-up for our Developer Marketing newsletter and have the latest blog content sent straight to your inbox.
+1. Create a solid hiring plan
+Why start looking for a new employee if you don’t know what you’re looking for? Before starting the hunt for prospects, take some time with your team and prepare a plan for hiring great software professionals
+Tech professionals come in all shapes and sizes, along with varying technical skill sets. It’s important that your job description mimic the needs you have in order to qualify and filter out candidates upfront.
+To put yourself in the best position to hire the most qualified candidates, it’s time to make a plan. Below are some pieces that go into the construction of a successful hiring plan and job description.
+
+http://www.jobs.dzone.com
+A budget for a new hire
+A checklist of coding and software expertise questions/tests
+External marketing to make the company appealing to work for
+A set of questions to verify a culture fit
+A broken-out set of interviews and the qualifying questions that will be asked in each
+A growth plan
+A list of the projects they will be working on once hired
+Preparing the questions and tests you will ask a candidate to answer should be well thought out, relate to your mission, and test accurately. Each piece of your interview process should aid in making a hiring choice.
+Do these ideas get your juices flowing? It’s time to nail down your objectives and share your plan with your team. It’s important for your dev team to understand your hiring goals, as your first level of recruitment will come from them [The best developers want to work with the best developers!]. Reach out to your dev network, ask them if they know anyone that would fit the position well.
+If you can confidently express your hiring plan, you’re ready to start your search process.
+2. Know the right places to search
+The search process can be particularly difficult if you do not have software experience yourself. It certainly does not help that demand is so high. According to TechCrunch, as of 2015 1 in every 20 jobs posted in the U.S. job market is software related. But have no fear, there are great developers out there and with the right tactics, you will find the one(s) that are great for your team!
+As I mentioned before, recruiting the help of your development team is a great place to start. Most developers know other great developers, who also know other great developers, and so on and so forth. Don’t worry if you don’t have a robust development team at the moment, I have a list of various places that devs hang out.
+Hackathons: Programming events that bring together devs to create new software and test the limits of various programs
+Conferences: Far and wide you can attend great tech conferences covering various topics
+Tech Blogs: A hub for thought leaders in various tech spaces to share their knowledge and attract other enthusiasts and professionals from all over the world [DZone is a great place to start! Check out our amazing community of MVB’s]
+
+Freelance websites: Most devs freelance in their free time, especially those who are in the middle of learning a new skill
+Did I mention asking your dev team? I can’t stress enough how beneficial it is to ask people who are the most knowledgeable in the space, and know exactly what it takes to do the job well
+Meetup Groups: There are thousands of tech related meetups all over, spend some time around people who love what they do so much they meet up with other enthusiasts on their personal time
+Career Fairs: There are career fairs of all levels, from university graduates to highly skilled professionals
+DZone Jobs: Shameless plug! DZone Jobs profile access gives you access to applicant data, check it out here!
+3. Ask the right questions
+We all know the generic interview questions we’ve answered over the years, tell us about your experience, what are your strengths and weaknesses, how would you deal with this situation, where do you see yourself in three, five, and ten years, etc.
+Keeping on trend with having your dev team close by, they will act as your first line of defense to test your candidate’s skills. It’s important to see their experiences in action and get a clear sense of the capabilities they hold. If you can’t confidently say that you would trust them to concur the tasks you assign them, then either you don’t have enough information about the candidate, or they don’t possess the skills needed to do the job well.
+Here are a few ideas in case you don’t have an established development team at the ready:
+Tell us about a project that you are proud of. What tactics and tools did you use and why do you think they worked well?
+Tell us about a project that you are not proud of. What went wrong, and what would you do differently next time?
+Describe your programming tendencies. What are the languages and procedures you use most often?
+Can you provide us with your portfolio or a piece of work?
+Have you ever had to work on multiple projects at the same time? How did you manage that?
+Can you give me an example of a time where you had to use a creative approach to solve a complex coding problem?
+4. Sell them on why working for you is the right choice
+You’ve asked all of the questions you needed answered, now it’s time to do the same for your candidates. This part of the interview is very important, your candidates should show interest in the job requirements and company culture. If they don’t, you may need to reconsider them as a fit for your company.
+We took a few moments to ask President and CEO of DZone, Matt Schmidt, what advice he would give about hiring developers, here’s what he had to say.
+“Share what they will be working on, if you can express your excitement in your projects with them, they’ll have an opportunity to share in that excitement with you.”
+There is no denying that devs want to put their spin on projects, and sharing those moments of opportunity up front will hopefully shine some light on what it’s like to work for your company.
+“ Developers want to be working on hands-on projects, show them upfront what cool, modern, and interesting stuff they will be a part of. Give them a chance to see how their work will impact the growth of the company.” — Matt Schmidt
+You’ve interviewed your candidates, reviewed their resumes, analyzed their responses, answered their questions, and reviewed their work, now what? It’s time consider each of your candidate’s side by side. Bring your team together and see who they gravitate towards. Once you’ve made a decision, extend an offer.
+Now hopefully your candidate accepts their offer, and you’ll have a new member joining your team soon.
+5. They’ve accepted! Now it’s time to follow up
+The process after the contract is signed is pivotal to keeping your hire around. After all of the time and money you spent getting the perfect hire in the door, your onboarding process, employee reviews, and workplace environment should stay in tip top shape to keep them engaged and loving work.
+Integrating a new hire into the team may just need a simple nudge on your end, it shouldn’t be too difficult considering these people already have a few work related skills in common. Take your team out for a drink after work, maybe cater a lunch once a month to get everyone in the same room and not working. There are endless ideas on how you can make your team feel at home and appreciated in the workplace, ask them what they might be interested in, and leverage your unique local attractions!
+Finishing up, we hope you got some ammunition to start your hiring process on the right foot. If you can create a structured hiring plan, search in the right places, ask the right questions [beneficial to both parties], be upfront and honest about workload and how great it will be to work with you, and follow-up accordingly by showing your hire how valued they are, then you’re set!
+Do you have any tricks of the trade when it comes to hiring developers? We’d love to hear about them in the comments below!

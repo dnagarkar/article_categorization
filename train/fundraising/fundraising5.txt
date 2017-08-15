@@ -1,0 +1,64 @@
+A Tactical Step-By-Step Guide to Fundraising
+The first time I took part in the fundraising process, I was 18 years old. My brother and our friend, Shiv Prakash, had just started a business and we raised $1.2M from Richard Branson, Jerry Murdock & Alex Welch after responding to a tweet.
+While I consider that fundraising story a mix of timing + preparation + luck, I’ve since gone on to raise another $2.6M for my next company, Forge.
+
+The second time around, I built a three-part process around fundraising that I’ve shared during my speaking events, but I’m finally getting around to sharing it here. If you haven’t yet read the first blog post in this series, check it out here before proceeding.
+Hint: Mentally prepare yourself and your team before starting this process. As much as you think fundraising might be easy, it never is and it always takes more time than you’d like.
+Part 1: The Necessary Planning
+Step 1: Determine The Goal
+Why do you need money? The right answer is NOT because everyone else in the market is raising and is DEFINITELY NOT because you want a cool fundraising article in TechCrunch or BusinessInsider.
+Your answer to this question should always be correlated to some business objective. In the beginning, you need money to build the first version of the product and go-to-market. As you grow, you need money expand into a different market or expand your product offering to be competitive.
+Step 2: Determine Your Timeline
+12–18 months is the typical amount of time you should be fundraising for. Why? Just like you, investors have a fiduciary responsibility. Therefore, investors would be stupid to let you sit around with 5 years worth of runway in your bank. If you don’t plan on deploying that capital within a year to 18 months, they’d be better off putting that money somewhere else to get a return on it.
+So now that you know what your goal is and that you have 12–18 months to plan for, sit down and write out what needs to happen internally each week, each month, each quarter for you to hit your goals. Then, next to each month, write a list of what you need to make those goals happen (e.g. another Software Engineer, more money for AWS, advertising budget, etc.).
+Writing this timeline out and planning things month by month (even if they turn out to be incorrect) can really help you understand your business. If you’re a first time entrepreneur, it’s easy to make a decision like hiring a salesperson too early. Looking at your timeline might tell you that your product won’t even be ready until August, so it doesn’t make sense to pay a salesperson’s salary without a product.
+Step 3: Create Your Budget
+Now that you know your goal, timeline and what resources you need, ask yourself what additional resources you need within those 12–18 months to attain your goal (e.g. software, headcount, office space, etc.) and start attaching dollar amounts.
+When you do this, I suggest outlining budgets by month. Do you need to hire another Engineer in July? +$100K. Do you need to upgrade your office space so that people aren’t sitting in the bathroom in August? +$3K. Do you need to buy a laptop for that additional engineer? +$1.5K. Do you need to supply pens, paper and a printer for your team? +$300. Do you plan to take the team out to a team lunch once a month? +$600…the list goes on.
+Here are some items to not forget:
+Salaries (Full Time Employees, Part-Time Employees, Contractors)
+Rent & Renter’s Insurance (if you have your own office, add budget for: alarm system, wifi, city trash pickup, utilities, office furniture, office phone number, light bulbs, toilet paper, soap, dishwashing soap, cleaning service once a month, paper towels, etc.)
+Insurance (Health, Dental, Vision, Life, Disability)
+Equipment (Laptop, Mice, etc.)
+Legal Expense (eShares, legal preparation of fundraising documents, legal review of client NDAs, MHSAs, etc.)
+Perks (401K, Team Meals, Team Events, etc.)
+Taxes (Yes, You have to pay them for your business too.)
+Sales (if B2B enterprise sales: Salesforce CRM, hotels, rental cars, meals, client entertainment)
+Marketing (Hootsuite, Mailchimp, or Hubspot, $ for Google Adwords, $ for Facebook ads, $ to experiment on Instagram, $ for a freelancer to write a few blog posts, event sponsorship, traditional advertising, PR, etc.)
+Part 2: The Meat of Fundraising
+Step 1: Download this Investor excel. (There are other CRMs you could probably use to manage this process, but being at a startup and on a budget, I find that excel works just as well).
+
+Investor List, 2016 (Names of partners taken out, as the partner you need to target is different depending on your company)
+Step 2: Go to Crunchbase.com. Start doing research on every investor on this list.
+During this step you’re working just to fill out columns F-H. The things you’re looking for during this step are:
+Have they invested in your space before (HRTech, FinTech, etc.)?
+What investments did they make in that space?
+Are any of those investments competitive? (If yes, delete them from your list, as its usually a conflict of interest for investors to invest in two competing companies)
+Do they have a partner at the firm who is dedicated to your space? (Pretty much every VC has a “Team” page on their website, look at their Team page to determine who you should be talking to internally. You don’t want to be talking to the Bitcoin guy if you’re running an EdTech company). If so, add the name of the partner to the spreadsheet and highlight them on the sheet so you remember who you need to be talking to.
+Step 3: Based on the research, bucket the investors into three categories in column E*:
+People you dream about working with. Super operational; might have started a business in your industry previously and done well; all around great people. (High Interest)
+People you want to work with. Operational or know the right operational folks for you to ask questions of to grow your business. (Medium Interest)
+People that you would take a check from. Typically not super operational, but great people to have around the business.(Low Interest)
+Note: You can and should come back and revisit these interest levels after each meeting. You might realize that someone who you thought was high interest is now a medium interest after meeting in person. Likewise, you might find that a low interest person is actually a high interest person.
+*: There is almost nothing better than surrounding yourself with people who have built a company, and better yet, built one in your industry. Thats why I place a high value on my investors being operational, which is why you see that bias outlined above. Unless I have a great personal relationship with someone, I’d rather take a check from someone who has been-there-done-that so I can ask the right questions along the journey.
+Step 4: Start with your Medium Interest group (because you want to pitch them first to get it down before pitching your high interest group) and get warm introductions to set up meetings. Use LinkedIn to see who you know that is connected to the VC or Angel. Ask them if you can send a blurb about you and your company to them that they’d be willing to forward to the person to see if they’ll take a meeting. Even though this adds time, in my experience, warm intros are always better than reaching out cold.
+
+(One Example: How to ask for an intro over email)
+Step 5: Meet and pitch all the Medium Interest group folks over the span of a few weeks. This way you learn what questions people have, what doesn’t make sense in your deck and collect verbal commitments before going to your High Interest Group. You also want to avoid forever fundraising, as fundraising takes away from actually operating your business.
+Note: Even if someone is interested, it usually takes a few meetings before someone verbally commits. Its always best if you can start relationships early with folks so the pitch is more of an update than a formal pitch. If it’s an institutional fund, you’ll likely have to also pitch at a Partner Meeting (with all the VC firm’s partners) there as well.
+Step 6: Repeat the same process above with the High Interest group. This is the stage at which you’ll probably be negotiating terms, as hopefully one of these folks writes your biggest check. Negotiate terms, get the capital committed and in the bank from both your High & Medium Interest groups.
+Step 7: If you still need more capital to make it a reality, repeat the same process above with the Low Interest group.
+Part 3: Recap the Fundraise
+People always skip this part, but recapping is VERY important to understand what worked, what didn’t and how you can improve.
+How long did it take (days, weeks, months)?
+How many investors did you talk to during the process?
+How many passed? Why? (This will let you know what you should be de-risking in the future).
+How many invested? Why?
+What questions did investors have? (This will let you know what needs to be more clear in your deck).
+Part 4: Getting Ready for Next Time
+Step 1: Update your excel sheet by highlighting people who invested in your round and adding a column with their email address. This way when you send out your monthly investor updates, you can simply copy and paste their email addresses into the “BCC” area and message them all at once.
+Step 2: Readjust your interest level in Column E and make notes about investors in column K. If you really liked someone but weren’t able to get them in on this round, make a note to keep them on an “External Investor Update Email” and ask them to be the first pass at your next round.
+Some Notes to Remember:
+Start early. If you have 6-months of runway in the bank, you should already be fundraising. Even for extremely experienced entrepreneurs and operators, raising rounds can take 3–6–12 months (depending on the size of the round, the economic markets, the company metrics, etc.). Don’t wait.
+Don’t give up. I spoke to 153 people during my fundraise (some of them multiple times). If I gave up at 20 or 50 or 100 or 125, Forge wouldn’t exist today.
+Don’t be afraid to ask for what you want. You’re raising money. Investors know that and their job is to invest. When the time is right, don’t be afraid to bluntly make the ask.

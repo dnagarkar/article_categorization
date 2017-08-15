@@ -1,0 +1,68 @@
+Dangerous Design trends 2017
+Three plus three good design trends that can turn bad, harming the user experience.
+
+You cannot judge a book by its cover, but you can certainly judge a website by its design. People tend to evaluate and judge products and websites early based on their looks before they even get into their functionality and usefulness. Following design trends is necessary for keeping products fresh and appealing. But are design trends a panacea?
+We, designers, know that following design trends is a crucial part of our job, but we shouldn’t use them blindly. Not every trend is useful, helpful or appropriate for every case. Even good trends can turn bad, damaging the user experience. That’s why we have to use them mindfully, filtering them and adjusting them when needed.
+Let’s have a look at three plus dangerous design trends for 2017 and ways to use them wisely.
+
+Bright colours
+As we all know colours can convey emotions and they can be used strategically in brand and UI design. Bright colours tend to grab our attention and generate more positive emotions than dark or neutral colours. Bright, popping colours are always fun, energetic and bold while pastel ones are more relaxing and discrete.
+2017 is an exciting year, start-ups and new products are popping up like mushrooms, all fighting for their place in the market. Colour is a good way to get our attention and engage with us and this is why vibrant colours are getting more and more popular. But as appealing as this trend might be, it can easily backfire and interfere with the user experience.
+Dangers
+Large bright coloured surfaces or many adjacent bright colours can make our eyes ‘bleed’, not literally, of course, but they will hurt them for sure. Eyes that hurt will close or leave, while you want them to stay; this is why you used all these flashing colours in the first place.
+Bright colours, behind or even near text copy, can make reading unpleasant, annoying, or impossible. Bright colours reflect more light. It’s like flashing a torch on peoples’ faces, while they are trying to read. Even if they do manage to read, they will have a negative experience resulting in disliking you and whatever you are trying to say there.
+Do
+Balance bright colours with big chunks of darker or more neutral ones.
+Use bright colours as a detail, to draw attention and guide the user.
+Use bright colours on large typography, as a decorative element.
+Use bright colours to underline and promote content or interactions.
+Don’t
+Avoid using bright colours on large surfaces or as the main background colour.
+Avoid using too many bright colours in one page or next to each other.
+Do not use bright colours behind or near the main text copy.
+Do not use bright colours on small surfaces that hold meaning, like small icons and navigation.
+Experimental Layouts
+In the race for attention, designers refuse to limit their imagination, rebelling against harmony, bringing directed chaos back to the designing table with unique, unbalanced, and atypical compositions. Experimental layouts are getting more popular in 2017.
+This trend is interesting and playful. It’s a nice way to add some variety and help art or fashion designs stand out in a sea of tidy layouts. Experimental layouts are not perfectly balanced; the photography, typography or interface are usually not aligned, and elements have different paddings and often tend to overlap.
+Dangers
+Our daily lives are chaotic enough. Do we need more of that, while trying to find information online? The unbalanced playfulness in a layout can easily interfere with the scannability and discoverability of information in a website, making browsing an overwhelming experience. When the main objective is getting information from a content heavy page, then layout structure is necessary.
+Visual hierarchy is also very important guiding users through the content. In experimental layouts, elements often float away from each other, splitting the content in weird and sometimes random, non-hierarchical ways. Other elements might overlap or end-up in less visible areas of the page, making it particularly hard to read, group and process information.
+Do
+Use experimental layouts, when reading through content is not the main objective.
+Use imbalanced layouts as a playful detail between well structured and aligned blocks.
+Keep grouped elements in proximity and have a clear separation between different chunks of content.
+Use overlapping elements only when you have a good contrast and big enough typography.
+Don’t
+Do not use experimental layouts in content heavy pages.
+Do not use imbalanced layouts when your audience has limited time to browse through content.
+Do not randomly throw elements all over the page. Some basic alignment must always take place.
+Do not overlap elements blindly. Consider contrast and related meaning.
+Little details
+Minimalism was popular for a long time and still is. Yet, we are currently witnessing a shift to more detailed layouts. There’s a reason for that; minimal designs cannot offer as many opportunities to delight and differentiate, as more detailed and complex compositions. Focusing on little details is very important these days.
+Space with little details can drive the eye, from minor ones like navigation dots to floating elements which serve no function. Flying decorative icons, underscores, geometric figures and fragments are getting more and more popular, as they can add an interesting note to any design. They can act as balancers, separators, or pointers to content, like little useful comments.
+Dangers
+Little details can be useful for drawing attention and delighting the users, but they can accidentally compete with the actual, navigation and content. Too many details can get overwhelming messing with the hierarchy, confusing, rather than helping the users navigate or scan content. Little details that serve no purpose are digital noises and glitches.
+Little details are often used as a decorative element, next to imagery or typography, sometimes overlapping with them. Sometimes they follow scrolling or the mouse cursor. As a result, they gain our attention, which can be both good and bad. We need to be aware of this function and place them accordingly without jeopardising readability.
+Do
+Use little details with awareness of the content, making sure that readability is not affected.
+Use little details as pointers to guide attention to or separate the main content.
+Balance little details with a minimal and clean layout.
+Try adding context to the details making them relevant to the content.
+Don’t
+Do not use little details in content heavy pages.
+Avoid random details that serve no purpose, or cannot help you communicate your story.
+Try to distinguish the functionless details from the main user navigation.
+Treat little details as little delights and not as the main component of your design.
+Honorable mentions
+Tiny typography
+Smaller typography looks and feels classier. It leaves space for other elements to breathe and allows the eye to move around. Using smaller typefaces gives the opportunity to create interesting contrasts without battling for space.
+On the other hand, tiny typography can get lost in large blocks of text or can hamper content scanning and readability. Use small typography with caution — only in short paragraphs. Also, avoid using less than 13pt size typography.
+Experimental navigation
+Experimental navigation patterns are getting more popular, as more designers try to innovate. Different navigation styles can make small, low content websites more interesting or they can help users navigate in a specific way.
+Experimental navigation patterns can be delightful and useful if they are intuitive enough, for users to interact with them. We have to be aware that they are not suitable for every design or every audience and it’s vital that we test their usability.
+Animations
+Animations bring endless possibilities in UI design. They can get very creative transforming and enhancing experiences. Animation can add an extra layer in any design, drawing attention to the right places. Animations enrich minimal layouts, enhancing story telling and user interactions.
+Overuse of animation can result in heavy websites and increased loading times that test users’ patience. Wrong or unnecessary animations can also confuse, disrupt, or mislead users, so use them wisely.
+Conclusion
+In a sea of websites and products, designers try to keep their designs fresh and relevant by following design trends. But trends can be dangerous and shouldn’t be a panacea. It is important that we use them mindfully depending on the content, audience and goals that we are trying to achieve.
+Lastly and most importantly, we shouldn’t sacrifice user experience for the sake of looking good and contemporary.

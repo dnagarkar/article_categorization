@@ -1,0 +1,44 @@
+The 4 Best Recruiting Software Innovations You Should Know About
+A recent LinkedIn survey reports 56% of these talent acquisition leaders predict their hiring volume will increase in 2017. That means recruiting departments need to re-assess their recruiting tools and consider which best recruiting software innovations will help them succeed.
+These talent acquisition leaders spend 17% of their recruiting budget on a variety of recruiting software tools.
+
+Source: LinkedIn
+To help you assess how to spend your recruiting budget, here are the 4 best recruiting software innovations designed to make recruiting more efficient, cost-effective, and competitive.
+1. Intelligent resume screening software
+Intelligent resume screening is the next generation of resume screening.
+Intelligent resume screening differs from traditional resume screening because it uses AI on your existing resume database to learn which candidates became successful and unsuccessful employees.
+By learning about existing employees’ experience, skills, and other qualifications, intelligent screening software can apply this knowledge to new applicants in order to automatically screen, grade, and rank the strongest candidates (e.g., from A to D).
+Why intelligent resume screening is one of today’s best recruiting software innovations
+A survey by iCIMS found that a typical resume spends more than a 1/3rd of the hiring process — 38% of the time — stuck in the screening phase.
+With its ability to screen massive quantities of resumes instantly, intelligent screening helps eliminate the time wasted manually screening unqualified applicants.
+2. ATS partner integrations
+94% of companies who use an applicant tracking system say it’s improved their hiring process.
+The adoption of ATS software towards a SaaS subscription- and cloud-based model has created new marketplaces of complementary recruiting tools offered as ATS partner integrations.
+Why ATS partner integrations is one of today’s best recruiting software innovations
+ATS partner integrations enable you to be more agile, strategic, and cost-effective in your recruiting software spend by allowing you to pick the best-of-breed solution. This is instead of using a recruiting module of a larger HCM system which may not be its core function.
+As Taylor Sternberg at SmartRecruiters points out:
+The recruiting module that HCM companies offer is sometimes an afterthought: a bolt-on upgrade.
+— Taylor Sternberg, SmartRecruiters
+3. Recruitment marketing software
+Recruitment marketing is applying marketing best practices such as analytics, targeted messaging, and tech-enabled automation to attract, engage, and nurture a pool of potential candidates.
+These are both passive and active candidates who haven’t yet applied to a job and converting them into applicants by communicating your employer brand and value.
+
+Source: Smashfly
+Why recruitment marketing software is one of today’s best recruiting software innovations
+In today’s candidate-driven market, recruitment marketing has become table stakes to help you compete for talent.
+Recruiting software for recruitment marketing has features such as nurturing a talent community using email marketing and promoting your employer brand through text, images, and videos of your company culture.
+4. Talent rediscovery software
+Talent rediscovery is the ability to automatically screen candidates who applied for a previous role at your company and match them to an open req using the existing resume database in your ATS.
+
+While most ATSs have some type of search and match function — usually based on keywords — the typical ATS wasn’t designed to allow you to easily find, grade, and rank previous applicants for a new open req, even if those applicants were screened and matched to a similar role previously.
+Why talent rediscovery software is one of today’s best recruiting software innovations
+Talent rediscover software uses AI to search through your ATS to find prior applicants that match the qualifications of your open role and grades those applicants for you (e.g., from A to D).
+By tapping into candidates already in your ATS, this type of recruiting software allows you to find talent faster and cheaper without any additional money spent on candidate acquisition.
+The takeaways for the 4 best recruiting software innovations
+In 2017, LinkedIn reports hiring volume is increasing but recruiting budgets and teams are staying the same size or shrinking.
+That means one of the top priorities of talent acquisition leaders is seeking out the best recruiting software innovations to increase recruiting efficiency and reduce spend.
+Here are today’s 4 best recruiting software innovations:
+With its ability to screen thousands of resumes instantly, intelligent resume screening software holds the potential to eliminate the 38% of time wasted on manually screening unqualified applicants.
+ATS partner integrations enable you to be more agile, strategic, and cost-effective by allowing you to pick best-of-breed solutions for your specific recruiting needs.
+In today’s candidate-driven market, recruitment marketing software has become table stakes to help you attract and compete for talent.
+Talent rediscovery software searches through your ATS to find prior applicants that match the qualifications of your open req and finds, grades, and ranks the top candidates for you.

@@ -1,0 +1,46 @@
+29 early stage fundraising pitfalls
+This is a list of some of the most common mistakes I have come across in my role as a tech VC at Wellington Partners.
+
+As part of my recent workshop at the #Startsummit conference in St Gallen, I presented a few slides with tips covering the fundraising process for early stage startups. The “common pitfalls” slides seemed to resonate particularly well, so I decided to list them here once more.
+The full set of slides can be found here: http://www.slideshare.net/vonperger/vc-fundraising-101
+As always, comments and feedback are very welcome!
+Do you have a clear reason why you need to raise external capital?
+It will likely raise concern, if the following points come across regarding your motivation for raising money:
+1. Just financing sales or marketing typically does not seem to be the basis of a good fundraising request (developing tech, growing team is better).
+2. Getting written about on Techcrunch is only important when your customers/users are reading it (e.g. Producthunt, Github, vs Spotify, Tamoco).
+3. The competition having just raised or just being acquired is not a good reason on its own.
+4. Not thinking big enough for the long term vision of your company.
+5. Raising for more than one idea/one company at the same time.
+6. Fundraising plans sometimes lack “phase thinking” and claim profitability in current round of funding.
+7. Forgetting Share Options (ESOP) when negotiating pre and post money valuations.
+Are you timing your communication well?
+It might be seen as a red flag, if you are…
+8. Repeatedly pushing back the timeline of “closing the round”
+9. Repeatedly changing the “size of the round”
+10. Reaching out to (2nd choice) investors very late, often just before running out of cash
+Are you reaching out to the right investors in the most effective way?
+The following will likely slow down your path to pitching your company in person:
+11. Cold emailing partners at VC funds
+12. Adding people on LinkedIn after 1 email or even earlier
+13. Spelling first names of recipients wrong
+14. Not including email and mobile phone in your email footer
+15. Blanket emailing several funds (especially when wrong stage, geography, focus)
+16. Emailing several people in one fund at the same time
+17. Asking for an NDA (typically not applicable for early stage deals)
+18. Using a banker for pre-Series A deals
+19. Be careful when taking money from “VP of X in Bank Y”-type Business Angels
+20. Bluffing with offers from “Tier 1” funds
+21. Taking money from later stage VC or Corporate VC too early (especially when they don’t always follow on or deliver on their value add promises)
+Are you making it easy for investors to screen and process your information?
+You are probably not if you are…
+22. Using click-tracking tools for the pitch deck
+23. Leaving out definitions of metrics or legends in charts
+24. Repeatedly changing the definitions of key metrics
+25. Sending vertical A4 books instead of slides with bullets
+26. Sending 20+ page presentations in first email
+Are you making the most of the call/meeting?
+Consider these pitfalls before kicking off the meeting:
+27. Failure of live demo due to lack of internet connection
+28. Using the wrong name of people in the room
+29. Exposing other funds you are talking to when searching for a file in the finder/explorer (while presenting)
+If someone can help me with the 30th pitfall I would be grateful:-)

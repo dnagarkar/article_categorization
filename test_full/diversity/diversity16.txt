@@ -1,0 +1,55 @@
+What It’s Like to Be a Woman at a Tech Conference
+
+#womenintech
+
+Not too long ago, I attended my first conference as an engineer. To give a bit of context, before I made my career transition into software engineering, I was a musical theatre performer. Theatre, unlike STEM, is a field that is in dire need of men. Seriously, want to do musicals? Can you kind of carry a tune? Are you a dude? You’re cast! But I digress…
+
+This could be you, dude.
+So, imagine my surprise when I attended my very first engineering conference as a woman… it felt a little like this:
+
+Here’s how my inner-monologue sounded:
+“So…many…dudes… oh! Is that a woman? Hmmm, no… she’s on the catering team. Oh wait! Is that another one? NOPE just a dude with a man bun.” 😐
+The irony of all of this? I am more often than not giving talks on diversity at these conferences. Which, hey, is great! It means that the people running these conferences see that there is a problem and we need to fix it. But, seriously… this begs the important question: Where are all the women in tech? Or, to put it more casually… where my ladies at?
+I think it’s important to note that with the many attempts to get “more women in tech” and “add diversity to teams”, it’s important to approach this issue with passion and enthusiasm, but also with a sense of humor and forgiveness. You’ll notice that this article does not come from a place of anger, but from a place of understanding. As a feminist, and a female engineer, I make it a point to be approachable and not get upset at people for their missteps or assumptions of me in this industry. Much like I wouldn’t want a male engineer to chew me out over assuming he’s an engineer based on his plaid shirt and Patagonia jacket, I wouldn’t ever want to be aggressive towards a male for assuming I’m not an engineer. I don’t look like the classic stereotype- mistakes happen. We should all be able to have a healthy conversation about this. 👬👭
+And so, I’ve put together a top 5 list of most common experiences that I’ve had as a woman at these conferences. Ladies, here’s what to expect/perhaps what you’ve experienced. Gentlemen, here’s an insight:
+Most People Assume I’m Not a Developer 🤷‍
+As a female engineer at a tech conference, I find myself constantly having to prove myself to most people I meet. Be that by dropping engineering buzzwords, wearing one of my engineer inside joke shirts (“World’s Okayest Engineer” is one of my personal favs), or simply saying my job title; more often than not, people assume that I must be “some girl they hired to run a booth who is trying to get some swag” from them or “someone’s daughter tagging along to the conference” (to be fair, I used to play teenagers during my acting days… but I digress).
+
+To give some context, I’m a quirky 5’2" blonde girl with sparkle glasses and, on occasion, sporting pigtails or a bow in my hair. At first glance, an individual may think “oh- she must be Zooey Deschanel’s stylist”. But I promise I’m an engineer you guys. So, when I earnestly go to your booth to learn about your product and you glaze over me in the crowd, here’s how I’m going to react when you come to get a live demo from my booth later that day:
+
+Bathrooms Are Empty 🚽👻
+Ah yes, one of those rare occasions where the women’s line is… well, non-existent. I’ve started to have some fun with this by having impromptu photoshoots in them. Enjoy these gems:
+
+Ghost town
+
+Party time!
+The After Party Can Get Awkward 😐
+
+Chlos b4 bros
+Imagine being the only women at a bar on Saturday night (this is unfortunately not The Castro or Capital Hill in Seattle 🏳️‍🌈). Now imagine that same bar, but rented out by a cool tech company with several open bars.
+Ok cool- now you know how I have felt at almost every after party I’ve been to at a tech conference. Luckily, I’ve only had 1 awkward oh-god-please-leave-me-alone situation so far (pro-tip, never call anyone a “hott nerd” to break the ice). But I’ll share one of my favorite moments from DockerCon:
+Scene: DockerCon AfterParty on Rainey Street. Chloe approaches a Taco Truck.
+Chloe: I’ll have 2 fish tacos please.
+Person Taking Order: Ok great- can I get a name for the order?
+Chloe: You can just say “the only woman here” since… well…
+Person Taking Order: Ha! That’s true!
+(10 minutes pass)
+Person Taking Order: THE WOMAN!
+End Scene 🌮🌮
+You’re Probably Not Going to Get Any Shirts in a Women’s Size 👔
+
+Hand- where r u?
+Or speaker jackets. Or socks for that matter. Yeah, just don’t expect any apparel to remotely fit you. 😑
+I’m always thrilled when a swag booth carries women’s sizes, and take a lot of pride in the fact that Codefresh always has an ample amount of women’s apparel in all sizes. Shoutout to Mapbox, Dropbox, GitHub, Docker, and Women Who Code for being the only companies that have provided me with shirts I can sport proudly without feeling like a 5 year old wearing her dad’s shirt at a sleepover.
+I (usually) Find Another Awesome Woman to Vent With Who Is Very Cool 👯
+Though there may not be many, there are usually a handful of other lovely, smart, interesting women at these things. My favorite example of this would have to be Shilpa Rao, a 15 year-old who I met on the conference floor at DockerCon. Shilpa and I wandered the expo floor for a bit together and chatted about what it’s like to be a woman (and young adult) at a tech conference, and how sometimes it can be difficult to have people look past stereotypes. Shilpa seemed to be experiencing similar assumptions as a younger person as I was as a female engineer. Jokes on them, though; she is the co-founder of STEAM Team- a youth led organization geared towards bringing education and resources to the children of underprivileged communities in the Bay Area, and she even edited the following video for her company.
+
+Look out for this one, you guys- she’s fierce. Keep smashing those stereotypes, Shilpa!
+In Conclusion…
+If you identify as female- I hope this article either resonated with you or has helped you emotionally prepare for the sea-of-dudes that conferences can be.
+It’s important to remember that even though the ratio is mostly male, having a female presence is one of the first steps towards changing that ratio.
+The more women who attend these events, the more we’ll have people thinking outside the box when it comes to “what a developer looks like”, the more role models we have for young women (like Shilpa), and the more female allies we’ll have at these events. Blog about it, tweet about it, and use #ilooklikeanengineer or #changetheratio hashtags while you’re at it. Thinking about attending a conference, but afraid of feeling out of place? DO IT. You belong there, and your gender should not dictate that.
+And if you’re male, I hope this gives you an insight into the mind of the woman you see at your booth. Next time, make an effort to chat with them before they have to grab your attention at your booth. I have high hopes that we can all be more aware and open to changing our preconceived stereotypes of what an engineer “looks like”. There are so many flavors and varieties of engineers (not just wearing a start-up shirt wearing/male), let’s try hard not to discriminate.
+And, last but not least, shoutout to the conferences providing diversity scholarships, adding diversity talks to their conferences to their schedule, and having a general awareness of this issue! I am extremely excited for Open Source Summit North America by The Linux Foundation. As a speaker, I have not only been asked to complete a class on how to make my talk more inclusive, but they have an entire diversity track! Additionally, shoutout to Solomon Hykes at Docker for the following tweet (this is awesome!):
+
+So, femgineers, keep fighting the good fight. Make your presence known, and keep up the amazing work. 💪👩‍💻

@@ -1,0 +1,18 @@
+Coherent, Not Consistent
+Consistency in UI Design is overvalued.
+Yes, it’s a worthy goal to make different features feel as if designed by the same person, when in reality it’s a team of dozens. Yes, reusing components leads to uncountable savings in repetitive work and correction. Yes, it’s impossible to establish identity for a brand which never presents itself in the same way.
+But too often I see teams spending days arguing about the how they’re spacing elements differently between Android and iOS. Obsessing about the minor differences in the text color between what’s on the new tab they’re shipping and an existing one. Stressing whether the tip of a tooltip is should be at 30- or 35- degree angle. All these while letting core interaction problems in their products go unchecked.
+Even worse: I often see great ideas slowed down — or even blocked — because they don’t adhere to some set of fine-grained visual design guidelines. Consistency (or rather its relentless prioritization) has significant costs:
+It adds overhead to new projects which validation before becoming part of the product
+It creates an incentive system where designs can be shot down because of details, not how well they solve user problems
+And the costliest of of all: it eats up time which could be better spent on improving your product
+So I try to approach these questions with a different priority: coherence.
+Coherence means making sure every part of your product feels like it belongs there, instead of trying to make them exactly the same.
+It means talking to users across your UI using a similar tone. It means the verbs and nouns of your product are always referred to in the same way. It means sticking to a couple key brand elements which never change, but letting teams innovate in everything around them.
+Coherence is multi-platform thinking which focuses on letting users naturally continue their journey from device to device. It’s not wasting energy ensuring buttons look exactly the same, while neglecting the smoothness of end-to-end flows.
+Coherence is letting product teams move fast and validate new features that feel natural in whole of the product. It’s not bogging them down with strict guidelines before they’re even sure of what will work.
+That said, there are key parts of a product where consistency can’t be abandoned:
+Information architecture: unless dictated by platform conventions, users should always be able to find the information they need in the same place, across devices.
+Copy (or rather nomenclature): if ‘people’ on your product are called ‘members’, always call them ‘members’. Stick to the same nouns and verbs for key constructs and actions, unless you’re trying to confuse users.
+Brand: one could argue that brand is every single touchpoint with a user, but there are undoubtedly key elements which convey it. Never deviate from brand color, type and imagery standards.
+For everything else, clean it up every few months. Hold consistency-themed bug bashes. File mid-priority bugs and enforce fixing them in a medium timeframe. Just don’t block innovation. In the end, it’s fine to accrue design debt if your product is doing great. It’s the cost of success.
