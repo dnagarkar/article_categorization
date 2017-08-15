@@ -1,4 +1,4 @@
 The Naive Bayes algorithm trains and categorizes data into the following categories: team performance, hiring, diversity, fundraising, UI/UX and other. 
-The train data currently consists of 17 articles and after testing on a total of 120 articles the algorithm has a 95% success rate.
+The training data currently consists of 17 articles and after testing on 18 articles, there is a success rate of 72%.
 
 load_files_edits is an edit to scikit's load_files method and it catches decoding errors and attempts 2 basic forms of encoding to take in data. It also allowed for some files (DS_store in this case) to be ignored.
