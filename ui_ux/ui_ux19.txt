@@ -1,0 +1,66 @@
+Tech’s Diversity Problem Isn’t Only in the Hiring Numbers
+Who we assume our users are, and how we represent that in our visuals, affects who those users turn out to be. We want those users to be diverse, so we created 
+diverseui.com
+, where you can find images representative of a diverse population.
+This set of stock avatars is advertised as a set of “diverse” users. Seems to be lacking a little diversity….
+This morning, I launched 
+diverseui.com
+. It’s a pretty simple creation — just a set of user images for me to use in my mockups. But for me, it’s the tipping point of hours spent refreshing the photos filled in by Sketch content generator plugins or clicking through Google image search results and other UI sites to find people that I feel represent real sets of users. Real sets of users, from my perspective, are diverse sets of users — ones from varying age, racial, and gender groups. I see that in the real world. I expect that of my users. Yet, somehow, all my sources for filling in content only want to supply me with 25–35 year old white dudes — which is great if you’re in the game of creating products exclusively for 25–35 year old white dudes, but if you’re not, it’s really really bad.
+It all starts as an internal issue
+Recently in design, the idea of empathy is getting a lot of hype. Empathy is, by definition, the ability to understand and share the feelings of another. If we’re making products for other people, it makes sense that we need to understand how they feel to do so effectively. The design process involves a long stage of empathy before going to the mockup playing field. Mockups are how we conceptualize our product. It’s how we imagine it as a full grown adult out in the world. 
+But when the two come together — can we say we’re really empathizing when we don’t even visually include part of the population? 
+We can’t even see them, literally, being a part of our product — so how likely is it that we’re realizing their thoughts, beliefs, and motivations in using our product? Can we imagine how our product fits into their day, better yet — can we even imagine their day, if we can’t imagine their face?
+Social Feeds
+Some new UI work we are putting together at UI8. Full set coming soon.
+dribbble.com
+Searching social feeds on 
+Dribbble
+ brings up a lot of beautiful images but not a lot of diverse, beautiful people.
+If we can’t see these users using our product, how can they?
+This is where our little internal problem starts rippling out into the real world. We post these mockups on our exquisitely designed landing pages to start acquiring users. We place them in the walk-throughs they see when they download the app. But can they see themselves? If a user can’t see someone they relate to using the app, they’re going to have a hard time imagining themselves using it. For example, if I see an app and all the example user conversations are between 25–35 year old white dudes, I’m going to assume it’s an app for 25–35 year old white dudes and go on with my day.
+Look at all those different types of people in one of 
+Facebook Moment’s
+ example images on the Google Play Store. I could be one of those! My friends could be one of those!Now, I’m Not Saying We’re Terrible
+Finding diverse representations of people to use in mockups is hard, really hard. The most time consuming part of creating diverseui.com was not on the technical front — it was the hours spent combing through Google image results, filtered for reuse. To find a reasonable set for various racial groups, we had to start at the most general (for example, asian man) then split off into a ridiculous amount of related queries including every word you can think of for a particular gender and a list of countries of that racial background.
+Note that our search for “Asian Man” (with images labeled for reuse) produced a shockingly high amount of non-Asian men.
+If I, as a person searching specifically for diverse images, can’t find them — it’s understandable that other designers trying to quickly fill their mocks won’t be able to find them either. This post, or site creation, also isn’t meant to bash other user content generators or sites. It’s meant to to be a push in the right direction. The direction that includes users as diverse as our population.
+https://dribbble.com/shots/2960645-Diverse-UI-Visual-Redesign
+How Diverse UI Works
+Our first version is pretty simple. It’s just a site filled with images that you can toggle by size or sort by gender (products with a specific gender base are pretty common). Our recommended method of use, if you’re using Sketch, is to use the 
+Craft plugin by Invision
+ to populate your user data with our images. Here’s a brief example of how to do that:
+With Craft Manager open, select the shape layers you’d like to fill with images.
+Go to the data tab on Craft, type in diverseui.com, and click an image.
+Boom, populated, done.
+Our Solution Isn’t Perfect
+As I just noted, finding these images wasn’t easy. They aren’t perfect. We avoided caricatures, but that doesn’t mean some images don’t feel a bit exaggerated, staged, or professional. We didn’t have a good way to recognize or account for preferred gender representation. In fact, this is one of the best ways you can help us out. If you 
+go to our site
+,
+ you can submit your profile image to our collection and let us know your preferred gender representation! If you’re reading this, I believe you’re a real person, and you can help us make the most awesome set of real people on the internet.
+Anticipated FAQ
+Who built this?
+- 
+I worked on the 
+design and front-end
+ and the awesome 
+Yefim
+ worked on the structure and built the backend. We both spent many hours scrolling through the black hole of Google images.
+What permissions do these photos have?
+- 
+These photos have full usage rights! This means you can use them in every stage of your design process 😀
+How can I add my photo to the collection?
+- My favorite question! Head over to 
+diverseui.com/submit
+!
+How can I have my photo removed?
+- E-mail us at hello@diverseui.com with the image! All our images came from Google images with rights for reuse indicated, so we also advise checking your permissions on the site on which it was posted.
+Why do you have ads/donate/etc?
+- 
+We’re paying out of pocket to cover hosting/database costs, and while we love what we’ve made, we’d also love to find some way to cover those costs.
+Why don’t you have xyz feature?
+- We wanted to get this out as quickly as possible, one weekend to be exact, so we went with the bare necessities. We’d love to hear your recommendations for things we should add in the responses below or at hello@diverseui.com!Follow me
+ to keep up with product updates! Please say hello, I like new friends 😊
+Hit the 
+❤ below if you like having a more diverse web!Sign up for our weekly UX newsletter
+A weekly collection of UX-related links (like this one), brought to you by your friends at uxdesign.cc
+ux.email

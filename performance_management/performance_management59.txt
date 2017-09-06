@@ -1,0 +1,86 @@
+Why it’s time to revamp the employee ranking system
+I
+magine, after getting off your annual performance review, that your manager gives you a score of 3 on a scale ranging from 1 to 3. For the sake of conveying the key message, let’s come up with this simple naming convention:
+1 = Good
+2 = Average
+3 = Bad
+Your first reaction: it sucks.
+Second reaction: Why the hell am I categorized in the lowest performers’ box whereas my manager is satisfied with my work?
+Third reaction: It’s unfair. Since the hard work which I am heavily committed for is not rewarded at its fair value — e.g. a 1 grade in our scenario —, why should I go the extra mile?
+Obviously, this a far-too-common scenario that organizations — whether small or large — are experiencing. Whereas organizations use primarily the scoring or ranking performing system with good intents, e.g. improving employee performance, if often ends up with the converse wished results: demotivated, and worse, 
+disengaged
+ employees.
+Performing ranking systems are though vital to any organization to assess employees’ strengths and weaknesses and, most importantly, to come up with an action plan for those lagging behind.
+So why are they producing the alternative results they were initially designated for?
+Three reasons:
+1) They use numbers.
+2) They force to push people in categories following the 
+relative
+ performance rule, regardless of their 
+absolute
+ performance.
+3) They are often based on 
+interpretation
+ data rather than 
+factual
+ data.
+By correcting these three main pointers, organizations will be able to get the most out of their performing systems and see finally the end result they are craving for — engaging employees leading to better employee performance.
+Human brains are sensitive to ratings
+Research has shown that employees don’t like to be rated on a point scale and that even employees receiving the highest rating were not satisfied in the end.
+Worse: 
+employee engagement actually declined when people were rated relative to others
+.
+Why a system aimed initially at fostering emulation among peers gives way to disengaged employees?
+David Rock showed that 
+performance rankings trigger a fight-or-flight response in employee’s brains
+. They perceive numerical ratings as negative feedback, be the employee ranked in the top 10% of employees.
+Following the SCARF hypothesis developed by the researcher, the employee’s brain is evaluating unconsciously these 5 factors when being ranked:
+- Status (e.g. the perception of being considered better or worse than others)
+- Certainty (e.g. the unpredictability of their future rankings)
+- Fairness (e.g. the perception of being respected and treated fairly compared with others)
+- Autonomy (e.g. the level of control people feel over their performance)
+- Relatedness (e.g. the experience of collaborating with others)
+Ratings can have the effect of a trial judgment for which detention life’s improvements are possible only over a long period of time and after repeated and measurable good behavioral proofs.
+Applied to the employee performance, it means that employees perceive the next ladder promotion (move up from the 3rd category to the 2nd one) as long and tedious efforts that generally take up to one year due to annual performance reviews.
+Plus, human beings have a natural tendency to compare themselves with others. A bad rating reinforces the perception other employees may have on the ratee. It is then a harsher battle going forward for the ratee to come up, for example, with ideas that may be disqualified due to his ranking.
+I see you coming: do you suggest to eradicate the ranking system?
+Not to eradicate it, but to alterate/amend its method.
+Instead of giving away/delivering a score or rank, you need to put a more human touch on your ranking method and the way you communicate the results.
+Humans are not machines which you give numbers lacking clarification. You need to 
+speak 
+to them in a way that will not trigger defensive reflexes.
+Let’s come back to our initial ranking classification method. Instead of ranking them numerically, here is a take on how you could proceed (once again, we are simplifying it for the sake of clarity, but classification can steer towards more granularity):
+· Has achieved all set expectations and went the extra mile
+· Has achieved all main set expectations
+· Has shown great efforts towards achieving goals expectations
+By 
+softening 
+the semantic
+ 
+rating,
+ 
+you enable your employees to receive more positively their evaluation without raising a red flag, or triggering a defensive position that is always difficult to override. You don’t put your employees either in an abrupt or frontal comparison with other employees that a numerical rating will have caused.
+You prevent simply your folks to settle against each other, keeping team collaboration under control.
+Some organizations have well understood that. Take Gap for example. They renamed their performance system “Grow, Perform, Succeed” to position it as less threatening and more conversation-focused.
+Relative vs absolute ranking
+Some organizations use performance ranking to weed out the low performers that didn’t make any improvements. Problem: you may have certain teams where there are no lower performers, or employees have a roughly equivalent performance level.
+How to determine in this case the 10% low-performers? Managers admit that it may be harsh to downgrade an employee simply because a 10% quota of low-performers needs to be met.
+By using relative ranking (e.g. ranking based on others’ performance), organizations run the risk to undermine team collaboration. The New York Times revealed how 
+Amazon’s annual reviews stack ranking unleash a dog-eat-dog kind of culture
+, where some employees were trying to sabotage their comrades’ work rather than levelling up their own performance.
+Organizations need to gauge employee performance on an 
+absolute performance-based 
+ranking. It doesn’t make sense to downgrading an employee who is recognized as a great performer simply because you need to get a 10% of your employees in the lower bonus-tied box.
+Evaluate your employees on their 
+real
+ level, and you will see them strive for a broader purpose than this of competing with their own colleagues.
+The Need of Behavioural Data
+You often hear employees complaining about how unfair or biased their performance ranking are.
+Along with 
+annual reviews perceived by employees as filled with biases
+, employees tend to believe their manager hasn’t a whole picture of their day to day activities.
+It’s not rare to get employees working with transversal teams on side projects, but the latter being not part of their scope of work, these side projects may not be reviewed despite the huge contribution of the employees.
+To counter this flaw, 
+SelfDrvn’s 360-degree Feedback
+ assesses employees’ performance with peer reviews, factoring manager bias out of the performance evaluation. By encouraging peer feedback, managers have more accurate and 360-degree view of their employees.
+A word cloud reputation feature identifies the skills (soft or hard) which employees are great on, or conversely, need to improve on.Thanks for reading this. If you liked this blog, click the 💚 below so other people can find it on Medium.

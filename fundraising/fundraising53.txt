@@ -1,0 +1,148 @@
+A Guide to accelerated VC fundraising
+“Fundraising is fun!” — said no one ever. This post provides an analysis of the key factors influencing the dynamics of financing rounds followed by insights and best practices to accelerate the process.
+Source: 
+https://pixabay.com/de/herbst-hurrikan-geld-finanzen-163496/
+How long does it take to close an early stage financing round?
+To get some data on how long it takes to raise an early stage VC round I decided to use a 
+survey
+, which was responded to by 27 experienced participants: 10x Entrepreneurs and 17x Investors. I will update the numbers as soon as I have significantly more input (status: march 15h 2017).
+The questionnaire differentiates between 
+phase I 
+(first pitch — term sheet signed, including evaluation and due diligence on business model and team) and 
+phase II 
+(term sheet signed — closing, including confirmatory due diligence on tech, finance, legal as well as long form negotiations).
+Phase I
+: From 
+first pitch to term sheet signed
+ the total weighted average of Entrepreneurs (8.8 weeks) and Investors (7.2 weeks) take 
+7.8 weeks
+. Variation is 21.6%.
+Source: 
+survey
+.
+Phase II:
+ From 
+term sheet signed to closing
+ the total weighted average of Entrepreneurs (5.8 weeks) and Investors (6.3 weeks) take 
+6.1 weeks
+. Variation is 8.5%.
+Source: 
+survey
+.
+Overall 
+Entrepreneurs expect a round to close within 
+14.6 weeks 
+whereas VCs are slightly more optimistic by expecting it to take 
+13.5 weeks
+. Variation is 7.9%.
+The overall average early stage venture financing round takes about 
+3.5 months
+ (or 13.93 weeks) from first pitch until closing.
+What are the core factors influencing the duration of financing rounds?
+The top 3 factors influencing the duration of financing rounds mentioned by VCs and Entrepreneurs are
+Financing structure (convertible loan vs. equity vs. venture debt)
+The company’s legal and shareholder structure (subsidiaries in different countries, overwhelming amount of parties in the cap table)
+The competitiveness of the round (term sheets on the table, market penetration, reputation of committed investors)
+Source: 
+Survey.
+Some further factors which have been taken into account by the participants were:
+Decision process inside the respective VC firm
+Founder negotiations
+Holiday seasons (summer, year end)
+The company’s remaining cash in bank
+Ok, that’s nice to know but how could we get this done quicker!?
+Here are some insights and best practices:
+#1 Get the timing right, plan with buffers
+As shown by the data above it’s all about timing. The later you raise your round the better gets your traction (hopefully) which might allow for higher valuations. At the same time you have less money in your bank account putting pressure on the VCs (and you). On the other hand experience shows that things always take longer than expected, so I recommend to calculate with 
+3.5 months
+ from first pitch to closing plus a 
+buffer of min. 2 months 
+to be relatively safe. Take into account holidays and ask your lead VC for a maximum of transparency regarding internal processes and timeline.
+#2 Make sure your company is able to run without its CEO temporarily
+Raising funds can be very time consuming for CEOs and their team. During the process institutional 
+VC firms will ask for a pile of documents
+ which have to be prepared, updated and explained reasonably. Often founders might need to travel a lot, especially if they intend to constitute a syndicate of institutional VC firms.
+Source: 
+http://static.boredpanda.com/blog/wp-content/uploads/2015/09/adventures-of-business-cat-comics-tom-fonder-fb.jpg
+Involve your team
+ as early as possible and let them block out certain time slots each week for fundraising related tasks which might pop up spontaneously. In some cases a team might even benefit from the absence of its CEO ;-)
+#3 Reach out through close connections or directly
+You will find tons of articles on how to approach VCs. In my experience, what works best are personal intros by connections to the respective VC, e.g. founders they backed, co-investors or angels they worked with in the past. Why only the close connections? Because they work as a strong filter for VCs who are bombarded with pitch decks. An intro from somebody whose judgement the VC trusts offers up strong 
+social proof
+ and will help you to get the necessary initial attention. In case you don’t have any close mutual connections, try asking your existing network for help to find “a friend of a friend” who is connected to the VC. Note that direct approaches work better through events rather than cold emails.
+#4 Structure your fundraising process. Prioritize!
+Focus, focus, focus.
+Make a long list
+ of potential investors as a first step. Include everybody who might potentially invest in your respective industry, technology, phase and geography. Our colleagues from 
+Techstars built a comprehensible list of european VC investors
+.
+To 
+get early market feedback
+ I recommend initially getting in touch with some VC firms who are 
+not
+ your preferred partners — get their feedback and optimize your pitch before reaching out to your first-choice VCs. You will be more confident and well prepared when it matters.
+Try to 
+find out
+ 
+who is really interested
+ and leave the rest open — you might need to get back to them in case things go wrong.
+Then prioritize and
+ rank the remaining investors
+ from your shortlist by taking into account the most important factors. There are many similarities with qualifying sales leads. Here are some examples, which you might weight by importance:
+the 
+VCs long term value add
+ & reputation
+the VC’s investment strategy: do the hold back money for follow on rounds?
+What is the VC’s role in a potential syndicate: lead, co-lead or co-investor
+commercial terms: potential ticket size, valuation (liquidation preference, vesting etc. will be negotiated in the termsheet)
+likelihood to close (gut feeling)
+time to close (
+ask the analyst
+ or associate in charge)
+Make sure to 
+deliver quickly and with high quality
+. Be as responsive as you can — the VC firm needs to be blown away by your performance. Outstanding work results and interaction count more than any external reference ever could. The evaluation/due diligence phase gives both parties important insights on how to work with each other over the next 5+ years.
+#5 Prepare your employees and existing investors for due diligence
+Most of a VC’s work happens in the background. We are trying to get as much information to base our decision upon as possible. Besides doing industry research and crunching numbers, we talk to lots of people — ex-employers, colleagues, industry experts, competitors, incumbents or existing investors, to name a few.
+Make sure everybody in your sphere of influence is 
+briefed 
+and knows about your financing round.
+Offer 
+references proactively
+— it helps the VC to accelerate the due diligence process 
+and
+ it shows dedication on your side.
+Make existing shareholders participate in the upcoming round on 
+on
+ 
+a pro-rata basis, 
+it’s a strong signal for new investors
+#6 Be fully transparent
+If you fake numbers, don’t tell the truth or conceal some important information — your investors will find out. All companies have plenty of skeletons in the closet and your investors will become partners in crime helping you to get rid of them over time. 
+Share your weak points
+ and get more experience and opinions on finding solutions rather than hiding them. It will make you more productive and builds trust for a reliable long-term partnership.
+#7 Do a due diligence on your investor
+The due diligence phase should be two sided. Institutional investors will do their homework — you should do yours as well. Ask the respective VC for intros to entrepreneurs they backed or try to get references from your shareholders or other potential investors. Find out which 
+value they really add
+, how they behave in 
+board meetings
+ or when things don’t go well, how 
+reliable
+ and trustworthy they are and how the overall experience of working with them was. Besides this, check their online footprints and public statements to get a realistic impression.
+#8 Set up a time line on which all parties agree
+Be clear on your timeline and try to push the round, make it happen. By setting up the notary appointment some weeks ahead, everybody has to commit to that deadline and you increase peer pressure. As a backup, block a second appointment with your preferred notary (but don’t tell anybody in advance!).
+#9 The legal stuff —important issues only
+The negotiation phase is probably the most painful back and forth experience on both sides of the table. The overall goal is to find compromises which make all stakeholders happy: (1) the founders and team (2) existing investors (3) new investors.
+It makes sense to first negotiate the terms with your lead VC before sharing it with existing and co investors for potential critical feedback. Do 
+1x feedback loop
+ and aggregate all the input in one document before going back to your lead investor.
+Work with 
+highly specialized venture lawyers
+, even if it turns out your uncle is a much cheaper family law advocate. 
+Focus on the important issues only
+.
+ In a Series A financing round many interests of different parties need to be reconciled, so make sure to manage the process properly.
+#10 Keep all options open until the contracts are signed
+Until you decide to sign a term sheet including an exclusivity clause you should keep all options open. Even if you’ve signed this kind of clause, communicate to all other interested parties that you might get back to them for future rounds. At least in Europe, a signed term sheet is kind of a strong (despite being legally non binding) commitment which usually does not result in a pull back. However, you can never be 100% sure until the ink is dry — keep your options open.If you liked the article please feel free to leave a recommend by clicking the heart button or follow me on 
+twitter
+.

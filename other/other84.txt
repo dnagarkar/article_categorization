@@ -1,0 +1,56 @@
+The world’s central bankers are meeting at Jackson Hole — here’s what should be top of their agenda
+Image: REUTERS/Jonathan Crosby
+Matthew Blake
+, Head of Financial and Monetary System Initiative, Member of the Executive Committee, World Economic Forum LLCThis week, the heads of the world’s major central banks will join their emerging market counterparts, alongside academics and banking chief executives, at the 39th Economic Policy Symposium in Jackson Hole, Wyoming.
+The discussions around the global economy and financial markets that are held at this annual meeting, hosted by the Kansas City Federal Reserve, can influence policymakers’ decisions — and therefore our lives.
+This year, the symposium is titled ‘Fostering a Dynamic Global Economy’. We don’t yet know what the detailed topics for discussion will be; these are traditionally kept under wraps until the opening day. But here are four themes discussed at past symposiums that are relevant to today’s global economic environment, and which could well feature in some of the conversations among this year’s attendees.
+1. Central Bank balance sheets and financial stability (2016)
+In the wake of the global financial crisis, central banks worldwide used a combination of tools to resuscitate their countries’ economies. The traditional tactic of slashing interest rates to reduce borrowing costs was deployed widely to stimulate economic growth. Many central banks also took the more unconventional approach of beefing up their balance sheets by acquiring financial assets — sovereign, agency and corporate bonds, and in some instances stocks — 
+in large quantities
+.
+The debate today among policymakers, as revealed in the minutes from the 
+July meeting of the US Federal Reserve
+, centres around how and when to ease off the monetary throttle. This debate is being mirrored across the UK, Eurozone and Asia, and was a prominent topic in last year’s symposium.
+The answers to these questions — when to raise interest rates, and how to shrink central banks’ balance sheets without derailing the global recovery and rattling capital markets — are of paramount importance in safeguarding financial stability.
+Interest rates, as set by the world’s major central banks, have been decreasing for decades. Image: Bloomberg
+Persistently low market volatility across the globe further raises the stakes for central banks. The risk of a violent market shift, which could occur should central banks’ signals be misinterpreted by the markets, is growing. Stock prices have risen markedly and credit spreads (the difference between how much businesses and governments pay to borrow money) are tight. Markets are apparently discounting little margin for error. Low volatility increases the potential for asset bubble formation fed by leverage (investing with borrowed money), since market participants assume price fluctuations will be muted going forward. Poor estimates of companies’ future earnings or a geopolitical shock could swing investor sentiment negatively, leading to large price fluctuations in risk assets such as stocks and commodities.
+If central banks act too quickly or dramatically, they may just crush the burgeoning optimism in the global economy that they seek to foster.
+2. The causes of inflation (1984)
+A major and ongoing consideration for central bankers is inflation, or rising prices. Central banks try to keep one step ahead of inflation by setting interest rates in order to pre-empt rapid price increases, which are disruptive to the economy. Curtailing future jumps in inflation is at the core of the interest rate and central bank balance sheet debates mentioned above.
+But these days, it’s not that simple. The global economy is awash in liquidity — normally an ignition source for inflation, as more money chases the same quantity of goods, leading to ever-higher prices — 
+but inflation is nowhere to be found
+. Recent economic statistics released in the US (based on surveys of the retail, house building and manufacturing sectors) were robust, yet did not indicate any mounting price pressures.
+One oft-cited driver of low wage growth is the structural changes to the economy brought about by the 
+Fourth Industrial Revolution
+ (4IR). Technology is thought to be causing a stagnation or reduction in the wages of moderately skilled workers, while significantly increasing the wages earned by the most skilled.
+Wage growth in the US has remained sluggish since the global financial crisis
+Image: Economic Policy Institute
+Wage stagnation is a vexing situation for central bankers, because one individual’s spending is another’s income. Rising incomes reinforce economic growth by prompting greater levels of consumer spending, which in turn leads to additional income generation, thereby fostering a virtuous, dynamic and sustainable growth cycle.
+A measured degree of inflation is indicative of a well-functioning global economy, yet without a full understanding of how forces linked to the 4IR are exerting downwards pressure on prices, central bankers may struggle to appropriately calibrate monetary policy.
+3. High-technology industries and market structure (2001)
+The intersection of technology, pricing power and competition was at the fore of Jackson Hole attendees’ minds following the popping of the dotcom bubble at the turn of the century.
+Today, 
+tech-enabled innovation is injecting dynamism into the financial services system
+ like never before — but advances in technology also pose great risks to the financial system that eclipse concerns about the increases in FAANG (Facebook, Amazon, Alphabet, Netflix and Google) share prices or their disproportionate heft within popular stock indices. The mounting cyber-risk and data privacy concerns that have multiplied alongside the digitisation of the global economy are now a more pressing concern for central bankers.
+Advanced robotics, cloud computing, the internet of things and the proliferation of mobile devices are creating increasingly huge amounts of data, which is being transferred and shared at an ever-growing rate, too. This is creating a more highly interconnected global economy and financial system. All the while, major financial services providers are facing mounting cost pressures, which has led to an increase in 
+outsourcing their data processing
+ to major technology firms. This concentration of information into the hands of a few tech giants makes them an even more alluring and potentially lucrative target for cyber criminals, while raising questions about customer data privacy and the appropriate use of data for commercial objectives.
+A major cyber breach affecting the financial system could have huge and negative consequences for consumer trust and confidence in the global economy. Central bankers must consider these risks as systemic in nature, on a par with the collapse of a systemically important financial institution.
+4. The distribution of income in industrialized countries (1998) 
+A dynamic global economy is an inclusive economy. The socioeconomic and political ramifications of a growing share of income flowing to the wealthiest members of society are being felt today ever more keenly.
+Wealth inequality may be slowing, but it’s not reversing — could the skills gap be the reason?
+Image: Financial Times
+Just as it is today, the primary driver of this trend 20 years ago was the skills gap, as attested to by Alan Greenspan, then Chairman of the US Federal Reserve. “Rising demand for those workers who have the skills to effectively harness new technologies has been outpacing supply, and, thus, the compensation of those workers has been increasing more rapidly than for the lesser skilled segment of the workforce,” 
+Greenspan told Jackson Hole attendees in 1998
+.
+But the owners of capital, primarily the wealthy, have a disproportionate advantage when it comes to monetary policy. Assets (stocks, bonds and real estate, for example) tend to increase in value during periods of monetary stimulus. This fact further magnifies the differences between household wealth and income within countries. Moreover, broad-based ownership of stocks, for example, has decreased since the financial crisis in the US, hovering now around 52%, down from about 62% a decade ago; 
+a decrease borne principally by households earning less than $100,000 per year
+. All the while the S&P 500 Index has trebled.
+Alan Greenspan concluded his remarks in 1998 with the following: “We must pursue monetary conditions in which stable prices contribute to maximising sustainable long-run growth. Such disciplined polices will offer the best underpinnings for identifying opportunities to channel growing knowledge, innovation, and capital investment into the creation of wealth that, in turn, will lift living standards as broadly as possible”. This topic should again be at the fore in this year’s symposium.
+Have you read?
+The Fed, interest rates, and the US economy
+Are low interest rates a time bomb?
+Wages have stagnated in the US. Here’s why
+Clearly there is no shortage of important topics for central bankers to discuss in Wyoming, and little doubt that the next phase of policy implementation will be just as delicate as the last. Success in fostering a dynamic global economy will rely on astute policy decisions and appropriate signalling to the markets in a way that reinforces the financial system’s contribution to sustained economic growth, financial stability and social development.Originally published at 
+www.weforum.org
+.

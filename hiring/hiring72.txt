@@ -1,0 +1,53 @@
+Hiring is your brand: 9 small things to improve your interview process
+Interviewing potential hires is the most important brand building exercise your company will go through and it’s conducted primarily by people whose primary day jobs are very different. This should scare the bejeezus out of you.
+But it’s a completely solvable problem, and the solution comes when you recognize that hiring is sales: a repeatable process that involves convincing others with good information.
+1. 
+Every candidate should take away one thing from the interview process: they want to work for your company. 
+Even if you deeply regret the last 30 minutes of your life, their
+ 
+friend might be a fit 6 months from now. Treat everyone you talk to like a potential customer.
+2. 
+During onboarding, every employee should be trained on how to pitch your company.
+ This pitch will be told every time your new employee is explaining what they do to anyone. Your company pitch should tell a story: the beginning (the founding story), the middle (what you’re doing now) and the end (your incredible future).
+3. Training your team on how to pitch the company and how to interview is not enough. 
+You need to audit interviews as well as send out surveys to all candidates who reached any stage in the pipeline. 
+You can’t improve what you don’t measure, and the act of measuring will tell everyone how important this is.
+4. 
+Don’t waste time on bad questions.
+ Good questions are:
+Open-ended: there isn’t one right answer.
+Qualifying: the answer tells you something about the candidate that is relevant to the job.
+For a product manager role, here are 3 questions I’d ask at Imgur for the phone screen:
+What do you think Imgur’s 3 most important metrics are?
+If you could make one change to Imgur’s new iOS app, what would you change?
+Do you communicate differently with designers than you do with engineers? What’s the difference?
+For each of these questions, I wasn’t looking for specific answers. I would care that the responses were thoughtful and Imgur-specific.
+5. 
+A simple qualifying question
+ at the application stage (that can be answered in <1 minute by a reasonable candidate) will save you both a world of time. For example, for an engineering position, asking to write a for loop.
+6. 
+Speed is a virtue. 
+One of your advantages as a startup is that you can move fast. Schedule interviews as soon as possible. Have everything ready to go so you can make an offer to the candidate the day of the onsite. If you arrange the schedule right, sometimes you’ll be able to make an offer before the candidate even leaves the building.
+7. 
+Read their resume beforehand
+. I still have them walk me through their background, because this is when you get to learn what makes them tick.
+I’ve already read your resume, I’d love to hear the 60 second version of what you’ve done and what you want to do next.
+I’m looking for a few things:
+How good of a storyteller are they?
+What do they choose to highlight? What do they leave out?
+Why are they interested in the company and does this fit with the company’s values?
+8. 
+Allow yourself to shine through the process.
+ People will choose companies because they want to work with the people they’ve met during the hiring process. At Imgur, I’d take candidates on a walk to the bay, mirroring the 1:1 walks we’d go on if the candidate joined my team.
+9. 
+Do references. 
+They don’t take long, they’ll save you from bad candidates and they will help you onboard new employees quickly, by providing the right context for how to take your future hires to the next level.
+The 5 basic questions you should ask:
+Of past candidates in similar roles, is this candidate in the 10%? Top 20%?
+What motivates this candidate to do their best work? How did you work with them the best?
+Use 3 words to describe the candidate
+What areas do you think this candidate should spend time developing?
+What would this candidate’s arch nemesis say about them?
+Dial in on any pauses, silences. A frontdoor reference that is an A- is a red flag. When the candidate is picking their own references, they should come back as A+’s.
+Remember, every hire will change your and your company’s life.
+ We are who we spend time with, so choose carefully.

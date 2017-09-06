@@ -1,0 +1,69 @@
+Why Most Conversations in Tech About Diversity Are Bullshit — and What to Do About It: Part I
+This is part of a series that includes posts on 
+the P-Word
+ and how the business case for diversity prioritizes 
+greed over humanity
+.I’ve been hesitant to write this post — fear of how it may affect my career path, how it may sway an employer’s decision to hire me, or dealing with people who want to dialogue to “understand” yet are committed to misunderstand me.
+However, I no longer care about any of those things. If an employer doesn’t want to hire me because I’m going to disrupt their culture of apathy and complacency in dealing with issues that touch humanity — then so be it.
+Hello World! Meet my inner-Rhett-Butler.
+Besides, this piece isn’t for them. This piece is for those who want to be challenged in how they engage the topic of diversity in tech. This piece is meant to affirm those who represent the only “diversity” in the company, to remind them that they’re not crazy or alone in thinking about these things. This piece is meant to surface the humanity of diversity.
+While there are many reasons why I think most conversations in tech about diversity are bullshit, let me give you my top 3.
+#1: The P-Word
+I’ve noticed a trend in the tech community when they address the topic of diversity in the workplace. We can talk about the biases we all have, the importance of inclusion, the “lack of qualified applicants” excuse, and the financial and workplace culture benefits of having a diverse team. But what about the p-word? What about — privilege?
+Hear me out.
+I understand why privilege can be hard to talk about and I recognize that most people think it has a negative connotation. As a UX Designer with a counseling background, I also understand why most people — especially white people — shut down when they hear that word.
+It’s often because of this:
+ Shame .
+Please keep reading and know that I am completely aware that I just mentioned probably two of the hardest conversation topics to have in the workplace.
+People are often triggered into shame when they hear about privilege for a variety of reasons:
+- They feel like they’re being blamed or attacked
+- They feel like they’re being told that they’re the mistake and the problem
+- They feel scared or hesitant to speak out because they don’t want to say or do the wrong thing
+- It’s uncomfortable and they don’t want to admit to or even think about possible ways that they’ve actively or passively contributed to the problem
+As a UX Designer, I know that we can’t solve problems without context, which is why it fascinates me that this conversation in the tech community has largely ignored context, in particular, historical context in America. In a later post I’m going to be addressing how we as a tech community can grow in our conversations about diversity, but I’d like to provide you with some resources now.
+If we want to actually achieve fruitful and collaborative dialogues that produce change, we need context around the problem that we are trying to solve. While there are many resources, I’d encourage you to start with these two:
+A Different Mirror: A History of Multicultural America
+ 
+by Ronald Takaki
+Learn about the history of America that most of us weren’t taught in school.
+And Dr. Brene Brown’s TED talk, 
+Listening to Shame
+:
+Source: TED.com — WARNING: This video is a gamechanger. Only watch if you want your life to be impacted for the better.
+#2: Greed Over Humanity
+If I have to read one more article that bases their entire case for diversity in the workplace by informing me how “
+racially diverse companies outperform industry norms
+” or how “
+diverse companies see high profit and have better focus
+,” I’m going to lose my mind.
+Just watching this is therapeutic.
+If the only way we can get the tech community to care about diversity in the workplace is by appealing to profits and productivity, then at best we’re assholes and at worse we’ve lost our humanity.
+And no, I’m not talking about the diversity that you see in college marketing (::cough:: and many tech companies ::cough::) where they selectively pick the most-diverse-looking people (whatever the hell that means) and plaster their “diversity” all over their website and promotion items. I’m talking about 
+real 
+diversity, the diversity of experience, thought, and perspective which can only thrive in work environments that support all ability statuses, gender identities, races, ethnicities, ages, religions, and culture.
+#3: Equality for All Women or Just White Women?
+When I was 7 years old my mom sat me down and said, “Vivianne, you have two things going against you in this world: you’re black and you’re a woman. So you’re going to have to fight for everything you want and work harder than your white classmates.” I want to highlight a few things here:
+If you are reading this and you are not black, please know that it is common for most black children in America to have “the talk” with their parents, the talk that reminds them that they are black and what that means for them in America.
+Spoiler Alert: it’s not the same as being white in America.
+2)
+ Two things going against me in America: being black and being a woman. Yes, I understand that women across the board lag in hourly earnings compared to white men and men of the same race or ethnicity, “b
+ut the hourly earnings of Asian and white women ($18 and $17, respectively) are higher than those of black and Hispanic women ($13 and $12, respectively) — and also higher than those of black and Hispanic men
+” (Pew Research Center.
+3) This conversation goes beyond pay, it also needs to talk about the treatment of black women in the workplace. How often have you heard people in the tech community talk about that in their conversations about diversity? The #BlackWomenAtWork offers the tech community a glimpse into the conversation:
+You 👏🏾 Betta👏🏾 Preach 👏🏾
+😒
+Yup. That happened.
+Again, I know and understand that poor treatment can be experienced by all women in the workplace. Yet, let us learn from the 2017 Women’s March. In the words of 
+Brittany Packnett
+, “
+The silencing of the unique grievances of women of color is precisely why many of us felt betrayed by our white sisters on November 8, and decided not to attend the Women’s March. And frankly, the movement toward equal pay has been slow to break this curse
+.”
+Indeed, 
+I can’t and won’t keep quiet
+ for anyone anymore — and the tech community cannot stay quiet anymore either.How can the tech community eliminate the bullshit in our conversations about diversity?
+How can we move forward in a way that will actually have an impact on the tech community and (more importantly) the lives of people — your friends, co-workers, and even your family?
+How can we bring humanity back into the conversation of diversity in the workplace?
+Stick with me as I do a deep dive into each of these points in upcoming posts. Let’s move closer to human-centered approaches that actually address the issue of diversity in the workplace.
+Other posts in this series:
+Part II: The P-Word
+Part III: Greed Over Humanity

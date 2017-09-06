@@ -1,0 +1,30 @@
+The ultimate guide to pricing your company for a fundraise (or, how much is too much?)
+This story was originally published as 
+GuestPost on VentureBeat
+, Dec 14th 2014.
+Your company’s valuation is probably 
+the 
+single most important number in your whole fundraising story.
+Sure, you need to have some early traction, you need to have a product out there and a convincing enough team; but those are prerequisites. Don’t even go into a fundraising conversation if you don’t have them, and much has been written about what people look for nowadays.
+But valuation? That’s where you make or break the conversation. If yours is too high, potential investors will prioritize other opportunities over yours; if it’s too low, they will ask themselves what’s wrong.
+If the valuation you’re asking for is completely off the chart, that’s a huge red flag and it signals that you have little or no idea what you’re talking about (and leaves investors wondering what other things you don’t have an idea about). Plus, if you look for answers online, the average one you’ll get is: “it depends.” Yeah, thanks.
+So let me break down what valuation you should target based on the stage you’re in, which is, incidentally, also what the average investor expects to hear based on the valuation of the company you give them:
+Up to $1 million valuation: 
+This is probably what you should be aiming for if it’s the first external money and/or your first company and/or you’re taking money from friends and family, and/or you barely have a prototype (or a landing page and/or a few thousands in users/revenue). This is also what you’ll get if you’re selected for an accelerator program (or a little less in some cases, a little more in others). Also consider that U.S. people will be ok buying at around $1M while the rest of the world will be a bit more comfortable buying at around $500K.
+$1–3 million valuation: 
+This is a price you should use to incentivize and reward the early movers so you can build momentum on the fundraising. This might mean the first $100,000–250,000 of angel investors not directly related to your friends and family network, or the network of angels surrounding the accelerator (if you joined one). To justify this valuation, you don’t really need anything more than the requirements of the previous stage, just the fact that somebody else — besides you, your cofounders, and your dog — believes in what you’re doing enough to throw some money at you. It’s called “social proof.”
+$3–6 million valuation: 
+At this price you are expected to not only have a product out there but also to have 5–20 percent month-over-month growth rate for at least 3–6 months. Use this rule of thumb: Add $1million to the valuation for every 5 percent of traction month-over-month you’re gaining. If you have a previous success under your belt, you’ll be able to raise at this valuation with less validation, but do remember that this is pretty much the range at which every startup in the world tries to raise the first $500,000–750,000.
+$6–9 million valuation: 
+If you’re a Y Combinator company nowadays, you can pretty much raise at this price with the same validation and metrics as in the previous category, or less. But if you’re not, this is where you can go with around 6 to 12 months of operational data plus 10 to 25 percent of month-over-month growth. At this point, traction is not enough though; absolute numbers become important. Investors will expect you to have $30,000–50,000 per month in revenue or more, and will usually be fine in buying at a valuation 100X your monthly revenue or 8X-9X your yearly revenue. Your target raise should be $1–2 million.
+$9–12 million valuation:
+ Now things start to become interesting. For this price, you’re not expected to be the scrappy startup anymore; you’re expected to be an actual company. You’ll need an established product out there, 12–18 months of operational data, and some interesting absolute numbers paired with a consistent month-over-month growth rate (the bigger the growth is, the smaller the absolute numbers need to be). But, more importantly, people will want to take a look at the cost structure, how you managed it, and how close you are to profitability. Your target raise should be $2–3 million.
+$12–15 million valuation:
+ To raise money at this point, the main question for which you need a very good answer is: “How do you intend to grow to 10 to 20 times the valuation investors are paying for right now?” So, besides the already-mentioned elements, what becomes really important is the go-to-market strategy you’re already executing to gain market share, and to go from initial traction to initial scale. “What are the customer lifetime value (LTV) and customer acquisition cost (CAC) calculations?” is another typical question. Know the answer. Your target raise should be $3–5 million.
+The overall issue is that the average founder is as lousy at pricing his own company as he is at pricing his own product. The two kinds of valuations aren’t that different. They’re both sales — one is a specific product and the other is a whole company. In the same way the price of a product is a proxy for its perceived value (you expect something more expensive to be more valuable, after all), the price of your company is a proxy for the expected underlying value (ergo the metrics it’s generating). Be very aware of that and deviate from the framework at your own risk.
+Of course, caveats apply:
+A) You can optimize for speed or valuation; it’s very hard, if not impossible, to do both.
+B) The spread between investors from the U.S. and from the rest of the world is real, so take into consideration where your target investor is from.
+C) Different investors will want different things; the earlier ones will be more valuation-sensitive, while the later ones will be more ownership-sensitive.
+D) Valuation really is a promise; to go the next stage, you have to materialize the current one.
+Unless you’re an outlier. If that’s the case, just feel free to ignore every single word I’ve said so far.

@@ -1,0 +1,196 @@
+How to teach yourself UX design
+My learning journey and a living list of UX resources for self-starters
+First of all, I have to confess that my UX design skill was not completely “self-taught.” I have in total 3 years of higher education in design. Simply put, this is not a “how-to-land-a-decent-job-without-a-degree” story. I did learn a lot in school in terms of research, critique and collaboration. Nevertheless, I found that all successful people I knew in the industry are incredible self-learners. On top of that, I realized a lot of design skills and knowledge can be learned, or even have to be learned, outside of the classroom.
+I started to self-educate for design while studying an unrelated major (business) in college. At the beginning, design was just one of my hobbies, which kept growing to an extent that I wanted to turn it into a full-time career. Since then I’ve been constantly searching for online resources and tutorials for improvement, learning from those who are ahead of me in the industry, mostly for free!
+Looking back, I’m extremely blessed to be in the field where most people are open to knowledge and experience sharing, which made it possible for me to put together my first portfolio to apply for design school and eventually switch my path. Up until now, having been in the industry for a few years, I’m still utilizing the online resources to a great extent.
+Many people have asked me how to start pursuing a UX career when they are not yet part of the community. My answer to this question is simple — “What qualifies to be a designer is to design.” Half-joking, but somewhat true. In the following, I’ve put together a must-read list for UX self-beginners as well as some personal notes indicating how I started. My goal is not to overwhelm you with another list of UX resources, but to share 
+the essentials 
+that I’ve personally gone through and found deeply inspiring.The Theory
+What is UX design
+[Wikipedia] User Experience Design
+: This wiki page explains in a nutshell what is UX design and its origin.
+[Infographic] The Intricate Anatomy Of UX Design
+: A mega graph that tackles the relationship between UX and all other aspects of design.
+Design process
+[Article] An Introduction to Design Thinking Process Guide
+ (by Hasso Plattener from Stanford d.school): The design iteration process going through empathizing with users, defining problems, ideation, prototyping solutions and testing.
+[Book] Basics Design 08: Design Thinking
+ (by Gavin Ambrose and Paul Harris): Introduce seven steps of the design process — define, research, ideate, prototype, select, implement and learn.
+[Video] IDEO Shopping Cart Project
+: I’ve been asked to watch this video at least 4+ times in different classes throughout my design education.
+[Website] The design sprint
+ (by Google Ventures): The sprint is a five-day process for answering critical business questions through design, prototyping, and testing ideas with customers. This process is super useful for fast-pace organizations and start-ups.
+Design/research methods
+[Article] Complete Beginner’s Guide to UX Research
+ (by UX Booth): A nice overview about the UX research practice.
+[Book] Observing the User Experience, Second Edition: A Practitioner’s Guide to User Research
+: This is the required reading for the research course I took in the HCI Master’s program at University of Washington. Although I didn’t read this cover to cover, I found it to be a good reference book with a decent amount of quality examples.
+[Book] 101 Design Methods: A Structured Approach for Driving Innovation in Your Organization
+ (by Vijay Kumar): A good reference book when you are looking for new design/research methods.
+[Website] Design Kit from IDEO.org
+: An introduction to some design methods and case studies.
+Product design
+[Book] The Design of Everyday Things: Revised and Expanded Edition
+ (by Don Norman): A powerful primer by an industry guru on how — and why — some products satisfy customers while others only frustrate them based on psychology, ergonomics, and design practice.
+Web design
+[Book] Don’t Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition) (Voices That Matter)
+ (by Steve Krug): One of the best-loved and most recommended books in the web design domain outlining the principles of intuitive navigation and information design.
+UI design
+[Website] Material Design Guidelines
+: Google’s visual language guidelines draw inspiration from the physical world.
+[Website] iOS Human Interface Guidelines
+: Apple’s visual language guidelines outline expectations for quality and functionality. I have read both Google and Apple’s guidelines word for word and often revisit particular sections when looking for specific UI recommendations.
+Graphic design
+[Book] Design Elements, 2nd Edition: Understanding the rules and knowing when to break them — Updated and Expanded
+ (by Timothy Samara): The graphic design basics including form, space, color, type, image and the combination.
+[Article] Design Principles: Visual Perception And The Principles Of Gestalt
+: This theory explains how and why the entirety of design is more crucial than individual objects.
+[Article] Font Design — How Designers Choose Which Fonts To Use
+ (by Janie Kliever): Learn how to select fonts and where to find them.
+Motion design
+[Article] Creating Usability with Motion: The UX in Motion Manifesto
+ (by Issara Willenskomer): The basics you need to know when discussing & designing UI motion effects.Design Tools
+How to learn
+I found that 
+watching online tutorials
+ is the most efficient way to learn a new design software. You can put your screen next to the instructors’ and shadow the technique in real time and at your own pace. There are many websites (free or subscription) providing countless design tutorials for a wide variety of topics: 
+Lynda.com
+, 
+Tuts+
+, 
+Skillshare
+, 
+Udemy
+, 
+Coursera
+, to name a few.
+Whenever I need to learn a new tool, I usually go to these sites and complete at least one essential training for that tool (3–8 hours). Doing this should be enough to get the grasp of the basics and start “playing around” with the software. In addition to that, I would periodically follow courses that I’m interest in to expand the range of my techniques.
+What to learn
+Graphic design:
+ 
+Adobe Photoshop
+, 
+Adobe Illustrator
+, 
+Affinity
+. (Affinity is a newly risen software I personally use that’s very similar to Adobe programs but with a much more affordable rate)
+Interface design:
+ 
+Sketch
+. I use Sketch for making both wireframes and high-fidelity screens. 
+Design + Code
+ (first half) is a great e-book course for mobile design using Sketch.
+Interactive prototyping: 
+I recommend using 
+InVision
+ to build simple “hot-spot” prototypes, and 
+Principle
+ or 
+Framer
+ to build more customized and complex prototypes.
+Animation / Video demo: 
+Adobe After Effects
+. This program includes all you need for making animating icons or product demo videos.Front-end Development
+How to learn
+It has been a long debate on “if designers need to know how to code.” Based on my own experience, learning how to code not only helps me design 
+working
+ interfaces, but also makes me gain empathy with developers’ work. As a result, my relationship with coworkers and the quality of our communications has improved to a noticeable degree. Therefore, my answer is — Yes, designers should learn as much coding as they can!
+Similar to design, there are many websites providing basic tutorials for programming: 
+Treehouse
+, 
+Lynda.com
+, 
+Udemy
+, 
+Code School
+, 
+Codecademy
+, 
+FreeCodeCamp
+.
+However, different from design, I found it more effective to learn programming by 
+reading books
+ if you are starting with zero to limited knowledge, because books usually go deeper into the logic of code, which is the foundation necessary for understanding more advanced concepts later on.
+What to learn
+HTML: 
+[Book] HTML5: The Missing Manual
+ (by Matthew MacDonald)
+CSS: 
+[Book] CSS: The Missing Manual
+ (by David Sawyer McFarland): I spent two months thoroughly going through the above two books while hand-coding my first portfolio site. These two months became my most valuable time invested in learning programming.
+Javascript & jQuery: 
+[Book] JavaScript & jQuery: The Missing Manual
+ (by David Sawyer McFarland): I know learning Javascript (JS) for designers can be a daunting task. To be honest, I didn’t/couldn’t finish this book, but finishing the first five chapters has taken me really far in terms of writing simple transitions and applying JS libraries!
+iOS development
+: 
+[e-Book] Design + Code
+ (second half) is a great course aimed at teaching designers the basics of iOS development written by a designer.The Industry
+Design Inspiration:
+Dribbble
+: The top-notch online community for visual/UI design. Currently, you’ll need an invitation from a member in the Dribbble community to start sharing your work. Don’t be shy to ask for one!
+Behance
+: A community similar to Dribbble except that an invitation is not required to start showcasing your work.
+Pinterest
+: Digital pin boards for images. 
+I personally use Pinterest
+ to collect design inspirations that I come across on the Internet. It becomes my personalized collection to jump start a project.
+Design career:
+[Article] UI, UX: Who Does What? A Designer’s Guide To The Tech Industry
+: This articles describes the difference between a UX designer, UI designer, Visual designer, Interaction designer, UX researcher, Front-end developer and Product designer.
+[Article] How to Get Any Job You Want (even if you’re unqualified)
+: A great job-searching tip about how to stand out among a great number of candidates.
+[Article] The Unfair Truth About How Creative People Really Succeed
+: Advice for building networks, connections, and relationships.
+[Article] How you can start a career in a different field without “experience” — tips that got me job offers from Google and other tech giants
+: No-bullshit tips for people who want to start over.
+[Article] How you can land a 6-figure job In tech with no connections — tips that got me job offers from Google and other tech giants
+: Useful tips for finding jobs, including some e-mail templates.
+[Article] The Ninja Skill for UX Designers — Earning Your Whiteboard Belt
+: A step-by-step guide on how to nail the whiteboard challenge for design interviews.
+Design/product writing:
+Some blogs I follow: 
+Backchannel
+, 
+Facebook Design
+, 
+Google Design
+, 
+Prototyping: from UX to Front-end
+, 
+uxdesign.cc
+Some folks whose writing I enjoy: 
+Aarron Walter
+, 
+Cathryn Lavery
+, 
+Chris Messina
+, 
+Julie Zhuo
+, 
+Marshall Haas
+, 
+Meng To
+, 
+Mike Monteiro
+, 
+Quincy Larson
+, 
+Tobias van Schneider
+.
+Design podcast:
+Design Details
+ and 
+TheUXIntern
+ are both interviews with seasoned designers. I’m particularly drawn to each individual’s background and how they got into the field.
+Design event:
+Meetup
+ and 
+Eventbrite
+ should cover most of the design events in your local area. I particularly like to go to companies’ open house events, because it’s a natural way to get to know the company and its employees without being perceived as overly aggressive. For popular events, tickets usually run out fast, so make sure to have notifications set up.So…how much does this cost?
+Not much for me (probably not much for you either). Most of the links above are already public and free. I’ve been borrowing most books from libraries. For tutorials, 
+my alma mater
+ and 
+local library
+ both grant me free access to 
+Lynda.com
+. The only unavoidable cost is the design software, which I considered as an investment in my profession.As a closing remark, this list only reflects my personal learning journey so far. I believe there are many other great works out there. I intend to keep editing this list if good stuff come up. Hope you enjoy this ride! :)

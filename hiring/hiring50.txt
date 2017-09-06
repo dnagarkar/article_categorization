@@ -1,0 +1,51 @@
+Give opportunity, not charity: The case for neurodiversity in hiring
+Why Ultra Testing employs software testers on the Autism spectrumWhen you run a well known annual awards event where thousands of people cast votes through your website, there’s a good chance you want that site to actually work. If you’re smart, you’ll invest in some software testing upfront. If you’re smart, you’ll find a team of highly skilled software testers who can detect the thinnest fault lines in your code and spot breaking points no one else can see.
+And if you’re lucky, you’ll be referred to the exacting team of Quality Assurance software testers at 
+Ultra Testing
+.
+What makes Ultra Testing different from other companies is that 75% of their employees have 
+Asperger’s Syndrome
+ — a type of Autism spectrum profile causing difficulties with social interaction and nonverbal communication.
+But Ultra Testing CEO and Co-Founder 
+Rajesh Anandan 
+says this isn’t a hindrance, it’s what makes team members uniquely qualified for the job. Recently, we caught up with Anandan to learn more about Ultra Testing’s unconventional business model, how their efforts can help increase diversity in the job market, and his hopes of leveling the playing field for a wider share of the population.
+Rajesh Anandan, CEO and Co-Founder of Ultra Testing
+Slack: What inspired you to create Ultra Testing?
+Anandan: 
+My wife’s a child psychologist. She was working in a community mental health clinic in Oakland in the early 2000s when she noticed a spike in kids coming into her practice who were on the Autism spectrum. She started doing group work because one of the big issues that you try to focus on, especially with kids and young adults, are social and relational skills.
+She came home from work one day and said, “We spend all this time focused on things these kids struggle with, but we spend no time nurturing the things they’re already amazing at.”
+Slack: What is that special skill set?
+Anandan: 
+Pattern recognition, logical reasoning, extreme attention to detail, the ability to focus for long periods of time without any decay in attention. If you were to go out there and recruit the ideal software tester, that’s what you’d look for.
+Slack: Hence, Ultra Testing is born.
+Anandan: 
+Well, somewhat. My co-founder Art [Schectman] and I were roommates at MIT, both engineers. I started in software and found my way into corporate strategy and social enterprise and Art’s been an entrepreneur in software development and IT services.
+I was describing these traits to him and how there’s this incredible talent pool of skilled workers. There are 3.5 million Americans with an 
+Autism Spectrum Disorder
+. It’s a big, incredibly diverse population.
+Of those three and a half million, an estimated one third have 
+Asperger’s Syndrome
+ or a similar profile. Another fifty thousand young adults with Autism turn working age in the United States every year. So many of them are extremely capable, and yet 80% are unemployed. That means there are literally hundreds of thousands of individuals who aren’t being given the chance to work.
+When I told Art this, he just said: “Listen, I can never find enough good testers. Find me three people who fit that profile and I’ll hire them next week.”
+Slack: What made you launch Ultra Testing as a service rather than developing something like a placement program?
+Anandan: 
+There have been a lot of different initiatives and organizations figuring out how to create employment opportunities for folks on the spectrum. Typically they’re focused on training and job placement. Most are run by nonprofits, sometimes they’re part of Corporate Social Responsibility (CSR) programs.
+We set ourselves up as a for-profit startup to prove there’s real commercial value and a competitive advantage to employing 
+neurodiverse
+ talent. We want to prove that we can build a thriving software testing company and be the largest employer of people on the Autism spectrum. Those missions go hand-in-hand.
+Slack: What have you learned working with this team over the last three years?
+Anandan: 
+We had to solve a few different challenges to get to where we are.
+We built Ultra as a remote company from the get go.
+A typical daily commute to get into the office can create an unbelievable level of stress and anxiety for someone on the spectrum. That’s the last thing we want before one of our team members starts their work day. — Rajesh Anandan
+A lot of people may not apply if they thought they would have to go into an office every day, over being in an environment that’s comfortable and familiar where they can just focus on getting work done.
+It was also important for us not to constrain our ability to recruit the best people based on location. The talent pool is spread out over the US. We have employees in 12 states and we’re still relatively small. But even though we’re spread out, in our experience, we’ve found that our team members take the work seriously and show up every day ready to work hard, even if they’ve never had a fair shot at success in the past.
+Slack: How are things looking for Ultra Testing today?
+Anandan: 
+We’ve tripled revenues the past couple of years. We’re operating profitably. We’re closing a second round of financing. We haven’t taken a single dollar of grant funding, or philanthropy, or government support in all this time. We’re pretty happy about that.
+Slack: For people who may be considering making a case for neurodiverse hiring at their workplace, what would you say to them?
+Anandan: 
+Everyone has a lot to gain from it. When you give someone the ability to earn an income, you give them an opportunity to contribute, a chance to be included and to participate. That in turn adds value back for your business and your customers.
+If we can serve as proof, hopefully we can drive a fundamental change in the broader market’s perception and approach to employing people on the Autism spectrum: Not as a CSR initiative, not as a charitable initiative, not as something that’s kind of nice to do, but as something you have to do.
+Lima Al-Azzeh
+ is probably thinking about lunch.

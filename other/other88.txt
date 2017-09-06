@@ -1,0 +1,56 @@
+Why we need a dating app that understands Nash’s equilibrium
+Nash’s equilibrium is a simple concept that helps economists predict how competing companies will set prices, how much to pay a much-in-demand employee and even how to design auctions so as to squeeze the most out of bidders. It was developed by John Nash, the Nobel-winning economist and mathematician, whose life story was told in the Academy Award-winning movie 
+A Beautiful Mind.
+It provides a fascinating frame to look at human behaviour, and shows how, in non-co-operative situations involving two or more players, individuals end up making decisions that are terrible for the group.
+One of the best-known illustrations is the prisoner’s dilemma: two criminals in 
+separate 
+prison cells face the same offer from the public prosecutor. If they both confess to a bloody murder, they each face three months in jail. If one stays quiet while the other confesses, then the snitch will get to go free, while the one who stayed quiet will face a whole year in jail. And if both hold their tongue, then they each face a minor charge, and only a month in jail.
+Collectively, it would be best for both to keep quiet. But given knowledge that the other player’s best decision is to “confess and betray”, each prisoner individually chooses to confess ending up with both going to prison for 3 months each.
+In a Nash equilibrium, every person in a group makes the best decision for himself, based on what he thinks the others will do. And this inevitably ends up being a bad decision for the collective.
+Another example is 
+The Marriage Supermarket
+.
+Imagine a marriage supermarket. In this supermarket any man and woman who pair up get $100 to split between them.
+Suppose 20 men and 20 women show up at the supermarket, it’s pretty clear that all the men and women will pair up and split the $100 gain about equally: $50,$50.
+Now imagine that the sex ratio changes to 19 men and 20 women. You would imagine that this would only have a minor effect on proceedings but then you’d be surprised.
+Imagine that 19 men and women have paired up splitting the gains $50:$50 but leaving one woman with neither a spouse nor any gain. Being rational this unmatched woman is unlikely to accede to being left with nothing and will instead muscle in on an existing pairing offering the man say a $60:$40 split. The man being rational will accept but this still leaves one women unpaired and she will now counter-offer $70:$30. And so it goes inexorably drives down each woman’s share of the $100 to one penny — except for the 20th woman, who gets nothing at all.
+Simply stated, in non co-operative markets with shared resources, small changes can trigger massive changes to individual incentives, leading to a mutually bad equilibrium state.
+In the case of dating apps, the shared resource in question is a female user’s attention.
+American dating apps roughly have a ratio of 60% male to 40% female. With Indian apps, this ratio may be even more skewed. When you take activity into consideration, men have been found to be twice as active as women, which makes the ratio even more lopsided.
+We’ve already seen how even slight imbalances in a market can dramatically shift the power away from the overrepresented group.
+This skewed ratio would translate into men trying that extra bit hard to get female attention on dating services and when extra hard in the Tinder generation means just another right swipe, this imbalance leads to men swiping right on as many female profiles as they possibly can.
+The problem is simply that signalling interest in a female on most dating apps is too “cheap” — it costs nothing monetarily (which is why 
+Superlike
+ is brilliant), and requires little time or emotional investment.
+Dating apps have become more like slot machines, where the promise of an occasional match keeps us swiping incessantly. This is called variable ratio reinforcement: the prize is unpredictable but it’s out there, which keeps us coming back for more.
+This vicious circle of behaviour that forces men to adopt ‘extreme’ strategies leads to women getting inundated with ‘low-quality’ matches and messages, that might overwhelm them into abandoning the app altogether.The men, undoubtedly, would benefit from a common understanding to be more selective, but have no way to reach such a collective agreement.
+Which is why such decisions have to be made at a system/product level.
+There are already multiple apps in the west that do this. Coffee meets Bagel only shows you a limited number of highly curated, pre-selected matches of the opposite gender whereas Bumble is even more radical in only letting women send the first message.
+None of the dating apps out there in India currently do anything drastically different from Tinder. And there is no way you can beat Tinder at its own game.
+The ‘casual dating’ app space in my head has already been taken over by Tinder. Everything else will always be a distant second.
+The one product I found that was differentiated from competition is 
+Aisle
+.
+Aisle only lets users connect with someone by buying ‘invites’. Invites come in packages of 3 ($33), 5($50) and 7($66).
+This invite-system neatly sidesteps the Nash’s equilibrium problem and rids males of the power to indiscriminately try to match with everyone and females of unwanted attention.
+You can only buy a maximum of 7 invites at a time. Invites only get used up when accepted, and are added back to your account if declined: brilliant!
+Another masterstroke of differentiation is how Aisle has positioned itself: as an app for long-lasting, deep and committed relationships, clearly stepping away from the over-crowded 
+casual dating space
+.
+This is another trick most other apps have missed: Competing in a market that Tinder created means you will always be second choice, and probably a slow march to irrelevance.
+Based purely on anecdotal evidence, I’m sure there is currently a huge void in the market between modern-day, casual dating apps like Tinder and age-old, parent-led matrimony websites.
+Aisle seems a perfect bridge for the urban Indian, bringing the convenience, ease-of-use and experience of a casual dating app to the stated goal and seriousness of a committed, long-term relationship of matrimony websites, on the same app.
+Frankly, I’m surprised that Aisle hasn’t raised more money and awareness, and that none of the Indian matrimonial incumbents have stepped in to buy it off yet.
+For now at least, they seem to have found a blue ocean, and just the right product strategy to move users out of a bad Nash’s equilibrium.Hacker Noon
+ is how hackers start their afternoons. We’re a part of the 
+@AMI
+ family. We are now 
+accepting submissions
+ and happy to 
+discuss advertising & sponsorship
+ opportunities.
+If you enjoyed this story, we recommend reading our 
+latest tech stories
+ and 
+trending tech stories
+. Until next time, don’t take the realities of the world for granted!

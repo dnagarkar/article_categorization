@@ -1,0 +1,43 @@
+How Bad UX Killed Jenny
+Or why we need more UX designers in “untouched” fields
+Image via 
+Kai SchreiberMy wife, a nursing student, was sharing with her teacher about how passionate I am about technology in healthcare. Her teacher responded that she thought we need 
+less
+ technology and told a story why she felt so strongly that way. I would like to share this story with you.
+Jenny, as we will call her because the patient's name was never shared, was a little girl who had previously been in the hospital ward for cancer for four years and was discharged. Then a while later she relapsed and had to be given a very strong chemo treatment medicine. This medicine is so strong and so toxic that it requires pre-hydration and post-hydration for three days with I.V. fluid. However, after the medicine was administered, three nurses were attending to the charting software to enter in everything required of them and make the appropriate orders, missed a very critical piece of information. Jenny was supposed to be given 3 days of I.V. hydration. But the three nurses, with over 10 years experience, were too distracted trying to figure out the software they were using, they completely missed it.
+When the morning nurse came in the next day, she had died of toxicity and dehydration. For two shifts, she had missed her hydration and all because the three, very good nurses, were stuck trying to figure this out…
+Note: The large black arrow is from the screenshot I found.
+This screenshot I found is similar to the one my wife uses every day. I can't imagine what the UI must have looked like years ago.
+Here are a few more I found, dates unknown:When most of us design a User Interface, and fail at basic usability, the worst that happens is that our product fails. Yet, when the designers of this system, or even an airplane’s cockpit, fail at their design, there are real physical harms. With so much on the line, you would think these industries would have hired the best designers in the world to carefully craft the User Experience. But they don’t.
+Being a designer who is very passionate about what I do, this hurt. In all honesty, I don't think I've ever felt this emotional about any bad design I’ve encountered. I feel angry and sick when I look at that interface above. I start to think about the other stories that have been shared: like an 
+ebola patient being sent home accidentally
+, 
+a pilot accidentally plotting the wrong course
+ killing crew and passengers, and so many other stories like them. I even think about my poor in-laws who are 60+ trying to navigate the government sites to pay for their ticket, or find information about government services for their son.
+We can’t stand by while people’s lives, health, & rights suffer because of bad design.
+There are some real, very serious UX problems out there for us to tackle. For now I don't know exactly how to change it, but here are some practical steps of things you can do in the mean time if you feel the same:
+EDIT:
+After learning of this story, I knew I had to do something. When the opportunity came up I jumped at the chance to explore the ways bad design can harm users. I’m happy to say I’ve written a book with O’Reilly called “Tragic Design” with 
+Cynthia Savard Saucier
+ and a foreword by 
+John Maeda
+. The book is finally out now! I’ve left the original suggestions below but they are a small part of the solution. We explored the topic and did a lot of research. We hope by writing this book to shed light on this very important topic. Check out the book at 
+www.tragicdesign.com
+Now back to the original article…
+Get a job.
+ When searching your next job, take a look at a non-profit, government, healthcare, or other “not as glamorous” areas that need our skills. It might not be designing a chat app for teens but it may save their lives.
+Redesign it.
+ If you want a redesign project, many of these interfaces could use a facelift. Find one you think needs improved, design it and send it over.
+Start it up.
+ If you're an entrepreneur looking for a startup idea, look no further. The healthcare system is stagnant and people are desperate for change. Why not jump in and disrupt the system worth billions? 
+Katelyn is doing it
+.
+Make a sound
+. Hate the DMV site, did they mix up your medication order, can’t find how to access something? Send them an email, give them a call.
+If you are already tackling this problem. Hit me up, I'd love to help any way I can. I'm 
+@DesignUXUI
+ on twitter. I'd love to hear any ideas people have about this.
+Discuss on 
+DesignerNews
+, or 
+HackerNews

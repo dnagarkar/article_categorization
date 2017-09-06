@@ -1,0 +1,96 @@
+18 Things I Wish I’d Known When Starting Out in UX Design
+The tips that no one ever tells you
+
+I changed careers at 40 and became a UX designer. I completed a 3-month immersive UX design course in Sydney, Australia, in 2014. On completion of the course, I still had a lot to learn. Three years later these are the things I wish I’d known when I started.
+1. Be yourself
+Be confident in your skills and ability. Work in your own style rather than following someone else’s. It’s crucial to carve out your own design journey and not be too sidetracked by what others are doing.
+“You can become a good designer following others, but you’ll become a great designer telling your own story.”
+2. Embrace feeling like an imposter
+After a three month course, you can put ‘UX designer’ as your job title on your LinkedIn profile, but you’ll question whether you really are one. Don’t worry if you feel like an imposter — it’s normal. Embrace it and spend time learning more about design and the digital world of work. Be patient and give yourself a few years to get your head around it. There’s no rush.
+Be honest about your level of experience. Nothing is worse than someone with one year of UX experience and ‘senior UX designer’ as their title.
+3. Learn who you’ll be working with
+What is a product manager? What is QA? What is an iOS developer how is s/he different from an android developer? Some of these are more obvious than others, but the list is long. Here’s a starter guide:
+Product Manager: PMs investigate, select, and drive the development of products for business.
+Quality Assurance: Software quality assurance consists of monitoring the software engineering processes and methods used to ensure quality.
+Delivery Lead: Delivery leads contribute to the productivity of teams and have a huge role in defining and shaping products, in collaboration with the clients, designers, and, developers.
+Portfolio Manager: A digital portfolio manager helps you make the right calls that will add meaningful improvements to your offering.
+Business Analyst: A business analyst is someone who analyzes an organization or a business domain and documents its processes or systems, assessing the business model or its integration with technology.
+Front-end Developer: Front-end development is mostly focused on what people first see in their browser. Front-end developers are responsible for the look, feel and ultimately the design of the site.
+Back-end Developer: This is the creation of the logical back-end and core computational logic of a website, software, or information system.
+Web Developer: This is a programmer who specializes in the development of applications that run on a web browser.
+Chief Digital Officer: This is someone who helps a company drive growth by converting traditional “analog” businesses to digital ones using the potential of modern online technologies.
+4. Learn what ‘Agile’ is
+Lots of businesses are doing “agile,” but not all are doing it well or appropriately.
+“Agile is the ability to create and respond to change in order to succeed in an uncertain and turbulent environment” (Agile Alliance)
+The term “agile” was applied to this collection of methodologies in early 2001 when 17 software development practitioners gathered in Snowbird, Utah, to discuss their shared ideas and various approaches to software development.
+The values and principles were made in to a manifesto. The manifesto states that through their work they have come to value:
+Individuals and interactions over processes and tools, working software over comprehensive documentation, customer collaboration over contract negotiation, responding to change over following a plan.
+Agile resources
+12 minute video explaining agile
+12 Principles Behind the Agile Manifesto
+Coursera course: Drive to Value with Agile Methods
+5. Seek out criticism
+As a designer, you need criticism. Constructive criticism of your design work is the best way to grow. Learn to seek out criticism and don’t take it to heart. Iterate on designs where required and go through the process repeatedly. Receiving criticism is an excellent way to fail fast and move on.
+Tanner Christensen wrote a great article about “when we should ignore criticism.” In the article, he had a great quote from Mike Davidson (former VP of design at Twitter):
+“You should treat your critiques as investigations or explorations and not conclusions.”
+6. Learn to give criticism
+When you’re in a design team, you also need to give considered feedback.
+You need to understand the context of the problem a particular design trying to solve before making a judgment.
+Once you have the context and the problem, you can think about possible issues with the designs. When you’re giving feedback, you need to consider who you’re giving it to. Every designer is different, and your relationship with each person will be different. Have a bit of diplomacy when responding to designs. Mike Davidson gives some advice:
+“A good rule of thumb is: If a problem seems simple to you, you probably don’t fully understand it. You certainly might, but you probably don’t.”
+Here’s a good resource about giving feedback: How To Give Helpful Product Design Feedback.
+7. Document your projects as you go
+If you are working on a project that’ll be good for your portfolio, make sure to document the process as you go. Take photos of the journey and add them to a Medium draft, a Google doc, or whatever you prefer. Personally, I use a Medium draft to collect the photos taken, and I put notes to each as they happen. Collecting as you go saves time reverse engineering after the project is complete.
+8. Join the Designership
+The Designership is a Slack community for designers and founders set up by Michael Wong and Arthur Williams. Nick Blanche and Richard McMasters help run it. It’s a great resource for new designers who want to ask questions about any design related topics. They have different rooms for inspiration, freelance, writing, jobs, and career advice. Get on there and ask a question. You’ll be amazed how welcoming everyone is. You’ll learn a lot, and it’ll keep you inspired.
+9. Learn to sweat the small stuff
+Recently I published a Medium post on UX writing, and I got punished. The article was well received, but it was full of typos when I first published it. A combination of moving too quickly and not getting someone to proofread it caused the problem. I learned my lesson pretty quickly with some pretty harsh feedback. Anjana Menon very kindly proofread it for me, and since then I’ve used Grammarly Premium which has been a real help.
+The devil is in the detail for designers. Make sure your Linkedin profile, resume, portfolio, and blog posts are typo-free and professional-looking. For your daily work, get into the detail of the designs.
+10. Work for a business that has a good design process
+Without a proper design process, it’s unlikely that you’ll be able to create the best possible experience. When you’re looking at possible places to work, find ones that have a real design process in place and ask to see it.
+Below is the design process we follow at my work. Nathan Streater (my UX lead) formalized a process with the team’s input, and it’s transformed the way we work.
+11. Be prepared for your UX interview with these questions
+Every interview will be different, but here are some useful questions to have answers ready for:
+How do you define UX design?
+What’s your design process?
+What are some apps and websites that you love?
+How do you work with engineers/product managers/other designers?
+Who in the industry do you follow and read?
+What’s the most interesting project you’ve worked on?
+Do you prefer to work alone or with a team?
+Tell me about a project that was difficult. How did you handle the situation?
+Why do you want to work at [company x]?
+Why should I hire you?
+If this is your first UX role, be honest with questions where you lack the experience.
+12. Ask these questions to the interviewer in your UX interview
+This can be a compelling way to leave an impression.
+How many people are in your design team?
+What is your company’s design process?
+How do you see the design team growing?
+What is the business’ view on UX design?
+Do you do user testing? if so what do you do and how often?
+Where is the design team strongest and weakest?
+13. Learn the iOS and Android design guidelines
+This is useful when starting out. It’ll take time, and you may not be designing for apps right away, but it’s good to get your head into it.
+If you have an iOS phone, get an Android one to get familiar with it and vice versa. My suggestion would be to get a Nexus 5x or a pixel phone as these phones follow Google’s material guidelines pretty well. Here are Google’s Material Design guidelines
+Here are the iOS design guidelines.
+Meng To has a great resource for learning iOS design.
+14. Become a “writer-downer”
+When reading up on design, write down what you learn. I do this now but not enough when I started. If you take notes, things stick better. When you’re reading an article or studying, note down what you feel to be important.
+“When you write down your ideas you automatically focus your full attention on them. Few, if any of us can write one thought and think another at the same time. Thus a pencil and paper make excellent concentration tools”. (Michael Leboeuf)
+The brain is split up into several areas that process all kinds of information. These areas process visual information, emotions, verbal communication, and lots more.
+Before we write something down, we evaluate the ideas and put them in order the information we receive. The process of doing this and the notes we write help the content stick in our mind. In turn, this helps when we need to recall the information in the future.
+15. Become a design author
+Come up with ideas, note them down, share them and push for a response. Read design blogs and write responses in the discussions. This interaction with the design community will help you learn more about the field, and you’ll make connections with people in design from all over the world.
+16. Talk to a range of people for insights
+“Everyone you will ever meet knows something you don’t” (Bill Nye)
+I found this out over time. As a designer it’s crucial that you’re aware that anyone in your business can teach you something. Don’t get in the mindset that only designers can help you with design stuff. Talk to developers, researchers, QAs, delivery leads, product managers, and the rest. The more you ask questions of your coworkers, the better designer you’ll become.
+Don’t get stuck at your desk plugged in all the time. Get up and walk the floor and ask a few questions. Get out socially with the team when you can. Everyone has a story and lots of knowledge of their domain.
+17. Know that you’ll get overwhelmed, but don’t panic
+“Feeling overwhelmed is normal”
+I wrote an article on this as I feel it’s not talked about enough. It’s normal to get overwhelmed when you first start out in UX design. There’s so much to learn, and new things come up all the time.
+I tried to get my head around everything for a while, but it was too much. The more I tried to do, the more I struggled. Make a list of what you need to do and break it down into important chunks. Order how you’d like to get these chunks done from the most important to the least.
+18. Learn to speak in public
+I need to work on this myself. As designers, we often need to present work to clients, stakeholders, developers, etc. Being able to articulate what you want to say clearly and in a professional manner is a great skill.
+“To design is much more than simply to assemble, to order, or even to edit;
+it is to add value and meaning, to illuminate, to simplify, to clarify, to modify, to dignify, to dramatise, to persuade, and perhaps even to amuse.” (Paul Rand)

@@ -1,0 +1,56 @@
+TECH’S BIG GENDER DIVERSITY PUSH, ONE YEAR IN
+Is anyone making headway on recruiting and retaining more women? Behind the scenes at the world’s largest conference for women in tech.
+By Sarah Kessler
+For years, technology companies
+ 
+actively hid
+ the extent of their diversity problems — going so far as to 
+block FOIA requests by arguing that the gender and race makeup of their workforce was a trade secret
+.
+That changed last year, when Google, Twitter, Facebook, Microsoft, Yahoo, Amazon, Apple, and LinkedIn 
+posted their dismal diversity numbers
+ publicly. Transparency became the expected norm.
+With these disclosures came promises to evolve, the appointment of chief diversity officers, and a whirlwind of new programs and initiatives aimed at recruiting and retaining people from underrepresented groups.
+But 
+as far as numbers go
+, little has actually changed over the past few years. According to the Bureau of Labor Statistics, the representation of women in computer and mathematical operations is slightly worse than it was in 2010 (it has improved somewhat for underrepresented racial and ethnic minorities). The same is true for the more specific field of software developers.
+Last month, I attended the largest gathering of women in computing, a conference of about 12,000 people, to find out where some of these efforts have landed — and what’s next.
+Among the towering recruitment displays, women-oriented swag (“Got glass ceilings? We don’t,” read one hammer sticker), and frank discussions of gender bias, what I found was an industry that, having completed the first step of admitting it has a problem, is still 
+very much struggling to fix it
+.
+“There are all these holes all over the place,” LinkedIn’s director of engineering growth, Erica Lockheimer, who runs the company’s engineer-driven women in tech initiative as 20% of her job, told me. “And we’re trying to plug them here,” she plops her hand on the table to indicate an imaginary leak, “and here and here and here.”
+Even as men like Jack Dorsey and women like Facebook’s Maxine Williams speak about efforts to bring more women into tech, the industry remains a challenging place for the women who are already there. Women who work in science and tech are 
+45% more likely to leave the industry than their male peers
+. Nadya Fouad, a researcher at the University of Wisconsin-Milwaukee, surveyed 5,300 women who graduated with engineering degrees between 1980 and 2010 to figure out why they were leaving in droves. Those who left, her research showed, reported less manager support and were less likely to feel as though they had fair opportunities for advancement. “We wanted to show, are they leaving or being pushed out?” Fouad says. “Our data shows they were being pushed out.”
+The 
+damage this culture has caused
+ is evident at Grace Hopper. During the Q&A that follows Dorsey, and Williams’s panel, a young women takes the microphone: “I have not a question, but a suggestion,” she says, her voice already starting to crack. “This summer, at my internship, I found the interns did just as much damage to people from underrepresented backgrounds as their teams and their bias supervisors. If we’re talking about implementing policy and implementing bias training, we need to start early. And teach the interns.”
+It’s not just a problem in recruiting.
+Women drop out of companies at every level of technology, but 
+the disparity in the rate at which they drop out at the top is more jarring
+. Which is a shame, because senior women are one way to attract younger women to a company. “Women at the senior level are beacons for other women,” says Elizabeth Ames, the Anita Borg Institute’s senior vice president of marketing, alliances, and programs. “If you go interview at a company and there is nobody at the senior level who looks even remotely like you, is that a place where you think you’ll be comfortable or able to achieve?”
+So how can a company attract a diverse workforce without diversity?
+Tech companies have tried to fix the pipeline: to 
+partner with organizations like Girls Who Code
+, demonstrate that 
+computer science isn’t only for boys
+, 
+change Hollywood’s portrayal of scientists
+. They have tried to fix some leaks in the pipeline: to create mentoring and 
+networking opportunities
+ for women in their companies, give scholarships to women in computing, and 
+create engineering-led task forces
+. They have tried to fix their hiring practices: to change the places they recruit, 
+reword job descriptions
+, and increase referral bonuses to reward diversity. They have tried to fix their culture: instituting implicit bias training, creating programs like a pilot from LinkedIn called “inclusivity training.”
+Clear goals are one way to firmly connect diversity to long-term business interests and engage managers in the process. “In business,” says Cecily Joseph, Symantec’s vice president of corporate responsibility and, as of two years ago, its chief diversity officer, “you make goals around everything that’s important. If you don’t make goals, you won’t do it, and it’s not important.”
+Pinterest
+, 
+Intel
+, and 
+Twitter
+ have also set diversity goals publicly. Most other large tech companies have not and weren’t willing to discuss why.
+But the diversity elephant has been dragged into the room, and tech companies are at least beginning to address it. “Everything is wonderful, except for one thing,” Nora Denzel, the vice chair of the Anita Borg Institute Board of Trustees told Sheryl Sandberg at a keynote panel. “The numbers aren’t moving.”
+Read the full story on 
+Fast Company
+, and tell us what you think needs to change to recruit and retain a more diverse workforce.

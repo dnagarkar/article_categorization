@@ -1,0 +1,35 @@
+How to get the most out of performance reviews and own feedback
+This is the 10th post in my 
+Junior Developer Diaries
+ blog series. I’m writing more every week, and you can sign up to hear more and read previous posts on 
+my website.
+Performance reviews a pretty critical in a healthy business, they let you and your manager have a frank conversation on what you are doing well, and what you could be doing better. Generally they’re sourced from management, but in the case of 360 reviews, they might include your peers or direct reports.
+Generally, I love the chance to hear this feedback. For some reason, people often won’t give you feedback day to day, but a time where people are explicitly asked to review you, a lot of good feedback is given.
+Once this feedback comes in, it’s time for your performance review. This is your yearly or half yearly time to get feedback, grow, negotiate position and remuneration.
+Be Open to the Feedback
+On hearing your feedback, your first instinct may be to get a bit defensive. You might start to feel embarrassed to hear what you’ve been “doing wrong” and you might panic and blurt out justification for every scenario. That is natural, but should really be avoided. If you’re still confused, try ask for some scenarios which you exhibited the undesirable behaviour. 
+And then stop there
+. Write it down and wait until after the meeting to think about. Really introspect on the feedback. Think about those scenarios, what you were thinking and how it happened. What you’re trying to do is to get to the root of why you acted that way. Are you unhappy with something? Are you lacking confidence? Are you frustrated with the other person? What is it? Trying to surface that core truth, that root of the issue, will really grow you as both a person and an employee. This is one of the key differences for me between a junior and senior, in tech and life, is self awareness. Know what you’re good at, and what you struggle with, and how you work on that.
+Work On A Fix
+After the meeting, and this introspection (I personally like to take a long run to think about it — but you do you) start coming up with a plan. You should then share this plan with your managers and get feedback on that. Use these one-on-one (1:1) sessions (if you don’t have these, ask) to make sure you’re improving and getting better. Once again, come armed with examples and results. I feel employers value employees more who work on themselves after hearing feedback than those who don’t. Initiative goes a long way, and it’s not a managers job to fix you, it’s your job. Their job is to collect and report feedback, not implement it.
+Pay and Raises
+Let’s say you’ve done this, and the next performance reviews have rolled around (or there was not much to work on), and you think you’re in a good place to ask for a raise. The key here is preparation. You should really get prepared for these meetings. Take an hour or so and try to write down everything you’ve done for the business since the last review. This may include features shipped, people you’ve trained, blog posts you’ve written or anything you believe to be “extra” than your normal expectations. However, also note down anything you know you could have done better, or anything where you know you learned and grew as an employee. Think about the value you add to the business and argue how it’s more than you think you currently are compensated for. Hopefully your manager agrees!
+But let’s say they don’t, and there’s no raise. Your first response should be to ask “What do I need to do here to get a raise?”. Try to get exact steps or goals to achieve. Nothing too abstract such as “try harder” or “work faster”. Any good manager should be able to articulate what they want to see from you in order to give you a raise.
+If they can’t, then you need to get out. A real red-flag for any business is the ability to either A) Not raise you (lack of funds) or B) Not have competent enough leaders to help you grow. If you find either of these, it’s really time to hand in your resignation and find a company than creates an environment where you can grow, and reward you for that growth.
+Performance Reviews and One-on-ones are the most helpful tool for your self-awareness and self-improvement in your career. Prepare for them and after, work hard on what you hear. When it comes to pay, believe in yourself, arm yourself with evidence and learn ways the business can let you contribute even more. Good luck!
+This is the 10th post in my 
+Junior Developer Diaries
+ blog series. I’m writing more every week, and you can sign up to hear more and read previous posts on 
+my website.Hacker Noon
+ is how hackers start their afternoons. We’re a part of the 
+@AMI
+ family. We are now 
+accepting submissions
+ and happy to 
+discuss advertising & sponsorship
+ opportunities.
+If you enjoyed this story, we recommend reading our 
+latest tech stories
+ and 
+trending tech stories
+. Until next time, don’t take the realities of the world for granted!

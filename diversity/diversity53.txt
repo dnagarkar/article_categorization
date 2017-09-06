@@ -1,0 +1,115 @@
+Donations and Women in Tech Panels are NOT a Diversity Strategy. Do Better.
+A 
+study of data from 366 companies
+ found that ethnically diverse companies are 35% more likely to perform well financially, and gender diverse companies are 15% more likely to perform well financially. 
+Scientific papers written by diverse teams
+ receive more citations and have higher impact factors. Teams with more women perform better on 
+collective intelligence tests
+. So, successful tech companies must be working hard to create genuine, meaningful, diversity initiatives, right?
+Facebook — A short case study in bullshit diversity “strategies”
+“
+Diversity is central to Facebook’s mission
+,” we’re told. So given that Facebook hired 1,231 people in 2013, how many black women were amongst them? The total count was…
+One
+.
+Facebook keeps making the same lazy excuses about the “
+pipeline
+,” that improving diversity “
+will depend upon more people having the opportunity
+ to gain necessary skills through public education.” Apparently, the 
+90,000 Black and Latino graduates
+ with computer science majors in the last 10 years in the US are not sufficient for Facebook. It’s not like they’re being snapped up by other tech companies either — 
+less than half of them got jobs in tech
+.
+Facebook is a homogenous company.
+Instead of actually hiring or retaining employees from underrepresented groups, they instead publish press releases with titles like 
+Facebook Diversity Update: Positive Hiring Trends Show Progress
+, with their top highlighted point having nothing to do with improving diversity at Facebook (a donation to Code.org and a website for parents). None of which seem likely to help with the real “pipeline” problem — the pipeline that funnels underrepresented groups right out of tech, even for those few that somehow manage to get in — 
+41% of women working in tech end up leaving the industry
+ compared to just 17% of men.
+Bullshit diversity strategies are everywhere
+Tech companies boast about hosting women in tech panels and donating money to elementary school kids, while they refuse to hire talented Black and Latino/a computer science grads and drive women out of their workforces through negligence and ignorance. Apple’s 18 person executive team consists of 15 White men, yet it rejected a diversity proposal as “
+unduly burdensome and not necessary
+.” Instead, they prefer to highlight their own diversity washing initiatives, such as sponsoring the Grace Hopper Conference, an event notable for for its 
+lack of racial diversity
+, for being a way for 
+corporations to buy good publicity
+, for 
+being ineffective
+, and for 
+inviting men whose companies are failing at diversity
+ to be keynote speakers. They also want us to know that they donate iPads and MacBooks to school children — they somehow equate inculcating young kids into the cult of Apple with improving diversity in tech, although the logic is unclear.
+Male dominated tech executive groups spend a lot more time talking about diversity than actually doing anything about it. Overall, 45% of women report their company’s leadership is vocal about advancing women, yet 
+only 25% say that the company provided actual support
+ to match the talk. Women are fed up with this disconnect.
+I have a math PhD, have been coding since I first learned C++ as a teen in the late 90s, and have worked as a quant, a data scientist, and a software engineer. When I went through a time where I felt so alienated by tech culture that I considered leaving the tech industry all together, I wrote 
+an article that debunks the pipeline myth
+, which has been read by about 200k people. I next studied the research literature on diversity programs and found that 
+companies’ shallow, showy diversity efforts are making things worse
+. Having seen the problems firsthand and having read dozens of studies that document the challenges, I’ve been disheartened by the shortage of documented effective strategies for improving diversity.
+What actually works
+Based on the research I’ve studied, as well as my experiences and the experiences of many female engineers that I’ve spoken with, I have 3 key ways that companies can make a genuine difference. In the upcoming weeks, I’ll publish a separate post elaborating on each of these:
+Treat the women and people of color already working at your company well, including paying them equitably and preparing them for promotions.
+ 
+Research
+ shows women are leaving the tech industry mid-career because they’re unable to advance. A study of 4,000 women found that the #1 reason women leave companies is because of “
+a concern for the lack of advancement opportunity
+.” Another study found that 
+27% of women in tech feel stalled in their careers
+ (48% for Black women) and 32% are likely to quit within one year. Women are 
+less likely to get their ideas green-lighted
+ for development than men (30% vs 37%), and are 
+excluded from more creative/innovative roles
+ and instead channeled into less fulfilling execution roles. 
+Stanford researchers
+ found that women are more likely to receive vague, useless feedback on their performance evaluations, whereas men receive concrete, actionable advice that helps them get ahead.
+A 
+study
+ analyzing data from Google, Hewlett-Packard, Intel, LinkedIn, and Yahoo, found that 
+white men have a 260% advantage over Asian women
+ when it comes to being promoted to the executive level. The numbers of Black and Latina women executives at these companies were so small as to be unstable to use in calculations. A study by the American Institute for Economic Research found that on average 
+Latina women software developers earn 20% less than White men
+. Latina, Asian, and Black women software developers all earn less than White, Black, and Asian men, and less than White women.
+Think of the women and people of color who work on your team or at your company, and 
+think about what it would take for them to be ready for a promotion next year
+. For instance, maybe they need more training, placement on high profile projects, or having their accomplishments brought up in high level meetings. 
+Go provide that.
+ This is help that white men are more likely to receive and that others are inadvertently excluded from due to unconscious bias.
+2. 
+Overhaul your interview process
+.
+ Tech interviews are a painful process for almost everyone, but they are particularly bad for women and people of color. They’re bad for companies too, because companies don’t end up with the best teams. 
+A study involving technical interviews with over 300 candidates
+ and comparisons of where those candidates got offers/rejections concluded that 
+instead of hiring programmers that have the skills the company needs,
+ 
+founders hire people that remind them of themselves
+. Since only
+ 
+3% of VC funding goes to women and less than 1% goes to Black founders,
+ how rare is it for a founder to think that a Black woman candidate reminds him of himself?
+ 
+This approach is frustrating for candidates, and inefficient for companies that end up not even hiring the people they most need. Unless you completely overhaul your hiring process, you will be oblivious to the talent right under your nose.
+3. Institute onboarding. 
+Even if you succeed in hiring more women and people of color, you are setting them up for failure without 
+proper onboarding
+. Engineer Kate Heddleston noticed that for employees starting with the same experience level, 
+again and again men were getting promoted much faster
+ than women. Lack of onboarding was the source of the difference.
+ Valuable information is shared through informal social networks
+, and people who differ from the majority group (such as women, people of color, trans people, parents, and older employees) will have the most trouble integrating into these networks. Comprehensive onboarding is necessary to 
+make sure that everyone has the information they need to succeed at their jobs
+.
+The bad news is that these strategies are more work than just making donations or hosting a diversity panel. 
+The good news it that any company can do this.
+ You don’t need the funds to make donations, spend a lot on PR, or even to hire a head of diversity.
+Many thanks to Jeremy Howard for substantial contributions to this post.
+This post is part 1 in a series. Part 2 covers how 
+women are leaving tech because they can’t advance in their careers
+ and Part 3 teaches you how to 
+make your interview process more fair
+. You can also read my personal story of 
+how I almost left the tech industry
+, and the research on how 
+showy, shallow diversity strategies make things worse
+ for women and people of color.

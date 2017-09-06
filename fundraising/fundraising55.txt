@@ -1,0 +1,66 @@
+Best Pitch Decks Ever: The Most Successful Fundraising Pitches You Need to Know
+Also shared on 
+Startups.co.
+T
+here are many examples of beautifully designed decks from startup companies that successfully raised funds from investors and became multimillion-dollar businesses — all thanks to a few presentation slides. So, in order to come up with a perfect pitch deck, it would be good to take a look at what worked well for other founders.
+The ideal investor presentation for a company would depend on its product, needs, vision, team, and audience. These are the best ones picked based on different criteria.
+BEST BUSINESS SCHOOL-APPROVED DECK: YOUTUBE
+Youtube pitch deck
+ 
+from 
+Alexander Jarvis
+YouTube’s 2005 pitch deck is a classic. It closely followed Sequoia Capital’s suggested deck template for startups with excellent results, since YouTube was launched primarily by an $11.5M investment from Sequoia. The company was eventually acquired by Google for $1.6 billion in 2006. It is now known as a pioneer in the way people publish video content on the web.
+The deck is a study in restraint. The simple Powerpoint presentation clearly defines in one slide the problems that users experience when sharing video files; then it gives corresponding solutions in the succeeding slide. The rest of the slides are as uncomplicated. They all contain two to four bullet points with each bullet at most four lines long. The statements are simple and straight-to-the-point while avoiding the use of jargon that plagues a lot of tech pitches. Even the graphs in the appendices can be considered basic, yet they present data that is useful to potential investors.
+These days, YouTube’s minimalist deck design might come across as outdated, but it does demonstrate that any good presentation should have a solid backbone. Following a prescribed deck outline will not only help in organization and flow, but it can also be a strategic decision for a pitch. When in doubt, go back to business school basics and build on an idea in a logical manner that everyone will understand.
+BEST TRENDY TAKE ON A CLASSIC: GUSTO (FORMERLY ZENPAYROLL)
+Zenpayroll Pitch Deck Template
+ 
+from 
+Joseph Hsieh
+ZenPayroll was founded by its CEO Joshua Reeves, himself an angel investor. He recommends all startups to have a deck especially during the seed round, because “[it’s] how you present your story.” The company raised $6.1 million from Silicon Valley bigwigs that included the founders of Dropbox, Gmail, and YouTube using a deck that starts off with a bold declaration of its vision. It released the presentation template it used in the hopes of helping other startup companies share their vision with investors.
+The deck contains all the elements of the usual pitch, but with a few tweaks. It gives a general overview of its environment first starting with the market and the industry landscape before detailing the problem and its solution. Many deck outlines, like the guides set by Guy Kawasaki and Dave McClure, begin with the problem and discuss the business milieu after. Though, it is possible that ZenPayroll opted for this format because its product caters to businesses and not mass market consumers. The problem is very specific to the HR industry and might not be familiar to investors outside of that industry, so an initial understanding of the environment is vital.
+A unique slide included in the deck is titled This is Only Possible Now, which is similar to the Why Now? slide in Sequoia’s prescribed outline. It is supposed to contain the reason why now “is the time for your product and your business to succeed.” Many pitch decks, including that of YouTube, skip this slide. However, it creates a sense of urgency and gives the presenters a chance to explain the relevance of their product amidst current market and technological trends. A lot of startups fail to launch not because they don’t have great ideas, but because investors simply find them premature.
+BEST SHOW, DON’T TELL: FOURSQUARE
+Foursquare’s 1st Pitch Deck
+ 
+from 
+Rami Al-Karmi
+Foursquare’s pitch deck can be considered as non-traditional as it functions more as a user guide than an investor presentation. Nonetheless, the tactic worked for the company and raised $166.35 million in equity funding from 18 investors including Microsoft, Morgan Stanley, and Silver Lake Partners. Its gamification of “check-ins” is currently building the foundation for a global location intelligence industry.
+Veering away from the traditional pitch deck format might be beneficial if the presenters want to demonstrate exactly how the product works and how existing users are currently making use of the product. Talking about “mayorship” and “badges” in Foursquare terms is easier when the audience can see it in action. It provides solid proof of the product, which might already be enough to convince investors, especially if the concept is that good.
+Furthermore, Foursquare offers distinct solutions to two different markets: consumers and advertisers. Its deck is able to weave together the discussions for these different solutions by going with a format that works best for its purposes instead of abruptly switching topics within the presentation or making two separate presentations for the sake of coherence. The focus of the presentation is mostly on the functionalities of the app, which are relevant to both markets.
+BEST SIMPLIFICATION OF A COMPLEX PRODUCT: DWOLLA
+Dwolla Startup Pitch Deck
+ 
+from 
+Joseph Hsieh
+Dwolla is the result of its founder’s own problem of paying thousands of dollars in credit card fees. The company’s pitch deck certainly keeps this pain point in mind for every slide as it keeps reminding the audience about the central issue and how Dwolla can solve it. Technicalities, legalities, and financials are a crucial part of a fin-tech startup pitch. However, the deck’s design and format allow for the presentation of necessary information without overwhelming the audience. The pitch was a success, and the startup received $16.5 million from venture capitalists.
+The slides on How Cards Work and How Dwolla Works are good visual representations of the difficulty of fund transfers through the usual payment channels versus the ease when using Dwolla. The two contrasting flowcharts show that the former method takes too long and costs more money, while the latter takes less than a second and costs only a negligible amount in transaction fees.
+Like Foursquare’s deck, it opts to show, not tell, the complexities of the product by making data easier to digest through visuals. Even if the audience is comprised of investors who are stereotypically well-versed in finance and technology, remember that they only have a few minutes to understand each slide and it is also possible for them to get bored. Investors understand the challenges of any business process and will ask for clarifications later, if the need arises.
+BEST DECK ABOUT NOTHING: ITAY ADAM
+It’s a Slideshow About Nothing
+ 
+from 
+Shahar Goldfinger
+This five-slide deck is worthy of mention simply because it is about nothing, but raised $2 million dollars in funding. Subversive and clever, the presentation took inspiration from the show Seinfeld, which was also pitched as “a show about nothing.” While simple, Adam’s pitch is far from being lazy. What he lacked in concrete information about his product and company, he made up for in entertainment value. He faced investors with what is essentially a 40-minute stand-up comedy routine and a few bare slides about a dream team of seasoned industry experts that included himself.
+Though the rest of his concept is highly speculative, his main idea is clear. That’s what fundraising pitches basically are — an invitation to take a leap of faith. So no matter how complete and info-packed a pitch deck might be, if the presenters can’t persuade their audience to believe in their dream, then it will not become a reality.
+MAKING A “BEST” PITCH DECK BE PURPOSEFUL WITH THE FORMAT
+Don’t get creative with the deck’s format just to be creative. Classic templates similar to the ones used by YouTube and ZenPayroll have been tried-and-tested in many successful investor pitches, so they definitely work. The format is also one that most investors have come to expect and taking a different route might end up confusing them.
+However, there are instances when being different makes sense and will even help a presentation stand out from a sea of other pitch decks. For example, starting with a slide on the team members is good if they have impressive backgrounds that are relevant to the product or their names have notoriety within the industry.
+Although, it’s not necessary to do a complete overhaul of the traditional deck template. Slightly rearranging slides or adding new ones can already improve the impact of a pitch.
+CREATE A SENSE OF URGENCY
+This sense of urgency can be created in different ways. It can come from the fact that a concept’s time is now as in the case of ZenPayroll. The solution being offered is perhaps timely and addresses real, current issues. The company can also present its product as a once-in-a-lifetime opportunity or an exclusive deal that investors don’t want to miss out on.
+What’s important is that this urgency is clear in the pitch deck. A slide can be dedicated to this aspect of the pitch, or it can be a recurring theme throughout the presentation.
+THINK OF THE ENTIRE DECK AS A VISUAL AID
+There’s no need to put huge blocks of texts when a simple diagram or graph can easily explain the message of a slide. Learn from Foursquare’s presentation, which has photos of the app as users see it. Understand that a deck is not a paper report or a book that will be silently read; it is meant to be used as a visual supplement to a speaker’s story.
+Spend time on creating the graphics and visual elements that will be included in the deck. If necessary, hire an artist to make them, but presentation software apps like Slidebean already have a lot of graphics built into the templates that will make pitch decks look professional and engaging.
+AIM TO ENTERTAIN
+As Itay Adam demonstrated, the art of persuasion lies in entertaining the audience. He hired a professional screenwriter to help with his amusing presentation and it paid off in the end with a pitch that seemed effortless. However, when the presenter is not a naturally gifted entertainer, he or she can instead make up for it in other ways.
+A visually stimulating deck, as described in the previous section, can already be quite entertaining. Product demonstrations and audience interactions, when the pitch format and venue allows, will also make a presentation more interesting. In addition, presenters should practice their delivery and learn how to build rapport with an audience. A gorgeous deck becomes worthless if the speaker is unable to properly articulate his or her message and heavily relies on the slides to carry the entire presentation.
+CHOOSE WHAT’S AUTHENTIC
+Foursquare can’t use Dwolla’s deck and expect the same results it got from its original pitch deck. Conversely, its unusual social media-based deck might not work for Dwolla’s fin-tech solutions. The most successful pitch decks are best appreciated within the context they were created. A young, inexperienced startup founder is unlikely to get away with blatantly copying the odd pitch done by Itay Adam, who is a veteran at pitching. It will not only come across as contrived, but the attempt at giving a creative pitch by imitating another ultimately makes it unoriginal.
+Take a cue from the advice given at the end of ZenPayroll’s deck template: There are many different styles or formats you can use to present your vision and potential. Above all, choose what’s most authentic to you.
+Every day we share the TL;DR version of everything interesting happening in the startup world in the Startups Daily Newsletter. 
+Sign up here to get future issues.
+Got an interesting story? Awesome. Send it our way — 
+stories@startups.co
+If you dig our stuff, please hit that little ♥ to spread the word.

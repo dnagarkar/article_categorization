@@ -1,0 +1,61 @@
+The Subconscious Advantage of Whiteness in Hiring
+“I noticed there are a lot of white candidates in the pipeline, but are they 
+‘qualified’
+?” — said no organization, ever
+In a recent article published by HBR despairingly titled, 
+We Just Can’t Handle Diversity
+, it was revealed candidates are evaluated not solely on merit (as we often aspire and hope) but on race/ethnicity e.g.:
+…The most common criteria for moving candidates from the middle to either the “yes” or the “no” pile were communication skills (referred to as “polish”), analysis of a sample business case, the math used to support that analysis, and cultural fit. But the interviewers weighed and judged those criteria differently depending on the race, ethnicity, or gender of the candidates.
+O
+ver the years, I’ve recruited the best and brightest leaders for some of our nation’s highest performing edtech start-ups, school districts, non-profits and charter management organizations. I’ve earned a seat at the table with Boards, CEOs and Executive Directors which has allowed me to see firsthand how whiteness is advantaged, often subconsciously, in recruitment, selection and hiring processes.
+Recently, I was working on a senior level search for a national non-profit. My partner and I built a strong talent pool — we made sure we were aligned and calibrated with our client every step of the way and got the green light on each candidate during our weekly call.
+Here’s a simplified profile of one of our candidates, Naima*:
+Naima’s Profile
+We were feeling great about our pipeline until our client hit us with:
+“I noticed the pool is very diverse and I want you to know 
+diversity is important, but quality matters most
+”.
+Let’s ignore, for a moment, the fact that diversity and quality are not mutually exclusive, or that our pool included diverse candidates who exceeded the qualifications for the role along multiple metrics: experience, skills, academics, etc (see Naima’s profile above).
+I wish that comment and insinuation were an outlier, but I’ve heard it countless times in my work. If this were simply an outlier, I’d chalk it up to a lack of cultural competence but there’s an undeniable pattern. Certain key phrases kept recurring, “culture fit”, “quality” and “my gut”, all too familiar euphemisms for the hairy mammoth in the room: race.
+Meanwhile Matt*, a white male candidate applied (see profile below):
+Matt’s Profile
+Although Matt had less aligned experience, fewer years of experience, and did not have an advanced degree as preferred by the client — i.e. Matt was average by many respects — he was still advanced to the final stage of the selection process alongside Naima and interviewed with the CEO.
+…Black and Hispanic men were often seen as lacking polish and moved to the reject pile, even when they were strong in other areas, whereas white men who lacked polish were deemed coachable and kept in the running. A similar pattern emerged among men who appeared shy, nervous, or understated: Nonwhites were rejected for being unassertive, but in whites, modesty was seen as a virtue (HBR, 
+We Just Can’t Handle Diversity
+).
+While Naima was ultimately hired by our client — she was the best and most qualified candidate for the role — below is a table highlighting what Naima’s interview process should’ve looked like vs what it became:
+There are two glaring differences between the processes. Naima’s process was extended several weeks and included three additional steps lending credibility to the adage, “you have to work twice as hard to get half as far” as a person of color.
+While we recognize the many barriers involved in neutralizing bias in the hiring process and will share common challenges we’ve observed, we’re optimistic about organizations’ ability to adapt more inclusive practices and we’ll present some approaches that have worked for our clients:
+There aren’t enough qualified candidates of color
+…we’ve heard the 
+pipeline excuse
+ time and time again, most recently in regards to the tech industry’s stagnant diversity numbers and we reject the notion that qualified candidates of color don’t exist (see: 
+Education Pioneers
+, 
+Code2040
+, 
+Surge Institute
+, 
+Latinos for Education
+, 
+Camelback Ventures
+, 
+ImpactLab
+, 
+SEO
+ and 
+MLT
+). Instead, we suggest taking these alternative approaches:
+2. Diversity is important but… 
+this seemingly innocuous statement reveals a troublesome mindset. Here’s why it’s problematic: it assumes diversity and quality are diametrically opposed and perpetuates the myth that people of color are not as capable or intelligent as others:
+3. Not a culture fit…
+ when we make decisions based on “fit” instead of competencies, experience or skills we’ve invited the maximum amount of subjectivity into the process. It’s important to unpack and articulate what “fit” actually means:
+Admittedly, addressing the three barriers above are not “the answer” but steps in the direction of overcoming challenges organizations face with recruiting talent of color. In case you’re wondering what happened to the non-profit client that insisted diversity was important but quality mattered most… a few weeks ago, our client wrote my partner a letter expressing the following:
+“I am so thankful that you pushed me to reconsider my initial review of [Naima]... Working with [Naima] has been one of the true joys of my job in the past year, and I really credit you to finding her, cultivating her, and convincing me that she was our person. This organization simply would not be where it is today without her…”
+When we put our biases aside and genuinely assess candidates on the skills, competencies and mindset they possess versus superficial measures such as familiarity, similarity, “gut” or race, we enable organizations to hire rockstars like Naima that reflect the students and communities we often serve.
+* Candidate and client names were sanitized to protect their identity out of respect for privacy
+__________________________
+Leniece F Brissett is the founder of 
+Compass Talent Group
+ a national firm building diverse and inclusive leadership teams for education organizations. When she’s not reading the latest Coates piece in The Atlantic, she’s exploring the arts in Oakland and brainstorming with thought leaders across the education and technology sectors on D&I issues. Leniece graduated from the “school of hard knocks” in the Bronx, NY; she’s a former teacher but life-long educator and holds a Master of Arts degree in Sociology and Education from Columbia University.
+Share your experience with interview bias as a jobseeker or hiring manager in the comments.

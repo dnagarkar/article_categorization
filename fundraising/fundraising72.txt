@@ -1,0 +1,188 @@
+How to Develop Your Fundraising Strategy
+Raising money is hard. And when you’re relatively new to the process it’s easy to be confused by the process. There is all sorts of advice on the Internet about how to raise capital. Of course much of it is conflicting.
+I’ve raised money as a “hot company” and I’ve raised capital when no one would return my phone calls. I’ve raised in boom markets and when everybody thought the Internet was a fraud. I’ve raised seed rounds and A-D rounds. I raised money as an entrepreneur, like you, in 1999, 2000, 2001, 2003 and 2005 for two different companies.
+And of course I’ve sat on the other side of the table: As a VC. I now observes the fund raising process as a profession. And I also now have to raise money myself, but this time from bigger institutions that our industry calls LPs (limited partners).
+I’ve tried to make this advice as well-rounded and biased free as I can. This is not just the perspective of a VC although I can’t say I have zero VC bias. This is the fund raising perspective from both sides of the table.
+Executive Summary
+For those that want the answer without reading a long post — here it is. Fund raising (as is much of life) is a sale — pure and simple. The sooner you understand that the sooner you can plan your campaign.
+As with any sales campaign you need to:
+Qualify your buyers early so you focus your scarce resources on people likely to buy your product
+Spend time researching your buyers and not just pitching them
+Call high. Partners make investment decisions.
+Meet in person. They’re not buying a book on Amazon or shoes on Zappos. They’re buying you. And that doesn’t work remotely.
+Build a relationship with your investors over time. “People buy from people they like, trust, respect and … believe.” (Zig Ziglar). Trust doesn’t come from one 45-minute Powerpoint pitch or 30-minute demo.
+Create scarcity. Three rules in sales: Why buy anything? Why buy me? Why buy now? 
+If you haven’t read my post about that, you should
+. The hardest is the last: Why Buy Now. People avoid difficult decisions until they have to make them.
+Every company is different so it’s hard to listen to advice from the uber-successful fund raisers. Their story will likely be very different from yours. Fund raising is bloody hard. It takes a lot of work. Don’t believe otherwise.
+If you want to 
+watch the video version summary of my advice on fund raising it’s here
+. It’s an hour and has tons of insights on the process. Tell a friend! ;-)
+And now, the details …
+1. Identify the right target investors
+Every investor is different. I never suggest that entrepreneurs just randomly pitch VCs. Start by trying to narrowing the list of total prospective VCs. Create a spreadsheet or list them in a CRM. The total universe of VCs are what we call in sales “suspects” — otherwise known as “the top end of your funnel.” But focusing on too many is a mistake. You want to narrow the suspects into a group called “prospects.” These are people with whom there is a likely match for your product or service. This narrowing follows the three golden rules of sales: qualify, qualify, qualify.
+Remember again that 
+the three major steps to a sale are: Why buy anything? Why buy me? Why buy now?
+ If you can solve these three major questions you’ll sell. The first step in the qualification is “why buy anything?”
+In VC terms that means the key questions you need to answer are, is this investor:
+Geographically focused and have they invested in my geography before? (most Seed or A round deals will be done by an investor in your region so that should help you to focus. Other investors have national practices. Know which one you’re talking with)
+Right for my stage? (approaching an investor who normally does $20 million C rounds for your $2 million funding round is a waste).
+Focused on my industry? (I get approached about clean tech or biotech periodically — I don’t focus on these. You’re wasting your time with me).
+Already invested in one of my key competitors? VCs are unlikely to invest in direct competitors so you will normally be qualified out.
+Do they have money to invest? (look at how many deals the firm has done in the past 12 months. If it isn’t many (or any) that should tell you something. You can also find out when they raised their last fund. If it was more than 5 years ago you probably want to ask around a bit to see whether they’re still investing).
+Also recognize that WITHIN a VC you have partners who focus on different areas. For example, if you’re looking to approach Kleiner Perkins it’s worth knowing that my friend 
+Matt Murphy
+ runs their iFund and therefore is the in-house expert on all things mobile. I’m sure there are many partners at KP that know the mobile space but if you’re a “mobile first” company you’d be well served by focusing on Matt. In Accel that’s 
+Rich Wong
+. At GRP that’s largely me.
+If you’re raising money in Financial Services I’ve never met a more knowledgeable investor than my partner, 
+Brian McLoughlin
+. He’s focused on that sector (not exclusively but predominantly) and therefore has an amazing network at large financial services firms to help you with business development. He knows the history of all of the payment gateways, mobile payment platforms, credit offerings, remittance companies, etc. Others that are experts in this field include 
+Matt Harris
+ at Village Ventures and 
+Jim Robinson
+ at RRE. Approaching random VCs who aren’t experts in FS makes little sense.
+In ad tech there’s 
+Seth Levine
+ at Foundry Group and both 
+Dana Settle
+ & 
+Ian Sigalow
+ at Greycroft.
+And so on. Not trying to be comprehensive here — just making sure you know that partners & firms are often focused. Fred Wilson likes, “large networks of socially connected people” while Foundry lists its 
+5 key themes 
+on its website. Do your homework.
+I do the same. When raising money for GRP, I look at my suspect list and say, “Do they like VC versus buy-out funds? Have they invested in new VC relationships versus just doing investments in firms in which they have long-standing investments? Do they invest in funds that are $200–300 million versus $50 million or $500 million.” I use the same methodology I am advocating to you.
+2. Determine how to get access to them
+In the era of social networks, LinkedIn, Facebook messaging, Quora and email addresses that are easily guessable, it’s easy to think that maybe you should just approach a VC directly. They seem so reachable. Yet this approach in my mind is the equivalent of spam. I get many Tweets directed at me that say, “come check out my product.” Even if I wanted to be this accessible, I could never find enough time in the day to evaluate every single person who approached me. Neither can any VC. So they develop short-hand ways to qualify things better. The main way they qualify is to determine who introduced them and the veracity of the introduction.
+As I like to say, in the era of social networks and transparency if you can’t figure out how to get introduced to a VC then hang up your cleats now. You’ll never make a great entrepreneur. I wrote a longer post on 
+how to access VCs
+ that you should read.
+But the short answer is that the best intro is from a portfolio company of that VC or by other entrepreneurs whom that VC respects. So your journey to fund raising begins by strengthening your relationships with other entrepreneurs. You need to build genuine relationships with these portfolio startup founders as well as trust with them and the rest will follow. Earn the right to the intro. I often recommend that entrepreneurs try to focus on building relationships with younger companies that aren’t already “big time” because they’ll have more time and willingness to help.
+Approaching Dennis Crowley to figure out how to get access to his earliest investor, 
+Bryce Roberts
+? Not so much. And trust me, if you’re early stage you DO want to meet Bryce. He’s awesome for early-stage entrepreneurs.
+3. Meet early
+There is much controversy on this topic. I have laid out my philosophy in, “
+I Invest in Lines, Not Dots
+.” If you haven’t read that you should — it’s one of my most re-tweeted posts. There is the school of people who tell you that you should only meet with VCs when you’re ready to raise. Their arguments are:
+a. Fund raising is too time consuming and meeting early is wasting time
+b. The VC will get a bad impression of you and you should wait until you’re on your best footing to raise.
+Both of these arguments are logical and thus many entrepreneurs buy them. They’re both flawed, though.
+“Fund raising is too time consuming”
+ … yes, fund raising takes time. If you save it all for some mythical 6-week period every 18 months where you hit up all the VCs at once — sure, it will consume much of those six weeks. But as I’ve argued before, you need to ABR (always be raising). By constantly taking focused VC meetings you’ll have relationships established for when you are ready to raise. As the CEO you have many tasks you need to do on a regular basis. Call it your functional pie chart. These include building products, recruiting, managing your finances, marketing, selling, getting feedback from customers and … fund raising.
+It will be at least 5% of your week so if you work a 60-hour week (I know, I know, you work more) then you should dedicate 3 hours per week to fund raising. Maybe up to 6 hours.
+Remember that if you’re meeting with targeted investors you’re meeting people who can challenge your thinking. You’re meeting with people who can help you with introductions. You’re meeting people who can give you market insights and information. REAL information. Not what you read in the press. And of course you’re meeting people who can give you money. It takes money to grow a business.
+Most VC partners do 2–3 deals per year max (except for the higher volume shops). So the odds are never great for you. But VCs want to be helpful — even when they can’t invest. So they go out of their way to offer advice and introductions. The shortest path to meeting hard-to-meet entrepreneurs or senior executives at a big company is to have a VC who likes you, but isn’t yet ready to invest in your company, introduce you.
+“VCs will get a bad impression of you”
+ … also logical but slightly misleading. So let me be clear. DO NOT show up at a VC meeting unprepared. Do not “wing it” and see how the meeting goes. Know your plan in advance. Know what you’re going to discuss. Know how much information you’re going to give. Know that it is HUGELY important to make a good impression.
+What I advocate is letting the VC know that, “you’re not yet fund raising but you’re building early relationships because you’re going to be fund raising in the near future and you want to start determining where there are good matches in the industry for your firm.” All VCs want early access. If they see you when you’ve already got your first term sheet and they’ve got 3 weeks to decide then by definition they have no relationship with you. So winning means they’re paying the highest price.
+Sure, some people work this way. I think it’s a terrible way to work. When I get these inevitable emails or calls I respond the same way, “It’s a shame for me that I’m too late to your process. Why don’t we meet right after you raise your money so we can start a relationship early for your next round.” And I mean it.
+Fab wrote a popular post
+ on fund raising in which they advocated a very different approach to mine. Their approach worked for them because their business is super hot and on fire. I introduced one of my dearest friends and one of the most talented guys I have worked with, 
+David Lapter
+, to the company and he became CFO. So I know how first-hand how awesome Fab is. And the CEO is experienced. If your business is totally killing it please follow Fab’s advice. It’s ideal for people who have VCs all chasing them.
+For everybody else I would encourage you to meet early and often.
+4. Press the flesh
+It’s tempting to want to stay in your offices and fund raise via email or web conferencing. But fund raising is a contact sport. You’ve got to get out there and shake hands and kiss babies. If you’re in the Bay Area this may be easier. If you’re not you’re going to have to put in some miles and some time away from home. Raising money is a “direct sale” not a telephone sale. They are buying YOU. So interacting with you in person is paramount. Many VCs don’t like to tell people to travel to them. They may even suggest phone calls. This is part out of guilt of not wanting to make you travel and part because they know they can have shorter meetings on the phone — it’s harder to cut a meeting short if you have traveled.
+Always do your important meetings in person. I can’t over state the importance of the human connection in being able to develop a relationship. If you have to travel tell the VC you’re already planning to be in town. They feel less obligation to you and therefore are more likely to say yes to an in-person meeting.
+5. Avoid the two big “donuts” in the year
+There are two times every year where raising VC from partnerships with more than two partners is exceedingly hard. July 15-Aug 31 and Thanksgiving to New Years. I’m not saying VCs are lazy. They are not. But they are highly likely to be in the age bracket of 35–55 and often have kids. That means that they take their holidays with their families and these are the big seasons.
+Most VCs I know these days answer emails on vacation. Good or bad — it just is. But there is a different reason not to raise in those periods. In order to get a VC to agree to fund you, you need to get the entire partnership on board. And so while your VC partner may not be gone the entire month of August, you can bet that at any time at least a few of their partners will be gone.
+And because all sales processes rely on momentum, you don’t want to have a process that has a “dead spot” in the middle of it. I call these “fund raising donuts.” Plan your timing accordingly. If you’re concerned about this issue 
+I wrote a longer post on the topic
+.
+6. Have a narrative / make it simple
+Nobody will buy what they don’t understand. It’s your job to take the complexity of your company & industry and develop a “narrative” that helps investors better understand the context. It’s basically story telling. Don’t under-estimate the power of stories. When I was reading the Fab.com website I noticed that the CEO refers to Fab’s “one thing” as being design. By talking in this way, he can create a storyline that investors can say, “oh, Fab.com. They’re the place focused on design. They think design wins. They think there’s any underserved market for young urban professionals who care about quality design and don’t want to buy cookie-cutter, Ikea furniture and accessories” (or whatever their pitch is).
+Investors can agree or disagree but they know what they’re evaluating. As do journalists.
+The best company pitches are those that have this narrative. Why does the world need another X? Or why are the market conditions ripe for a new entrant who does Y when Y hasn’t existed in the past 20 years? 
+I spoke at length about the narrative here
+.
+Trust me when I say that the narrative is vital to your business. It’s important in aligning internal strategy, communicating with others, talking with partner, recruiting and, yes, raising VC.
+7. Create a sustained campaign
+Many people equate a great pitch meeting with success. They then lament the fact that the process died shortly thereafter. All sales campaigns are processes that occur over time. It’s your job to find a continued way to stay on the radar screen of the VC.
+You had your great meeting. If it felt great it probably was. But in the three weeks since your meeting that VC has seen 12 other companies, had 3 board (bored) meetings and had to deal with some enquiries from his own investors. So when you’re wondering what they’re thinking about — unfortunately it’s not likely you.
+Think about it this way. Let’s say you have a product in which the CMO of a company is your buyer. You wouldn’t imagine they’re sitting around 3 weeks after your meeting daydreaming about you. They’re under pressure to do tons of stuff. You were a priority when they agreed to meet you but since then they’ve been putting out other fires. If you start to think of VCs as a person who might buy your product like this CMO then you can plan your sales campaign accordingly.
+Some relevant posts to help you on this topic:
+I met a VC, what happens next?
+How do you build long-term relationships with VCs
+But the summary for you is:
+- get an intro
+- create materials for your first partner meeting. This is a demo + a high-level deck
+- create materials that would be used in a follow-up meeting. This includes stuff like detailed financial plans, product roadmaps, etc.
+- prepare a list of reference clients and a reference list of people they could call to ask about you
+Then make sure to send out VERY high-level summary emails to update key investors on your company progress. Ask for 30-minute update meetings from time-to-time. Stick to your time slot unless they say they want longer.
+Investors back companies where they see traction. What better way to show traction than to meet a VC early, baseline your performance and then update them on your positive achievements?
+8. Lobby
+If it were a sales campaign to a CMO you would naturally think about having customer references. You’d even probably go as far as to ask your best customers if they wouldn’t mind proactively reaching out to your prospects to subtly tell them how great you are. I call it “
+marketing heroes” and I wrote about it here.
+So why would raising venture capital be any different. If the best intros to VCs come through qualified referrals from people they trust, then it follows that the best way to keep VCs interested in you is to have similar people tell them how great you are. So determine the VCs you want to influence, identify who influences them, figure out how you’re going to get these people loving your product, your company and you.
+And then ask for their help in reminding the VC how great you are. And remember my golden rule, “you don’t ask, you don’t get.” Nobody proactively bugs a VC to tell them how great you are. You have to ask for it.
+Will the VC know you asked them? Who cares. Any great VC will know that’s how the world works and if that’s how you influence them it’s probably the tool you use to influence journalists, customers, prospective employees and corporate suitors for M&A one day.
+The only people you don’t need to lobby are people whom you don’t want to invest.
+9. Recognize that fund raising is a part of your ongoing duties
+As I’ve said before, ABR. Always be fund raising. It’s just a part of your ongoing activities as a founder. Sure, you might not like it. It might not seem “core” to your business success. It is. Building a business is not about only building a product and seeing if customers like it. You can’t just do those things in business that you enjoy. Make fund raising a habit. Don’t only engage every 18 months.
+10. Test interest
+One of the best sales coaches I ever worked with used to talk to me about “testing prospects.” What he meant was that since your scarcest resource as a manager or sales rep is your time you need to qualify better. Most people are afraid of asking the tough questions because they prefer to imagine that you might be a buyer than to know that you’re 100% not. I prefer the latter. I once did a project with Carly Fiorina when she was president at Lucent. Her quote that always stuck with me was,
+“I’d rather get a firm no then a muddy yes.”
+So true. At least you can move on and focus your time on energy on people who might say yes.
+So how do you test a VC?
+It’s actually OK to say something at the end of your meeting such as, “I know that you’re not likely to give me a strong indication at this meeting, but I’d love to know if this is the sort of opportunity you could imagine doing if I was able to persuade you over time or would I be best off focusing my attention on other VCs?”
+Said politely and I promise you people will appreciate it.
+Similarly, it’s OK to email a non-responsive VC by saying, “I’ve email you a couple of times and left a voicemail. I know we all get busy. I just wanted to confirm whether you were super busy or whether this was a sign that maybe I’m not a good fit for your firm? If that’s the situation — I’d understand. But if so I’d love to know so that I can focus my limited time on other VCs. (if you are still open, I’d love the chance for a 30-minute meeting to give you a status update. I think you’ll be impressed.)
+Other ways of testing a VC?
+- if they show interest and have spent time with you, why not ask if you can set up a customer call for them so they can hear directly what they think of your product? Willingness = they are engaged. Not willing either equals, “not now” or “not ever.” Better that you know. A firm no is better than a muddy yes.
+- how about setting them up to use your product? (if it’s possible). Then you have a reason to check in every couple of weeks, “I noticed you didn’t yet get a chance to log in to the product. Would you mind if I had a senior training rep call you for 30-minutes to give you a quick demo to get you up to speed?
+There are a million ways to test. And a million more to drive engagement. I’d say <5% of people ever do. These are people who are more likely to raise VC. People who manage processes make more sales. 
+As I articulated here
+.
+11. Take appropriate risks
+I always encourage people to take risks in sales and fund raising is no different. Remember those three rules of sales?
+why buy anything?
+why buy me?
+why buy now?
+Well if the “why buy anything” is testing whether you’re even compatible with a VC, the “why buy me” has got to be extreme differentiation. VCs see companies all the time. They all start to sound the same. Be bold. Make your positioning strong. Stand out. It may turn off some VCs but for others it may be a positive.
+I’ll give you an example from my own fund raising.
+Conventional wisdom says that you can only build big businesses in Silicon Valley so as a VC you need to be there. But of course that’s horse puckey. Some of the biggest wins of the past 5 years were built outside of the Valley. GroupOn, Living Social, AdMeld, Gilt Group, Demand Media, ShoeDazzle, Tumblr, FourSquare, etc. And the great monetization engines of the Internet were built in LA — Overture (AdWords) & Applied Semantics (AdSense).
+But many VCs outside of Silicon Valley are afraid to raise against this conventional wisdom so they say, “yeah, I’m in the Valley all the time. And I went to Stanford so my network is there.”
+We went the opposite way. Our biggest returns were outside Silicon Valley: Overture (LA), CitySearch (LA), BillMeLater (Baltimore), Ulta (Chicago), Envestnet (Chicago), HDI (Las Vegas), PF Changs (Arizona), TrueCar (LA).
+So I argued with my partners we should stand firm. Our fund has always made money mostly outside the Valley. So my standard pitch is:
+“If you’re looking for another Sand Hill Road firm we’re not for you. There’s 80 firms there — have your pick. But if you’re looking for something differentiated in your portfolio I think we’d be a great fit. We’re the largest fund in Southern California.
+We were found to be the 5th most consistently performing fund in the country over the past 20 years by Prequin. Our 2000 fund is the single best fund of its vintage. Our 2008 fund looks spectacular.
+We have followed this strategy for 15 years. And now it’s even easier to build a big business outside of the Valley. Our next fund will follow the same strategy. We invest in the Bay Area but more than 50% of it will be outside of Silicon Valley.”
+So if I take a pool of investors I might turn off 8 with this positioning. But they were never going to be convinced anyways once they did due diligence and realized we’re not a SV-focused fund. And with these hard positioning I might get 3/20 into the “yes column” because they understand the “why buy me” better. Take risks.
+12. Understand the important of marketing
+Nobody thinks they are influenced by marketing. Everybody is. Even if it’s subconscious. We tend to be more excited about things that we read in the press and/or articles being forwarded to us by our peers. It’s human nature. So make sure you have a solid PR strategy.
+I have two articles on the topic:
+1. 
+Understanding PR & Crisis Management
+2. 
+How to Work with PR Firms
+Make sure good PR is underpinning your fund raising efforts. The articles about you create great collateral that you can email out in your VC update emails and they create collateral for your contacts to mail to your VC prospects on your behalf. And PR also has a way of generating inbound funding opportunities.
+And trust me if they’re thinking about investing in you and an investor Googles you and gets “bagel” — so, too, will you.
+13. Create urgency
+The final rule of why buy anything, why by me is … why buy NOW! It’s the hardest rule of sales. Why should I buy a new TV when my current one works well? I know I 
+want
+ one but I can always buy it next year. In fact, there will be a newer, fancier model. Same with a new car. Same with an investment. Why invest now when I can see how your company develops? Or see the next company that rolls through.
+The only way to get VCs to move is to make sure subtly that they feel a deal is or may become competitive. Life works the way it did in high school. A guy has three options to ask to the prom. He waits as long as possible. Why ask a girl today when I can decide tomorrow? Then the rumor mill starts and he hears his rival is going to ask one of his top picks today. Guaranteed that he’ll ask her before lunch.
+Maybe life shouldn’t work this way. It does. You need to create a sense of competition.
+That is best done through back channeling, where possible. I know some VCs will tell you this isn’t necessary or a good idea. They are probably “book smart” VCs who don’t even understand themselves the psychology of buying.
+Conclusion
+Fund raising is hard business. And perhaps it should be. Too many competitors getting funded leads to incrementalism and me-too competitors. There are some wildly successful companies out there that also become hot. It’s hard to take advice from them because the process one goes through when you’re the belle of the ball is different than when you’re having to sneak your way into the party.
+I once had an LP tell me that when Sequoia fund raises they place the first call and say “we’re closing in 6 weeks — you need to decide quickly if you want an allocation.” I don’t know if that’s true, but it wouldn’t surprise me. When you’ve had the consistent success of Sequoia (or similar) over so many decades I guess you earn that right.
+But when I fund raise I’ll be right out there with you.
+Plotting out where I think I have a strong fit between my prospects & my product
+Shaking hands and kissing babies
+Following through with email, phone call, follow-on meetings and lobbying
+Always pushing forward but never taking things for granted
+Always raising, even when I’m not.
+And praying like hell there’s no “Black Swan” event like the Greeks defaulting on their debt, the Italians pulling out of the Euro, a Lehman-like bankruptcy or a devastating terror attack that screws up fund raising timing for everybody. Damn you, Black Swans!
+Like you I’d want to get it done as early as I could. Never taking a day for granted. Knowing that “
+time is the enemy of all deals
+.”
+And then waking up one day many months later and seeing whether all of the hard fund-raising effort paid off.
+ABR.
+** post script **
+Yes, I’m sure there were many typos. No, I’m not stupid. My grammar is generally quite good. But I hope you enjoyed the content enough to forgive my lack of time for editing. And anyways, you’re still reading, aren’t you? ;-) thanks for your understanding
+Image courtesy of 
+Fotolia

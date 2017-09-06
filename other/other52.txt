@@ -1,0 +1,262 @@
+FinTech: 90% Hype, 10% Revolution. And Why It’s Okay.
+Buzz vs. Life Changing Innovations? New risks and pitfalls. A Systemic, a Consumer and an Innovator point of view.
+Note: This Article was originally published on 
+FinTechNews.Sg
+Foreword
+A couple of months ago, when I read Barclays’ CEO Jes Staley 
+say
+ “Fintech won’t challenge us” I couldn’t help but think of the other quotes I had heard (source: 
+CB Insights
+):
+• “There is no reason anyone would want a computer in their home” said Ken Olsen, founder of Digital Equipment Corporation in 1977
+• “Screw the Nano. What the hell does the Nano do? Who listens to 1,000 songs?” said Motorola CEO Ed Zander in 2006
+• “It doesn’t matter how good or bad the product is, the fact is that people don’t read anymore” said Steve Jobs of Amazon’s Kindle at its launch in 2008
+The power of true Innovation can be hard to comprehend. Even industry leaders and the most visionary and creative people have sometimes failed to understand the implications of a truly innovative idea; how it can reconfigure markets boundaries and create new, bright, blue oceans (note that I will avoid using the overrated term of Disruption here; that is most of the time misappropriated from Christensen’s own definition).
+Now let’s consider that it took only 7 years for Apple to become the world’s largest music retailer, 18 months for Google to erase 85% of the market capitalization of top GPS companies after launching its Maps app and only 9 months for Alibaba to become the world’s 4th largest money-market fund (source: 
+Accenture
+).
+Finally, 88% of the Fortune 500 companies in 1955 were gone in 2014, 40% of today’s Fortune 500 companies will no longer exist in 10 years; and whereas the life expectancy of a firm in the Fortune 500 was 75 years in 1960 it’s less than 15 years today! (source: 
+AEI
+)
+In short: there is no doubt that change is on the way with no stop sign in sight. And it’s coming faster than we have ever seen. But where is innovation happening? how much of a threat is it really for banks? what can happen to them? Why is what we hear and what we actually see differ so much?
+This is a modest attempt to cut through the noise and see what it means to us whether we are consumers, citizens, business leaders, employees, by looking successively at the Nature, the Scale and the Diffusion of the threat:
+• 
+Civil War
+: new tech capabilities and customers demands create great tensions in Financial services. Low cost services, Customer experience obsession, innovative business models: how far can it get before the collaboration model breaks?
+• 
+La La Land
+: a reality check in number to help understand the true scale of the FinTech threat for Financial Services. Where is the traction and where are the setbacks? How big is really FinTech? Which areas are the most unexplored?
+• 
+Anger Management
+: a consumer point of view with some simple use cases that shows how much work still need to be done to transform financial services. Will there be a “Uber moment” for Banks? Why are we not there yet? How much time before these innovations really hit the streets and transform our lives?
+Civil War: the Assault of the FinTech super-heroes
+A systemic and macro view derived from concrete examples to understand the nature of the threat.
+On the 
+Core Banking
+ side, 
+Monzo
+ and 
+Tandem
+ have launched “neo-banks”: 100% mobile and branch less banks in an attempt to demonstrate that another form of customer centric, low cost retail banking is possible.
+Lowering customer acquisition costs via an all-mobile strategy and robotic process automation
+The 
+Corda
+ distributed ledger initiative from 
+R3
+ (although not using blockchain), was joined by 70 of the largest banks although Goldman Sachs, Santander, Morgan Stanley and the National Australian Bank have recently withdrawn from the initiative. The aim of Corda is to provide a common infrastructure to help banks build products and services that are interoperable between the network participants, while enabling better time to market for new innovative initiatives.
+On the 
+customer & personal finance management
+ front, 
+HelloWallet
+ helps employees make the most of their paycheck and benefits and helps employers meet the needs of their workforce; 
+Touché
+ offers payment by finger prints at the POS at pre-enrolled merchants and 
+Seedly
+ offers an all-your-finances in one place solution for Singaporeans and provide savings advice and tips (similar to 
+Mint
+ from Intuit).
+Moving from customer-centric to customer-obsessed
+On the 
+Risk & Compliance management
+ front, RegTech, 
+Pelican
+ and 
+Riskified
+ provide software-as-a-service fraud and chargeback prevention technology. Their technology uses behavioral analysis, elastic linking, proxy detection, and machine learning to detect and prevent fraud. They back transactions approved by its technology with a chargeback 100% money-back guarantee in the event of fraud.
+On the 
+Payments
+ side, 
+Conversable
+ and 
+Jumper.AI
+ enable conversational commerce via chatbots and Artificial Intelligence through social media platforms. 
+LevelUp
+ enable pre-ordering and payment at many fast food places via QR code & NFC. 
+Cardlytics
+ enables merchants and banks to offer targeted promotions and enable loyalty to cardholders by analyzing their purchasing patterns. 
+CurrencyCloud
+ is a cloud-based solution for international payments. The company has packaged its global payments infrastructure — finding exchange rates, transferring funds between two end points and meeting local compliance at both ends — by way of flexible, developer-friendly APIs.
+From an 
+Investments
+ perspective 
+Robinhood
+ has been able to remove the complexity of trading stocks via an ultra-simplistic user interface; 
+Kensho
+ uses machine learning and analytics systems to solve some of the hardest analytical problems and is currently used into some of the weightiest trading desks in the world, and are now available in a partnership with S&P Global (more 
+here
+). 
+BluePool
+ uses advanced analytics to curate, distil and algorithmically map information to human behaviours and financial assets performance; BluePool is building the first Mandarin Natural Language Processing (NLP) engine for capital markets intelligence, enabling access to Chinese markets for overseas investors.
+On the 
+Financing
+ side, 
+Lending Club
+ is a peer-to-peer lending company and was the first of its kind to register its offerings as securities with the Securities and Exchange Commission (SEC), and to offer loan trading on a secondary market. 
+Kabbage
+ provides funding directly to small businesses and consumers via its lending platform and through a streamlined, efficient and customer friendly application process.
+Finally, on the 
+Insurance
+ side, 
+Teambrella
+ is peer-to-peer insurance that uses blockchain technology so those people in your “team” pay your claims, and you pay theirs. If no one has a claim, everyone keeps 100% of their money. You have the option to vote on everything within your team including claims, rules, and new members. 
+GenLife
+ is combining disruptive technology into a new insurance platform. They use distributed ledger technology (blockchain), artificial intelligence, and the cloud for high quality insurance and customer experience for a low cost.
+For a more extensive list of startups by domain please refer to 
+CB Insights’ 250 FinTech Companies Transforming Financial Services
+.
+In short, we see tensions and forces coming from four different angles:
+1 New Technologies that enable new use cases and applications
+2 New Entrants who are customer obsessed, masters these new technologies in a “greenfield” environment can leapfrog the incumbents
+3 New Regulation promoting financial & fiscal inclusion as well as better cross-country policies harmonisation
+4 New Customer demands driven by a generational shift but also by other, more innovative industry sectors and tech trend-setters.
+To break this down further, below is a visual capability map of the Financial Services sector:
+And where we have seen key tech and non-tech enabled innovations:
+FinTech 1.0 was a direct confrontation between the new entrants and the financial institutions; but it failed. Mainly due to the lack of understanding of the complexity of the environment and the regulatory constraints. FinTech 1.0 lesson’s learnt is that it was too early for the “Uber” moment of Financial Services. FinTech 2.0 is getting smarter (and maybe temporarily more modest): it’s all about collaboration. For now. A win-win equilibrium while each side continuous to sharpen their knives.
+FinTech 2.0: Collaborate or Die. In the search of the equilibrium.
+But make no mistake: do not believe for a second that it will stay that way. New entrants mean business. Big business. So, at the moment, each side is building up the resistance in the search of an equilibrium playing on each other’s strategic advantage (or “moat” in Warren Buffet’s terms), which is summarised below:
+In particular:
+• New entrants are building their competitive advantage by focusing on rapid, agile, tech-enabled and low cost solutions. They operate subsidised business models (via external funding from Venture Capital or others) in a green field environment and for the most part, they try to focus on the non-regulated parts of Financial Services. They are provocative and controversial in nature, which creates a wind of change usually welcomed by both consumers and regulators. (Note: new entrants can be B2B tech suppliers to Financial Services or more direct competitors as B2C businesses. The collaboration model is definitely more fragile for B2C players).
+• But incumbents also play with their own strategic advantage including their established and captive customer base as well as their trust (although eroded since the 2008 financial crisis). They understand and manage compliance to regulation, know how to operate secure and fire-walled environments, have huge amount of customer data. They have an established brand, scale and usually a regional and often global footprint. Finally, Financial Institutions are systemic to our economies and benefit from a relative protection from most governments: no one knows what will happen if too many fail.
+But how much time before new entrants capitalise on their customer relationship? Create massive customer base and capture its data? Master and even influence regulation?
+Complementarities in the collaboration model will erode significantly over time
+It seems that FinTech 3.0 will be about controlling and owning the customer relationship, managing security and mastering how to deal with regulation efficiently (and even lobby, influence and pressure regulators to change it).
+Survival of the incombents will therefore depend on:
+• Pace & Scale: their ability to innovate and propagate new products and services at scale and at the speed imposed by customer demand and competition.
+• Concentric integration: their focus on building experiences (vs products), redefining the value chain and extracting value from the new tech innovations
+• Service aggregation: monetizing the customer relationship with new services that complete the customer journey to stay top-of-mind.
+With so much going on, what’s the true scale of the changes ?
+Lala Land: Hopes & Disillusions
+Some key figures to understand the true scale of the threat.
+It’s a fact: there are less deals, less funding, on less startups, less seed investments on new techs. About 10% less between 2015 and 2016; and a potential for as low as 18% less based on current Q2 2017 trend (Source: 
+Venture Scanner
+). So is this the Big Drought? The end of the bubble?
+With lower, more concentrated funding, there is definitely more discipline and reasoning in investment decisions. But to put things in perspectives:
+• VC-backed FinTech companies raised $13B across 836 deals in 2016 (
+CB Insights
+) and global FinTech investment is estimated at $36B USD (
+Let’s Talk Payments
+)
+• There are currently 2,252 Financial Technology companies in 16 categories across 64 countries, with a total of $71.3B in funding to date — as tracked by 
+Venture Scanner
+. Some sources claim that FinTech companies have received in excess of $130B USD in funding to date.
+• There are 22 FinTech unicorns globally value at $74B USD as of end of 2016 (
+CB Insights
+)
+Note: numbers above vary quite a bit depending the source (CB Insight,Venture Scanner, VB Profiles) Mainly because a lot of the VC-backed transactions are not advertised. Also, note that the numbers above are only for VC-backed deals and exclude other investors (family offices, hedge funds, private sector venture funds).
+Now, let’s compare with the incumbents:
+• The combined market capitalisation of top 
+15 largest banks worldwide
+ is worth $2,500B USD
+• JP Morgan market cap alone is worth $311B USD (as of June 2016).
+So clearly, the FinTech investments was spread quite thin across many companies but this is changing to bring more focus on key sectors: for example, lending and payment companies have racked 72% of the VC-backed funding and consist of 43% of the FinTech companies. The “soon-to-be” popular sectors (but under funded at moment) include Security & Fraud, Financial Data & Research. See below more data from Venture Scanner:
+From a geographical stand point: US deals have declined over 2016 with $5.8B USD across 479 deals whereas the number of deals has increased in Europe with $1.1B USD 186 deals and Asia with $6B USD across 182 deals. Interestingly, what it tells us is that Asia is definitely on the move with focused, concentrated, mega deals while Europe is trying to play catch-up and the US are spreading thin across many smaller deals.
+A recent example of the Asian FinTech fever is Grab: the hailing taxi company converted into payment and e-commerce has just raised 
+$2B USD from Softbank and Didi
+.
+Also, looking at the size of the opportunity: 
+McKinsey’s 2015 Global Banking Annual Review
+ estimates that “banks earn an attractive 22 percent Return On Equity from origination and sales, much higher than the bare-bones provision of credit, which generates only a 6 percent ROE. Origination and sales — the focus of nonbank attackers — account for about 60 percent of global banking profits.” It creates a significant opportunity for customer disintermediation for FinTech players.
+Finally, although the investment numbers above may look high let’s not forget that about 90% of the startup fail; which means that, as sad as it is, a lot of the names mentioned above will not exist in a few months or years for now. To give some perspectives: from 1,098 seed funding deals only 20 will make it to the 6th round and only 7 will successfully exit. Why?
+According to 
+CB Insights
+, below are the top reasons why 90% of the FinTech fail:
+• Don’t understand the regulation complexity
+• Underfunding the startup
+• Underestimating the length of the sales cycle
+• Failing to devise a sound sales strategy
+• Going alone
+In short: it is tough for new ventures to break in old markets. So, even with money pouring in, even with great collaboration models, how much time before these innovations become a life changing reality?
+Anger Management: The Hype Factor
+A consumer point of view on FinTech innovations and why they take so much time to be rolled out (if ever).
+Peter Thiel said “We wanted flying cars, and instead we got 140 characters”.
+For sure the invention of Twitter is far less exciting than flying cars! So what is Hype? What is true Innovation?
+Hype vs. Innovation
+Let’s take a few examples:
+Blockchain
+Although Blockchain sounds promising in many aspects, there are critical challenges to be addressed before making significant impact on the existing ecosystem. Namely:
+• Speed: blockchain in the context of bitcoin has a byproduct capacity of 
+7 transactions per second
+ (tps) due to the bitcoin protocol restricting block sizes to 1MB; when VISA processes 2,000 tps on average and can theoretically handle up to 56,000 tps. Note: 
+last year Safe Cash
+ was able to demonstrate that a private, permissioned blockchain can process 3,000 times as any transactions as bitcoin, 10x current VISA average. How? Because decentralisation is made at the expense of speed; in other words the more centralised blockchain is (less nodes), the faster it is… so back to square one?
+• Energy & computing power consumption: the blockchain network’s miners are attempting 450 thousand trillion solutions per second in efforts to validate transactions, using substantial amounts of computing power. In particular, cloud pricing models (i.e. AWS, Azure) are driven by how much “compute” is being used. Which means that for blockchain to remain economical, we need to find the balance between on-chain and off-chain complexity, while still leveraging the decentralized capabilities of the blockchain.
+• Cost: Blockchain could offer massive savings in transaction costs and increased speed but the initial capital expenditures to setup the infrastructure could be astronomical.
+• Cultural Adoption: blockchain decentralised nature can be seen as new risk for personal data leak by the consumers, as well as a control gap by the operators.
+In short: it’s a nascent technology full of promises but not completely backed-in for large scale implementations in its current state.
+Artificial Intelligence
+Let’s be clear: AI does not exist, at least not today anyways. What is AI today is “
+non-sentient and focuses on narrow tasks
+” as 
+Michael Olaye put it
+, CEO of 
+Dare
+ and CTO at Oliver Group. Or “
+Weak AI
+”. As opposed as “Strong AI” or “Artificial General Intelligence”.
+“The promise of AI is generalizable intelligence, the ability to not only learn but to reason, to pattern match, to interact, and I think what we have today is best described as artificial narrow intelligence
+” said Graciano from Credit Karma, a credit scoring FinTech. In other words: the ability to perceive, identify patterns, categorize; yes. Reasoning, not so much, yet.
+As such the aim of cognitive computing, as the technology platform to enable automated reasoning, machine learning, speech recognition, and natural language processing, is the simulation of human thought processes in a computerized model.
+For example, pre-trained deep neural networks are a class of machine learning algorithms that are good for image recognition (identify objects on pictures or videos) and voice recognition (Apple’s Siri-type of interactions). Machine learning’s promise is to create new predictive models from patterns they identify over time; creating as such a “self-learning” mechanism.
+But more importantly, whereas machines are good at detecting patterns in a high volume of high frequency data and they are not as good for low volume of low frequency data. And most of what the world is made of is low volume, low frequency data. It’s about understanding the “big picture” without having all the pieces of the puzzle.
+Now a simple test: how often has Uber be wrong about the estimated time of arrival of your driver? As far as I am concerned, pretty much every time.
+In short: we may be at the eve of the age of the machines; but we are definitely not there yet.
+Big Data (Breach)
+In 2016 alone, there were 1.5 billions data records compromised according to 
+Gemalto
+’s Breach Index Level. That’s 50 records per second. And 59% of them are related to identity theft. 
+“Financial services companies accounted for 12% of all data breaches
+”said the report; that’s quite behind tech companies, that represent about 28%.
+With data proliferation comes a great deal of exposure to data breaches: this is and will continue to be a fundamental success criteria for FinTech companies and Financial Services in general.
+Now, that was about the Hype on technology side. Let’s now consider some frustrating examples on the consumer side. And remember: with each frustration comes an opportunity!
+Is this not driving you nuts?
+• 
+Burning money
+. Why can’t I get a simple monthly report from my bank(s) about where my money went? Like my bank does not know? Consider the amount of KYC (Know Your Customer) a merchant has to do before accepting a card transaction: the acquiring bank knows, the schemes know. You would think there should be a way for them to categorise your spendings in an intelligible and simple manner, including relevant savings opportunities and product recommendations. We had to wait for 
+Mint
+ or 
+Seedly
+ to do. Why do I NEVER get a call from my bank to tell me how I could use a better product, save more or use my benefits?
+• 
+Cash allergy
+. Why do I see signs all over the place that say “Credit/Debit cards accepted over 10 dollars”? Why do taxis charge 10% fees for VISA cards? A country like Singapore has an entire infrastructure ready to accept payments at literally every single merchant (but the hawker centers!) and cardholders holding an average of 2.5 credit cards per person (all supporting contactless payments): it’s basically 100% ready for the cashless economy. But there is no incentive for anyone to use cards vs cash. The whole point of contactless payments is to make small payments fast and secure: above 10 dollars makes no sense.
+• 
+Paper allergy.
+ Why can’t I have one ticket with what I purchased and what I paid? Why can I tap my phone in half a second but wait for 10 seconds to get my transaction authorised and another 5 for the tickets to be printed? Of course, it’s because the Point of Sales (POS) provider does not handle the payment and vice versa: but notice every time a business treat the customer in a transactional manner (I don’t really care about his experience) it results in absolute non-sense.
+• 
+Easier to die
+. Why is it still so complicated to choose a life insurance product? or an Accidental Death and Dismemberment insurance (by the way, who from Marketing came up with that ugly name?)? Who can tell me where my true risks are across the board (not in silos): life is not made of buckets where health issues, accidents, death, handicap, baggage delays, unemployment happen only to one person or another? How many 
+PolicyPal
+ do we need to make this happen at scale?
+• 
+Financial suicide
+. Why do I need to pay a financial advisor a fixed percentage fee even if he makes me lose all my money? What is his advice worth if he is compensated regardless of his performance on MY investment? Isn’t just pure racket?
+• 
+Human learning and Natural intelligence
+. Why does my bank seem unable to see that 50 transactions in Vietnam when I withdraw money in Singapore the same day are very likely to be fraud? Experts talk about using Machine learning, Artificial intelligence for fraud detection… how about just good old Common Sense? A simple check using technologies from 20 years ago would seem to solve this problem.
+Innovation vs. Execution
+None-sense and frustrations are a source of innovation for entrepreneurs: clearly FinTech have only scratched the surface to date. Why? Because adoption is still low for many of the new technologies mentioned here; therefore they need time until they are mainstream and can profoundly reconfigure the industry. And perhaps more importantly: until someone has figured out to monetise the technology and extract its value in its full potential. Consider the Near Field Communication (NFC) technology: we were promised wonderful things that never happen mainly until Apple was able to lock down, capture and monetise its value with Apple Pay.
+Market reconfiguration and product adoption follow a parallel and correlated path:
+1-Innovation leads to market fragmentation
+2-Adoption leads to market consolidation
+3-Stabilisation leads to market reconfigurationIn short most of the FinTech innovations have not “
+crossed the chasm
+” yet: main stream consumers have not experienced many of the new benefits they can provide. And perhaps never will unless they reach the “early majority”.
+Digital change requires structural reform
+It takes time; and not all changes will succeed:
+Near Field Communication (NFC) barely took off before Apple Pay
+Omni-channel (a term from 5 years ago) is not even implemented yet by most retailers
+Bluetooth Low Energy (BLE) and beacons are still not mainstream
+Biometrics: Toshiba’s G500 phone was the first phone using fingerprints… in 2007. Ten years before Apple’s iPhone 6.
+Very few companies are able to capture the full value of technological innovations; which drives tremendous inequalities as in our winners-take-all society
+Closing Remarks
+So what’s next for Financial Services? According to 
+Accenture
+, success will come from their ability to adapt and leverage their core competencies: continue to be an advisor, facilitator, aggregator.
+“It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change.” Charles Darwin
+The key success of many of the new ventures mentioned above is based on their ability to build unforgettable user experience and build around them a portfolio of services: that’s concentric integration.Big ideas may look stupid to many: if Georges Lucas’ had pitched the first Star Wars movie to you: would you have given him your money? I believe entrepreneurs are people who see an opportunity where others see an impossibility.
+entrepreneurs are people who see an opportunity where others see an impossibility
+Will you be the next thought leader who has failed to see a breakthrough innovation when they saw one? Or will you be one who will create this new, bright, blue ocean?
+Finally, don’t be a Terminator: technological progress at the Age of the Machine brings new risks and means more accountability and responsibility. In other words: you cannot grow a business if your customers think you are here to screw them. Also, new risks are created by new technologies and new entrants such as data security, regulatory arbitrage, industry conduct & ethics. We have a duty to embrace change and not to resist but also a duty to help regain systemic stability and public trust in financial institutions. A duty to build a financial system that is efficient, accessible, secure, resilient.
+“Success is not final, failure is not fatal. It is the courage to continue that counts” — Winston Churchill
+The End.
+Damien P. Kopp

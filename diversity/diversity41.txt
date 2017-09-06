@@ -1,0 +1,93 @@
+The Reason Why There’s No Diversity in Tech
+Click Here to Learn How digitalundivided is Innovating Inclusion
+“And as we let our own light shine, we unconsciously give other people permission to do the same.“
+Marianne Williamson
+Above is my favorite quote. I repeated it to myself on a daily basis.
+It’s the belief that guides everything we do at 
+digitalundivided
+ (DID), the company I founded, that finds, trains, and supports urban entrepreneurs with a focus on women.
+However, I didn’t truly understand what the quote meant until we decided to run a Kickstarter campaign for our #ReWriteTheCode documentary. 
+#ReWriteTheCode
+ is the 
+final project
+ of 
+#ProjectDiane
+, a data collection project we started in Feb 2015 to find, document, and share details on black women startup founders.
+#ReWriteTheCode’s
+ Kickstarter campaign launched in June and because so many people were generous to us, I strongly felt the need to do a “Return on Generosity” (ROG) and share what we learned about running a successful Kickstarter campaign.
+But before I talk about the “HOW” of running a successful Kickstarter, I wanted to give a bit of context to “WHY” we ran the campaign.
+Tech has had a life-changing positive impact on my family. It has given me, and the people I love, so much.
+My dad was a brewery worker who at 36 years old fell in love with C++ and became an engineer at Digital Equipment-Microsoft-EMC2 (in that order). We had a VAXmate in our living room. I was forced to learn basic code at age 8, on a green screen using the DOS prompt, so I could publish the weekly newsletter I edited for the other kids in our apartment complex. I was a teen member of the Twin Cities chapter of the 
+Black Data Processors Associates
+ (BDPA). I have a graduate degree in a STEM field from Yale. I married a Software Engineer. My brother is an executive at Oracle. I created one of the first, and one of the most beloved, 
+fashion blogs
+, which I sold in 2014.
+This is very important to understanding what I am about to say.The Narrative…
+I’m very conscious of the public-facing narrative, often without our permission or even awareness, that develops around “successful” black people, especially in spaces where our very existence is disruptive. This narrative is used to seduce other black/brown folks into complacency — “Hey look at how successful XYZ is, so please tell Black Twitter everything’s good.” I’m also conscious of how many “successful” black people allow this narrative to continue without sharing what it actually took, the 
+real
+ talk, for them to reach that level of success.
+In the larger tech community, I noticed that a public facing “success” narrative was developing around digitalundivided, and specifically around me as a person. This narrative was just that, public facing, because while companies 
+love
+ the work DID (and others) are doing in this space, they don’t actually want to pay 
+us
+ to do the work.
+To really understand why tech is having a hard time with diversity, you need to understand
+ Libertarianism
+The idea of forced inclusion is one that goes against the very Libertarian foundations of tech. The freedom to run your life/company as you wish without outside interference is a sacred right in this community.
+ There are venture capitalists, who pride themselves on being 
+free range
+ and not monitoring their investments.
+The idea that an outside group, and for the most part women, Latinos, Blacks are outsiders in tech, would exert power, even 
+force
+, technologists to be more inclusive, is an idea that sends tremors down the objectivist spines of the greater tech community.
+The concept of 
+Objectivism
+ — the focus on individual rights, laissez-faire capitalism, and “facts” — is one that is often hard for outsiders to understand. I didn’t fully understand the philosophy and it’s impact on tech, until I read folks like 
+Ayn Rand
+ and David Boaz.
+At the center of objectivism is the belief that “facts are facts”, and “personal opinion or social convention has no impact on facts/reality”. Which is true, except when it’s not.
+Reality is not a fixed position. If in a race, one runner starts at the starting -line and the other runner starts 15 feet back, yet both finish at the same time, who’s the better runner? Imagine how good the person who started 15 feet back had to be to run a longer distance, yet get the same time.
+Tech is being asked to use their resources to help the runner in back get to the starting line. To be honest, most people in tech are ok with helping as long as they’re allowed to choose when/how/who to help. I’m okay with this, as long as you didn’t use public resources (roads, fire departments, or the internet itself) or take money from a VC firm that has a pension fund as a limited partner, to build you company.
+So what does tech’s libertarian core have to do with a Kickstarter campaign about black women in tech?
+Keep Reading…
+BK (Before Kickstarter)
+In March of this year, the team at digitalundivided (DID) was done. Meaning:
+WE.
+WERE.
+DONE.
+WITH.
+TECH.
+BUH-BYE!
+Do you know how hard it is to not be your fully brilliant self because of the limitations of others? That is exactly what I feel like working as a black woman in tech.
+I naively thought that if we were great at what we do, if we had the “facts” on our side, we would get a ton of support from the tech community. What I totally underestimated was how being so damn great, without permission to be “great” or even “be” in tech, without explicit sponsorship, meant the likelihood of us receiving sizable support was as close to zero as statistically possible.
+As a good friend in tech once said to me, “Kathryn you didn’t play in the sandbox”. For others, especially in a community that treasures individualism, not playing in the sandbox would be considered a prized trait. “Look at how he’s an out-of-box thinker”. But for a bunch of black chicks with sparkly t-shirts from New York to have this attitude ?? Not so much…
+We also paid a HUGE penalty for staying in New York City, with one very well known partner withdrawing their very limited financial support (less than $10,000) for DID because we wouldn’t move to the Valley. Now, mind you they weren’t going to pay for the move, nor did we have any guarantees of significant funding. I couldn’t ask my team to move their families across the country with the “hope” we might receive funding that we know from our own research was statistically impossible for a black woman to receive. Also, as an organization that primarily serves the Black/African Diaspora, shouldn’t we be headquartered where black people actually live?
+So, the constant devaluing of ourselves and our network , lack of funding for “facts”, living in a city where the community we’re actually servicing lives, the quarterly emails from folks at Techcrunch asking me to “share” our network- while never covering DID or even offering to help us- brought us to the edge.
+We.Were.Done.With.This.Shit
+On a personal note, I didn’t even know if I had it in me to continue in this space. I was getting tired of encouraging black people to apply to work at companies that will never, ever, hire them. Tech is looking for a certain type of black person (
+the perfect description of this person can be found in this clip from Ocean’s 11
+). The hiring process in tech is all about, “who do you want to have an artisanal, organic, beer with?”. If the hiring manager doesn’t see you as a possible friend, the likelihood of getting hired is pretty slim. Black women aren’t high on the “friend list”.
+Truthfully, if I had known it was going to be this disenfranchising, this exhausting, this absurd, I would have chosen to continue making a ton of money talking about shopping at Target. At least I got free shampoo.
+Someday, after a few more months of meditation and therapy sessions to fully unpack everything, I will write in more detail about the incredibly self-centered, abusive nature of tech.
+But for now, just take my word for it. This shit is crazy. And this is where digitalundivided was at in March of 2015
+The only thing that held me back from just ending the damn thing in March, was our commitment to the community. Specifically, I was concerned about the signal(s) leaving tech would send to other black women. We knew that digitalundivided meant something to the larger black community. I wanted to end our work on a positive note and leaving something amazing behind.
+Plus, I hate to leave things unfinished.
+We (ok, I) wanted to finish #ProjectDiane. We knew we would have to use crowdfunding. Originally, the campaign was going to focus on raising funds to create a comprehensive racial and gender map of the entire startup genome (you can’t fault us for not thinking big). We thought a documentary would be a great way to qualitatively share the results of #ProjectDiane with a larger audience.
+So we spent close to a month planning the campaign and then TechCrunch released a report on the gender breakdown of Crunchbase (we speculate that the 
+press
+ #ProjectDiane received was one of the things that nudged them along). We were forced to change our campaign to just focus on the documentary element.
+The purpose of the campaign was twofold- to raise money to produce #ReWriteTheCode and give a final, positive, farewell to our community. We set our goal low (more on this in later essays), because we didn’t know what to expect. Again, every indicator pointed to the fact that we would be lucky if we raised $5, let alone $25,000.
+So what happened?
+We raised $25,000. In less than 40 hours
+The final tally? $53,079 from 616 backers
+The generosity of our backers has been a bit overwhelming- especially when viewed from the context of the very hostile, very stingy (at least to certain groups of people) world of tech. Every time I think about the gift of “success”, our backers gave us, I tear up. As black women, even when we’re great (see 
+Serena Williams
+) our value is constantly questioned. We’re constantly made to validate ourselves. It’s exhausting.
+As black women, we’re also not taught the language of the, “ask”, because our mothers/grandmothers/aunties knew that if we “asked”, no one would answer.
+Over 600 people saying “we support you”, didn’t just help make a documentary. It taught a group of people that the language of the “ask”, is a language worth learning.
+What’s Next…
+Over the course of 4 essays, I detail how we “won” at Kickstarter, sharing reports from the campaign, thoughts on the power of social media (29% of our pledges came from twitter) and even draft emails we sent to solicit backers.
+My hope is that the advice shared will be used to create beauty, share stories, expand our world and let more lights shine.
+If you would like to support us, We extended the campaign for 
+#ReWriteTheCode over on Indiegogo
+.

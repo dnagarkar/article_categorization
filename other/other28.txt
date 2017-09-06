@@ -1,0 +1,55 @@
+Why I Was Wrong About Segwit And Big Blocks
+Segwit has activated on the network, and a lot of people have pointed out that my pinned tweet is 2/3 wrong. Indeed, I was very wrong on two of these predictions. In this article, I’m going to do a little bit of self-reflection and explain my analysis at the time and what’s changed.
+My Prediction
+I wrote 
+this tweet
+ back on January 1st and pinned it to my Twitter profile as a way to either look like a genius if I was right, or look like a fool, but at least an honest one if I was wrong. At the time, Segwit signaling was less than 30%, big blocks had similar levels of support, shaolinfry hadn’t made his appearance, UASF wasn’t a thing and the New York Agreement was still a twinkle in Barry Silbert’s eye.
+In other words, I didn’t see most of the major events of the past 8 months in Bitcoin coming. My prediction was based on the signaling at the time and the deadlock that had developed between the two camps.
+What Happened
+There were a multitude of events since January, many of which were unforeseen by nearly everyone. But let’s catalog the various events in chronological order.
+Feb. 25 — An anonymous developer named shaolinfry proposes a 
+user-activated soft fork
+ on the bitcoin-devs mailing list.
+March 12 — 
+UASF BIP is proposed
+ by shaolinfry on the bitcoin-devs mailing list. This proposal becomes BIP148.
+April 21 — Litecoin 
+roundtable agreement
+ is made. This was the result of UASF pressure as miners weren’t signaling for Segwit before. Agreement ensures Segwit on LTC.
+May 22 — Rumors of the New York Agreement come out. James Hilliard proposes a 
+BIP for making the 80% threshold for Segwit Activation
+ work. This becomes BIP91.
+May 23 — The 
+New York Agreement
+ is published.
+July 18— Segwit2x client is released, which includes BIP91.
+July 21 — BIP91 locks in.
+July 22 — 
+Bitcoin Cash is announced
+.
+August 1 — Bitcoin Cash hard forks off the network.
+August 9 — Segregated Witness locks in on Bitcoin.
+August 24 — Segregated Witness is activated
+It’s not unfair to say that this was a crazy set of scenarios that brought us to this point. Things may seem clear in hindsight, but most of the big events the last 8 months were not really predictable, starting with the UASF proposal back in February.
+Where I Was Wrong
+What I got wrong was that the deadlock between Segwit proponents and Big Blockers would continue. There really didn’t seem like a way out of the deadlock when I wrote that tweet on January 1. I did not expect, for example, creative solutions like BIP 148 or BIP 91 to emerge. I did expect something like the New York Agreement to be tried, but I did not expect it to succeed as much as it already has.
+It also turned out that Litecoin’s UASF and activation helped to set a precedent of sorts, which I also did not expect.
+Perhaps the biggest surprise was the emergence of Bitcoin Cash. This happened literally on the day after BIP91 lock-in, which caused quite a lot of consternation.
+Why I Was Wrong
+The deeper question is why was I wrong? When I look at the major events of the last 8 months, I can’t help but think that it’s individuals that influenced the events through their hard work.
+Shaolinfry created the UASF and BIP148 proposals which ultimately catalyzed the other events.
+Charlie Lee implemented UASF on Litecoin and eventually brought that community to an agreement which set the table for Bitcoin.
+Barry Silbert got a lot of industry leaders to agree on a path for Segwit.
+James Hilliard found a practical path to getting Segwit on the network with the 80% of miners that were supporting the New York Agreement.
+ftrader and deadalnix created Bitcoin ABC and ultimately got enough mining power to fork off the network.
+What I underestimated was the power of the individual. All of these events that affected the last 8 months in Bitcoin truly speak to the power of determined people in the Bitcoin ecosystem. Whether you think of these events as good or bad, it’s undeniable that people with ideas that work hard can make things happen in Bitcoin.
+What’s more, Bitcoin is set up so that groups can fork off whenever they want. We didn’t really have that in the previous 8 years, but in 2017, we discovered that people can and will break off on their own. I had feared a split as recently as 
+a few months ago
+. The ability for groups to split off turns out to be a feature and not a bug. The hard-forking aspect of Bitcoin worked better than I ever imagined it would.
+Conclusion
+The last 6 months have been full of drama, crazy highs and lows and lots of interesting developments. I’m amazed at how Bitcoin continues to thrive in ways that I never expected. I’m thankful that we, as a community, get to participate in this technical and social experiment that undeniably has already changed the world.
+Yes, I was wrong about a few predictions, but that’s not surprising. I’ll be the first to tell you that my predictions are probably not going to come to pass, at least in the way that I expect. I will keep the pinned tweet up until the end of August at which point, we’ll have lots of other things to talk about.
+Thank you, Bitcoin community, for having me as a part of this. I’m grateful for what we get to be a part of and I hope to continue for many years to come.
+Want to get curated Technical Bitcoin News? 
+Sign up
+ for the Bitcoin Tech Talk newsletter!

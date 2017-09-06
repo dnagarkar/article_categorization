@@ -1,0 +1,110 @@
+Making Money Trustworthy
+Bitcoin Explained (with Emoji), Part 2
+In 
+Part 1
+, we learned that Bitcoin is a decentralized currency, not generated or owned by any government or financial institution, and what hashing is. Now, we’ll learn how Bitcoin miners use hashing to literally make money, and how cryptography allows bitcoins to be trustworthy, unique and non-copyable even though they are completely (and irreversibly) transferrable.
+Bitcoin, like the U.S. dollar, fluctuates in value. People trust currencies even when their value floats.
+When U.S. dollars were backed by gold, people trusted the money because it could be exchanged for a precious metal. Now people trust the dollar largely because of the credibility of the U.S. government. They also trust the government to back banks.
+The Bitcoin system is designed to be highly trustworthy, but not because of gold or government. Instead it relies on mathematics — specifically, the clever use of two technologies: hashing and public-key encryption.
+Hashing & Bitcoin’s Blockchain
+Bitcoin’s blockchain is a public ledger of every bitcoin transaction. It is a sequence of blocks, and each block contains a group of bitcoin transactions. You might visualize the blockchain as a series of packages, each containing the transactions that occurred during a period of about 10 minutes:
+Or you might visualize the packages stacked on top of each other, with the earliest block of transactions at the bottom and the most recent at top. Tamper with any block in the stack and all the blocks above it tumble down, making tampering easy to detect.
+Each block has a unique 
+hash 
+— a “fingerprint” in the form of a very large number that is expressed (in hexadecimal) as a gobbledygook string of characters. The hash of a block might be “00000000003e95b0ac78cb961d0.”
+To make our discussion simple and conceptual, let’s use emoji instead of big numbers to represent hashes. Let’s express the first block’s hash as ⚽ (a soccer ball), the second block’s hash as 🐙 (a squid), and the third’s as 🌂 (an umbrella). The blockchain, when represented by emoji hashes, now looks like this:
+Let’s say my friend Elizabeth sent me $5 in bitcoin, and I want to pass it to you. When I do, the transaction will be included among many others in a new block added to the chain. Each block in a chain knows where it belongs in the sequence because it contains the hash of the block that came before it. In other words, the third block not only contains a group of transactions, it also contains the hash (🐙) of the previous block.
+Imagine that the Bitcoin system has just hashed block 📦3 (creating the hash 🌂). Once I pay you $5, so the Bitcoin network includes our transaction in the next block. This new block, which we will eventually represent as 📦4, doesn’t have a hash yet. It’s a question mark for now.
+This is where things get really interesting. Powerful computers called “miners” compete to add 📦4 to the blockchain. The first miner to successfully hash the new block is the winner, and its owner receives as a reward 12.5 brand new bitcoins (the number will decrease in future years).
+This is how new money is “mined.” Once a successful hash is discovered it is distributed instantly to all of the other miners, who verify it and add it to their copies of the blockchain — and then the race is on to find the correct hash for the next chain in the block.
+Hashing is easy. Laptops can find thousands of hashes in a second.
+But in the Bitcoin network, finding a successful hash takes the competing miners ten minutes on average because not just any hash will do. The Bitcoin system makes finding an acceptable hash extremely burdensome by requiring that the hash be a terribly small number relative to all of the other possible hashes. A hash can be any of an astonishingly large number of values. A number that is merely in the trillions is small compared to the range of all possibilities, in the same sense that the earth is exceedingly small relative to its universe.
+Miners want to find an improbably small hash value, and the only way is to try over and over again. Each attempt has to be different, and miners cannot vary the 
+way 
+they hash but they can vary slightly 
+what 
+they hash.
+They do this with the help of something called a “nonce,” which is sort of like that one-pixel black flea above the eye of the puppy in 
+Part 1
+ of this post.
+“
+Puppy
+” by Jonathan Kriz is licensed under CC BY 2.0.
+Recall that adding one pixel caused the hash of the puppy photo to be entirely different, because changing digital content even slightly before hashing it causes entirely different and utterly unpredictable results.
+A nonce is a wild guess — a number that is added to a Bitcoin block on a trial-and-error basis, in the hope that it will cause the resulting hash to be a winner. Miners take all of the transactions in the new block plus the hash of the previous block, add a nonce, and then hash the result. Each miner tries many different numbers for the nonce, hoping for one that will, when incorporated into the block, cause the block to hash to a suitably small number. In fact, successful miners may guess using many millions of different values for the nonce.
+These days, it typically takes miners quadrillions of attempts collectively before one of them finds a nonce that yields a winning hash. There’s a winner every ten minutes or so because miners run on farms of very powerful computers, and there are lots of miners. (If the average time to win dips below ten minutes, the Bitcoin system automatically makes the problem harder by making the size of an acceptable hash smaller.)
+Gold gets its value by being a precious metal, and a winning hash gets its value by being a precious number — a number that has a quality (its small size) that makes it exceedingly rare. Miners take stabs in the dark — collectively quadrillions of stabs in the dark — hoping to be the first to hit upon a number (called a “nonce”) that generates a hash that meets the strict requirement imposed by the Bitcoin system. The requirement, for example, might be that the hash be smaller than 0000000003e95b0acc32ac089222. The winning mining strategy is to have enough computer power to make 
+a lot 
+of guesses.
+The Bitcoin network requests hashes that are below certain sizes, but to continue our emoji metaphor, let’s imagine that sets friendlier constraints: For example, let’s say that the network’s constraint is that the hash needs to be an animal. On their first try, the miners’ hashes look like this:
+Only one of these values meets the constraint: Neither a cherry blossom nor a pear is an animal, but a dolphin is.
+Since the second miner found a correct hash, they collect a
+ 
+reward. This reward consists of brand new bitcoin, which is why this process is called “mining.” It’s almost as if miners are discovering new bitcoin, as if it were gold.
+If mining happens too quickly, the system will get flooded with bitcoin, causing inflation. To protect against this, the Bitcoin software is written with an adjustable constraint. If hashes are found too easily, the network can choose a stricter constraint.
+Imagine that blocks are being mined too quickly in our emoji-blockchain. To remedy this, the constraint might get adjusted: “For the next block, the hash must be an animal 
+and 
+it must be an animal with paws.”
+The miners run their hash functions and find this:
+None of these hashes are animals with paws. So the miners try again:
+At this point, the third miner has found a correct hash: bears are animals with paws! This miner can then broadcast the hash, along with the data inside the block, to the network. Because hash functions can be run quickly, other miners can run the hash function on this block and verify that this hash, 🐻, satisfies the constraints. They’ll then all adopt the block into their chains — which means they’re staying more or less in sync with each other — and start gathering transactions for the next block.
+Now the blockchain’s hashes look like this, with the transaction where I sent you $5 included in the block called 🐻.:
+Public Key Cryptography
+Hashing is just one of the mathematical concepts that Bitcoin relies on. Public key cryptography is another one.
+People who study cryptography often use “Alice” and Bob” as characters in their explanations to each other. Let’s use them to help explain the basic idea behind public key cryptography.
+Let’s imagine that Alice wants to send Bob a briefcase with some secret documents. (In cryptography, this is the kind of thing that Alice seems to be doing all the time.) If Alice and Bob have matching keys, it’s simple: She can put a padlock on the briefcase, lock it with her key, and send it to Bob.
+When Bob receives it, he can unlock the padlock with his key — since it’s the same as Alice’s — and get the secret documents. This process is 
+symmetric cryptography.
+But usually people sending each other secrets don’t have matching keys, because it’s not easy to securely transfer a key. If Alice had a private and secure service to send Bob a key, she could use that to transfer the documents, too!
+So Alice and Bob don’t have matching keys to a single lock. Instead, they each have their own key and their own lock, which means they don’t have to transfer keys.
+Here’s how it works:
+Alice locks the briefcase with her padlock and key, and sends it to Bob. When Bob receives it, he can’t unlock Alice’s padlock. Instead he can add his own padlock…
+…and send it back to Alice:
+Alice then uses her key to take her padlock off the briefcase:
+The briefcase now has just one padlock on it: Bob’s. Alice sends the briefcase back to Bob:
+And Bob can simply unlock his padlock and access the documents.
+Now Alice and Bob don’t have to find a way to covertly share a single key. All they need are their own keys, and their own padlocks.
+But what if the person on the other end isn’t who you think it is? What if there was some kind of freak accident, and Bob was replaced by… a bovine?
+This is what happens next:
+Alice sends off her padlocked briefcase. She thinks she’s sending it to Bob, but she’s really sending it to a cow.
+The cow — who is surprisingly dextrous — adds their padlock to the briefcase and sends it back to Alice.
+Alice, delighted that the case has returned with “Bob’s” padlock (which of course actually belongs to the bovine), unlocks her padlock and sends it back.
+The cow opens the briefcase by unlocking their padlock.
+The cow eats the secret documents. Moo!
+No one wants their secrets to be consumed by a cow, so we take one more step to protect our secret data: Bob makes sure that Alice knows 
+exactly 
+what his padlock looks like, so that when she gets her briefcase back with a new lock on it, she can verify that it’s his.
+In fact, Bob makes copies of his padlock and makes them publicly available everywhere. It doesn’t matter if everyone knows what Bob’s padlock looks like, since he’s the only one who can unlock it with his key. At the same time, this lets Alice identify Bob’s lock. She can check that the second padlock is really Bob’s before she unlocks her own.
+If we were dealing with physical keys and locks, it would be hard to duplicate and distribute the padlocks. But when we’re dealing with digital records, we’re working with digital keys and locks, which are numbers.
+The padlock is a number that is public. The key is a number that is private. The private number, which is called the “private key,” can be used to “unlock” the public one. This public number, perhaps confusingly, is called the “public key.”
+This is public key cryptography.
+People guard their private keys carefully, since a private key can unlock any of its corresponding public keys. (In cryptography, this unlocking process is sometimes called 
+signing
+.) People will publish their public keys broadly, so that other people can know what was locked by a particular lock.
+In the Bitcoin system, public key cryptography is used to prove ownership. In order to talk about how that works, first we need to settle some terminology. In Bitcoin, there are private keys, public keys, and addresses:
+Unlike with Alice and Bob and the secret documents, the keys in the bitcoin system aren’t trying to encrypt anything. There’s no opaque briefcase that they’re trying to unlock. Instead, the keys are used to prove ownership.
+In the bitcoin universe, Alice isn’t sending Bob a secret briefcase. Instead, she has a glass box that has her padlock and her bitcoin inside:
+In order to send the bitcoin to Bob, Alice has to do two things:
+Alice has to add Bob’s padlock to the box. This is simple, because his “padlock” is really a public number. That way, Bob can prove ownership by unlocking his padlock.
+Alice has to prove the first padlock associated with the bitcoin is 
+her 
+padlock, and not someone else’s. She does this by unlocking her own padlock with her key (a long number that she doesn’t share with anyone else).
+Then, when Bob decides he wants to send these bitcoin to someone else (let’s call him Carlos), he’ll do the same things: He’ll add Carlos’s padlock and then sign the transaction with his own private key.
+In this situation, what exactly is the padlock? Broadly speaking, it’s the public key. But the Bitcoin protocol has one more variation on public key cryptography — instead of including Bob’s public key itself, Alice can include Bob’s 
+bitcoin address
+. Bitcoin addresses are derived from public keys, so it’s like Alice is putting a specific representation of Bob’s padlock in the box. And a practically infinite number of addresses can be generated from a single public key, so if Bob wanted to use a different address every time, he could.
+Let’s go back to the $5 that I sent you. I sent it to your 
+bitcoin address
+ — which you generated from your public key, which in turn you generated from your private key. Your bitcoin address, then, is mathematically linked to your private key. If you own the private key associated with some address, then you own the bitcoin in that same address!
+In order to spend your $5, you need to make a new transaction, include an address that belongs to your recipient, and sign it with your private key. This is the equivalent of putting your recipient’s padlock on the briefcase and then unlocking your padlock.
+There’s an interesting side effect of using addresses, too, which is that bitcoin is nearly anonymous.
+It’s
+ pseudonymous
+, because your addresses are your pseudonym. Bitcoin isn’t linked to your name: All you need is your private key.
+So as long as you have your private key, you have your bitcoin. What can you do with it?So far, 
+in Part 1
+, we’ve learned that Bitcoin is a decentralized currency, not generated by any government or financial institution, and what hashing is. In Part 2, we learned how bitcoin miners use hashing to literally make money, and how cryptography allows bitcoins to be unique and non-copyable even though they are completely (and irreversibly) transferrable.
+In Part 3, we’ll learn how Bitcoin and blockchains are being used to make more than money, and how these technologies are underpinning new financial tools.
+Making Money
+Bitcoin Explained (with Emoji), Part 1
+medium.com

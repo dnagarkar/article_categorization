@@ -1,0 +1,175 @@
+Designing the Hiring Process
+Uncovering the collective wisdom of
+design leaders about their hiring processes.Hiring designers is hard. 
+Really hard
+. In a world where nearly every company is actively recruiting and hiring designers, there isn’t a well-documented or established pattern for evaluating design candidates. Many design managers have years of experience refining their design chops, but very few have had the opportunity to refine their management skills. Recently, 
+Lindsay Mindler
+ of Remind asked, 
+“How do I design my team?”
+ and design leaders from all over the industry responded with wonderful advice on who to hire and how to find them.
+The discussion was phenomenal, but it left us wondering,
+“How do we hire these designers once we’ve found them?”Jonathan and I are members of 
+a wonderful dim sum group
+, hosted by 
+John Maeda
+ of 
+KPCB
+. Over time, this group of design leaders began migrating their meaningful conversations from Sunday dim sum to stimulating discussions over Slack. While having a conversation in person cannot be replicated virtually, the transition enabled us to open the conversation up to a much larger design community. As the group has developed, we have had some wonderful organized seminars to help drive discussions around design as a career. Each week, a pair of designers co-host a discussion. Last month, 
+Jonathan Lieberman
+ and I co-hosted a seminar that was designed to help us identify and establish patterns around hiring designers.
+The discussion was amazing, and we wanted to share the feedback from this seminar with you. Hopefully, you will find this guide as insightful and helpful as we have.
+On Hiring Criteria
+Evaluating a design candidate, like evaluating design work, has its own unique set of criteria. This criteria seems to fall into two categories: criteria for everyone and criteria for managers.
+For Everyone: Communicating
+Presentation skills were a recurring theme for individual contributors, but 
+Dave Young
+ reminded us that “presentation skills are great, but sometimes misleading.” Core to why presentation skills are important is how indicative they are of the communication skills, but reading from a script should not be confused with how they communicate. Be sure to dig deeper into the candidate’s spontaneous communication skills by interrupting and asking questions. Candidates with a strong ability to communicate their design work to others lends itself to better collaboration across the organization.
+“The most important thing is how candidates present their work, describe the challenge and their role in it, and sell themselves. This allows us to evaluate not simply the quality of problem solving and design skill/knowledge, but also their communication skills and whether they truly want to be part of a collaborative interdisciplinary team, rather than be a highly-specialized individual contributor.” — 
+Erika Hall
+“Candidates also have to present their work to the group, so we get a chance to see how they tell the story of their process during that session.” — 
+Peter Cho
+For Everyone: Problem-Solving
+Problem-solving skills were another recurring theme. 
+Jeffrey Veen
+ once wrote that “Good design is problem solving.” Most of the design managers know this, and it showed in the responses we got.
+“Interesting to see how people approach and dig into a better understanding of the problem, constraints, business objectives, success metrics, context of use, current solutions, use cases, general empathy for the user” — 
+Dave Young
+Bob Baxley
+ has an interesting take on finding out “how [candidates] deconstruct a decision and how they question/explore constraints” by asking a unique question:
+“I’m going to give you one of two super-powers. You can only chose one. You will have that super-power for life and you will be the only person in the world to have it. Your choices are flight or invisibility. What’s it going to be?”
+For Everyone: Passion
+Beyond the criteria measuring a candidate’s ability to take on the core responsibilities of your design position, you need to ensure they actually want the design position for which you are hiring. Passion for the problem space and the design role’s specific responsibilities are key to an effective designer.
+“I don’t want to hire someone who wants a 
+job
+, I want to hire someone who is passionate about the problems we’re solving. If you don’t have passion for the problem you’re solving then you’re not going to be fully invested in your work. There aren’t many things that adversely impact a team’s dynamic more than having a designer who isn’t passionate about what they’re working on.” — 
+Jonathan Lieberman
+For Everyone: Ownership
+One of the more difficult qualities to measure is how an individual takes ownership and responsibility for their designs in a collaborative environment. A few of the key things to look for include how a candidate explains their personal impact on a project. In hindsight, what decisions would they make differently? Why was the original decision made? How did their peers contributed to a solution?
+“Interrupting and deeper questions are a good way to make sure the designer is skipping over parts because they think it’s obvious and not because they are avoiding an area of the project they’re not knowledgable about (when they possibly should be).” — 
+Lindsay Mindler
+“The absolute worst thing is when they blame a decision on the client without being able to articulate the client’s POV that led to the decision.” — 
+Bob Baxley
+For Senior Designers: Referrals
+For some of the more senior candidates, there is no question about their design abilities, so referrals become an important evaluation criteria. Referrals and recommendations allow you to understand how others see a designer in the work environment, not just how they present themselves during the hiring process itself.
+“If there was a senior candidate there was no reason to do any sort of skills test and we would go on referrals and portfolio work.” — 
+Johnnie Manzari
+When evaluating referrals, it is often helpful to interview the person offering the referral about their relationship with the candidate, the work they did together, and how they would want to work together in the future.
+For Design Managers: Guidance
+When hiring a design manager, it is paramount that you look to hire someone who can 1) guide the designers on their team and 2 ) are able to keep the team in lock step with Product and Engineering. Every team needs leaders, and if your team is large enough to need a design manager, you should put serious effort in evaluating their ability to lead.
+“See how they work in real-time […] For a manager how they guide design (how they ask questions, what they focus on, do they know the craft as well as people? How do they give feedback? Can they see poor ideas? Can they move them forward?).” — 
+Stefan Klocek
+On Evaluation Techniques
+Now that we’ve established the criteria with which we should be evaluating a candidate, what mechanisms do you use to actually evaluate those criteria in an individual? In our discussions, we focused on three main techniques: portfolio reviews, interview panels, and design exercises.
+On Portfolio Reviews
+Almost everyone who contributed believes a designer needs a portfolio, even if they are not focused on the visual design of a project. There’s something to be said about what a designer chooses to include in their portfolio. A designer’s ability to design is not the sum of a designer’s deliverables, but seeing those deliverables and how a designer explains those deliverables when discussing their portfolio gives a hiring manager insights into how the designer thinks about a problem, their actual design process, and what kinds of results they deliver.
+“understand the work in their portfolio; their role, contributions, what their rationale is, what the tradeoffs were, what they learned, what they would do differently” — 
+Stefan Klocek
+Additionally, one of the most important things stressed in our discussions around portfolio reviews was that you interrupt the design candidate to keep them from reciting a script and to see how they respond to interruptions.
+“Purposely interrupt the candidate and ask them extremely detailed as well as off-beat questions in an attempt to see how well they think on their feet.” — 
+Bob Baxley
+I did note that “almost everyone” believes designers need portfolios. Typically, the detractors were not so much saying, “Designers don’t need to provide collected examples of their work.” Instead, they were focusing on how the format of many portfolios is lacking. Realistically, many designers focus on interactive work, so the ability for a designer to articulate the interactivity in their work is important. A portfolio that is nothing but screenshots is insufficient. Typically, the best way to evaluate this is to have candidates provide working, living examples of their work.
+“When you’re designing interactive products and services, portfolios are almost meaningless. Like if they handed out Oscars based on movie stills.” — 
+Erika Hall
+One of the more recent and more promising trends in high-quality portfolios I’ve noticed is a move towards “case studies” instead of just showing off the results of their work. Typically, these types of portfolios explain more about the process, how they reached the end results, what the challenges were, and show more than just the finished product.
+On Interview Panels
+One standard in the hiring process tends to be an in-person panel of interviewers. Whether hiring for a designer, an engineer, or just about anything else, getting to meet a candidate in-person and talking with them about their experiences is typically the make or break moment in a given hiring process. Crafting the right interview panel is challenging, and it should be top of mind for all hiring managers.
+Figuring out the composition of your interview panel is important. Some design leaders advocate one panel per job req, while others keep the same interview panel for all of their job reqs. Remember that consistency is key, so you don’t want to change the interview panel on a given job req from candidate to candidate.
+“I put together the same interview panel for each open requisition. I need everyone who is evaluating the candidate to be calibrated and on the same page. For the designers who were not part of the panel (when the OKL team ballooned to 10 designers) we would have the “bench players” take the candidate to lunch. They could meet the candidate and feel like they we’re part of the process even though they weren’t in the design presentation or conducting 1:1 interviews.” — 
+Jonathan Lieberman
+Hiring here at 
+Choose Energy
+, I have a set interviewing panel for each job req, and some team members are on multiple panels while others are only on a single panel. The intent is always to make sure the team members who will be interacting most directly with a given candidate meet that candidate and are able to provide some input into the evaluation process. Collaboration is not just for work product but also for the hiring process, too.
+Be careful not to overdo it during your interview panels, though. 
+Stefan Klocek
+ warned that too many interviews in a row results in “asking the same questions or exhaustively going over the portfolio.” Others recommended that interview fatigue could prevent a candidate from performing well in the later interviews, and typically the belief seems to be that 30 minutes is too short for a single interview while more than an hour is too long. When I structure the final in-person interview panel, it tends to be around 4 hours comprised of four 45-minute interviews.
+So what do hiring managers discuss during an interview panel? It varies from company to company, but it follows a pretty common trend of understanding four major things:
+Career Path
+Understanding the candidate’s goals and aspirations about their long-term career goals and the specific position for which you are hiring were the most commonly mentioned interview questions.
+“Let’s imagine it’s three years from now and you and I are back in this very same room except this time you’re telling me that you’re quitting. After you leave, you’re going to go home and write 3–5 bullet points for your LinkedIn profile that describe what you accomplished and learned here. What are those bullet points going to be?” — 
+Bob Baxley
+“In two years, when you look back at this time at MyFitnessPal, what are the things you will want to have accomplished?” — 
+Dave Young
+“What are your three biggest learnings that you’ll take with you from your time at Company X?” — 
+Jonathan Lieberman
+Portfolio Details
+In addition to a portfolio presentation or review, many mentioned that deeper dives about the designer’s portfolio in a 1-on-1 setting provides value that cannot be unlocked during a group presentation or via informal review. How the candidate explains their portfolio when examining it in closer detail, especially about the specific decisions that led to their portfolio results, gives a great idea of how a candidate will explain their design decisions on the job.
+“[W]e will ask candidates to talk about design decisions they made during their portfolio presentations” — 
+Mike Davidson
+“It’s always interesting to see what details they take responsibility for as well as which ones they can rationally explain.” — 
+Bob Baxley
+Collaborative Ability
+Something that is difficult to ascertain during any interview is how well a candidate works with others. How the candidate describes previous collaborative work interactions and how they have resolved conflicts in the past can help give perspective into their ability to collaborate. Many of the interview panels perform collaborative interview sessions, not just 1-on-1 in order to get more detail about their collaborative ability.
+“In one of my previous roles we used collaboration sessions where we would pick a site or application that was interesting but not something any of us had worked on or had special knowledge about. Then as a group with the candidate, we would discuss and critique the work. Definitely a useful way to explore culture, chemistry, and group dynamics without the friction of a design exercise.” —
+ Bob Baxley
+Design Thinking
+Asking questions around difficult design problems during the interview can often provide a better understanding of how the candidate will tackle specific design challenges, especially ones they would be likely to encounter in the position. Some interviewers perform light design exercises with the candidate during their interview in order to really dig into their design thinking and ability to work in a situation that 
+Uday Gajendar
+ describes as “a little Aaron Sorkin with the fast dialogue but it’s intended to be a bit of a pressure cooker setup.”
+“The design exercise involves working through inventing a new product that’s unrelated to our company, from scratch on the white board. I give them a description of a specific user/persona, and I play the role of that person if they have questions. It’s been informative to use the same problem with candidates so I can see how they think, and have some reference points. I’ve asked all of the interviewers to come up with their own interview questions so they can calibrate too. I try to make it a fun exercise, and I get most excited when I see people who get engaged in the problem.” — 
+Peter Cho
+“Also support the value of interruptive questions and probing/deep dive questions, particularly for the design exercise. Often in the discussion of the results, I’ll throw out realistic constraints and difficult situations to see how the person reacts and adapts on the fly, to demonstrate ‘thinking on feet’ skills, which I find absolutely essential in the startup context.” — 
+Uday Gajendar
+On Design Exercises
+As mentioned before, some interviewers perform design exercises with their candidates during the interview panel, but it should be noted that the entire concept of design exercises can be a hot button topic. The general sentiment is that some form of design exercise is valuable, but that design exercises should be executed with care and a great amount of thought.
+“Interesting to see how people approach and dig into a better understanding of the problem, constraints, business objectives, success metrics, context of use, current solutions, use cases, general empathy for the user” — 
+Dave Young
+“[Design exercises are] a great way for not only [the interviewer] to evaluate [the candidate], but for [the candidate] in turn to evaluate the designer [and the interviewing] team” — 
+Jonathan Lieberman
+On the other hand, some believe design exercises can be harmful to the hiring process or don’t fit with their company culture.
+“[I]n-demand talent with a hot portfolio might be turned off by needing to do an exercise. In a hot job market it began to feel like friction to attracting talent.” — 
+Stefan Klocek
+“We have never used design exercises. That would be sort of antithetical to how we work, since we are so keen on being research focused.” — 
+Erika Hall
+“One person mentioned that they even got what looked like an automated email from a firm saying something like “Please complete this design exercise. If you are successful, we will ask to see your portfolio.” Really insulting stuff. Also accounts of people who had been asked specifically to redesign the company’s own product. The general consensus was that these sorts of tests were not necessary, but if they are helpful to you in choosing a candidate, at least make them non-specific to your product and don’t ask for a lot of the candidate’s free time. For the record, we don’t use them at all at Twitter.” —
+ Mike Davidson
+Should You have a Design Exercise?
+When deciding whether or not to require a design exercise, be aware that candidates will likely make a significant judgement about your company as a result of that decision. Some hiring managers think this is a good thing and that it weeds out the less passionate candidates, while others find it to be a blocker that would eliminate otherwise excited candidates. As I noted during the seminar, even though “some candidates are really excited and passionate about a specific company or market, they’ll take the path of least resistance if the two options in front of them are things they are equally excited and passionate about.”
+“It’s an indirect way to ask, how much do you want to work here?” — 
+Randall Hom
+“I was excited about the position and was worried that not doing the exercise would make it seem that I wasn’t interested enough, but at that point I was becoming a bit doubtful of their process and running out of time to dedicate to the exercise, so I decided to pass.” — 
+Analia Ibargoyen
+What should my Design Exercise be?
+If you decide to do a design exercise, the next step is to figure out what that exercise will be. If you search for design exercises online, you’ll find a lot of really good creative exercises that are designed to help people get creative and get excited about design, but you’ll find a dearth of design exercises meant to test design skills. Why is this? Well, every person interprets design differently, and every design job will have its own unique requirements. So, the first thing is to determine what your specific design job needs.
+To do this, some design managers believe you should have a design test be as close to a real world design problem that the candidate would encounter on the job. Some even give design exercises that include real work on their product.
+“[We pull from our own UX/Product Backlog] because that’s what we’re hiring for, someone to solve real problems (and give them a flavor of what they’ll be dealing with on daily basis for their fair evaluation of us), not some fantasy made-up situation for some other market or context I have no idea about, or gives a false sense to the candidate of what we’re really focused on.” — 
+Uday Gajendar
+“I like how the design exercise is the extension of the problem you were already working on. It gives the candidate a chance to flush out their ideas and come back with refined solution(s). It also gives a candidate a chance to “recover” if they were battling nerves during the exercise.” —
+ Jonathan Lieberman
+Not everyone agrees, though. Many designers believe that a design exercise related to the brand or company for which they are interviewing could be construed as “free work” and even if the candidate ends up not being hired, many of the ideas will stick with the interviewer, regardless of intent. To combat this, many people (including myself) have a rule where any design exercise they provide will be explicitly not related to the work for which the candidate would be hired.
+“Our process includes an onsite white boarding exercise where we give the designer a problem that can be solved in more than one way with a product that is not our own.” —
+ Lindsay Mindler
+“In one of my previous roles we used collaboration sessions where we would pick a site or application that was interesting but not something any of us had worked on or had special knowledge about.” —
+ Bob Baxley
+“[W]e had two rules for a design exercise: 1) focused enough that it could be completed in a few hours and 2) was unrelated to IP that we had or needed. We did not want people to think we were trying to get them to do free work for us.” —
+ Johnnie Manzari
+What Should My Design Exercise Test?
+This is a harder question to answer, and it will typically vary for each role you are trying to fill. For visual designers, you might want to provide a wireframe of an imaginary product and ask them to come up with a rough draft of a visual treatment. For user experience designers, you might want to provide a knowingly flawed conversion funnel on an imaginary e-commerce site and ask them to provide a concept that is meant to improve the conversion rates. For information designers, you might want to provide a few tables of data and a mission statement and ask for a data visualization that accomplishes the mission statement.
+The format you choose for your test should fall within the day-to-day responsibilities of the design position for which you are hiring, but feel empowered to push the boundaries of the individual’s abilities. A design exercise is not meant to be an easy task. Typically, it should be timeboxed pretty tightly where a few time management mistakes could result in an incomplete exercise. Both a terribly unfinished exercise or an exercise completed with lots of time to spare could indicate a mismatch, and close attention should be paid to what candidates choose to complete when given a lack of adequate time.
+“the time constraints to empower them to scope the problem from the appeal of ideals, to prioritize the things they think matter most.” — 
+Dave Young
+On Consistency
+The hiring process is not something a design manager will do once and then never think about again, and even if it were, most design roles will require talking to many candidates before finding the right one. As a result, many of the hiring managers reminded us to stay consistent in the process, as it is critical to have a baseline from which to evaluate candidates.
+“It’s been informative to use the same problem with candidates so I can see how they think, and have some reference points. […] I’ve found it helpful having the same questions to compare answers from different candidates. I also sometimes reflect back after designers have worked with us for while on how they performed in the challenges — usually I think it was a decent predictor of their design problem solving skills.” — 
+Peter Cho
+“Consistency is critical to establish a baseline.” — 
+Jonathan Lieberman
+Numerous others attested to the value of a baseline throughout the process. It allows comparison between candidates for the same position as well as can help predict on-the-job performance. Whether you are having candidates complete a design exercise or just preparing a list of questions, making sure that each candidate experiences the same process will help you become a better design hiring manager.
+Treat your hiring process like a product.
+Just like a product, your hiring process needs attention to detail and careful consideration. The designers who participated in our seminar have proven a lot goes into the hiring process. Hopefully, this will help some of you out there improve your hiring process as much as hosting it has helped me focus on mine.Thanks to each and every one of you who participated in the #seminar, and thanks again to 
+John Maeda
+, 
+Jackie Xu
+, and my co-host 
+Jonathan Lieberman
+.
+Speaking of our hiring process, both Jonathan and I are hiring designers. I am hiring a 
+Visual/UI Designer
+ and a 
+UX/Interaction Designer
+ for my team here at 
+Choose Energy
+ and Jonathan is hiring a 
+Product Designer
+ for his team at 
+Operator
+.

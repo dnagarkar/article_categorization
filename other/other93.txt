@@ -1,0 +1,106 @@
+The ultimate guide to bike-sharing and the future of “China to Global” exports
+Chinese internet companies have been exporting various products like e-commerce, games, and utility apps, to international markets over the last decade. Before starting 
+KeyReply
+, I was head of advertising campaign optimizations for APAC at Twitter. In my role, I witnessed a surge in interest from Greater China-based gaming companies, camera apps and general utility apps, in acquiring users abroad. These teams would operate in China, marketing to users from the Middle East to the USA, often working with global social platform companies like Facebook and Twitter.
+In the past year, with the proliferation of bicycle sharing, the trend is now in exporting operationally-driven models overseas.
+Chinese companies taking on the world
+Two companies leading the charge in China are 
+Ofo
+ and 
+Mobike
+. In my recent trip to Beijing and Shanghai, I witnessed a massive concentration of bicycles at every street corner, alleyway and building lobby in the city. There are billboard advertisements to appeal to mainstream consumers in train stations, selling the lifestyle and benefits of using these bicycle sharing services.Using it is really easy: Scan the QR code on a bicycle using the native apps or on your Alipay or WeChat app, get a confirmation, and off you go.Unchaining the wheels of competition
+By means of introduction, the founder of Mobike is Hu Wei Wei, and the founder of Ofo is Dai Wei; and both of them have been actively promoting their respective companies to the media in different ways.
+Hu Wei Wei shared in a recent event that “During talks with my potential investors from the very beginning, I said to them that our bikes are still on the roads and can be as beneficial as usual to our users just like a charity project, even if the bike-sharing scheme fails.”
+Public stats for Mobike and Ofo are difficult to retrieve, although combing through multiple sources have revealed the following:
+Ofo stats: 
+Raised $1.2 Billion, 150 cities, 400M total trips as at 3/17/17, 6.5M bikes, 100M registered users
+Mobike stats: 
+Raised $0.9 Billion, 100 cities, 25M rides a day at peak times, 5M bikes, 100M registered users
+(Source: 
+Reuters
+, 
+China Daily
+, Mobike, 
+TechCrunch
+, Crunchbase)
+The impetus for both companies has been to scale globally. Mobike and Ofo have both opened up in cities aggressively. Ofo has entered Thailand, Malaysia, Singapore and Japan, while juggling new cities in further markets like Seattle; Mobike has also been expanding aggressively in Europe and other Western cities. Both have started moving into the US market, with Ofo also fighting local companies there such as Spin (started by Singaporean founders based in the US) and Limebike.
+The competition is intense on many fronts — in China, companies like 3Vbike’s failure follows 
+last month’s closure
+ of Chongqing-based bike sharer Wukong. The company’s founder blamed the shutdown on its inability to secure quality bicycles like those used by its larger competitors.
+Social concerns around the model are also rearing up. In an interview, Dai Wei of Ofo revealed that there were many “haters” of Ofo during the early days in Peking University, with some even posting “Wait for Ofo to fail” on the school’s forum channel. There were also many cases of people dumping Mobikes from high buildings, city governments having issues with the parking of these bicycles, and the issue of “bike waste” in multiple cities.
+Riding to new heights
+Both companies have been investing heavily in production of bicycles. The total capacity secured in 2017 by the two companies are at over 30M units of bicycles. From a product perspective, the two companies have slight differences in their approaches to the market. The average cost of Mobike bicycles and Mobike Lite is $300 and $75 respectively. The average cost of Ofo bicycles on the other hand is only at $45 
+(Source: 
+Technode
+).
+New bicycle production partnership — Source: Tencent Tech, Sina Tech
+Mobike has invested a lot in the R&D of the bicycles, with solar panels on the front, smart locks, and internet connectivity to enable users to find bicycles on the map from the get-go. Ofo, on the other hand, started initially by focusing on increasing the density of bicycles and opted to go with simpler number-code locks, although they are now investing heavily in their smart lock system. This affords Ofo greater economies of scale, since they have no need for complex bicycle specifications or IP protection when working with bicycle manufacturers.
+Given that the core of the user experience is actually finding and riding a bicycle, both companies see the importance of being able to track where their bicycles are, for better supply redistribution and demand projection. Mobike has begun trials with Qualcomm and China Mobile on implementing the latest IoT technologies such as Cat-M1 and NarrowBand IOT (NB-IoT). Ofo has also started working with Huawei and China Telecom on employing wireless internet and NB-IoT technologies.
+NB-IoT focuses specifically on indoor coverage, low cost, long battery life, and enabling a large number of connected devices. The technology rollout on the chip and telco level will allow for longer battery life of up to 10 years. With the wide-ranging applications that can leverage on the new technology, it can potentially contribute to each company’s differentiation in the long term.
+While both companies charge consumers per use, they have both been experimenting with new business models. Ofo is aggressively pushing their bicycle sharing scheme, where you can contribute your own bicycle to the platform with a smart lock attached, in exchange for unlimited rides. These could be very appealing for students or even community members in rural areas where Ofo would not be able to access easily. Residents in those cities can contribute to the platform by using the Ofo app.
+Mobike has been testing a subscription model of $3 per month for 2 hours of daily usage. This could potentially increase daily usage, creating consumer habits.
+While both companies require deposits to get started, they openly proclaim that these deposits are not used for their investment purposes, and can be refunded to consumers at anytime. Both companies have been experimenting with credit systems — Sesame Credit providing for Ofo, and Tencent Credit for Mobike. This means that users will then no longer need to put in a deposit to use the bicycles, based on their credit ratings with these services.
+Users can use the WeChat or Alipay app to access many services from paying their bills to getting a ride on Ofo and Mobike. In the future, Ofo and Mobike could instead become standalone application platform for other companies to leverage on to capitalise on their user base. A design trend in Chinese application ecosystem as noted by Dan Grover (previously PM of Wechat) is that “While all-encompassing, Yahoo-like ‘portal’ homepages died in the US sometime in the early 2000’s, they’ve had a long life here in sites like 
+Sina
+, 
+163.com
+, 
+hao123
+, and 
+Tencent News
+.” Perhaps this could hint at the future direction of Ofo and Mobike applications to include more services to suit the needs of the Chinese market.
+Turning the axles of influence
+The big question remains: Why are these companies launching so many bicycles in new cities? An interview with Hu Wei Wei revealed that bicycle density is a key factor in beating the competition. With higher density of bicycles in cities, the ridership will disproportionately increase in relation to the number of bicycles, i.e. the more bicycles there are around, the more people will ride them.
+This comes down to the accessibility and convenience of getting to a bike. The easier it is for a user to use a bike and start riding everywhere, the more likely they are to use it. And the more people ride an eye-catching orange or yellow bicycle, the greater the awareness and reminder for someone to use it themselves.
+The rest of Asia definitely appears to be the next big battleground for the two companies. Singapore-based oBike is also holding its own, with $45M raised going into their war chest.
+The criteria for the choice of expansion cities in China, appear to be cities with over 1M people who regularly need bicycles to cover distances between 500M to 3KM, called the “last mile in transportation services”. A typical daily user of bicycle sharing services would ride from one university block to another, or from home to the train station, and from the train station to work.
+For bicycle sharing to be relevant to these consumers, it needs to be favourable as compared to cars, motorcycles, walking and other modes of transport for these shorter distances. It usually is — with these travel distances, it is too far to walk, and too expensive to take a cab.
+However, population density should not be the only measure to use for choosing which cities to expand to, as in the case for many other transportation related companies. While cities like Jakarta, Ho Chi Minh or Manila maybe densely populated, they may lack the infrastructure and subway networks to enable a safe and regular commute with bicycles.
+A good way to evaluate the suitability of a city for Mobike and Ofo to expand to could be based on the metrics used by the 
+Copenhagenize index 
+to rank cities for bicycle-friendliness. 14 parameters are used, which include bicycle facilities, bicycle infrastructure, perception of safety, urban planning, and bike sharing, among others. The only Asian city to make the top 20 city index for 2017 is Tokyo. Aside from Tokyo, other Asian cities known to be great for cycling are Nagoya, Beijing, Singapore (yay!), Kyoto, and Kaohsiung.
+Navigating growth
+It’s worth examining how Ofo and Mobike are hiring to expand their footprint overseas. From a glance of their LinkedIn pages, many of the executives hired to lead teams abroad are overseas Chinese who have worked in roles such as consulting, delivery, transportation, and other startup companies. With over 50M overseas Chinese population living and working abroad globally, these overseas communities can be tapped for talent in leadership and growth in the burgeoning Chinese export markets.
+I would imagine much of the communications on product and strategy from headquarters to be dealt in Chinese (Mandarin), which means that the ability to communicate in Chinese is key to career growth in the organization. They will also need to be well-versed in local culture and business context to deal with potential issues.
+Early regional leads in the UK, US and South East Asia have been joined by scores of launchers, business development, operations, and marketing personnel. Product management is based in the headquarters, however, as close proximity to the engineering team is necessary.
+Ofo US data, Source: LinkedIn
+Mobike data, Source: LinkedIn
+Well, from the charts above, LinkedIn still has a long way to go in China. It also appears that many will be celebrating their 1 year anniversary in the company in 4 months.
+Export, the Chinese way
+Looking at the investors of Ofo and Mobike, there appears to be an interesting power play behind the scenes. The largest investors of Ofo are Ant Financial, Alibaba, Didi Chuxing, Xiaomi, and DST Global. On the other hand, Mobike is backed by Foxconn, Tencent, Sequoia Capital and Temasek Holdings.
+Media reports in recent weeks have speculated that 
+SoftBank may lead a new $1 billion round for Ofo
+. Should this be true, this huge injection of capital from prominent investors will enable these companies to shake up the battleground while scaling abroad. Consolidation could occur down the road, as we’ve seen with the deal that Didi Chuxing and Uber China struck.
+Chinese entrepreneurs are already looking for the next big thing. Many have started offering sharing of battery packs, umbrellas
+, 
+karaoke-in-a-box and treadmill stalls on the streets. If these companies can validate the market with frequent consumer usage, they can potentially piggyback on the platforms of Ofo and Mobike in expanding overseas.
+Uber, as the frontrunner in the transportation sharing economy, has led the way for bicycle sharing; for example, it has interesting partnerships with helicopter companies in cities. Clearly, there will be opportunities for companies like Ofo and Mobike to do the same type of product extensions with these startups’ offerings.
+One startup has done so, with fans placed cleverly on Ofo bicycles at traffic stops:
+Picture: 
+https://mp.weixin.qq.com/s/YqZ0z8Ob5BzmcbICFTILvw
+China has come of age in the past few years. From letting anyone download better torch light apps, to bringing actual bicycles to urban cities, companies from China will continue looking abroad after tapping into the local market. I look forward to consuming more innovative products coming from China, adding to my already crowded smartphone screen real estate.
+Now, where should I leave my bicycle?
+Courteous users of Ofo and Obike parking on bicycle racks at Blk71 Singapore
+Update — 16 August 2017, 10:48PM:
+Since publishing the post, the Ofo Singapore team shared some additional initiatives that they are working on. 
+1) Dutch designer is working with Ofo on having a filter on the bicycles to filter out pollution as riders ride. 
+http://www.straitstimes.com/asia/east-asia/china-built-air-cleaning-bikes-heading-for-britains-streets
+ 
+2) In Singapore, to localize well to the market, they changed the bicycle body to an aluminium lighter weight version with front and back lamp for safe night riding. There’s even a solar panel for charging of the lamps. Front baskets are also installed to help people put things as they ride.
+3) They prioritise product innovation and government relations, such as taking the lead to spearhead regulatory framework for safe bike use in Singapore.
+Sources
+http://technode.com/2017/01/24/mobike-to-double-annual-bike-production-through-partnership-with-iphone-maker-foxconn/
+https://www.techinasia.com/bike-sharing-app-netflix-style-subscription
+https://ofo.com
+https://mobike.com
+https://www.reuters.com/article/us-ofo-fundraising-softbank-idUSKBN1AD0KE
+http://www.chinadaily.com.cn/business/tech/2017-03/17/content_28587597.htm
+https://techcrunch.com/2017/07/12/chinese-bike-sharing-startup-mobike/
+https://www.techinasia.com/wukong-shutdown
+http://tech.qq.com/a/20170228/019218.htm
+http://crunchbase.com
+http://chinachannel.co
+http://dangrover.com/blog/2014/12/01/chinese-mobile-app-ui-trends.html#portals
+https://www.techinasia.com/singapore-obike-45-million-series-b
+http://copenhagenize.eu/index/criteria.html
+http://www.bikingexpert.com/75-most-bike-friendly-cities-in-the-world/

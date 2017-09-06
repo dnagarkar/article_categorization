@@ -1,0 +1,90 @@
+We keep talking about diversity. We should be talking about bias.
+T
+here has been a LOT of talk about diversity within the workforces of technology companies as of late. Tim Cook has 
+spoken
+ out on this issue. 
+Google
+, 
+Slack
+ and 
+others
+ have released diversity reports detailing the gender ratios and ethnicities of their employees. 
+Article
+ after 
+article
+ after 
+article
+ has come out talking about diversity.
+But they’re all missing the point. And we’re worse off for it.Diversity shouldn’t be our goal. Equal opportunity should be.
+Let me explain. Most of the articles I’ve read on the subject of diversity continue to emphasize diversity 
+for diversity’s sake
+. They discuss what’s being done to get more women into tech, or attract more minorities, or close the age gap. The proponents of these objectives certainly mean well, and believe that continued advocacy for disaffected people and protected classes will make the situation better. However they are missing a key point: emphasizing that employers try harder to hire people in disaffected groups 
+because they are in a disaffected group
+ degrades the actual talents and skills those people have.
+It’s like saying to some female applicant “oh, you may be a great programmer, but the reason we really want to hire you for this job is because you’re a 
+woman
+ and you check a box on some diversity report that we’ll put out.”
+Do we really believe that there are so few talented female programmers that could get the job on their own merits and talents if given the chance that we need to provide some artificial incentive?
+I’m not buying that for a minute. There are talented people everywhere. But most employers aren’t seeing people’s talents because they aren’t even looking for them. Instead they’re looking for “credentials” (more on that in a minute) and those credentials are what trigger biases.
+If we’re serious about creating diverse workforces — and we should be — this has to change. And it has to change for everyone, not just women or minorities or people over 40. The reason companies lack diversity has nothing to do with the absence of talent. It has everything to do with the presence of bias.This isn’t a talent problem, it’s a bias problem.
+The moment a company accepts a resume as the first step in their hiring process, they have already FAILED because the resume contains bias triggering information. If we want to get rid of bias, we have to start with the resume.
+Names, Names, Names
+If I told you there were four applicants for a job named Alison, Chamiqua, Venkat and Anatoly, I’ll bet the instant you just read those names an image of who each person was formed in your mind. I’ll bet you saw Alison as a Caucasian woman, Chamiqua as a Black woman, Venkat as an Indian man, and Anatoly as a Russian man. Your mental picture formed because of “unconscious bias” and every single one of us does it, without even realizing that we do. That’s why it’s called 
+unconscious
+ bias and there’s no avoiding it. It’s human nature.
+Where’d you go to college?
+We do the exact same thing with college names. If I told you one candidate went to Community College, one went to Stanford, one dropped out of college and another went to Florida State, I’ll bet you immediately honed in on the Stanford grad as the most impressive. Name recognition triggers association and association triggers preference and bias. This isn’t groundbreaking stuff; the entire advertising industry is built on the idea of name recognition and association of a need to a name. These biases are 
+unconscious
+ so no amount of saying “I don’t do that” gets around the problem. You 
+are
+ doing it, you just don’t realize it.
+You worked where?
+As should be obvious by now, names trigger biases, and the names of former employers are no exception. In fact, they might be the 
+most
+ biasing of all. If one candidate worked at Google, another at Acme, Inc, another is unemployed and the last works at Safeway, I’ll bet you were impressed with the Google employee, scared off by the unemployed person, unsure about the person from Acme, Inc, and bewildered by the person from Safeway (what do groceries have to do with tech?). The name of a former employer has absolutely nothing to do with the talent of the candidate, yet we assume it does because of name recognition. We assume that people who worked at iconic employers whose names we recognize must be more talented than people who worked at companies we haven’t heard of, or worse, companies unrelated to ours, or worse still, people who aren’t working at all.
+The resume and bias are forever joined at the hip.
+The primary objective of a resume is to list these names, and each of them triggers a bias. Whether we realize it or not, as employers we’re aggregating those biases to form an opinion about a candidate before we’ve done a single thing to evaluate how talented or capable they might be or how well they might “fit” on our team. So if our hiring process starts with a resume, we might as well put up a sign that says “Apply here, we’re 
+really
+ biased.” You simply cannot have one without the other.We think we’re looking for talent. What we’re actually doing is looking for credentials.
+Besides a person’s name, each and every thing they write on a resume is a credential. Employers. Titles. Degrees. Skillsets. Everything. And it’s no accident. The 
+entire purpose
+ of a resume is to list all these credentials, and candidates go to great pains to do so in the hopes that we as employers will review them favorably.
+Here’s the reality: when a human screens a resume, research has shown they spend a grand total of six seconds looking at it, on average. Yes, six.
+What do you think they’re spending those 6 seconds looking for?
+If you said “talent” you haven’t been paying attention. No, screeners are only interested in credentials (i.e. names), because that’s what the candidate has provided in the form of a resume, and frankly that’s about all anyone 
+could
+ reasonably absorb about a candidate in only six seconds. As we’ve seen, every credential listed, as well as the name of the person and their gender triggers a bias.What if we could design a hiring method that was free of bias, and was completely equal opportunity? What would that look like?
+I’ll give you my answer to this below, but admittedly 
+I’m biased
+. (Get it, play on words? Yeah, hopefully you got it and smiled a bit).
+Here are 3 things we could do right now to get rid of bias in hiring, and make things truly equal opportunity:
+- Evaluate 
+talent
+ as the first step:
+ Rather than asking candidates to send in their resume, we’d ask them to 
+do something
+ to demonstrate their talents, skills and abilities. We’d give them an assignment (or even several assignments) related to the job, and assess their performance on that assignment. Simple.
+- Open to everyone:
+ We’d make the assignment open to anyone who wanted to apply, irrespective of degree status or years of experience. We can do this by leaving the “requirements” off of a job description. The requirements for the job should be obvious: that you can DO it!
+- Apply anonymously:
+ When a candidate applied, we’d remove their name so the only thing an employer would get to see would be the work product on the assignments. Names trigger biases, and those biases are human nature. We can’t remove human nature, but we can remove the names. No names = no biases.
+If we did just these three things, a lot of bias would go away and I am 100% convinced we would see a lot more diversity as a result. But it wouldn’t be diversity for 
+diversity’s
+ sake. It would be diversity for 
+talent’s
+ sake.
+We don’t need to (and should not) artificially engineer diversity into our workforce. Diversity should be a 
+consequence
+ of a truly equal opportunity hiring system. Let me repeat that because it’s a key point:
+Diversity should be a 
+consequence
+ of a truly equal opportunity hiring system.
+And experience shows it can be. Auditions for symphony orchestra members used to be done in full view of the judges, and mostly men were selected. But when the auditions introduced a screen that prevented judges seeing 
+who
+ was playing, an immediate result was a huge increase in the percentage of women that were selected. This really works.
+We’ve spent long enough talking about diversity. We should be talking about bias. If we want to actually 
+do
+ something about diversity, we can start by getting rid of bias, and we can only do that by getting rid of the resume.
+Trevor Goss is Cofounder & CEO of 
+Varsidee
+, software that lets employers assess talented professionals by creating work sample projects called Tryouts. He is leading a movement to change the way companies identify and assess talent, so they can build more effective teams.

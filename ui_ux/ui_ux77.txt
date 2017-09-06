@@ -1,0 +1,29 @@
+6 storytelling principles to improve your UX
+Crafting a good experience is like telling a good story
+Stories are core to various activities, tools and methods applied in UX.
+Stories are how we remember. We tend to forget bullet points 
+(Robert McKee on HBR)
+.
+Bullet points make as little of a good story as multiple isolated touch-points don’t make a good overall experience of a product or service.
+In an ideal case, great products and services appeal to us on a visceral, a behavioural and a reflective level (
+3 levels of design, Don Norman
+). While the visceral level deals with the visual appeal, the behavioural level deals with use and usability. Last but not least the reflective level determines whether and how we process and remember and share an experience. This is only one instance when the story element has a love affair with UX.
+Applying storytelling techniques and methods help your UX Design and the process in many aspects. Creating personas, mapping user journey, writing user stories, etc. Last but not least, telling and «selling» your story right helps to buy in your stakeholders.Elements of storytelling
+Apply the following storytelling elements in your UX and UX process.
+Reason for your story
+Main character (hero)
+Start with a conflict
+Structure
+Creation of awareness
+ViralityA reason
+Be clear and understand the higher purpose of why you are doing what you are doing. What do you, your product, your service or your brand stand for? The WHY is always a good point to start. When you create a UX persona, for example, you want to define what the represented human being aims for in life. In an Experience Mapping, you first want to know why you are doing it! 
+Start with why (Simon Sinek)
+.Main character
+Every story needs a hero. You, your product, service or brand are NOT the hero. Your users, customers or the human beings you serve are. You are the enabler, the helper, the sidekick. You are the Alfred to Batman and not the other way around. Your are here to serve and help your user achieve a goal and get shit done, even if it is only about creating joy and pleasure!Start with a conflict
+In an ideal world, you want to solve someone’s problem or tackle a challenge. Conflicts are where a lot of good stories start. UX Design is about resolving conflicts your user deals with. Thus, you start with a good understanding of your user and a user’s pain points!Structure
+There are different ways of structuring stories. One that has proved to be successful is the three-act. Simply put, there are a start, a middle part and an end to such a story. This structure aligns nicely with a typical customer journey or life-cycle. It can be a used as an overarching structure of an UX journey mapping: Recruitment (User acquisition), Retention (Use of your product or service), Recovery (end of usage, ideally renewal and advocacy).Creation of awareness
+Creating awareness in stories is about triggering emotional reactions. Joy 😀, surprise 😯, sadness 😔, anger 😡, fear 😱, disgust 😖. Unless you design the scariest rollercoaster experience, you probably want to relieve your user for a negative emotion and aim for joy in most cases.Virality
+Good stories get shared. If your users share their positive experience dealing with your service, brand or product you have probably done a good job. Enable them to do so!Feel free to ❤ this post, share it, follow me on Twitter or get in touch:
+dannessler.com
+ | 
+twitter.com/nessie420

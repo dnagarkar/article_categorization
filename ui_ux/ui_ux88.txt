@@ -1,0 +1,90 @@
+The Ninja Skill for UX Designers
+Earning Your Whiteboard BeltWe’ve seen one big trend in how startups interview UX designers: 
+companies want to know how designers think through a problem
+.
+There are multiple ways to do this of course. You can ensure your UX portfolio demonstrates your work, and more importantly your process. You can develop a slide deck walkthrough of specific design projects. But the technique that works best…
+The Whiteboard Design Challenge
+Solve a design problem.
+On a whiteboard.
+In 20 minutes.
+In front of others.
+This is the tour-de-force of the designer hiring process. Can you cogently think through a problem? Can you bring others along in your thinking process? Can you externalize your ideas with words and sketches?
+Whiteboard challenge
+: designing a book list feature for university professors using the Amazon API.
+Nothing else comes close in demonstrating how a UX designer thinks and behaves than a whiteboard challenge. 
+Click to Tweet
+Practice Makes Perfect
+At Tradecraft, we practice this skill weekly. Whiteboard Design Challenges are hard. And scary. And fun. They develop a great set of skills, from exploring a problem to facilitating a process.
+Here’s how we do it:
+Every Wednesday morning, UX designers gather for Whiteboard Design Challenges. The whole session takes an hour (it can be shortened to 45 minutes in a pinch.)
+We break into pairs, pick a “challenge” and and head to a whiteboard. (We have a whiteboard challenge jar chock-full of meaty problems created by the wonderful 
+Scott Price
+.)
+One person is the designer and the other acts as host.
+For 20 minutes, the designer works through the design challenge on the whiteboard, asking questions of the host as needed. They think out loud while writing to demonstrate how they are exploring and solving the challenge. Common elements that are covered include: personas, design stories, metrics, task flows, conceptual models and UI sketches. It’s kind of terrifying. And exhilarating.
+When the 20 minutes is up, the host gives 10 min of feedback, then they swap roles and do it again with a different challenge.
+The visible progress on problem-solving skills is dramatic across weekly whiteboard challenges.
+Quick Tips By Role
+:: 
+Quick Tips for Designer
+ ::Manage the room. If you’re talking but not drawing or writing on the whiteboard, you’re not exploring or solving the problem. Ask a question and confirm by restating or make a guess and confirm the assumption. Don’t gloss over details that may seem obvious. Think out loud constantly.Keep the energy high and the tempo quick. Work FAST. But don’t be sloppy. Be meta: describe what you are doing or what you are going to do: “What I’d do next is capture user needs and goals, so I’m going to use a quick provisional persona to do that.” Write and then move to the side; let the host see what’s happening as it emerges.
+Ask: “What am I missing here?” or “What else needs to be captured before I move on?” Actively listen to feedback. Don’t justify or make excuses. Just take it in and learn. Afterwards, you can give feedback to the acting host so that they can improve their hosting abilities.
+Advanced tips for designer:
+Label the board: Write down the challenge and goal first.
+Plan the board. Where will you put the background info? How much space do you need for a task flow? Where should you put the UI sketches?
+Ask for time-checks.
+Write clearly, in all caps if possible.
+Try to get to UI. Much gets worked out in UI. In UI, consider using a different color marker for CTAs or interactions.
+Close strong: walk-through the solution as an answer to the challenge, and incorporate the design stories.
+After, write your name and date and take a photo of it so you can track improvement.
+:: 
+Quick Tips for Host
+ ::
+Manage time. Be willfully humble in feedback.
+Let the designer explore and solve the challenge. The designer leads the conversation, you are there to support, answer questions and observe.
+Answer questions when asked. You’ll need to make stuff up, and that’s okay. Be decisive. Push back on assumptions the designer makes that you think might not be valid.
+Manage the time. Give a 5-minute heads up. Hold feedback until the close of the challenge. Make notes if you need to so that you can provide clear and constructive feedback.
+Still Want More? Let’s Delve Deeper:
+1. Start high level
+What is the host asking you to design? What is the feature and or task that you have been charged with evaluating? Write the prompt down, and bullet any details they give you. Create a single task that communicates at a very high level what the product or feature will do. Don’t move on until you are clear on your mission’s directive. Ask if there is a metric they are trying to move. If so, write it down.
+The goal of the writing the high level epic is to demonstrate that you can establish a broad vision of the product or feature and plan from that point. Even though you haven’t got all the details worked out yet, once you have direction then you are ready to move towards more granular planning.
+Ask questions for clarity. Your acumen is revealed in the questions you ask.
+2. Who is it for? Move to the persona
+Who is the product or feature designed for? Ask the host if they have done any research with users. Do they know who the user will be? Where does the user live, what they do for a living, or what are their needs? Depending on the host, they may give you a validated list of needs and behaviors or you may need to create your own list of assumptions.
+Ask the host context questions: will the product be a mobile or web app, what is the frequency of the product or feature use, etc.? These are the ‘setting the stage’ questions that are important in informing the design parameters.
+The goal here is to demonstrate insight and consistency. Have you really fleshed out the needs of the persona? Do you have conflicting pieces of information in the persona? How do you reconcile that? Acknowledge aloud and write down your assumptions on the board. Demonstrate that you understand the difference between a fact and a working assumption. An assumption is something that is not proven, but for which there are strong indications. It is also what you are going to use to begin testing and validating your designs.
+The goal of the persona is to begin to move from the theoretical to the literal: from ideas to the user interface. 
+Click to tweet.
+Creating a persona provides stakeholders with a reference point when reviewing design decisions.
+3. Create the main flows of the design story
+Once a persona has been created, you are ready to pull together the primary tasks for this feature or product. The main flows are the primary tasks your user will perform when using your product. I suggest listing out these flows and including checkboxes in front of them for when you move onto to task flows. Once you have the main flows, begin to list out cases that are less common, but still occur. These will be your alternate flows. Even more rare then the alternate flow? These will be your edge and corner cases. Definitely remark upon these instances. Maybe you don’t need to write them on the board, but state them aloud.
+The cases that are small, strange and weird are likely the cases that the designer, engineer and product manager will miss. These mistakes can be costly once development is underway. Einstein famously claimed that before he started experiments, he would sit down and perform thought experiments in which he would work through an experiment from start to finish in his head; making assumptions on what the most probable outcomes would be. In a similar way, as a designer, you need to anticipate all possible outcomes of your flows.
+Demonstrate that you are thinking about potential problems. In summary: write down the main flow and alternate flows, make mention of edge and corner cases.
+The design story addresses the actions a user can take.
+4. Work through task flow if given enough time
+Depending on the time you have been given, you may want to actually demonstrate a task flow for one or more of the main and alternative flows. Remember that the task flow is designed to demonstrate how a user would perform a task, and where the user could potentially become ‘stuck’ or confused in the design. Look to the main and alternate flows for guidance while creating the task flow.
+Because you spent the time writing out the main flows, you can quickly reference the main flows into user states (rectangles) and user decision points (diamonds). Begin to check off the design story flow as you progress through your task flow. Using the check boxes will prevent you from forgetting to address the edge or corner cases in your task flow.
+The goal here is to demonstrate a level of comprehension in interaction design. Can you see how a user progresses through a task? Can you identify areas of potential problem? Even if you cannot solve it in the moment or get stuck acknowledge that you see ‘it’, and that the interaction would need to be addressed in more depth at a later date.
+Task flows inject the user into the process— are there potential conflicts? System requirements? Usability issues?
+5. Draw 2-3 wireframes of the user interface
+If you’ve created a design story, the user interface should come much more easily. I begin by drawing out the constraints of the UI hierarchy. Broad level to specific. Draw out the navigation, body, footer, sidebars, etc. Next: where are the titles? The images? Then begin to call out the interactions: where are the links? Begin to show how the links or buttons connect user interface #1 with user interface #2. Recheck your task flows. What part of the user interface is on the task flow, but not communicated in the interface?
+Wireframe sketching can get messy. But try to describe aloud the why behind the sketches. For example, if you find yourself needing to erase a set of buttons, explain the reasoning behind the change. Mistakes are fine; acknowledge them. It shows that you are not wedded to your first design.
+The goal of the wireframes is to create a nearly-there experience. Were you able to cross the divide between the theoretical to the literal interface? Did your wireframe address the primary needs of your persona?
+User interface sketching takes the abstract into the concrete.
+6. Wrap up by revisiting the persona and design story
+If you’ve kept a good handle on time, it is always great to ask questions from the host (assuming they haven’t been peppering you throughout). If they aren’t taking the chance to ask questions, give a final walk-through. Now that you’ve worked through broad theory to granular, interface specific fields, you can begin to show the common links between the epic, persona, design story, task flow and wireframe.
+Remember, err on side of over-communicating your process! The feature or product design is the secondary goal of a whiteboard challenge.
+The primary goal is to assess your process in addressing big ideas. Show off your problem-solving, design skills by having an established process. Then customize your presentation so that it reflect your own unique ‘you-ness.’
+Bonus
+: Want to add some extra analysis? Instead of just talking through or writing out ideas, try diagramming ideas. Sometimes diagramming on the fly can be risky— because you might not come upon the correct diagram the first time— but being able to conceptualize and then translate ideas into visual imagery is a powerful communication tool.
+I’d love to hear fellow designer’s, facilitator’s, product manager’s, other’s perspective. Share your responses 
+@mollyinglish
+.
+If you like this post, please recommend it!
+I’m a 
+UX Designer
+ at Tradecraft with a passion for interaction and experience design. Mastering the UX craft under 
+Laura Klein
+ & 
+Kate Rutter
+.

@@ -1,0 +1,114 @@
+Choose wisely…
+Hiring at Undercurrent: Building a team of stunning colleaguesHiring the right people is crucially valuable. This isn’t a new idea, but it turns out to be much easier said than done.
+After recently reading the terrific book 
+‘How Google Works’
+, by Eric Schmidt and Jonathan Rosenberg, we were reminded about how critical hiring is at Undercurrent, and were inspired to make some meaningful upgrades to our own hiring practices.Role: Recruiting
+Purpose: Managing UC candidate pipeline and experience
+Accountabilities:
+Identifying partners (i.e. companies, organizations, events, connectors) that can help Undercurrent attract talent
+Communicating recruiting related announcements internally
+Sourcing potential candidates
+Scheduling candidate interviews
+Keeping the candidate pipeline up to date
+Gathering post-interview feedback and determining/communicating next steps
+Collecting and analyzing evaluation data across candidates to identify trends and insights about our hiring process and overall efficacy
+Role: Interviewer
+Purpose: Assessing candidate fit for org and team/role potential
+Accountabilities:
+Preparing for interviews, e.g. Google, LinkedIn, Twitter, Blog, previous companies etc.
+Showing up when you say you’ll show up.
+Conducting 12–16 interviews per trimester.
+Completing evaluation forms and submitting feedback within 30 minutes of completing interviews.
+New Policy: Hiring
+Screening: 
+When a candidate is identified, the Recruiting role-filler will screen the candidate for potential as a UC team member. Inputs that the Recruiting role-filler may use include: initial email to careers@uc or love@uc, a formal “batting practice” assignment, candidate’s blog, Twitter, LinkedIn or other online references, and personal and colleague references. The decision to pass the candidate on from this initial stage to interviewing is at the Recruiting role-filler’s discretion.
+Hiring Decisions:
+After passing an initial screening test, candidates are evaluated by a successive series of up to 5 interviews, conducted with Interviewer role fillers.
+The first interview is focused on general fit for org. Successive interviews — if warranted — dive deeper on fit for role(s) and all around capacity.
+Immediately after each interview, each interviewer must complete the evaluation form that communicates: 1) overall thumbs up or thumbs down, 2) rating of leadership capacity, role-related capacity, general cognitive ability, and UC-ness, and 3) specific observations to support each rating.
+If any interviewer rates the candidate at a ‘2’ or below on any criteria, or if any interviewer gives the candidate a ‘thumbs down’ the candidate will no longer be considered for a potential hire.
+To be approved for a hire, a candidate must receive unanimous support from the hiring committee of interviewers. The committee gathers to review the collected data, after all interviews have been conducted. Each interviewer votes anonymously. If there is not unanimous approval, there is one round of discussion, and then a second anonymous vote. If after the second round there is still not unanimous support, the candidate is no longer considered.
+Interview Length:
+ All interviews should be 30 minutes in length.
+Interviewer Tenure:
+ Interviewer role fillers are re-evaluated on a trimesterly basis.
+Interviewer Role Bandwidth:
+ Interviewer role fillers are expected to hold no more than three additional roles.
+Interviewer Compensation:
+ Interviewer role-fillers receive a prorated $1500 bonus at the end of each trimester for the period during which they held the role.
+How we decide starting salaries:
+Total years of professional experience (e.i. post-college)
+Years of professional experience within similar role(s)
+Relevant advanced degrees or certification
+Has held executive or management positions
+Glassdoor salary data on roles equivalent to candidate’s current position
+Band/seniority level is unspecified at start, and only specified after 120 days at Undercurrent, including a attendance at Undercurrent University.
+Evaluation Form:
+1) Thumbs up or thumbs down?Rate the candidate on a scale of 1–4 for each trait, and provide an example from your interview to support your rating.
+= Does not meet Undercurrent standards
+= Good, but not good enough
+= Very promising
+= 
+“This person is perfect. If you don’t hire them, expect to hear from me!”2) Leadership Capacity: 
+Will this person inspire other Undercurrent team members, and be able to mobilize teams in various situations?
+Scale? 1 2 3 4
+Data – 
+What’s one objective thing you observed that informed your score? What did you notice? Be specific. Focus on detail even over your interpretation.
+3) Role-related Capacity
+: 
+Does this person have the knowledge and skills they need to excel in the roles for which we’re considering them?
+Scale? 1 2 3 4
+Data – 
+What’s one objective thing you observed that informed your score? What did you notice? Be specific. Focus on detail even over your interpretation.
+4) General Cognitive Ability
+: 
+Will this person help us to solve problems in new ways, and raise the level of insight we bring to our work?
+Scale? 1 2 3 4
+Data – 
+What’s one objective thing you observed that informed your score? What did you notice? Be specific. Focus on detail even over your interpretation.
+5) UC-ness
+: 
+Is this person relentlessly curious, empathetic, authentic, excited about our purpose, and generally ‘bout it?
+Scale? 1 2 3 4
+Data – 
+What’s one objective thing you observed that informed your score? What did you notice? Be specific. Focus on detail even over your interpretation.
+6) Anything else?Good interview questions:
+For evaluating –
+Explain to me how your current organization is structured?
+Explain to me the day-to-day/week-to-week process of your working team? What works great? What’s broken?
+If you could redesign your current organization from the ground up, how would you design it?
+What books are you reading?
+What’s something that you’ve accomplished that you’re most proud of? What was most challenging about that? What did you learn? What made it a success?
+What big trend did you miss about digital technology in the past 5 years? What did you get right? What did you get wrong?
+What are you geeking out about these days? What rabbit holes have you been down recently?
+What surprised you about [insert a previous experience that the candidate has had]?
+What rocks about your current job? What would you fix?
+When you’re in a crisis, or need to make an important decision, how do you do it?
+Explain a difficult problem that you’re currently working on, and ask the candidate to help you solve it.
+For ensuring that Undercurrent is a good fit for them –
+What’s missing for you in your current job? What are you looking for in your next job?
+If we end up making you an offer, and you decide to turn us down, why would you say no?Reference
+Notes from 
+‘How Google Works’
+, by Eric Schmidt and Jonathan Rosenberg
+Fight to maintain high standards
+“A’s tend to hire A’s, B’s hire not just B’s, but C’s and D’s too. So if you compromise standards or make a mistake and hire a B, pretty soon you’ll have B’s, C’s, and even D’s in your company.”
+Intelligence even over expertise
+“Favoring specialization over intelligence is exactly wrong, especially in high tech. The world is changing so fast across every industry and endeavor that it’s a given the role for which you’re hiring is going to change. Yesterday’s widget will be obsolete tomorrow , and hiring a specialist in such a dynamic environment can backfire. A specialist brings an inherent bias to solving problems that spawns from the very expertise that is his putative advantage, and may be threatened by a new type of solution that requires new expertise. A smart generalist doesn’t have bias, so is free to survey the wide range of solutions and gravitate to the best one.”
+The LAX / SNL-bathroom test
+“As important as character, though, is whether or not a candidate is interesting. Imagine being stuck at an airport for six hours with a colleague. … Tina Fey has her own version of the LAX test, which she credits to Saturday Night Live producer Lorne Michaels: “Don’t hire anyone that you wouldn’t want to run into by the bathrooms at three in the morning, because you’re going to be [in the office] all night.”)”
+A person who passes the LAX /Googleyness/three-a.m.-in-the-SNL-bathroom test has to be someone you could have an interesting conversation with and respect. However, he or she is not necessarily someone you have to like. Imagine that person with whom you are stuck at LAX has nothing in common with you, and in fact represents the polar opposite of wherever you stand on the political spectrum. Yet if this person is your equal (or more) in intellect, creativity, and these factors we call Googleyness, the two of you would still have a provocative conversation, and your company will be better off having the both of you on the same team.
+You often hear people say they only want to work with (or elect as president) someone they would want to have a beer with. Truth be told, some of our most effective colleagues are people we most definitely would not want to have a beer with. (In a few rare instances they are people we would rather pour a beer on.) You must work with people you don’t like, because a workforce comprised of people who are all “best office buddies” can be homogeneous, and homogeneity in an organization breeds failure. A multiplicity of viewpoints — aka diversity — is your best defense against myopia.”
+Make it everyone’s job to recruit
+The simple way to keep recruiting in everyone’s job description is to measure it. Count referrals and interviews. Measure how quickly people fill out interview feedback forms. Encourage employees to help with recruiting events, and track how often they do.
+Interviewing is the most important skill
+“The most important skill any business person can develop is interviewing.” … “Conducting a good interview requires preparation. … You should first do your own research on who the interviewee is and why they are important. Look at their résumé, do a Google search, find out what they worked on and do a search on that too.” … “Your objective is to find the limits of his capabilities, not have a polite conversation, but the interview shouldn’t be an overly stressful experience. The best interviews feel like intellectual discussions between friends (“ What books are you reading right now?”). Questions should be large and complex, with a range of answers (to draw out the person’s thought process) that the interviewer can push back on (to see how the candidate stakes out and defends a position). It’s a good idea to reuse questions across candidates, so you can calibrate responses. When asking about a candidate’s background, you want to ask questions that, rather than offering her a chance to regurgitate her experiences, allow her to express what insights she gained from them. Get her to show off her thinking, not just her résumé. “What surprised you about…?” is one good way to approach this, as it is just different enough to surprise a candidate, so you don’t get rehearsed responses, and forces her to think about her experiences from a slightly different perspective.”
+Max length of interviews should be 30 minutes
+“Who decided that an interview should last an hour? Oftentimes, you walk into an interview and know within minutes that a person is wrong for the company and the job. Who says you have to spend the rest of the hour making useless conversation? What a waste of time. That’s why Google interviews are a half hour. Most interviews will result in a no-hire decision, so you want to invest less time in them, and most good interviewers can make that negative call in a half hour.”
+Max number of interviews should be 5
+“
+We did some research and discovered that each additional interviewer after the fourth increased our “decision accuracy” by less than 1 percent. In other words, after four interviews the incremental cost of conducting additional interviews outweighs the value the additional feedback contributes to the ultimate hiring decision. So we lowered the maximum to five, a number with the added benefit (at least for computer scientists) of being prime.”
+Have an opinion
+“Remember: From the interviewer’s standpoint, the goal of the interview is to form an opinion. A strong opinion. A yes or no. At Google we grade interview candidates on a scale of 1 to 4. The average score falls around a 3, which translates to “I’ll be okay with this person getting an offer, but someone else should like them a lot.” As an average, 3 is fine, but as an individual response it’s a cop-out , since what it really means is that the interviewer can’t make up his mind and is passing the buck to someone else to decide. We encourage interviewers to take a stand. For example, on the product management team the score of 4.0 meant “This person is perfect for this role. If you don’t hire them, expect to hear from me.”
+Hiring by committee
+“Hiring decisions are too important to be left in the hands of a manager who may or may not have a stake in the employee’s success a year later. That’s why at Google we set up the process so that the hiring decision is made by committee . With hiring committees, it doesn’t matter who you are: If you want to hire someone, the decision needs approval from a hiring committee, whose decisions are based on data, not relationships or opinion. The primary criterion for serving on a hiring committee is that you will not be driven by anything other than what is best for the company, period. Committees should have enough members to allow a good range of viewpoints, but should be small enough to allow an efficient process; four or five is a pretty good number. The best composition promotes a wide variety of perspectives, so aim for diversity: in seniority, in skills and strengths (since people will often favor people cut in their own mold), and in background.”

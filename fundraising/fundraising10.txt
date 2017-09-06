@@ -1,0 +1,47 @@
+4-Point Story Structure for Fundraising.
+I studied mechanical engineering at school — facts, figures and logic… I never fully recognized the true power and value of storytelling in business. I knew stories were a necessary part of building a business — something you throw together and slap on the About page on your website. But I hadn’t ever personally had any sort of experience that proved to me the value, benefit, and utter importance of really developing a clear and structured story.
+But I’ll never forget the day that all changed — the day we told a story to a group of investors and closed out our seed round with a16z and Draper Associates.
+Here’s what happened:
+When we started trying to raise our seed round at a company I co-founded called Subledger, things weren’t really moving forward or progressing like we expected. The problem wasn’t that we couldn’t get access to investors. We could. The problem was, we weren’t sparking enough interest in the meetings we had. No matter how excited we were or how passionately we spoke about our future plans, things always seemed to fizzle out within the first 10 minutes of our presentation. As much as we tried, we just couldn’t seem to effectively captivate our audience.
+At the time, we didn’t think our presentation was the problem either. We were using the 10 Slide Deck Pitch Structure from Guy Kawasaki. What that meant was that our presentation was short and technically had all the facts required for an investor to make decision…but it wasn’t something that really made people sit on the edge of their seat. In fact, our presentation usually had quite the opposite effect: it usually made people slouch in their chairs out of boredom, or worse, edge toward the door as we raced to cover off all the slides in our deck.
+We were 5 months into the fundraising process and I was seriously starting to doubt we could raise the round. Then the night before we were due to meet with Dave Hersh at a16z, I was having dinner with a friend and told him about the trouble we were having. I told him we were having a hard time getting through to people and really helping them understand what we do and that it was probably going to stop us raising our seed round. Then he gave me some simple advice:
+He recommended that we ditch our stale slide structure and present our pitch to investors as a story instead.
+After dinner, I went home, worked all night to put together a compelling, concise story, and the next day, we presented it to Dave Hersh. The story worked. It gave Dave Hersh what he needed, and we ultimately closed our round with a16z and Draper & Associates.
+It was a great outcome — everything came together in the nail-biting final minutes.
+The experience left me intrigued about the power of storytelling in business. In our case, neither the company nor pitch technically changed — it all came down to how we presented everything — the story we developed and shared. It was interesting and memorable and compelling.
+It has become pretty clear to me now that stories are key to spreading ideas — selling, marketing products, raising capital, and creating change.
+But how do you tell an interesting story? I set out on a quest to find out.
+“Maybe stories are just data with a soul.”~ Brene Brown
+Nearly 3 years later at a general management course run by Michael Dearing at Harrison Metal (great course…highly recommend checking it out), I learned about a simple storytelling structure laid out by Barbara Minto (known as the Pyramid Principle) that I now use anytime I need to craft a compelling story.
+Here’s how it works:
+Step 1: Start by outlining the Situation (or, the state of affairs in other words)
+Step 2: Next, identify the Complication (what is changing to make things harder)
+Step 3: Then, determine what Question your Situation and Complication are forcing you to answer.
+Step 4: Finally, formulate and present your Answer (your solution/startup idea)
+The acronym or series of letters you can use to remember this storytelling development process is SCQA.
+To give you an even better idea of how this process works, let’s look at how our Subledger pitch evolved:
+Here was how we organized the fact-stacking approach (the Guy Kawasaki approach mentioned earlier):
+Team: Founding team from Engine Yard and 1st BD guy from Udemy
+Market: Accounting is ~3% of turnover for all companies
+Traction: Product built and first 3 customers integrating
+(note: seed stage pitches are normally team, market and a little traction)
+And here is how we approached the pitch from a storytelling perspective:
+Situation: Commerce is being conducted at higher velocity and complexity than ever before and this trend is going to continue (eg: marketplace and pay-per-use business models). Automated high velocity commerce requires services to operate at high velocity and be available via API (i.e. not services designed for manual entry by people).
+Complication: While Stripe has solved payment processing via API, the accounting piece is still done manually by people and spreadsheets — which doesn’t scale.
+Question: Who is building an API service to enable accounting to be done automatically at high velocity?
+Answer: Subledger is a scalable accounting system available via API. It’s a huge market (~3% GDP) and we have a great team: early EngineYard and Udemy.
+As you can imagine, your pitch can get a lot more interesting and a lot more compelling when you follow a story structure. If you decide to give this structure a try for your next pitch, it’s recommended that once you present your Answer, you spend the rest of your time offering arguments, sub-arguments, and evidence in service of that answer. In essence, the SCQA structure will get people to ‘tune in’ rather than ‘tune out’ and create a great opportunity to get your point across…It’s worth noting that storytelling is not about changing the facts, it’s about changing how you deliver the facts.
+The SCQA storytelling structure worked great for me, but it might not be right for you. If that’s the case, have no fear. There are plenty of other storytelling frameworks you can follow, borrow from, and tweak in order to form a story that fits you and your business.
+For example, another one of my favorites comes from the team at Pixar. To create magical and widely popular films like Toy Story, Monsters, Inc., Up, and many others, they follow a very specific set of guidelines — 22, to be exact. You can see them all in this Business Insider post, but I can’t help but share #4 with you because I think it’s ingeniously simple:
+The fourth rule of storytelling according to Pixar is to follow this simple outline:
+
+Image Source: Business Insider
+If you want to diver deeper into storytelling/pitching here are a few good resources:
+Resonate by Nancy Duarte
+Pitch Anything by Oren Klaff
+Story by Robert McKee
+It is interesting to note that they all follow a similar structure.
+Road testing your story
+Once you’ve taken the time to develop your story, I’ve found the best place to test it is at a crowded bar when people ask the ‘so what do you do?’ question. If your answer (story) feels labored and people tune out then you probably haven’t got it right and it’s time re-work it. You’ll really know you’re onto something when people can tell your story to other people. This means it’s memorable, easy, and fun to share which is exactly what you’re looking for.
+Wrapping Up
+At the end of the day, it’s not that surprising that storytelling has a place in business. Humans have been telling and relating to stories since the beginning of time! Stories can pull at our heartstrings, they can make us happy, make us sad, make us wonder, and in business, they can be incredibly effective tools of persuasion. It’s up to you to develop a story worth telling.

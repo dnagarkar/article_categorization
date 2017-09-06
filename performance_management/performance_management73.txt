@@ -1,0 +1,49 @@
+Why Killing Performance Reviews is a Bad Idea.
+It’s December (again!) and time to reflect on how well you and your team have performed this past year. Performance reviews, when run well, are a great way to do this. But they’ve been getting some negative press this year [
+1
+][
+2
+]. So what’s the deal?
+Much of the criticism seems to surround two related issues:
+1. Companies run reviews only once or twice a year. This means that people have to wait 6–12 months for feedback. It’s just too late to learn from or react to.
+2. Reviews are a huge pain for companies to manage and for people to take part in. As a result people are unhappy and companies try to avoid doing them too often.
+Delayed Feedback
+The first bit of criticism is valid but performance reviews themselves aren’t to blame. Feedback every 6 months is, of course, too little / too late. That’s why you need to incorporate feedback into everyday process. It should happen in regular code reviews, weekly one-on-ones and team retrospectives, etc. Those are fantastic opportunities for providing people with feedback at the right time. Helping them learn and improve as they work.
+Continuous feedback is essential but that doesn’t mean that in-depth reviews aren’t just as necessary. Performance reviews serve a different purpose. From time to time, it is critical to take a step back and look at the 
+bigger picture
+. To think about what you’ve achieved and where you’re going. To assess what has gone well and what hasn’t and to make necessary adjustments. Continuous feedback is short-sited by definition and it’s risky to give up longer term perspective performance reviews provide.
+360 reviews take a far more detailed look at how people are doing. These are a few of the advantages they offer:
+If 3 of your peers suggest that you could improve on some aspect of your work, that can carry a lot more weight than hearing it from only your manager.
+Wider perspective.
+ They allow you to gather input from a wider group of peers. This provides more perspective and weight to feedback. If 3 of your peers suggest you could improve on some aspect of your work, that carries a lot of weight. It can be far more helpful and compelling than hearing it from a single manager in your 1-on-1.
+Deeper analysis.
+ Reviews allow for a more systematic analysis of competencies and skills. In regular informal feedback it’s common to focus on single, recent issues. For example, after a big bug in production, suggesting someone spend more time reviewing their own code before committing. Structured reviews are different. They remind people to think about someone’s wider set of skills. Skills that are important but one may not consider in day-to-day feedback. For example, is a particular engineer good at communicating complex ideas to others. How could they improve?
+Understanding Trends.
+ Performance reviews are key points at which to discuss long term trends in performance. They provide an opportunity to consider whether someone is progressing in the right direction. This is particularly helpful for guiding people around long term career development. Taking the opportunity to lay out a roadmap for getting them to where they want to be in a year from now.
+There is value in dedicating time to thinking about how you and your peers could improve and grow.
+Space to think
+. Performance reviews allocate a specific block of time in which to think about progress and performance. It’s easy to forget to do this in the day-to-day. The reality is that with releases, deadlines and bugs etc, feedback is not always a priority. There is value in dedicating time to thinking about how you and your peers could improve and grow. Reviews provide this space.
+Avoid the pain
+Performance reviews can be a huge pain to manage and complete but they don’t 
+need
+ to be. Make performance reviews far easier by:
+Using tools or writing scripts to automate collection of feedback
+Avoiding lots of open-ended questions with large open text boxes that are difficult for people to answer and review (e.g., 
+How do you think Sarah performed this quarter?
+)
+Guiding reviewers by structuring questions around specific competencies that are important to review (e.g., 
+Rate how well you think Sarah communicates in team meetings
+)
+Involving managers in the organization of reviews for their own teams (selecting peers, explaining the process, curating questions & content)
+Balancing out review workload across the company so specific individuals aren’t overloaded
+Using tools (or scripts) to help aggregate and analyze feedback. Manually analyzing raw feedback is time-consuming and difficult to do well.
+Prompting people for feedback on the review process itself and evolving it over time
+Communicating and being completely transparent about the process from start to end
+Conclusion
+Continuous evaluation is essential but it does not remove the need for in-depth reviews. It is myopic in nature and it can be dangerous not to take time to consider longer term performance trends.
+We recommend integrating feedback into everyday process and backing that up with regular in-depth reviews. A detailed 360 review every 6 months, together with manager reviews every 3 months, is a great combination. With the right process and tools, reviews can be a breeze to manage and don’t need to be something people fear.
+[Originally posted on 
+Worklytics.co
+. For more on product development process and management follow us on twitter — 
+@worklytics
+]

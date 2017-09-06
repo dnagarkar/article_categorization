@@ -1,0 +1,64 @@
+Seed Fundraising — How to Get Early Momentum
+Getting your first yeses from investors when fundraising is tough. The pressure builds with each passing day, especially if your startup is short on cash. Once you start getting yeses, a virtuous cycle begins, improving your chances of closing a great round. Here’s how to build fundraising momentum for your seed round:
+Start with Easy Yeses
+Example:
+ Raising $1.5M, $20k/month burn. If you raise $250k 
+from Angels
+ first, you give yourself 1 year of runway at the current burn. Now the conversations you have with seed funds and VCs can be focused on finding the right partner for you, without the distraction of desperately needing their money.
+What to do: 
+Have your first conversations with 10+ Angels and existing investors (if you have them). Offer them an early opportunity to invest, as you expect to approach VCs later, who usually want all of a round. If you’re struggling to get a first yes, offer a small discount initially — e.g. $5M capped note for the first $100k invested, instead of your planned $6M cap.
+Why
+: If you need to raise money for your startup to survive, this is the easiest way to get the minimum capital needed. Getting yeses early is a huge confidence boost, which tends to improve your performance with other investors. Investors committing is also a positive signal to other investors and they often move as a herd.
+Low Round Targets
+Example
+: Raising $100k, $5k/month burn. You only need one investor, with $50k, for the round to be half full. Conversely, if you tell an investor you’re raising $1M and have $50k comitted, the situation seems much less attractive.
+What to do: 
+Set your initial fundraising goal at the absolute bare minimum you need for 9 months of runway: $45k in the above example. When the round fills up you can increase the goal, due to demand. For each goal you’ll need to create a financial plan, to justify the current fundraising target.
+Why: 
+If your round looks like it’s almost full, you instill the fear of missing out (FOMO) in investors, pushing them to make a decision. When you start getting yeses you can increase the size of the round in stages and still have the majority raised at all times, e.g. if you’ve raised $375k of $500k, you can extend the round to $750k and still be half full.
+Reserve Space
+Example: 
+Raising $500k, with $150k already committed. A new investor is interested and agrees to reserve their spot for a $100k investment. Going forward you can’t offer that $100k to any other investors. Thus, your round is now half full ($150k committed + $100k reserved = $250k).
+What to do: 
+If an Angel or other small check investor is interested, ask “Do you want me to hold your spot while you decide?”. If they say yes, you should include their potential investment in your progress reports to other investors, e.g. you have half of your round “spoken for”, “wrapped up” or “earmarked”.
+Why: 
+As with low round targets, reservations in the round generate FOMO for investors, because the round appears to be filling up. You can also use reservations as good news updates in your follow ups with investors who are still deciding.
+Push Maybes to No
+Example:
+Hi Deepa,
+Wanted to quickly share some great news, the team closed Hooli today and the contract should be signed next week. Let me know if you have any questions or if you’ve come to a decision?
+What to do:
+ Follow up regularly with investors who are deciding — give them updates on the round filling up (reservations), new investors committing and sales or product wins every 2–3 days. Each time ask if they’ve made a decision and if you can provide anything to help. Eventually, you have to give a deadline to avoid dragging out the conversation too long. Even when that leads to a “no”, it’s still better than a maybe.
+Why: 
+Even the best companies get lots of rejections when fundraising so expect at least ⅔ of your investor conversations to end in a “no”. You need to focus your time on the people who are actually interested. Leaving a potential investor for weeks as a ‘maybe’ will almost certainly result in a ‘no’. Pushing for a decision after answering 
+all
+ 
+their questions is more likely to result in a yes.Raising money for your startup is a grueling test for any founder but it gets better once you have momentum. Making use of these strategies makes it easier to get started and increases your chances of getting the round you need.This article is part of a series on Seed Fundraising:
+1. 
+How to Build a Deck
+2. 
+VCs vs Seed Funds vs Angels
+3. 
+How to get a Meeting
+4. 
+How to get Early Momentum
+5. 
+How to Handle an Angel Investor Meeting
+6. 
+How to Close the Lead Investor
+7. 
+When to Raise Money
+Thanks to Kaego Rust and David Smooke for reading drafts of this.
+This post was updated 6/9/2017.Hacker Noon
+ is how hackers start their afternoons. We’re a part of the 
+@AMI
+ family. We are now 
+accepting submissions
+ and happy to 
+discuss advertising & sponsorship
+ opportunities.
+If you enjoyed this story, we recommend reading our 
+latest tech stories
+ and 
+trending tech stories
+. Until next time, don’t take the realities of the world for granted!

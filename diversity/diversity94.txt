@@ -1,0 +1,112 @@
+An Antidote for the Lack of Diversity in Tech…
+and other results from the Quire + Mattermark 2015 Startup Investing SurveyBackground
+L
+aws nearly eight decades old bar roughly 97% of American households from investing in private companies, such as startups and small businesses. That’s a lot of people.
+In 2012, however, Congress 
+passed
+ the JOBS Act. In doing so, they charged the SEC with implementing a part of the Act called Title III that would let 
+anyone
+ invest in private companies. Title III has the potential to transform the startup ecosystem and our broader economy. Yet, nearly three years past a December 2012 deadline set by Congress, the SEC still hasn’t implemented the law.
+We may see Title III pass, and these changes may be published as early as this Friday. The SEC announced just this morning that it will consider final rules for Title III at the end of the week.
+We look forward to reviewing the new rules, and to collaborating with the SEC to ensure their success. Yet questions remain: Is there demand for Title III? What would the investing landscape look like when the law is finalized?
+To assess these questions,
+ 
+we 
+partnered
+ with Mattermark last month to conduct the 
+2015 Startup Investing Survey
+. The results are in. They help debunk the myths used to uphold the current prohibitions, and they shed light on the incredible opportunity Title III offers.
+Read on for the Survey’s key findings and for a detailed breakdown. You can also find the dataset 
+here
+. We invite you to do your own analysis, and to share it using 
+#FinalizeTitleIII
+.
+W
+ith the Survey, we weren’t aspiring for a scientific study. We simply wanted to see if there was an interest in startup investing among the tech community and its followers. Unsurprisingly, that interest exists. And it’s strong.
+In reviewing the results, however, three points emerged that illustrate why Title III is so important.
+1
+Title III is an antidote for the startup ecosystem’s severe lack of diversity.
+This lack of diversity starts with venture capital firms. In the tech community, VCs are the arbiters of what lives by deciding who gets funded. 
+Study
+ 
+after
+ 
+study
+ has shown that VC firms are largely run by White/Caucasian men. Merely 8.2% of VC firm decision makers are female, and roughly 2% are Black or Latino. Wielding this power, VCs tend to fund founders who solve problems they can most relate to, and who are demographically similar to themselves. This has led to female and minority-founded businesses being vastly underfunded.
+If Title III passes, women and minorities will have an immediate seat at the investing table.
+And our survey demonstrates that they are hungry to invest. First, women and minorities partook in our survey at much higher rates than their representation in VC firms. Second, of those that did partake in the survey, 96% of women, and 98% of ethnic minorities would invest in startups if given the opportunity.
+In a Title III world, founders will no longer have to pitch the same old VCs on Sand Hill Road, or the merely 3.5% of households that can invest under current laws. This is a great thing for founders who can’t find capital under the current system, and it has the potential to fund startups that address problems faced by minorities of all types, not just problems that are dear to the hearts of VCs.
+It also gives founders the ability to broaden the demographic makeup of their stockholder base — yielding businesses that are more informed, sensitive and eager to try bold new things.
+2
+ 
+Lots of highly educated people can’t invest under current laws.
+ Of the respondents with a bachelor’s degree, 70% can’t invest, and of those with a postgraduate degree/certification (e.g. PhD, MBA, JD, CPA, MD), 47% can’t invest.
+While deemed competent to provide advice to others, these people are deemed incapable of making investment decisions for themselves, or at least of being held responsible for their decisions.
+This inconsistency is irreconcilable, especially in light of what motivates people to invest — which brings us to our third point.
+3
+ No doubt, people invest to make a financial return. 94% of our respondents marked that as a reason. 
+But over 70% of respondents had additional motivations for investing.
+ For them, investing isn’t where they either make millions or they lose.
+For instance, the majority of our respondents would also invest to support a company’s mission and founders. And nearly half would invest to spur innovation and job creation. These motivations aren’t surprising.
+Startups and entrepreneurs have the potential to be incredibly effective at tackling society’s greatest challenges, and at building our economy. Yet such altruistic motivations for investing are disregarded by the law.
+This is especially ironic given that the majority of respondents would invest $5,000 or less. 
+A quarter would invest less than $1,000
+ — which is half the $2,000 investment limit proposed by the SEC for most Americans under Title III — and is 
+an amount they can freely spend on Taylor Swift concert tickets, or his and her Apple watches
+.
+Yes individuals can support companies on platforms like Kickstarter and Indiegogo, but that often comes with the same downside risks as investing and no possibility to partake in the upside that an investment of the same amount could return.
+If someone is made aware of the risks of startup investing, they view supporting a particular company as a worthy use of their money, and the company is willing to provide equity in exchange, then they should be able to execute that transaction.
+We
+ urge the SEC to consider the discriminatory and illogical effect of its current regime, and to expedite the passage of Title III and the tremendous opportunity it offers.
+409
+ people completed the survey. Of the 409, 348 live in the United States. While Title III can potentially let both US and non-US citizens invest, we’ll focus on those that live in the US as we go through the results.
+To start us off: 97% of respondents would invest in startups if given the opportunity. That’s high. You may be wondering: Who are these people? Are they the “tech elite” who are already investing in startups? Well, only 16% follow startups professionally (e.g. they’re a journalist or venture capitalist). The vast majority are “deal outsiders.” 35% don’t even work for a startup. 58% have never invested in a startup before, and 28% have invested in four or less.
+Gender + Ethnicity
+Demographically, we had hoped to see a more diverse pool of respondents, but we weren’t surprised by the results. Of those who shared their gender, 78% are male, and 22% are female. Of those who shared their ethnicity, 76% are Caucasian/White, 10% are Asian/Pacific Islander, and the remainder made up more than three ethnic groups — each representing less than 5% of respondents.
+These imbalances are consistent with the broader issue of women and minorities being severely underrepresented in the tech community. That said, we saw a higher representation of these groups participating in the Survey than their representation as decision makers in VC firms and venture-backed companies.
+And do they want to invest? You bet.
+96% of females and 98% of ethnic minorities said they would invest in startups if given the opportunity.
+These underrepresented groups are eager to make their voices heard and level the playing field.
+As we mentioned in our Key Findings, the general dilemma of underrepresentation sheds light on why Title III is so important: when it passes, underrepresented founders will finally be able find funding from a new cohort of investors that can relate to what they’re building.
+Geography
+Geographically, 71% of respondents who shared where they live or work indicated that they’re from a major tech hub (i.e. San Francisco/Bay Area, New York City, Los Angeles, Boston, Seattle, Austin, and Boulder). That said,
+respondents represent 35 states, and 96% of those who live or work outside of a tech hub said that they would invest in startups if given the opportunity.
+Income + Net Worth
+Most pertinent to Title III, however, are respondents’ ability to accredit under current laws. Among those who provided their accreditation status, 63% wouldn’t be able to accredit — meaning that they make less than $200,000 individually (or less than $300,000 with their spouse); and they have less than $1 million in net assets, excluding their home.
+Of the 63% of respondents who can’t accredit, 97% would invest in startups if given the opportunity.
+Overall, there is a strong interest in startup investing regardless of income/net-worth, geography, ethnicity, gender, and involvement in the tech community.H
+aving established that people want to invest in startups, what kind of interest are we talking about? Do people want to invest $100 in founders they know personally as a gesture of support? Or $100,000 in later-stage companies to make a financial return?
+Investment Amount
+Of those who want to invest, 53% would invest less than $5,000, and 25% would invest less than $1,000. About a quarter would invest between $5,000 and $14,999. And 22% would invest $15,000 or more.
+Investment Motivations
+Making a financial return was the top motivation why most would invest, with 94% of respondents citing it as a reason. Yet financial motivation was just one of several reasons why people want to invest. 59% would also invest to support a company’s mission or founders. As one respondent plainly elaborated:
+“Some things deserve to exist in the world.”
+Other reasons included a desire to support innovation and job creation (43% of respondents), and to become a part of a company’s inner circle (27% of respondents).
+In terms of company maturity, 82% of respondents are interested in backing startups that are Early-Stage — those raising a pre-Seed or Seed round. 56% would invest in companies that are Growth-Stage — those raising a Series A, B or C. And 27% would invest in more-established, pre-IPO companies.
+Adding more color,
+84% of respondents indicated that they would invest in startups where they are a user or customer.
+And 48% would invest in startups founded by friends and family.
+Popular Startups + Categories
+We also gave respondents the ability to indicate which, if any, startups they would invest in if given the opportunity. Respondents were provided with a list of growth-stage and more established startups across several categories, and were also able to input companies that weren’t listed.
+In total, respondents indicated that they would make 3,732 individual investments in 173 different companies, representing as much as $76 million in investment interest.
+Slack, the popular enterprise messaging startup, was the top pick — receiving interest from 69% of those interested in investing generally. Airbnb and Uber were neck and neck for the number two and three spots, capturing indications from 63% and 62%.
+View the graphic below for a further breakdown of this interest.D
+espite the reality that most respondents want to invest relatively small amounts (under $5,000), and that they have motivations beyond making a financial return (such as supporting a founder or mission), most are still unable to invest under current laws because they can’t accredit.
+Education Level
+Does the protectionist rationale for barring them to invest hold up then? Are these people incapable of making a responsible financial decision? We don’t believe that’s the case. 55% of respondents have a Bachelor’s degree, and 35% have a postgraduate degree/certification (e.g. PhD, CPA, JD, MD) — indicating that they can make responsible financial decisions; or at least be held accountable for them.
+Of the respondents that have a Bachelor’s degree, 70% wouldn’t be able to accredit under current laws. And of the respondents that have a postgraduate degree/certification, 47% wouldn’t be able to accredit.
+Both figures represent swaths of educated individuals who are considered inept at making an investment decision under the current law, and are therefore unable to invest.
+Financial Knowledge
+Further, while less objective, when asked to describe their financial knowledge, most described having at least an advanced level of financial knowledge.
+Many respondents, even those with sophisticated levels of financial knowledge, wouldn’t be able to accredit.Conclusion
+T
+he SEC should certainly implement appropriate safeguards to protect investors, but we urge them to meet their mandate and allow 
+everyone
+ to invest in startups by finalizing Title III.
+We hope these results helped shatter some of the myths that are used to support the current prohibitions. And we hope that they shed light on the great impact that Title III can have when it’s finalized.
+Thank you to everyone who completed the Survey, and to the hundreds of others that spread the word. With your support, we’ll 
+#FinalizeTitleIII
+.
+To download our white paper on the results, visit 
+Quire
+.

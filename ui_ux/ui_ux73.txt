@@ -1,0 +1,93 @@
+The Golden Age of UX is Over
+Here’s how to stay relevant in the new, mature era of digital product design
+When I started 
+AJ&Smart
+ in 2011, UX Design was still so misunderstood that I spent the next 3 years just explaining to my clients (while also defining it to myself) what it actually was and why it was valuable. It was also extremely difficult to hire good UX designers, as there was nowhere to really learn what was required for the accelerating digital product world.
+The UX Designer role itself was a tantalising combination of many older job titles, like information architect, interaction designer and many others. 
+UX Designers were in high demand and great UX Design was a competitive advantage for the companies who managed to jump on board.
+My co-founder Mike working from my bedroom in Berlin, 2011 — probably Googling “WTF is UX”
+Remember how we used to discuss “responsive design” and screen sizes on a daily basis while others looked on in awe?
+Remember the endless debate over whether a hamburger menu was better than the standard nav bar?
+These conversations could derail any other topics, because we were the UX designers and we alone understood the user. Any conversation could be ended with a simple “Because: UX”. We were on fire. We walked around like we owned the place, because we did!
+Me in 2011… after Googling “WTF is UX”
+Let’s call this era from around 2010–2017 the 
+Golden Age of UX
+Now, 6 years later, high-quality UX and UI design are commodities. At AJ&Smart, we can no longer stand out as a digital agency focussing purely on creating great user experiences. An easy-to-use, delightful product experience isn’t just something users want, it’s what they expect. 
+Users don’t blame themselves anymore when they get stuck, they blame your company.
+ Companies have gotten better and better at delivering great user experiences and no longer need to be convinced of its value.“Good enough” is easier than ever to achieve
+It’s easier than ever to create baseline “good” user experiences. In 2017, designers can start with robust design systems and patterns from companies like Google (see 
+Material Design
+) and without a huge amount of effort, have something people will be familiar with.
+Damn you 
+Matias Duarte
+, you ruined all our fun.
+This is not to say that extremely skilled UX/UI designers are no longer important, it’s more to say that the juniors of today now have access to tools and patterns which bring them extremely close to the skillset of the seniors of the last decade.
+The problem with “good enough” is that if you’re looking for a long, fruitful career, then 
+good-enough is not enough.
+“Just adding in the back button here… ok, android app done!”It’s not enough to understand the user, you need to understand the business
+During the Golden Age of UX, designers were given a free pass on understanding the intricacies of the business behind the product they were working on.
+ In the Golden Age it was enough just to deeply understand the needs of the “user”. The user was all important and anything that got in the way of the user having the best experience imaginable was considered to be detrimental to the success of the product (from the designer’s perspective).
+Here’s the problem… now that great usability, beautiful UI and lovely, delightful animations are a given (for companies who want to play the game), it’s easy for UX designers, once considered an integral part of the product strategy, to fall into pure production roles. Production roles, even those requiring high levels of skill, are always easier to replace and automate than strategic ones, so the UX designer of the future is going to have to transform and grow into something a little different if they want to continue to have a say in product decisions.
+To make this transition from UX Designer to…. “Product Designer”, there are 3 things you’ll need to understand: Product Strategy, Growth and Marketing.
+Luckily, i’ve made a simple “get started” guide for each below!
+1. Understanding Product Strategy
+How does the product you’re working on connect to the other products and services within your company? Is the product purely a data collector for the core business? How does your company want to leverage its assets to beat its competitors who have a head start?
+Strategy is a notoriously vague term, so instead of trying to explain exactly what it is, i’m going to refer you to this amazing Primer:
+WTF is Strategy, by 
+Vince Law
+WTF is Strategy?
+A Primer to Strategy in Layman’s Terms
+hackernoon.com
+Want to go a bit deeper? Read these 3 articles about the big picture strategies of 3 amazing product companies, Amazon, Netflix and Telsa:
+The big 3 by 
+M.G. Siegler
+The Leviathan
+Tesla can power ahead, growing into the realm of myth
+500ish.com
+The Squid
+Netflix expands and defies expectations, tentacles everywhere
+500ish.com
+The Whale
+Amazon swims towards $1 trillion…
+500ish.com
+2. Understanding Growth
+Doesn’t matter what you’re working on, growth of some kind is likely the goal. Growth can mean anything from sales growth to user-base growth. It can also relate to the growth of engagement numbers on the product. Either way, understanding what the “growth” metrics for the products you’re working on are is a must. “Activation”, “Engagement” and “Re-engagement” are words you’re going to need to get familiar with. When you understand the growth metrics and strategies for the product you work on, you’re going to be able to create solutions that not only delight your users, but help push the business in the right direction.
+Here are some resources I would recommend checking out to understand growth as a topic a little better.
+Growth Hackers
+Growth hackers is an amazing resource for all things growth. Have a browse through the case-studies, subscribe to the daily growth experiments and start familiarising yourself with one of the keys to a successful product. 
+https://growthhackers.com/posts
+Hacking Growth
+ by 
+Sean Ellis
+Hacking Growth is the best introduction and most concise list of case-studies I’ve read on the topic. Read this and you’ll instantly understand why the topic is so important to business and instantly sound smarter around PM’s.
+3. Understanding Marketing and Awareness
+If there’s one thing designers hate more than growth and sales, it’s marketing! It is crucial, however to have a basic grasp of the concept and the current state of marketing as a topic if you want to be a useful member of a product team.
+You don’t need to be a marketing pro or anything, just make yourself aware of it as a topic.
+Here are some resources I find useful:
+Product Marketing for Pirates
+ by 
+Dave McClure
+This is a classic “crash course” in product marketing. Download the powerpoint, scan the terminology and you’ll already have most of the ‘lingo’ you’ll need!
+noah kagan
+’s Youtube channel and blog
+Noah Kagan is the king of product marketing and his delivery style is easy to digest. His Youtube channel is a treasure trove of product marketing advice and his blog has years of great posts to dig through.
+Jab, Jab, Jab Right Hook by 
+Gary Vaynerchuk
+Gary Vee is everywhere these days and there’s good reason for it: He gives amazing, actionable advice on marketing for the 21st century. This guy is a little bit crazy but very fun to listen to, watch and read. I would start with his book Jab, Jab, Jab Right Hook
+Conclusion
+I know a lot of people will read this and roll their eyes at yet another proclamation of something being “dead”. But listen, I’m not telling you the role of the UX Designer is dead — I’m telling you it’s becoming easier and easier to find on the hiring market. Things that are relatively easy to find and “buy” eventually become cheap commodities.
+As a designer of any kind, your real job is to be a 
+creative problem solver
+. 
+To really solve the problems that you’re hired for, 
+you need to understand the bigger picture of why the product you’re working on is being made and where your company thinks it’s going.
+ This will not only make life easier for you and everyone you work with, it will also make you an invaluable partner to your product team.
+The end…. or is it?Thanks for reading! Give it a ❤ if you liked it 🐠
+Say heyyyy to AJ&Smart 👋 on 
+Twitter
+ or 
+Instagram
+.
+Check out the AJ&Smart medium blog
+And if you want to see some FUNKY Youtube videos about Product Design…. 
+check out my channel!

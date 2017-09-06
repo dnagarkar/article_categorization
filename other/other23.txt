@@ -1,0 +1,54 @@
+New Developer? You should’ve learned Git yesterday.
+My number one piece of advice for new developers: Learn Git and push code to GitHub every day.
+Screenshot from my 
+GitHub Profile
+I get an email/tweet/message daily from someone who is just starting to learn how to code. No matter what their scenario is, what languages/frameworks they want to learn, one piece of advice always remains constant: 
+Create a GitHub account, learn Git, and push code every single day.
+I’m serious. The day you can create a program, webpage, or a project that’s longer than 10 lines — you should be using Git.What is Git?
+Git
+ 
+is a 
+Version Control System (VCS)
+. On a very basic level, there are two awesome things a 
+VCS 
+allows you to do: You can track changes in your files, and it simplifies working on files and projects with multiple people. There are multiple Version Control Systems, but Git is by far and large the most popular — both for individual and company use.
+On the other hand, 
+GitHub
+ 
+is a web based Git repository. It provides a free and easy place to use Git, the cloud to store your code in, and it allows you to interact with other developers on Open Source projects.
+Why use Git & GitHub?
+Here are seven reasons you should be using Git and GitHub:
+1. Centralized cloud storage of your code.
+Your code is always available to you. No matter what computer your using, or where you are. Hard Drive failure? No problem. All your code is backed up.
+2. Version Control.
+Every version of your code is also available to you. Git doesn’t work the same way as saving does in Microsoft Word. With Git, every time you commit your code, Git remembers what has changed since the last time you saved your code. Even if you’ve changed a file 1000 times, Git will remember each and every change. Need to revert back three months on a project for some reason? Git makes it easy.
+3. Working in teams.
+Git simplifies the process of working with other people and makes it easy to collaborate on projects. Team members can work on files and easily merge their changes in with the master branch of the project. This allows multiple people to work on the 
+same 
+files at the same time.
+4. Get involved / Open Source.
+GitHub is a basic social networking site that makes it easy for even beginners to contribute to large projects and get involved in the open source community. You can meet other developers, ask questions about their code, and propose code changes. 
+By using GitHub regularly you can learn how to work well in a development team environment.
+5. Bettering your code.
+GitHub allows you to look back on code you wrote in the past. You’re able to look at projects from years ago and make them better, or just see how you’ve been progressing.
+6. Show off
+GitHub is a great way to get noticed — Show off your code and your projects! Especially if you’re a self taught developer, GitHub provides you a way to prove to recruiters and companies that you can program.
+7. You’re gonna need it anyway
+Companies and Technologies around the world use Git: Amazon, Facebook, LinkedIn, Yahoo, Microsoft, Netflix, Rails, Android, Linux and Zendesk — just to name a few. Learn Git and become more hire-able. (
+source
+)
+How to learn Git
+15 minutes is all it takes to learn the basics of Git. Here’s an awesome (free!) interactive tutorial sponsored by GitHub where you can learn all of the basics: 
+try.github.io
+GitHub also offers free training and additional learning resources in their documentation 
+here
+.
+Between those two links above, you should easily be able to learn and master the basics of GitHub in just a couple hours.
+Closing Notes
+Just learn Git. You won’t regret it. You’ll have the basics down in 15 minutes, and within a couple hours you can be making pull requests to open source projects.
+I publish a few articles and tutorials each week, please consider 
+entering your email here
+ if you’d like to be added to my once-weekly email list.
+If this post was helpful, please click the clap 👏button below a few times to show your support! ⬇⬇
+If tutorials like this interest you and you want to learn more, check out my 
+Best Courses for Learning Full Stack Web Development

@@ -1,0 +1,236 @@
+Most Common UX Design Methods and Techniques
+The list below contains most common methods and techniques used by UX Designers as they create great experiences for users. For each item on the list you’ll see additional links with some of the best practices available.
+Let’s start!
+Value Proposition
+A statement that maps out the key aspects of product: what it is, who it is for and how it will be used. Value proposition helps the team create consensus around what the product will be.
+A thought value proposition help UX designers to keep the focus in the important things Image credit: UXMag
+Strategyzer’s Value Proposition Canvas Explained
+Related links:
+Value proposition - Wikipedia
+A value proposition is a statement which clearly identifies clear, measurable and demonstrable benefits consumers get…
+en.wikipedia.org
+Communicating the UX Value Proposition | UX Magazine
+It is neither uncommon nor unreasonable for a UX professional to be asked to justify the cost of their work in…
+uxmag.com
+Product Strategy
+A product strategy is the foundation of a product life-cycle and the execution plan for further development. It allows UX designers to zero in on specific target audiences and draw focus on the product and consumer attributes.
+A user experience strategy applies this approach to UX design. Image credit: UIE
+Awesome talk by Jared Spool about building a winning UX strategy using Kano Model
+Related links:
+XD Essentials: How to Develop a Product Strategy | Creative Cloud blog by Adobe
+One of the most common misunderstandings among business leaders is that having a product strategy is optional. Rather…
+blogs.adobe.com
+What is Good Product Strategy?
+"What is your Product Strategy? YOU NEED A STRATEGY." When I replay this scene in my head, I can hear the CTO very…
+articles.uie.com
+How to develop a focused product strategy to back up your UI/UX decisions - InVision Blog
+Editor's note: This is a chapter from Jane Portman's new book, The UI Audit . How can you design a successful product…
+www.invisionapp.com
+Competitive Audit
+Competitive Audit is a comprehensive analysis of competitor products that maps out their existing features in a comparable way. The goal of competitive audit is to discover what is working for other companies in your industry, so that you can make those strategies work for you, too, to gain a competitive advantage.
+Results of the audit for website
+Related links:
+Competitive Analysis: Understanding the Market Context
+"While user-centered design focuses on user needs/tasks, and information architecture focuses on content, these two…
+boxesandarrows.com
+Conducting a Solid UX Competitive Analysis
+Most people are familiar with the concept of a competitive analysis; it's a fairly standard business term to describe…
+danforth.co
+Cultural Probes
+Cultural probes is a technique used to inspire ideas in a design process. It serves as a means of gathering inspirational data about people’s lives, values and thoughts. With minimal intrusion, researchers can glean insights into participants’ environments that can help to identify problem statements, uncover new opportunities, and inspire the designer with new ideas and novel solutions.
+Cultural probes use a collection of tools, artifacts and tasks intended to provoke the user to look and think about their environment in new ways.
+Related links:
+Cultural Probes
+binární opce backtesting cual es la mejor estrategia para opciones binarias Authours: Adam Starkman & Jennifer Chow…
+designresearchtechniques.com
+Inside Your Users' Minds: The Cultural Probe
+by Published in Ruth Stalker-Firth Usability Theoretically, usability testing is a great way of finding out what is…
+alistapart.com
+Stakeholders Interviews
+Stakeholder Interviews are conversations UX designers conducts with their key stakeholder: customers, bosses, subordinates or peers both within and outside the organization. The interviews allow UX designer to step into the shoes of their interviewees and see your role through the eyes of these stakeholders. It also helps prioritise features and define key performance indicators (KPIs).
+Related links:
+Preparing for UX Stakeholder Interviews
+UX isn't all about the users. On the other side of the coin lurks the business and the UX pro that makes her users…
+www.interaction-design.org
+Better Stakeholder Interviews
+Remember the childhood game of " Telephone "? One person whispers a message into the ear of their friend, and that…
+cognition.happycog.com
+A Stakeholder Interview Checklist
+This is an excerpt from from Kim Goodwin's excellent Designing for the Digital Age. It is quite long, so we've broken…
+boxesandarrows.com
+User Interview
+A user interview is a common user research technique used typically to get qualitative information from existing users. User interview helps UX designer better understand their users (user’s emotion and opinions). This technique is especially useful when the target audience is new or unknown for the team.
+Usually, a researcher meets with participants one-on-one to discuss in depth what the participant thinks about the topic in question.
+Related links:
+Interviewing Users
+Despite many weaknesses, interviews are a valuable method for exploratory user research.
+www.nngroup.com
+How to Conduct User Interviews
+User interviews can be a great way to extract information from users for user experience understanding, usability…
+www.interaction-design.org
+Kickoff Meeting
+The kickoff meeting covers a high-level outline of the product’s purpose, who is involved in designing and developing the product, how they’ll work together and stay up to date on progress, and what the intended results or success metrics are. The kickoff meeting sets the stage for the success of your product.
+A kickoff meeting is the first meeting with the project team and the client of the project. Image credit: 
+1stwebdesigner
+Related links:
+Hold A Kickoff Meeting Before Diving Into The Design
+The kickoff phase sets the stage for the success of your product. Without properly conducting this phase, your team…
+www.smashingmagazine.com
+How To Take Charge Of A UX Kickoff Meeting
+I once worked with a digital agency that didn't know how to hold a kickoff meeting. And they didn't even know that they…
+www.smashingmagazine.com
+Heuristic Evaluation
+Heuristic Evaluation is a detailed analysis of a product that highlights good and bad design practices in existing product. It helps UX designers visualize the current state of the product in terms of usability, accessibility, and effectiveness of the experience.
+A radar plot showing a website that performs well across all heuristic categories. Image credit: Smashing Magazine
+Related links:
+What is a Heuristic Evaluation in UX?
+A deep dive into what is a heuristic evaluation within UX design.
+careerfoundry.com
+What You Really Get From a Heuristic Evaluation
+Every user experience researcher I know gets requests to do heuristic evaluations. But it isn't always clear that the…
+uxmag.com
+How to run an heuristic evaluation - UX Mastery
+Being a user experience designer often requires juggling tensions, whether they be juggling creative tension, managing…
+uxmastery.com
+A Guide To Heuristic Website Reviews
+In this article, we'll explore a scoring system for rating and comparing websites, we'll visualize those ratings using…
+www.smashingmagazine.com
+Brainstorming
+Brainstorming is widely used by teams as a method to generate ideas and solve problems. Brainstorming allows the team to visualize a broad range of design solutions before deciding which one to stick with.
+Brainstorming is a process for generating creative ideas and solutions through intensive and freewheeling group discussion.
+Related links:
+A Framework For Brainstorming Products
+Brainstorming is notorious for being unstructured and often unactionable. People get in a room with some Post-its and…
+www.smashingmagazine.com
+Tips for Structuring Better Brainstorming Sessions
+Brainstorming is widely used by teams as a method to generate ideas and solve problems. However, many brainstorming…
+www.inspireux.com
+Learn How to Use the Best Ideation Methods: Brainstorming, Braindumping, Brainwriting, and…
+Brainstorming is the most frequently practiced form of ideation. We recommend that you use it along with Brainwriting…
+www.interaction-design.org
+Task Analysis
+A study of the actions required in order to complete a given task. Task Analysis is helpful when designers and developers try to understand the current system and its information flows. It makes it possible to allocate tasks appropriately within the new system.
+Task analysis is a simple and effective process for laying out tasks from a user’s perspective. Image credit: Comcast
+Related links:
+What is the difference between "Task Analysis" and "User Journey"?
+I been recently reading about User Journey - as a Methodology to capture how user would use a website or interface - a…
+ux.stackexchange.com
+Task Analysis a UX Designer's Best Friend
+Task analysis is a critical part of any design project and one that is all too often skipped in favour of other…
+www.interaction-design.org
+Product Roadmap
+Product roadmap is a product’s evolution plan with prioritized features. It could be a spreadsheet, a diagram or even a bunch of sticky notes. UX designer shares the product strategy with the team and the road that needs to be taken to achieve its vision.
+An example of Product Roadmap as a digram
+Related links:
+UX in Product Roadmaps: How to plan your design activities?
+A good product roadmap is a very simple list of high-level goals you want to achieve in the next 3-6 months. This…
+uxstudioteam.com
+5 Tips from 5 PMs to Improve Your Team's Product Roadmap
+High-level business goals Features aimed at achieving these goals KPIs for tracking progress As shown in the below…
+www.uxpin.com
+Focus Groups
+A focus group is a moderated discussion that typically involves 5 to 10 participants. You bring people to discuss issues and concerns about the features of a user interface. The group typically lasts about 2 hours and is run by a moderator who maintains the group’s focus.
+Groups of 5–10 participants are lead through a discussion about a set of topics, giving verbal and written feedback through discussion and exercises. Image credit: 
+telecomitalia
+Related links:
+Focus Groups in UX Research: Article by Jakob Nielsen
+A paper by Jakob Nielsen about the purpose and methods for using focus groups to understand users and guide the…
+www.nngroup.com
+How to Conduct Focus Groups
+Focus groups have long been a popular tool in market research and have become more popular in user research in the…
+www.interaction-design.org
+Myth #26: Usability testing = focus groups - UX Myths
+UX Myths collects the most frequent user experience misconceptions and explains why they don't hold true.
+uxmyths.com
+Card Sorting
+Card sorting
+ is a method used to help design or evaluate the information architecture of a product. UX designer asks users to group content and functionalities into open or closed categories. A result gives UX designer input on content hierarchy, organization and flow.
+Card sorting is a well-established research technique for discovering how people understand and categorize information.
+Related links:
+Card Sorting Beginner's Guide - Improving Your Information Architecture
+In this article, we'll discuss card sorting, a tried and true technique for doing just that. We'll go through some…
+www.smashingmagazine.com
+The Pros and Cons of Card Sorting in UX Research
+Card sorting is a very simple and well tested technique. You can use it in UX research, Information Architecture Design…
+www.interaction-design.org
+Usability Testing
+Usability testing is the observation of users trying to carry out tasks with a product. Testing can be focused on a single process or be much more wide ranging.
+Related links:
+Usability Testing: Don't Guess, Test. | UX Booth
+Just because nobody complains doesn't mean all parachutes are perfect. The same goes for web design; usability testing…
+www.uxbooth.com
+How to Conduct Usability Testing from Start to Finish
+You are not your users. But if you can find your users and learn from them as you design, you'll be able to create a…
+uxmastery.com
+Concept Testing
+A UX researcher shares an approximation of a product that captures the key essence (the Value Proposition) of a new concept in order to determine if it meets the needs of the target audience. Concept testing can be done one-on-one or with larger numbers of participants, and either in person or online.
+Related links:
+Testing Content Concepts :: UXmatters
+Web magazine about user experience matters, providing insights and inspiration for the user experience community
+www.uxmatters.com
+5 Myths of Concept Testing: What Clients Need To Know | EffectiveUI
+Test early, test often. It's a mantra that's been proven successful time and again when it comes to designs. So why…
+www.effectiveui.com
+A/B Test
+A/B testing is offering alternative versions of a product to different users and comparing the results in order to find out which one performs better. This is a great technique for optimizing funnels and landing pages.
+Related links:
+A/B and see: a beginner's guide to A/B testing - InVision Blog
+The process of decision making in design has always been a popular area of discussion. Why do some designers make…
+www.invisionapp.com
+The Ultimate Guide To A/B Testing
+At its core, A/B testing is exactly what it sounds like: you have two versions of an element (A and B) and a metric…
+www.smashingmagazine.com
+Guerrilla Testing
+Guerrilla testing is one of the simplest (and cheapest) form of user testing. Using guerrilla testing usually means going into a coffee shop or another public place to ask people there about your product or prototype. It can be conducted anywhere ex- cafe, library, train station etc, essentially anywhere where you can find a relevant audience.
+Related links:
+The Art of Guerrilla Usability Testing | UX Booth
+Guerrilla usability testing is a powerful technique. Designer Martin Belam describes it as "the art of pouncing on lone…
+www.uxbooth.com
+7 Step Guide to Guerrilla Usability Testing: DIY Method
+← Back to our blog In the field of User Experience and Product Development, research and planning rule the show…
+userbrain.net
+Field Studies
+Field study is about going out and observing users “in the wild” so that behavior can be measured in the context where a product will actually be used. This technique can include ethnographic research, interviews and observations, plus contextual enquiry.
+Related links:
+Field Studies
+Field research is conducted in the user's context and location. Learn the unexpected by leaving the office and…
+www.nngroup.com
+Field Studies Done Right: Fast and Observational
+Field studies are one of the most valuable methods for setting a design project's direction and discovering unmet user…
+www.nngroup.com
+Eye Movement Tracking
+A technology that analyzes the user’s eye movements across the UI layout (i.e. web page). Eyetracking provides data about what keeps users interested on the screen and how their reading flow could be optimized by design.
+Eye-tracking heatmaps
+Related links:
+Eye Tracking: Best Way to Test Rich App Usability
+Eye tracking has recently been debated on many fronts, with a particular focus on the ways people misuse it, and how…
+uxmag.com
+Eye Tracking: What Is It For And When To Use It - Usability Geek
+Imagine a usability test in which John, the test participant, attempts to buy a bicycle. On the homepage John quickly…
+usabilitygeek.com
+SWOT Analysis
+Various methods for assessing the strengths, weaknesses, opportunities and threats that impact the user experience of a product.
+UX kind of SWOT Analaysis for landing page. Image credit: 
+e27
+Related links:
+Digital SWOT analysis: What is it and why you should care?
+Because companies often have a confused view of their digital strategy it is often useful to bring some order to the…
+boagworld.com
+Accessibility Audit
+A study to measure if the website can be used by everyone, including users with special needs. It should follow the W3C guidelines to make sure that all users are satisfied.
+The end goal, in both usability and accessibility, is to discover how easily people can use a product and feed that information back into improving future designs and implementations. Image credit: 
+Sarah Horton
+Related links:
+Accessibility testing - W3C Wiki
+Web accessibility testing is a subset of usability testing where the users under consideration have disabilities that…
+www.w3.org
+Myth #5: Accessibility is expensive and difficult - UX Myths
+UX Myths collects the most frequent user experience misconceptions and explains why they don't hold true.
+uxmyths.comI truly hope you’ve enjoyed the the list. If you would like to know more about UX deliverables, check the article below:
+A Complete List Of UX Deliverables
+by Nick Babich
+uxplanet.orgHave more techniques or methods to share? Please let me know in the comments!
+Follow UX Planet: 
+Twitter
+ | 
+Facebook

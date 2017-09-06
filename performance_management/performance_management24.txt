@@ -1,0 +1,19 @@
+Introducing Mobile Feedback and Check-ins Application
+GroSum introduces mobile feedback application, in a bid to increase engagement and conversation between people in an organization.
+When we look at the global stats, 
+mobile email opens have grown by 180% in the last three years.
+ Use of mobile phones in modern workplaces in inevitable because of productivity increase.
+GroSum Mobile Feedback Application will have two major features:
+Check-ins
+Check-ins allows managers and employees to have a continuous conversation between them. For different performance objectives employees can engage with managers & can discuss achievements, challenges, plans, setbacks in real time. Despite people having frequent goal posts(quarterly/half-yearly) for discussions, ongoing engagement helps managers to coach employees and increase the chances of objective achievement.
+2. Instant Feedback
+With an aim to make feedback on-going and productive between employees, Instant Feedback allows anyone to give or get feedback on the go.
+Instant Feedback allows people to give feedback to anyone in the organization, at any point in time. The feedback can be:
+Kept anonymous
+Shared exclusively with managers
+Tag Performance Parameters
+While people can get feedback about themselves or about anyone else in the organization.
+You can look at the check-ins video here :
+We are passionate about interpersonal feedback and the effect it has on company’s culture. Making feedback and check-ins accessible in mobiles helps to make interaction easier, on the go and effective.Originally published at 
+grosum.com
+ on March 29, 2017.

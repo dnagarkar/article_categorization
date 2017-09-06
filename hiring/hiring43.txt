@@ -1,0 +1,58 @@
+Hiring a designer: hunting the unicorn
+Finding the perfect designer to join your team is tough — there’s no way around it. I’ve struggled for months searching for the right designer. And if you’re an engineer or MBA without a background in design, hiring a designer can be daunting, frustrating, or even downright scary.
+So one of the topics we’re planning to cover at GV is how to hire great designers. We can talk about how to review portfolios, how to interview candidates, and how to persuade a designer that your team is worth joining. But before all that, there’s a fundamental question you need to answer: What 
+kind
+ of designer are you looking for?
+The field of UX design is still young. And because it has grown so fast, practitioners have largely immigrated from neighboring fields. A given designer’s background might be rooted in ethnography, journalism, art, cognitive psychology, engineering, or other disciplines. You might find one designer who can illustrate with ease, while another can barely manage a stick figure, but both are competent UX designers. The same dramatic differences can be found in any number of other skill areas. The group of people who call themselves a “designer” is remarkably diverse.
+That’s why I don’t find the term “designer” to be useful in describing the skills a candidate should have. When people ask, “I need to hire a designer, do you know any?” I fire back, “What kind of designer?” Because knowing what 
+kind
+ of designer requires breaking down the role into more granular skills that are easier to describe in a job listing and easier to evaluate during an interview.
+What skills do you need?
+The first step to hiring a designer is to list out all the skills necessary to build your product. Here’s my short list of the most critical product skills, and the questions that those skills help answer.
+Research — What do customers want? Can they figure out how to use our product?
+Product design — What are we building? What are we not building? What’s in this release?
+Copywriting — How do we describe our product to customers in a way they understand?
+Interaction design — How does the product behave? How is it organized?
+Visual design — How does the product look and feel?
+UI development — How do we build quality interfaces quickly and flexibly?
+There are many other skills you might need: facilitation, content strategy, storytelling, game design, editing, iteration management, etc. You can find a longer list in Jared Spool’s excellent article on 
+assessing your team’s UX skills
+.
+If you’re hiring a designer, start with a skill list. From there, it’ll be easier to see what skills are already covered on your team. And it’ll be possible to prioritize skills based on the product you’re building. Some of these skills might be more or less important. For example, if you’re building an internal tool for IT departments, you probably need product design more than visual design. With this narrowed-down list, we now know what type of designer we’re looking to hire.
+Hunting the unicorn
+Have you ever read a designer job listing that sounds like this?
+Seed-stage startup looking for rockstar junior designer to sketch wireframes and design beautiful mockups. You’ll be responsible for crafting our logo and brand and writing UI copy. Must know how to run usability studies, prototype and write production-ready HTML and CSS.
+When I read a post like this I think, “Great! There’s a team that understands all the skills they’ll need!” But I also think, “They’re looking for a unicorn — a magical designer who can solve all their problems.” It’s too bad unicorns don’t exist.
+There’s nothing wrong with being aspirational, but job listings like this don’t work for a few reasons:
+I have never met a designer who is an expert in all those skill areas. Listing a bevy of skills can discourage people from applying, even though they are good fit for your team.
+Designers that respond to that job listing will differ greatly in their skill coverage. In order to decide between them, you’ll still need to prioritize what skills you need. It’s better to do that first, rather than after the interview.
+Even if you find a unicorn designer with all those skills, actually doing all those things at your company is a huge amount of work. One full-time person probably isn’t going to cut it.
+The best designers, the ones who are experienced, will read a job listing like this and be able to tell that the author is asking too much from a single person. It’s a signal that the author is not familiar with user-centered design, and it can scare away good designers.
+Tough choices
+When I prepare to hire a design team, I decide which few skills are critical and should be covered in-house. The rest of the skills can either be covered by part-time help or can be done without. There are difficult trade-offs to be made. Here are some of the toughest:
+Should we hire a designer who can code?
+I believe it’s important for any designer to understand their medium, and that means that software designers should understand the basics of software development. (I have an engineering background and it has served me well.)
+But usually I think it’s a bad idea to ask your designer to write production code. First, since many designers can’t code, you’re limiting the pool of candidates. Second, startup teams are typically engineering heavy. The rest of the team is often better at front-end development than any designer. In terms of skill coverage, when you hire a designer that can code, you’re doubling down on engineering, when you could be diversifying and getting other skills on your team. But most important, design is a full-time job. If you’re asking your designer to write code, you’re asking them to spend less time designing, studying users, prototyping, and doing all of the other activities that lead to great products.
+For very small teams (3 engineers or less), I think it can work to have someone both designing and writing code. But it’s often better to have a full-time designer paired with a front-end developer who cares about design. This way each person focuses on their core strength, and they share a common language in design that’ll make working together easier. Don’t find a designer who can code — find an engineer who loves design.
+Do we really need a user researcher?
+A good user researcher can be your eyes and ears. She can help you understand what your customers really want, and why they might not need your product. She can measure whether your customers even understand how to use the software you’ve shipped. All of this data is essential in finding product-market fit. And on larger products, this data gives teams the confidence they need to make changes.
+A huge part of user-centered design and lean startup methodology is getting out from behind your desk, out of the office, and talking to your customers. Is there someone on your team who does this naturally, who loves talking to customers?
+Everyone has their center of gravity. If I had a free hour, I’d spend it sketching. Engineers will spend their free hour coding. And every good team should have someone who’s center of gravity is outside the office. This is the person that’ll chime in when you’re having an argument about features and say, “I’ll go out, ask some customers, and we’ll know by this evening.”
+There are many roles that have their center of gravity outside the office: user research, sales, community management, business development, etc. And all of these people can help to gather data about customer needs in different ways. For the products I’ve worked on, user research has been an indispensable part of the product design process. And for anyone building consumer-facing products, I highly recommend working with a user researcher from the very beginning.
+What’s more important: interaction design or visual design?
+Luckily, it’s common to find UX designers who are good at both visual design (how it looks) and interaction design (how it works). Both skill-sets are required to build great products, and both are core to how customers understand and perceive the product.
+Any design candidate you interview will be better at one than the other. (I’m much better at interaction design than visual design.) So if you only have enough space on your team to hire one designer, you’ll have to decide which skill set is more important for the product you’re building.
+Focus on 
+visual design
+ if your product:
+Must be more delightful than competitors (e.g. games)
+Needs to appear credible, well built, and high quality (e.g. finance)
+Creates a space that people aspire to be a part of (e.g. communities)
+Focus on 
+interaction design
+ if your product:
+Has many features, but needs to feel simple
+Supports complex tasks and flows, and is used everyday
+Is mobile-based (and can lean on a mobile platform’s visual style)Once you make some tough choices and pick the granular skills you need on your team, you’ll be able to write a much better job listing. And you’ll be better prepared to evaluate design candidates who interview at your startup.
+There’s a lot more to hiring a designer: where to source candidates, how to evaluate resumes and portfolios, how to conduct a design interview. But those will have to wait for future posts.
+I’d love to know if this article was helpful to you and if you have any questions. You can let me know in the discussion below. Thanks.

@@ -1,0 +1,473 @@
+Diversity: The Elusive HOW
+Anything is possible — and everything worthwhile, mandates 
+both
+ access and commitment. Diversity is an admittedly daunting task — where to frickin’ start, how to execute successfully, and all without sanitizing your company’s unique culture to something primed for South Park lampoons. So I wrote this article as an entry-point for folks to get past that initial thud-stop freeze of not quite knowing where or how to begin, how to adapt when things don’t seem to be working, and why sticking with it 
+will
+ deliver. And, yes — with science! :)
+I’ve divided this article into sections 
+— 
+skip ahead as you like, read it in bits at your leisure, or take the 20min to read through it all.
+Introduction: The Basics
+The Three Measurable Practice Areas
+· Recruiting
+· Hiring
+· Retention
+· 
+…ok, that Pipeline bit, too.
+Resources To Put To Work
+· Tools to help your business
+· Consulting organizations to engage
+· Individual Consultants to work with
+Closing Thoughts
+· Why this is so important & my own $.02
+· Tweeps to follow
+· Further ReadingUnderstanding The Value of HR
+Since I began working on 
+EqualTogether
+, thee #1 most frequent question I’ve been asked:
+“What advice can be offered to founders, seeking guidance on how to make their company more diverse — NOW?”
+First and foremost: prioritize HR. By 
+HR,
+ I don’t mean 
+Recruiting 
+(which is also important!), but instead your company’s total practice of 
+Human Resources Management
+. 
+Nope, it’s not bloat. 
+Read on.
+If a startup has more than a dozen employees and no dedicated HR specialist (full 
+or
+ part time) — a trained specialist with a track record for team-building, culture crafting, soft skills coaching, management training, compliance oversight, change management, officiating performance reviews, team risk reduction & growth ROI — that’s the #1 problem. Benefits management? There’s an app for that. Payroll? There’s an app for that. HR? Nope, not a task for an app.
+Human Resources Management
+ is the one job function that absolutely, unequivocally, cannot be done with success by good intent alone. There’s just not an app for a job function that will always need to be performed by a uniquely skilled human who’s also great at relationship building, listening, and being accessible to all w/o trying to be everyone’s friend.
+On a team of 12 you’d never task a database management specialist with writing core functional code for your app — and HR deserves that respect
+as a discipline 
+(when done right!)
+, too.
+Difficulty working with PMs, or had to interview dozens of Javascript devs before finding the one who fit the team? You don’t give up on the discipline of Product Management or stop using Javascript in your product, because finding the right ICs for those tasks sucked— or, because you keep realizing that what you’d thought you wanted, you actually didn’t want. As a founder or CEO it’s on you to find the right specialists to drive all areas of expertise in your company, to not give-up on things that seem hard, and to not multi-task yourself into an IC role you don’t have the skills to properly cultivate — because you don’t feel someone else could do it as well as you could 
+(ahem: that’s called Founder’s Syndrome)
+.
+Founders get things started by being bold and audacious, making miracles happen by the sheer will of determination, persistence, a fearlessness to learn new things — and just a lot of other things that can work against a company as it scales from toddler to teenager. Founders & CEOs absolutely do 
+own the
+ 
+direction
+ of their company’s culture, but you don’t 
+craft
+ it day to day. Contemplate that subtle yet important difference.
+Good HR is 
+not
+ a buzzkill
+ and 
+is
+ a critical area of focus that the right person needs to come on-board to manage sooner rather than later, to develop within all growing organizations. Jessica Livingston 
+astutely observes in this article
+ that a key attribute to startup culture’s magicalness, is our commitment to “unbusinesslike” everything. The (legitimately earned many years ago) belief that HR works against that vibe is now an outdated assumption. The right HR folks get us. They’re out there, just like unicorns are — and it’s on founders to find ‘em.
+I also discovered through my own early stage interviews with investors and founders, that “When should we hire that first HR person?” and “How do we define & cultivate our unique culture?” are two major questions faced by all growing companies — yet are both often de-prioritized because they don’t directly impact user acquisition/retention, sales, marketing, or product development (or frankly, any Q2Q metrics that investors care about with the most vocal vigor).
+Investors are
+ not HR advisors
+, and despite SV’s trend of investors playing it scrappy by personally filling that gap early in a company’s development, that well intentioned effort is akin to your parents doing your homework for you in school. Not only are they likely to do it wrong, but they’ll also deny you the opportunity to learn from someone who actually knows what they’re doing. HR requires skills derivative of sociology and psychology which cannot be learned in isolation and do require the guidance of expert practitioners, or a classroom environment. Finance, computer science, MBA stuff — many folks can successfully develop these skills over time, and when doing so these areas of practice done awkwardly/wrong don’t build cultural debt, don’t drive churn, and don’t deeply impact the lives of individuals hurt in messy aftermaths. As a community we need to care more about the latter point, especially.
+Cultural Debt
+ is a concept we need to honor the impacts of more, especially fresh on the heels of having just begun serious conversations around the impacts of Technical Debt in startups. Yes: get that first MVP up and running by any means necessary, but then prioritize debt reduction practices in parallel to the rest of your growth.Understanding Diversity
+The second thing I find myself repeating more than any other point: compartmentalizing “diversity” to be 
+taken care of
+ by designated staffers, will get a business nowhere. Everyone needs to be on board, from the C-suite, to team managers, down to individual contributors, or it just won’t work. Yes: having folks dedicated to managing Diversity & Inclusion efforts is a positive — and with larger orgs, a requisite — but the burden of actually making change happen cannot fall on the shoulders of the folks with 
+Diversity
+ in their job title. D&I folks simply drive that effort by providing employees and management with training, goals, and resources.
+Everyone in senior management needs to 
+really
+ be on board with an organization’s diversity efforts. If not, the C-suite needs to question its own commitment to bringing diversity to its staff — and remove socially influential folks who simply don’t care or are unwilling to give staff diversification efforts more than just lip-service. One dissenting apple can (and often does) ruin the most heavily vested-in efforts… because social influence among a team from peers and managers, matters exponentially more than anything else in the realm of best-practices adoption.
+A handful of 
+SV Tech businesses recently released their 2nd round EEO-1 reports
+. All demonstrated little to no progress from last years reports. Speculatively I’d bet that if those businesses had more intently driven the diversification of their workforces at the level their press releases & outward-facing recruiting materials set public expectations for, the numbers would have been much better. I realize that sounds harsh — but a loss of trust in a company’s promise that they’re willing to do the work, carries with it a debt burden that cannot be bought back. Don’t make the promise, if you can’t back that up with a commitment to do the hard work — and to stick with it when it gets harder than you’d expected. Diversity is not a campaign, it’s a change in ways — it’s work — but it’s far from impossible.
+Final point on this: the bright light reality that 
+a
+ 
+diverse team of contributors does impact all areas of a business for the better
+ 
+— and those of us already on that bandwagon of thought also need to get out there and 
+evangelize this wisdom
+ to the masses, more often and more effectively.
+From 
+Scientific American’s
+ article 
+“Diversity Makes us Smarter”
+Decades of research by organizational scientists, psychologists, sociologists, economists and demographers show that socially diverse groups (that is, those with a diversity of race, ethnicity, gender and sexual orientation) are more innovative than homogeneous groups.
+It seems obvious that a group of people with diverse individual expertise would be better than a homogeneous group at solving complex, nonroutine problems. It is less obvious that social diversity should work in the same way — yet the science shows that it does.
+Difficult as the “getting there” work can be, once successful, cultural transformation done right is smooth to sustain — and your team‘s success sells itself as the best recruiting PR money just cannot buy.Managing Trust & Culture Fit
+Trust and Culture Fit. Both of these factors are critical in attracting diverse talent, with incorporating new players into an ambitious and fast moving team, and with retaining diverse talent. In startups there’s an understandable anxiety around this, whereas in larger corporate environments this is much less of an issue. 
+“Culture Fit”
+ is a critical concept for teams to get right in making win-win hires, yet frequently 
+Culture Fit
+ gets used as a poor excuse to seek new hires a team feels socially un-challenged by, wants to hang-out with, etc. Also known as 
+“
+Hire Like Me
+”
+ syndrome.
+“…cultural fit has morphed into a far more nebulous and potentially dangerous concept. It has shifted from systematic analysis of who will thrive in a given workplace to snap judgments by managers about who they’d rather hang out with.” 
+-
+Lauren Rivera, NYT 30 May 2015
+We need to confront this. We also need to take more risks by hiring more folks who do not have extensive startup experience or notoriety within hacker communities, because the numbers 
+have
+ shown that there just aren’t nearly enough people of color or women in those environments, to begin with.
+What 
+Culture Fit
+ is when its done-right, is a means of defining an organization’s unique culture of operations, processes, and “getting stuff done” by objective means, and measuring candidates against those non-nebulous criteria. Defined or not, every business has a unique culture, and more growing businesses need to vest a deliberate effort into both defining and cultivating what their unique cultures are (hint: drinkups, foosball, karaoke, and casually added-in buzzwordy methodologies, don’t cut it).
+Finally: Diversity is an effort to break away from monoculture, and thus is not just about one unrepresented group (eg: women, Black people, etc). Understand that Black employees are more likely to feel comfortable in a mostly White company if there‘s a healthy ratio of women/men and young/older employees; that women are more likely feel more comfortable joining a mostly male company with a diverse range of ages & races among employees; that more LGBT folks are more likely to feel comfortable joining a company with healthy age, gender, and racial balances.
+The symbiosis among minority buckets is real, and moving as far away from young White male monoculture as possible, will help everyone in the long run. Your organization’s reputation for how it values diversity as a daily practice among marginalized/minority groups, and the ability for folks on the outside to trust that they’ll succeed within and feel comfortable working for your organization based on what they hear on the street, will ultimately sink or swim all recruitment & PR efforts your company makes. So: do know that anything you put to work will need to stand that test over time, and that a sincere commitment with hard work will deliver far higher returns than the glitziest of showy “We Love Diversity!” recruiting campaigns.
+The publication 
+Model View Culture
+ offers blisteringly honest, articulate, academia-grade cultural critique of Tech’s workforce diversity challenges. Specifically for the CEOs and C-Suite execs out there, I cannot strongly enough recommend subscribing to and regularly reading (cough, and 
+supporting!
+) this publication, if making a measurable impact with your business is truly a priority. Some of the articles can be difficult to read, but real change has never been easy — and we do need to rise to the challenge of cultural transformation, sooner rather than later.The Three To Measure
+0 — Pipeline
+1 — Recruiting
+2 — Hiring
+3 — Retention
+To measurably improve the diversity of any organization, the above three buckets of team growth need to be understood as distinct, measurable, 
+trackable
+ symbiotic cycles: 
+Recruiting
+, 
+Hiring
+, and 
+Retention
+. Having an HR Specialist on board will significantly help, but every headcount in the organization needs to understand these three areas; needs to track how the business is performing in all three areas; and regularly seek to improve performance, as often as possible.
+Oh wait, there’s a 4th item there — The Pipeline! That factor that Paul Graham, Peter Theil, and most of the other prominent talking-head White guys consistently refer to as the core pain-point in Tech’s diversity problem.
+Speaking to that briefly: yes, the pipeline is 
+a
+ problem, but it is far from being 
+the
+ problem. You can write a big check to any number of pipeline addressing non-profits, or you can roll your sleeves-up to actually go to work fixing the culture you’re in, now (or you can 
+do both!
+). For 
+women in particular, Tech’s attrition rate
+ (which would fall into #3, Retention) skyrockets in middle-age — but not because we all go off to have babies and retire. As of this writing, we don’t know why this phenomenon happens — conclusively. There is oodles of correlative speculation, but no conclusive data on causation. 
+The article at this link is a terrific piece
+ on the “leaky pipeline” quandary — and echoing its author’s sentiments, why aren’t we doing more to bring middle aged women back into Tech after they leave?
+My article here speaks to what can be done 
+today
+ to improve diversity, which most women and people of color in Tech will tell you, is 
+the
+ problem. Sure, the pipeline is 
+a
+ problem, but not 
+the
+ problem.
+To make a measurable difference in your organization as quickly as possible and to really drive transformative cultural change throughout our industry, the below three areas are what need to be rigorously measured, checked against each other, ideated around solutions for as targeted areas — rinse, wash, repeat.
+Recruiting:
+Where do you cast your net? What outreach channels do you use, who writes the text of ads, and are there any established guidelines to help managers create the most specific and inclusively-enticing descriptions they can? What is your internship program like? How do you guide the process from soliciting resumes, to collecting resumes, to screening candidates, to filling a manager’s queue with a valuable pool of candidates they’ll find to be helpful in their candidate search (versus the opposite, which pushes managers to seek candidates on their own)?
+Tools that every startup should be using:
+GapJumpers
+ 
+(Online ‘blind’ testing)
+Jopwell
+ (Recruiting resource)
+Unitive
+ (Complete ATS platform w/ focus on smart bias elimination)
+Atipica
+ (ATS recruiting resource)
+Textio
+ (Utility to help compose inclusive — but not sterile or without personality — job postings)
+Pipeline feeding fellowship & training programs to recruit alum from:
+Code2040
+, 
+Hackbright
+, 
+YesWeCode
+, 
+HackTheHood
+, 
+BlackGirlsCode
+, 
+Code.org
+Addressing the “HBCUs lack scrappy entrepreneurial innovators” criticism:
+Digital Undivided
+ (NYC ‘inculator’ that educates fellows in startup methodologies, provides modest seed grants, and mentorship)
+General Recommendations:
+The text of ads placed on job boards is critical.
+ Be careful to not use gendered pronouns in describing roles; 
+learn about cultural biases, and be careful to not include text that will exclude or be off-putting to candidates unlike yourself
+. Be conscious that gilding the lily with cuteness backfires, more often than not. There are better ways to stand-out from competitors. If you’re an executive or hiring manager and feel out of ideas — hey, how about engaging a freelance Recruiting specialist to help you out? Recruiting is not your specialty, after all. 
+Textio
+ is also a superb online resource for 
+all folks
+ within a company to use — and I highly encourage organizations to have hiring managers to run listings by 
+Textio
+ before submitting them to review by Recruiters.
+Yes — use that pedantic EEO module 
+ATS (
+Jobvite, Greenhouse, Lever, etc.
+) services offer on job applications, to ask what race & gender your candidates are! NO, you do not legally have to include all the paragraphs of irritating legalese (unless you’re a government contractor, and if that’s the case then 
+OFCCP guidelines
+ will be your set of unique rules, in addition to any your state may require). For businesses who do not do work as government contractors, state simply, briefly, and in plain language what your intents are in collecting that data; that you are an equal opportunity employer and do not look at the data collected while recs are open; that you value diversity only use that data to track your own company’s performance. Period. Then use that data in hindsight, to measure how your recruiting and hiring are measuring-up. Yes, these modules trend with very low user participation rates. Use your User Experience folks to consult with recruiters, in how to best tailor EEO modules on job applications for use (eg: in the race dropdown, use single word descriptions and not the multi-word US Census language).
+Professional organizations for people of color and women — they exist. 
+Use them!
+Referral Bonuses
+ 
+Intel recently announced
+ that they’re now doubling the standard referral bonus, on all diverse hires that come from employee referrals. I think this is brilliant. It’s also a great driver to get employees to do volunteer work mentoring or otherwise supporting pupils in pipeline-feeding support programs.
+If you’re willing to relocate candidates, do you cast your net
+ at 
+HBCUs
+ (Historically Black Colleges & Universities), 
+HSIs
+ (Hispanic Serving Institutions), women’s colleges, 
+Tribal Colleges
+, or in urban areas with a greater density of PoC than the Bay Area (which would arguably be any urban area other than ours)? Contact alumni associations with those colleges, anyway, as they’ll be able to connect you to graduates local to you if relocation is off the table.
+Internships: the least jaded and discouraged pool with the most diverse range of talent
+, is likely to be here. Don’t restrict yourself to wünderkinds from ivy league schools, MIT, or any small handful of colleges. Cast the net widely, and don’t let grades or test scores — which have been proven to demonstrate cultural bias — serve as a primary guide. Also don’t prioritize unicorns. Most unicorns are born from inspiration in the wild, not in the focus of an expensive classroom.
+If a company is recruiting successfully
+, their applicant base (as measured by EEO stats provided in online applications) will much more closely represent the US Census statistics for the American population, than today’s numbers reflecting employment in Tech do. For reference: 17% of all Americans are Latino, 13% of all Americans are Black, 6% of all Americans are Asian, and 62% of Americans are White. 50% of Americans identify as Male, and the other 50% as Female. All according to the US Census, which for better or for worse, does not get much more granular than that, and does not track LGBTQ data.
+Yep:
+ 
+we have a LONG way to go!
+Hiring:
+Hiring is the part of the process that picks-up from when a team starts interviewing candidates in person, through a candidate’s first few weeks as a new employee. How existing folks on the team meet & greet candidates, how salary and benefits are pitched to sell your business to candidate prospects, how (or whether you have) negotiations flow, what an employee’s first day is like, and how a new employee feels for that first week (or three?) as the new kid on the block.
+Define your company’s culture of getting-stuff-done, and evaluate candidate fit against defined objective values
+ for both the whole company, as well as team-established objective criteria. Subjectivity is the grey area where opinions trump opportunities, success cannot be celebrated, and failure can hide.
+Professionalism always wins, and doesn’t have to be “stiff.”
+Track the demographics of each manager’s hiring choices
+, and regularly connect C-Suite execs with managers to discuss. Accountability is critical, as is messaging that your company is serious about diversity. The more these things are schlepped-off for HR folks to oversee, the less seriously managers and ICs take these initiatives.
+Regularly connect HR analysts with both managers and recruiters, to evaluate demographic gaps between recruitment and hiring. 
+Review,
+ 
+troubleshoot, and iterate towards improvement. THIS is where analytics driven iteration to improve processes hits its sweet spot of opportunity!
+Hire in groups
+. Especially for the new & different kids feeling first-day anxiety, there is comfort in having that small handful of folks to share the first-day-at-school experience with. Being able to deliver consistent messaging from management with regards to company values, policies, and opportunities to cover culture-basics, is an additional benefit to the “hire in groups” tactic. Everyone hears the same thing, it’s easier for management/onboarding folks to get all their bases covered with everyone, and hey — from my own experience, it’s just funner this way!
+DON’T HIRE TOKENS.
+ Really, hire the best person for the job — period. Do the work with freeing your mind to find that best person when they might not be obvious via cultural biasses, but always prioritize “Who can make the best contribution to the team & the greatest contribution to the company” of your candidate pool. If skills are neck and neck, sometimes that may mean 
+adding a person with a different background
+ to the team, but always/only to the benefit of the whole team’s ability to challenge each other and do the best work possible.
+End Compensation Negotiation
+ as a standardized practice
+. It’s crap to penalize those of us uncomfortable advocating for our own monetary worth, and it’s much more crap to penalize candidates whom are perceived to be prima-donnas because they’re just playing the same game that 
+Floyd Landis and Tyler Hamilton
+ were. 
+Here is a great article
+ discussing 
+Ellen Pao’s fantastic decision
+ to end the practice of offer negotiations at Reddit.
+Consider your company’s benefits (
+not perks
+) packages
+, 
+and how they best represent your company’s values.
+ Do you offer training to employees to help ICs matriculate to management, or employees in administrative roles to shift laterally into product development? Do you provide classroom-based, workshop training in communication and social skills to employees? Do you up-front offer Transition support to Transgender employees? What is the flex-time policy? Is there a set number of vacation or sick days allowed per year, and if not, how is that time off tracked? What is the quality of your health/wellness offerings that the company pays for? Do you offer non birth-parent parental leave in addition to maternity leave? What is the timeframe you allow for parental leave? What does your 
+EAP
+ look like — do you even have 
+an EAP (or know what one is)
+?
+Ping-pong, laundry pickup/delivery, free food/coffee, fleets of on-campus bicycles or scooters — 
+these are perks, not benefits.
+ Many of these are admittedly damn awesome, and do contribute to offices being funner spaces to spend that 40–60hr/wk in with your favorite co-conspirators, within. For attracting new talent it’s important to 
+not
+ frame these as “Benefits,” though (and let’s be honest — ALL STARTUPS has these things today!). Benefits pertain to how a business supports an employee’s long-term personal needs (money, family, health, time off) and professional growth, whereas perks are fun goodies a business provides employees to help us feel good today (and only today).
+Be mindful of your team’s time, and of the investment individuals and teams make in the interview process.
+ If a team is feeling “interview fatigue,” it will fail to give candidates their best. Likewise, teams in fatigue-mode are less likely to listen well, respond to questions as best they can, or to make that effort to really get to know candidates. “Fire Fast + Often” is a lazy way to squeak out of holding yourself to a high hiring standard, is a red-flag to candidates who may feel socially vulnerable in a work environment, and sells everyone short — while also creating major emotional damage for individuals burned by a practice that can be so easily avoided by just being more mindful, early on.
+Finally: before you even schedule in-person interviews, consider hosting recruiting events that are more social and lively. 
+Get to know the broadest pool possible of candidates outside the intensity of an interview, before the investment of the interview process even begins. Hackathons have succeeded wildly for candidates and businesses to get to know how one another tick in areas that structured Q&A interviews fail, but they’re not suitable for all candidates or all job roles. Pot-luck lunches (where employees cook & candidates just show-up), evening “get to know us” workshop sessions 
+without the booze
+, show-and-tell sessions for employees to showcase work not ready for public display, and other cattle-call (bring in the crowds!) or special invitation-only gatherings (pre-interview meet-and-greets!) can be a great way for businesses to learn more about 
+who
+ they may click with, before making the fatigue-inducing time investment of interviews. These also give candidates an opportunity to get to know the folks in your company, before being put into the heat of interview situations. Teams seeking to meet candidates for drinks at a bar comes from a place of good intent in wanting to evaluate culture-fit, but 
+getting to know a prospective colleague over booze and in a bar sends the wrong message and can royally backfire. Same, for in-office roundups over a keg.
+Retention
+Diversity Recruiters can accomplish great feats, but hiring decisions come down to the hiring managers — and retention comes down to how well an employee functions within a given work environment. Is the person comfortable, do they feel set-up for success with both their assigned day to day tasks and within the broader context of their career goals, is mutual respect happening, does early friction happen around points easy to rectify, etc. If a business is unwilling to make a sincere effort at cultural transformation — not just an initiative driven by HR, but one that every IC and team manager are fully on board with & driven by the C-suite — retention (or a lack thereof) will remain a problem, ixnaying all of the hard work done by recruiting folks & everyone else.
+360° Reviews.
+ Why most companies have no interest in understanding what subordinates think of their managers, never fails to befuddle me. To get a pulse on company culture, these are critical.
+Anonymous Bias Reporting
+ Setup a channel for employees to anonymously (or with protections) report systemic biases. Build an internal advocate network of ICs visibly made available to confidentially meet with peers, who are bound to protecting peer identities, and have direct access to senior management to report/discuss what they hear in the wild. Unions pioneered this concept years ago with 
+the “Shop Steward” role
+, and loosely basing an internal process on it that has nominated/upvoted employees functioning as that conduit between rank-and-file and upper management/HR sounds like a practice long overdue for ubiquitous implementation in Tech. Sorry, the corporate HR Business Partner model has failed (miserably) in this capacity. “Talk to HR about it?” carries a very legitimate fear that something negative will be put in your file — so we can’t continue to fall-back on it.
+Workshop Format Training.
+ Workshops are not the stale compliance videos that Legal makes employees watch; videos that are cast with Dilbert-esque looking people with bright smiles who wear slacks and blouses; very well put together adults who look nothing like casual Bay Area types; click through, watch… click through, blah blah blah. They’re also not the apps filled with abrasively witty text to keep employees from face-planting in their keyboards, in the isolation of each’s cube. Workshops are physical, classroom, interactive sessions guided by a professional moderator with either floor pillows or chairs around round tables; frequent breakout sessions & follow-up reviews; typically filled with laughter and lots of honest awkwardness; more often than not, they’re simply fun. The physical and cognitive engagement that happens in workshops cannot happen with headphones and a mouse at a computer, each body within its own individual cube enclosure. Relationships are cultivated, learned skills are more likely to be retained, empathy is cultivated, and the best facilitators lead workshops so that students articulate most of the “answers” that in the end lead to core takeaway wisdom.
+Communication & Cultural Competency Skills Training. 
+How do we listen or relay instructions to each other? How do we commit ourselves and manage others’ expectations of us? What steps can we take to make sure that all the mindful & well-intentioned folks within a company understand the company’s social values; understand that 
+boyfriend-laments-whining-girlfriend jokes
+ aren’t cool on stage at events, that calling someone “gay” is not just a South Park reference; 
+what “bro” behavior is
+, and how to be our (professionally) authentic selves w/o also alienating others (hint: these workshops are more often than not fun for everyone, the straight white guys especially)? Guidance on 
+how to make colleagues comfortable whom are enduring a major life event
+ that’s upsetting, or an event such as 
+gender transition
+ or losing a baby — things that are just too uncommon in the out-in-the-open world for most to know how to do right with, despite wanting to do right? Removing the burden of teaching about structural racism from the three existing Black team-members and those you wish to hire in the future, by taking the bold step of 
+owning that discomfort as a company providing its staff w/ education
+. Education that — bonus — helps everyone better align with all potential users in the world, too, not just those “like them.” Teambuilding is always a nice side-effect of dedicating time to soft skills workshop training. The more a team’s social graces are invested in, the more vulnerability we’re able to reveal of ourselves & see in one another(in appropriate contexts), and the more we’re guided into how to smoothly practice empathy — which just makes everything better.
+Performance Reviews: Bias Auditing. 
+Leave it to Earnst & Young to take the lead on this one. From HBR’s uh-mazing 
+“Hacking Tech’s Diversity Problem”
+ article from 2014:
+Having someone who is trained in the literature on gender bias read through all performance evaluations, which Ernst & Young has done for years, can help if your analysis shows that bias is affecting them. Be sure to track whether praise differentially translates into high overall evaluations for men but not women. Check, too, whether similar evaluations translate into 
+greater rewards for men than for women.
+Payroll Transparency — get thinking about how to do it. 
+It is looming on the horizon, and can be driven by employers 
+or employees
+ (and the latter rarely if ever reflects favorably on employers). In the state of California it is illegal for employers to advise employees to keep hush on their compensation specifics. As 
+the situation with Erica Baker and Google has revealed
+, systemic pay inequality happens — whether or not it’s “intended” at the executive level. Culture is an organic thing, and leaders can either get in front of it and in doing so earn the trust and loyalty of employees… or continue forward with business as usual.
+Accountability in equal compensation
+. Anyone may have unconscious biasses they’re unaware of. 
+This incredible study by MIT
+ on gender bias in compensation, shatters our myth of meritocracy. Good intent has to matter less than scientifically validated behavioral patterns. Build-in internal systems to examine systemic trends in base salaries offered to new candidates, equity packages offered, cash and equity grant bonus structures, vacation time taken, flex time, etc. Build-in a system of checks and balances that is known to the company, and regularly correct trends before they get out of control. They happen; getting in front of them, matters more than whitewashing their probability via human fallibility.Outside Help
+You need to work with a consulting group that specializes in diversity. It would also probably behoove companies mid-growth phase, to work with an outside consultancy in helping your team define and cultivate a deliberate culture. An outside perspective as well as training & coaching are critical to success. YOU are not an expert on these things, and the below consultants and organizations offer their services because they 
+want
+ to support you!
+Consultancies
+Paradigm
+ (Palo Alto)
+Catalyst
+ 
+(NYC)
+Code 2040
+ (San Francisco)
+Does cultural bias training in addition to their focus on pipeline work
+Kapor Center
+ (Oakland)
+Dr. Freada Kapor works with portfolio & benefactor organizations
+Individual Consultants
+Ashe Dryden
+ (Bay Area)
+Elana Isaacs
+ w/ Beyond Separation (Bay Area)
+Melanie Araujo
+ at Front & Center (San Francisco)
+Hiring + Recruiting Tools
+Unitive
+ Complete hiring platform (unsure if it’s technically an ATS?) with data-centric focus on eliminating bias opportunities in hiring.
+Textio
+ Linguistics modeling utility that flags cultural/gender bias in the text of your job listing, while also providing optimization insights for performance with jobseekers. Not your momma’s linguistics book!
+GapJumpers
+ 
+Online ‘blind’ testing — applicants retain ownership of their created IP in the test projects, so it’s not exploitative spec-work!
+Jopwell
+ Recruiting resource
+Atipica
+ ATS recruiting resource
+Recruit Alumni, rebuild the pipeline!
+ → 
+Code2040
+, 
+Hackbright
+, 
+YesWeCode
+, 
+BlackGirlsCode
+, 
+Code.orgClosing Thoughts + Getting Real
+Nonsequitor sidenote: If you want to bring diversity into your work life, you gotta have Black friends, Latino friends, queer friends, women friends who are a breadth of 
+‘things’
+ in their lives, and not exist in an a cultural bubble. Really. If all of your friends are just like you, why? Something to think about. A harsh POV, but one that’s been the net of many off-the-record minority group discussions I’ve been in — out of earshot from the feelings-sensitive but well intentioned straight White guys. Note that I also write this as a White straight woman with very few post-college Black or Latino friends… so this isn’t soapbox posturing. It’s very real feedback I’ve received, that we all need to take seriously and work on. Our social lives and the circles we move in, do translate to who and how we hire at work. That matters.
+Understand and believe
+ 
+that a diverse staff 
+will
+ impact
+ your bottom line
+, much more than a staff of 
+full stack employees
+ (widely regarded by many as a toxic approach for employers to endorse of their employees, even in the scrappiest of startups) or 
+Stanford over-achievers
+ that all come from middle to upper income, well educated white families.
+“A lot of people in our industry haven’t had very diverse experiences, so they don’t have enough dots to connect. They come up with very linear solutions without a broader perspective on the problem.” 
+-Andrew B Williams
+This piece I wrote on the 
+ROI of diversity
+ last year, expands on that. A terrific 
+TEDxMillwaukee talk by Andrew B Williams
+, probably does a much better job at qualifying the qualitative realities of inclusion. Scientific American 
+makes its case
+, that being around a more diverse group of contributors in work environments is just more fun. While much of the quantitative research around this is still only just rolling-in, at a qualitative level it needs to be understood by leaders that the cumulative life experiences of the people making, selling, and marketing their goods, does impact the ability of their products to gain market traction & user retention.
+Google Photos’ recent 
+post-launch machine-tagging of Black folks as gorillas
+, is the latest epic trainwreck of what can happen when a workforce is 92% Eurasian. But why even prioritize PR trainwreck avoidance, when having a workforce that more closely represents the actual American (and worldwide) population can simply explode with so much more WIN than products designed in a vacuum of monoculture?
+Value your individual contributors.
+ All of them. Value each individual’s need to have a life outside of work. Really, it will benefit each of them with more in-office productivity. Own your role in nurturing the career and professional growth of your employees — help them be their best selves doing the work you pay them to do, and in their future endeavors. Appreciate that we can’t bring our full selves to work — and that if we did, that’d be a disaster. Work does require good behavior and an effort to tone down some of our more extreme quirks — and that’s not a bad thing. More exposure to more kinds of people makes us all better, anyway.
+Be cognizant of gender, racial, cultural, and LGBT stereotypes at work
+, and make an effort to break them — without judging how well or poorly your organization may be doing at them today. Cultivate office management or administrative roles that can be appealing to men, and break away from the Mad Men era stereotypes that have come back to life in recent years. Get some women on IT tasks, and have everyone spend a little time each month doing customer service. The more empathy we all have, the better we all function together — and humility breeds empathy.
+Finally finally (because I’m a designer and we’re guilty of saying that all the time): this piece is mostly a brain dump on my part, from the ~18mos of experience I had working on these problems in doing EqualTogether. I initially framed it as a “101” piece, because no 101 class makes anybody an expert on anything. The intention of this article is to offer folks entirely in the dark and curious to learn more, a good first step. Nothing more. Unless you’d be comfortable having your taxes done by a college kid who aced Accounting 101, neither of us are experts from the knowledge herein, alone.
+Diversity & Inclusion best practices are a moving target, and keeping on top of issues by consulting D&I professionals and following the right folks on Twitter and in the media, is critical to keeping on the ball.Special thanks to my friend 
+Dale Larson
+, for asking me to respond to an email with a few tips he could pass on to a client. Here’s 15min of tips! :)
+Thank you to 
+Melinda Briana Epler
+, who provided many of the resources links herein — it’s definitely a much better article with solid leads I can point folks towards, to get started utilizing some awesome tools & humans to improve their businesses diversity (and general personnel base in a competitive market), today!
+Big thanks to the friends & colleagues who also took the time to read through this & provide opinions, resources, and support that got this finished.
+#diversity Twitter Roundup
+…In no order at all…
+Melinda Briana Epler
+ Empowering women to change the world with her incubator for women, 
+Change Catalysts
+. Producer, 
+techinclusion.co
+Nicole Sanchez
+ VP Social Impact, Github. Founder, Vaya Consulting. Former Kapor Capital. People Geek.
+Wayne Sutton
+ General Partner at BUILDUpVC pre-accelerator to mentor, educate, and connect underrepresented folks. Cool guy.
+Ashe Dryden
+ Diversity advocate, 
+consultant
+, programmer, AlterConf founder. Hardest working advocate for Diversity — 
+support her work
+!
+Ellen Pao
+ (…if you need this line of text, what rock have you been living under?)
+Ana Diaz-Hernandez
+ Associate at Kapor Capital, Stanford alum, social impact geek.
+Danah Boyd
+ Author, social media scholar, NYU Data + Society, Microsoft researcher, youth advocate.
+Zeynep Tufecki
+ 
+UNC Sociology + LiSci professor, Carnegie fellow, writer.
+#BlackLivesMatter
+ If you need a description for this, just click on it.
+As Perez Hilton so eloquently put it— …
+don’t be that person running through the Breast Cancer parade, screaming “All Cancers Matter!”
+Kimberly Bryant
+ Founder BlackGirlsCode, 2014 White House Champion of Change, general badass.
+UN Women
+ Excellent perspective on worldwide women’s issues.
+Lauren D Thomas PhD
+ STEM education + #BlackLivesMatter advocate.
+Christina Morillo
+ InfoSec gal, GA Hub curator, CodeNewbies community manager, general badass.
+Van Jones
+ Co-Founder @RebuildDream, @YesWeCode, @EllaBakerCenter, @GreenForAll, on the side of all Black people embarrassed by Don Lemon, and badass CNN legal correspondent.
+Padmasree Warrior
+ CTO, Cisco. Advocate for women in Tech. Painter. General badass. Yep, that’s really her name!
+Cindy Gallop
+ 
+Author “Make Love Not Porn,” #SexTech and #ChangeTheRatio advocate.
+Gina Trapani
+ 
+Developer & writer. Founded 
+@thinkup
+ 
+@todotxt
+ 
+@Lifehacker
+ & coming soon, 
+@makerbase
+. Same-sex married, co-mom to best little kid.
+Who Else?
+ 
+These are just a handful of my favs… I’m certain there’s some I left out, and plenty more I’ve never heard of yet. Please leave note on this line of text with suggestions if you have any!Further Reading
+Note: this section will continue to grow as more articles are published or brought to my attention. Go forth and diversify!
+Pay Inequity Among Women, By Race
+ — AAUW, 21 July 2015
+The 5 Biases Pushing Women Out Of STEM
+ — HBR, 23 July 2015
+Gender, Race, and Meritocracy In Organizational Careers
+ — MIT whitepaper study
+Which Women In Tech?
+ — Nicole Sanchez, Feb 2015
+Hacking Tech’s Diversity Problem 
+— HBR, Oct 2014
+Re-Recruit From Tech’s Leaky Pipeline
+ — Model View Culture, 2015
+Reddit Ending Salary Negotiation
+ — Fast Company, 2015
+How Diversity Makes Us Smarter 
+— Scientific American, Sept 2014
+Stewards: What is The Role of A Union Steward 
+— Society for Human Resources Management, July 2013 
+note: this article included here as a reference for modeling employee/upper-management steward conduits. Calm down, not suggesting anyone unionize!

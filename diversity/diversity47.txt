@@ -1,0 +1,80 @@
+“Minimum Bar” Diversity
+Yesterday, Facebook’s head of diversity blamed their diversity issues on the “pipeline” issue. Yet, people of color are still less represented in tech companies (including FB) than they are 
+in technology majors
+. Companies often like to claim they cannot hire candidates because they do not wish to “lower the bar.” 
+Charity Majors
+, a former hiring manager commented that this happened at Facebook:
+People think that there is a such thing as a “diversity hire” — someone who is hired to improve the diversity numbers, but wouldn’t have been hired if they were a white male. 
+Moishe Lettvin
+ has written what, to my mind, is 
+the best piece debunking this whole “bar lowering” thing
+. You aren’t trying to see if someone hits a bar. You are mapping a potato.And yet, I have spent much of my career making sure I can hit this invisible “bar.” Many people I know do the same. I advise people to do it.
+I have an advantageous starting point. After all, I’m a well-off, white, cis, straight woman. It’s easier for me to meet the arbitrary criteria.
+For this reason, I call myself minimum bar diversity. I am the least diverse person you can hire, but since I’m a woman, I still “count” as diverse. Plus I make you feel comfortable because I can hit that invisible bar. Minimum bar diversity.
+The more time I spend in this industry, the more time I realize that most of the “diverse” people who get to participate look way too much like me. Minimum bar diversity hires. This is not good enough.I’m hoping that by writing out the parts of the “bar” I have found, we can dismantle it. Companies never tell you what the bar is. To the best of my ability, this is what I have found contributes to “the bar.”
+It is not to say that these experiences aren’t useful. Some of these things I did purely because I wanted to. But these are often the things I get “credit” for, and I know they are not the only way to do well in technology. There are many paths.
+You 
+definitely 
+do not need all, or frankly any, of these experiences to succeed in a tech career. Despite that, if you can miss one of these, you can (and often will) get dinged as missing the “bar.”
+Someone will say you don’t hit the bar because you don’t have an engineering degree. Or someone will tell you that you aren’t a culture fit” because you didn’t love computers as a child. There are so many elements of the bar that they can always find one you won’t hit. The last four mostly apply to women.(1) Nerdy Childhood Pursuit
+Almost every conversation I have with an engineer starts with “oh I started coding when I was 10.” We think that people don’t 
+really 
+love technology unless they found it themselves in a garage. Well, I can tell you about using Perl when I was 10. And I can tell you about doing high school robotics.
+How necessary are those to do my job? Not at all. Lots of people find their calling later in life. Some people just want to do a job and get paid. Both of those are fine.
+(2) Engineering Degree
+Particularly in Product, and in adjacent fields, we like to claim everyone needs an engineering degree. The classes I refer back to the most are User Centered Design and Human Factors and Interface Design. Even if I’d gone into an Engineering job, I doubt I’d be using signals processing and computer architecture.
+How often do I refer to any “core engineering” classes on my job? Never.
+(3) Dropping Out
+We need people who take risks! Bill Gates dropped out! Mark Zuckerberg dropped out! Most of the time large companies don’t want individual employees taking dramatic risks. They want people executing on a shared vision.
+How much “risk taking” at that level happens for the average employee at a huge tech company? Barely any. It’s often discouraged.
+(4) Failed, Misguided Startup
+I have no idea why people are so into this, but I still talk about the startup I did when I was 20 in interviews. I learned just as much from my school-assigned senior capstone project.
+Did I learn something at that startup that I couldn’t have learned elsewhere?
+¯\_(ツ)_/¯
+(5) Big Tech Co Experience
+We need people who’ve really done this before, and learned from the experts. If you haven’t already worked at Microsoft or Google, you might not have the skills we need.
+Are the only places you can learn “hard skills” Microsoft and Google? Obviously not.
+(6) Media Darling Startup Experience
+This is often framed as “high growth” — you haven’t worked somewhere “high growth” before. We’re really looking for someone who dealt with “high growth.” There often isn’t a skill in mind.
+It could mean that you need to be self directed. Often in high growth startups no one is directly managing you or your work. Can you demonstrate you’re self directed in another way? That should be enough.
+This is also sometimes a “are you cool enough?” filter.
+What does being “cool” have to do with doing a tech job? Nothing.
+(7) MBA
+Tech can’t decide how it feels about MBAs. You either can’t get one because that makes you “corporate” or in some roles you absolutely must have one to get hired (or funded).
+For women, it tends to be the latter. Many of the women in my class at HBS looked at women who were able to found successful startups — and many of them had MBAs. It can be hard to break into management without it, and hard to raise funding.
+Do you need an MBA? No, and half the industry will tell you it’s useless anyway.
+(8) Dating an Engineer
+This is complicated enough to merit a separate piece, but I’ve had it come up multiple times.
+Should your significant other’s job impact your ability to do your work? No.
+(9) Feminine Personal Style
+If you look around at high-ranking women in technology, they are held to a 
+very different fashion standard
+. People seem to pay attention to it. I’ve decided that classic feminine style tends to feel the least different, and still signal professionalism. Dressing in a less conventional way can make someone think “will that person make trouble?”
+Should how you dress matter? No.
+(10) Masculine Communication Style
+We also talk about communication. Are women “too sensitive” when they respond to criticism? Are they “too emotional” for a role? The expectation of how people will act, or how they will take a joke can be a type of bar (see the 
+cool girl trap
+). It’s about how people use their voice, but also about how they want to communicate overall.
+The “bar” tends to want you to have a certain communication style. This is typically a communication style that matches whatever is already happening on the team and at the company. People should be adding to the dynamic, not matching it.
+Should everyone on a team have the same communication style? No.These imaginary bars are a much bigger problem than the pipeline.
+The invisible bar often filters for “people like us,” which is the fastest way to not be able to diversify.
+The majority of the time, the bar don’t relate to actual on the job skills.
+The bar is sometimes visible in the subtext. Diverse candidates are discouraged from applying when they already know it exists. The imaginary bar keeps people out.
+Instead of handwringing about the pipeline, let’s fix this “bar” problem now.So how can we fix it?
+If you are hiring…
+Don’t be sloppy. Think seriously about what you mean by “the bar” for a hire and if you really need to use it at all.
+Call people out any time they say “hit the bar.”
+Remember to 
+fill in the potato
+ instead.
+If you think you need a bar, write down explicitly what it is and why it’s required.
+Then figure out what hard skill that actually means, and what other ways there are to get that skill (all the ways that aren’t how you did it, or aren’t the “classic” way).
+If it isn’t a hard skill, it’s not acceptable as a job requirement. “Culture fit” is not a job requirement. “Willing to pitch in cross functionally as needed” could be.
+If you want to reject someone for something that you think is “part of the bar,” it should be changeable. Can you go get a big company job now to learn X process? Yes. Can you go back in time to learn to program when you’re 10? No.
+If you think your current team might signal an imaginary bar, counteract it. “While many of us have worked at high growth startups, we’re specifically looking to bring in someone with different experience… perhaps in nonprofit or another field.”
+If you identify as a minimum-bar diversity person…
+Don’t be complicit. It’s so easy to say “well I got it because of X, Y, and Z.” X, Y, and Z are often arbitrary, and you know it. You passed through the interview based on X, Y, and Z, but I bet that’s not what you use in your job every day. Admit it.
+Name the invisible bars you have found. We can’t fix what we can’t see.
+Diverse candidates…
+If you’re rejected because of an invisible bar, please keep believing in yourself. It’s hard, but many people want you in this industry. It’s them, not you.
+If you can and want to, call it out. “What skills are you specifically looking for, given you request the experience of being in a high growth startup environment?”Oh, and Facebook? Blaming the pipeline doesn’t hit any bar. Try harder.

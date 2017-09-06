@@ -1,0 +1,33 @@
+Clickbait is for Everyone — Including People Interested in Tech Diversity
+Why making people despondent for clicks isn’t cool
+The other day my coworker shared an article in our women’s chat channel. The article was titled 
+White men to women and minorities in tech: We just [don’t give a fuck]
+ and my coworker had pulled out the two shocking stats from the piece: Only 5% of white men think lack of diversity in tech is a problem, and 40% are tired of hearing about it.
+Another woman responded “5%. That is so dark”. It 
+is
+ dark. That’s not just disappointing, that’s…devastating to me. I read 
+the article
+, trying to get any more context. It starts right off:
+Last November, LinkedIn published a study that showed just how much white men care about diversity in tech. Spoiler: Very little when they are allowed to answer questions about diversity without using their name. Less than 5% of white men surveyed said they considered a lack of diversity a top problem.
+The dismal 5% number is hammered in the more you read: “95% of white male respondents didn’t consider this a problem” “It’s the kind of thing everyone says is a problem on social media or on stage, but less than 5% of the industry 
+actually 
+believes it’s a problem”
+By the end I was like: 😧 . I looked around at my coworkers. They outwardly seemed to care about diversity. How many of them secretly didn’t? My heart had sunk. I tried to come to terms with it. All that education and awareness building in tech hadn’t worked at all. What 
+would 
+work then?
+It was at the back of my head the whole day. Finally, at the end of the day I circled back around to it, just trying to understand it more. I visited 
+the survey
+ that the article linked to. There was the same stat, but according to the creators of the survey:
+Less than 5% of investors surveyed by LinkedIn rated diversity as their “top concern” as compared to macroeconomic conditions, raising capital, hitting revenue targets, or hiring the right people.
+That wording changes everything. First of all, the survey was to investors and small startup founders only, not “white males” or “the industry”. And the question asked the investors what their 
+top
+ concern was, and they could only pick one thing. Diversity not being their number one concern is way different than them just not caring about it at all, as the Pando article had led me to believe.
+And the article publisher 
+knows
+ that. They know that they’re significantly misrepresenting survey results, and they know that doing so will get more shares and concern from people. People like you and me who care about the lack of diversity in tech. I was/am really pissed when I realized this.
+Throughout the next couple days, I saw this article shared around quite a bit in my circles. Usually with the 5% fact pulled out, and always with an exclamation of despair.
+The despair caused is one reason why an article like this is bad. It’s also bad because we need real facts in order to operate on reality effectively. If it really were the case that “95% of white male respondents didn’t consider [tech’s lack of diversity] a problem”, it would be a legitimate reason to throw out what we’ve been trying to do to spread awareness, because it wouldn’t have been working at all.
+If we’re going to confront a sobering fact, it better be a real one.
+The proliferation of this stat has also made it harder to argue recently that companies should care about inclusivity because their employees care, including their white men:
+Nooo
+I’m writing this because, embarrassingly, I was surprised that media would carelessly take advantage of a movement like the one to increase diversity and inclusion in tech. This probably isn’t the only article to do so. I’m going to be more careful in the future. And I want to impart this lesson I learned: if you see a shocking fact, double check that it’s real before it ruins your day.

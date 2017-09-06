@@ -1,0 +1,116 @@
+What we learned while hiring the Basecamp summer internship class
+We’re excited to be running our largest summer internship program ever at 
+Basecamp
+. We have an exceptional and diverse class of eleven interns who will be joining us for the summer, and couldn’t be more thrilled to have them.
+The process of hiring our interns ended up being one of the hardest and most enjoyable experiences of my professional career. I want to share a little bit about how we approached it, what we learned, and some advice for future interns candidates and internship coordinators.
+Why even have an intern program?
+There are three compelling reasons for Basecamp to offer internships:
+Give back and have an impact on the community
+ — We all started somewhere, and for many of us, internship or early employment opportunities dramatically impacted the course of our careers. This is our chance to give that opportunity to the next generation of developers, designers, etc., just like someone did for us all those years ago. In addition, the Basecamp perspective on product development, programming, and even data science is no doubt quite a bit different from what is commonly taught in schools. Internships give students an opportunity to see how things are done in the “real world,” and for us to impact the way future industry leaders think about problems at a formative point in their development.
+Challenge ourselves to grow — 
+As a company, we have limited experience bringing people up to speed quickly, particularly at the entry level; most of the people we hire are mid-career, and we screen heavily for managers of one. Internships present a unique challenge for us: How do you take someone with little or no industry experience, teach them practical and critical thinking skills, and help them get to a completed project in two or three months? I think there are real opportunities to learn from that experience in terms of how we onboard, communicate values and approaches, structure projects, share feedback, etc., and we’ll see those benefits pay back long after the interns have left us.
+Improve Basecamp (the product and company)
+ — We’ve had past interns have an incredible impact on Basecamp, both in terms of bringing new ideas and doing high-quality, important work on the product. While I personally think an internship program would be a success and worth doing even if we only hit reasons #1 and #2, the icing on the cake is the great impact that interns can end up having in their actual work.
+What were we looking for?
+We structured our internship program a little differently than most do, in a couple of important ways:
+Rather than hire interns generically for a department, we chose to structure the program around concrete projects with a specific mentor. These projects were all real projects that we want done at Basecamp, and they’re the interns to own for the summer.
+We’re a remote company, so we hired remote interns. While we’ve had interns in the past, they’ve actually always been in Chicago — this is our first time running a remote internship program.
+We were looking for interns in programming, design, operations, marketing, and data, so there’s no technical skills profile common to all of the positions. What was common was our desire to have an impact on interns at an early moment in their career and to see them go on to great things in the future. Here’s what I wrote to the team as we started evaluating intern candidates:
+The biggest thing we’re looking for in interns is 
+potential. 
+We don’t expect interns to be as capable as a full time employee, and we expect that they’ll learn things along the way, so what we’re really looking for is someone who we think will develop into a great programmer, designer, marketeer, analyst, etc. with some guidance and support.
+The process we used
+The process of hiring our interns stretched from late December until the end of March, including finalizing projects, advertising the program, screening applications, and a couple rounds of interviews. Here’s how we did it.
+Getting the word out
+We advertised on our 
+website
+, 
+We Work Remotely
+, 
+Signal v. Noise
+, Twitter, Facebook, and a variety of college and other job boards. The application process for interns was simple: send us an email explaining why you want to be an intern at Basecamp, what projects you’re interested in working on, what work you’ve done in the past, and why we should hire you. Include a resume if you’d like, but it’s not required — we care far more about great cover letters. We set a deadline for application about six weeks after we started advertising the program.
+Initial application screening
+We received 646 email applications, including over 200 in the final week of the application period. Each application was loaded into a Basecamp project for review by at least two team members, looking for pretty basic stuff — is there any potential that this person could be a viable intern candidate at Basecamp? Are they actually applying for the job? Do they have any relevant background? Can they communicate clearly? Did they follow the basics of the application instructions?
+After reviewing an application, each reviewer gave a simple yes or no recommendation on proceeding with their candidacy. One “yes” from a Basecamper got an applicant through to the next round, or two rejections eliminated them from consideration. Eight different Basecamp staff members dedicated time to reviewing applications, ranging from a dozen to hundreds of applications each.
+Phone screen
+After reviewing all of the applications, we invited 114 candidates (about 18% of the total application pool) to schedule a brief 20-minute phone call with someone at Basecamp, and we were able to successfully connect with 100 people (some had already accepted other internship offers or never replied to our invitation).
+These calls were intended to give us an opportunity to get to know candidates, better understand their motivation and skills, and give them a chance to ask us any questions. Several of us conducted these interviews, and while we all asked questions a little differently, the general rubric for these interviews went like:
+Can you tell me a little about yourself?
+Why are you interested in working at Basecamp? Why this project in particular?
+What are you hoping to get out of the summer?
+Can you tell me about a recent project that you worked on that you’re particularly proud of?
+Do you have any concerns about working remotely?
+Can you tell me about your experience with <various project specific technologies>?
+Do you have any questions for me?
+After each interview, the interviewer wrote up notes from the call about what was said, what their impressions were, and whether they’d recommend them for a specific project.
+Final interviews with mentors
+Following the phone screens, each mentor chose who they wanted to talk to further and set up video or phone interviews to ask project specific questions. I don’t have an exact count of how many of these we did, but we talked to roughly 30 candidates in this final stage. For some projects, candidates also had a further follow-up conversation with the rest of the team they’d be working with.
+After interviewing all of the candidates they were interested in, mentors and their teams chose interns to make offers to, which we extended at the end of March. We also notified each candidate that wasn’t selected as quickly as we could.
+We ended up hiring 11 interns for the summer: 9 for full summer-long projects and 2 interns who will be working on a handful of smaller projects during the summer.
+Tips for prospective interns
+After you review hundreds of applications, you start to see a few things that commonly occur in great applications, and a few things that are common in applications that aren’t so great. 
+Ann
+, who reviewed most of the applications and conducted many of the screening interviews, wrote up a few of the things that stood out to her during the review process:
+Follow the directions
+Following directions is such an important thing & I was amazed by how many people don’t get that. It was really simple for people because we didn’t ask for that much.
+We wanted to know which internship people were interested in, along with a cover letter, and some info about their qualifications. You know us — we’re not sticklers for resumes. But we need to know why people think they’re qualified & what they want.
+Communicate clearly
+If I wasn’t on board with the ‘hire good writers’ philosophy before, holy cow am I on board now. I didn’t need people to be funny, or to be super creative, or to have ✨pizzaz✨. I just needed them to articulate who they were, what they were interested in & what their qualifications are.
+Tell us your qualifications
+Demonstrate why you’re qualified. Sounds like a no brainer, right? People applied for programming internships without showing us any projects they worked on, or even describing their experience in any depth. We’re not looking for fully formed apps — these are interns after all. Projects for classes are great. Bootcamp projects are great. Simple design portfolios are all we’re looking for.
+Some folks told us about their hobbies. You’re a mountain biker? Great! How is that relevant to the marketing internship? You’re a mountain biker and you helped organize and promote a charity bike race via social media? Let’s talk!
+Find the right tone
+Don’t send us a generic cover letter. “Dear recruiter” is a big tip off that you’re firing off applications without any thought. You want the gig? Make an effort.
+We’re not formal by any means. Sending a Ha Ha Business! style cover letter & resume is an indication the applicant doesn’t know our working style.
+Some people went the other direction & sent us applications that were really unprofessional. Don’t curse in an application. Yes, we curse on SvN. It’s still not ok to do in an application. Don’t tell us all the things your last employer did wrong & how you told them off for it. It doesn’t make you look edgy; it makes you look like a jerk & a gossip.
+Make it easy for us
+Don’t waste my time. I’m not going to a site & filling out a form to give you more information about who your mentor would be. I’m not impressed by that.
+Don’t name your resume file “Resume.pdf”. We’re looking at hundreds of resumes. Make it easy to find.
+Spell the company’s name right. I don’t think this is too much to ask.
+Tips for intern program coordinators
+I’m not a human resources professional — I look at numbers for a living — and this is the first time I’ve organized an internship program. It was a great experience, and I particularly enjoyed the chance to talk to so many passionate people who are just getting started in the industry. It was also, candidly, a ton more work than I thought it would be, and filled with far more gut-wrenching decisions than I expected.
+There are a few things I’ll be sure to do in the future:
+Use an application management system
+When I wrote up the application instructions, I figured we’d be lucky to get 100 applications, and it would be no problem to deal with them manually, so the application instructions were to email an alias that ended up in my inbox.
+That was a mistake — we ended up getting nearly 650 applications, and I spent untold time copying-and-pasting applications and attachments into Basecamp to-dos, and later searching through my email to be able to let people know of our decisions. An application management system that is built around a defined workflow (directly receiving applications and from which you can send replies to candidates) would have made a big difference in my personal happiness throughout the process.
+Do everything on a rolling basis
+While our initial intention was to do things on a rolling basis and to start interviewing candidates as soon as applications came in, that isn’t what ended up happening. In part because I was spending so much time on the drudgery of manually processing applications, we didn’t start doing screening interviews until after the application deadline passed, and most mentors didn’t start doing their interviews until all the screening interviews had been completed.
+This leads to two problems:
+We didn’t get to talk to all of the candidates we wanted to because some of them had already accepted offers before we got around to asking them to interview.
+It led to some really draining days of back-to-back-to-back interviews. For example, here’s a couple days of my calendar from the peak of our screening interview season.
+While I can confirm that it is physically possible to do that many interviews in a day, I wouldn’t recommend it.
+Stay flexible
+When we started the process, we were pretty set on only hiring interns for specific, full-summer-length projects with dedicated mentors. We care a lot about it being a great experience for interns, and we thought that was the best way to deliver on that goal.
+As we went along, however, we met some candidates who were too good to pass up on, and we ended up with more people we wanted to hire than we had specific projects already lined up. We quickly figured out a solution:
+It’s always a good reminder… When we set up the rules, we can change the rules.
+ — 
+Jason Fried
+So we ended up hiring a couple more interns than we initially planned to, and we’re putting together a series of shorter projects for them that will have them working with a few different people during the summer. It’s a little different than we originally planned, but I have no regrets about being flexible in order to get to work with more great people.Meet the 2016 Basecamp summer interns
+I’m incredibly proud of the class of interns who will be joining us this summer, and I’m excited to work with all of them. There are 11 in total:
+Basel Razouk
+ is an engineering student from Strathclyde University in Glasgow and will be working on marketing this summer.
+Blake Stoddard 
+comes to us from North Carolina State University. He’ll be working with the operations team this summer.
+Dan Scott
+ comes to us from Ireland, where he’s studying with Open University. He’ll be working with the Android team.
+Danny Vilela 
+is a student at NYU studying computer science. He’ll be working with me on data this summer.
+Drew Rygh 
+joins us from the University of Wisconsin to work on Trix this summer.
+Edlyn Yuen
+ is a banker-turned-VC-turned-entrepreneur who will be working on marketing.
+Esther Lee 
+is an experienced writer and teacher who will be joining us from Atlanta rotating through a couple of different programming related projects.
+Ethan Eirinberg 
+is heading to Stanford in the fall, but will first spend the summer working with us on a design project.
+Justin White 
+is a recent graduate from DePaul University (and was previously a student at our former neighbors, 
+Starter League
+). He’ll be working with us as a programmer working on our internal tooling.
+Michelle Harjani
+ hails from Vancouver and will be doing a rotation through a handful of design projects this summer.
+Nathan Petts
+ just finished his master’s degree in human-centered design and will be joining us from Chicago to work with us on a project related to how people work with clients in Basecamp.
+We’ve asked each of the interns to write up what they did during the summer, so keep your eyes on 
+Signal v. Noise
+ in the future to learn more about their time here.

@@ -1,0 +1,150 @@
+Why Diversity Matters in TechnologyBy Courtney Seiter
+Recently I learned something new about the history of photography that illuminates a lot about the relationship of technology and diversity.
+In the 1950s, Kodak sold almost all the color film used in the U.S. To make sure the colors of their prints were calibrated correctly, Kodak had to set a standard that any studio that processed film could match against.
+So they came up with the 
+Shirley card
+:
+Shirley cards, likely named after the first model to pose for one, became the standard for color calibration in photo labs all over the world.
+And they were always photos of light-skinned women.
+It took until the 1970s for consumers to realize the problems this caused, and only then when furniture makers complained that the film wasn’t able to show the different between light- and darker-grained woods.
+It took until the 1990s for camera makers to develop a new kind of camera system that balanced lighter and darker skin tones individually.
+Either no one realized or no one was too worried that using a 
+light-skinned model
+ made all other skin tones deviations from the “norm” and therefore harder to photograph. And this changed the path of the whole industry for decades.
+Teams need a diversity of perspectives and experiences to make products as good as they can be.
+You don’t have to look hard to find more modern-day examples of this phenomenon.
+When YouTube first rolled out its iOS app for uploading video, 
+5 to 10 percent of videos were uploaded upside-down
+. The company’s almost exclusively right-handed developer team didn’t consider the needs of the left-handed.
+Apple’s Health app for tracking “key health metrics” initially left off a tracker that about half the world’s population might use on a monthly basis: 
+one for the menstrual cycle
+.
+A variety of studies across fields like organizational science and psychology show that 
+diverse teams are smarter and more creative
+ 
+than homogeneous ones.
+At Buffer, we want to be a team like that. As one step of helping us get there, we’re devoting a new role to inclusivity and I’m honored to be Buffer’s Inclusivity Catalyst.
+I’d love to share with you what this role is and means (so far), what we’ve been up to in our quest to create a more inclusive environment at Buffer, and what the future might hold.
+Why is inclusivity so important to us?
+A lot of tech companies we admire greatly have someone — or often, a team of people — focused on bringing more diverse perspectives and creating a greater sense of belonging for everyone who works there.
+Members of these teams at companies like 
+Facebook
+, 
+Pinterest
+ and 
+Slack
+ have shared some of their inclusion philosophies and strategies, and we’re so grateful to them for giving us a bit of a blueprint.
+As I’ve dug in more on researching these roles, I’ve learned that it’s generally larger companies, often with thousands of employees, that are able to devote a whole role or team to inclusion.
+Buffer is still a touch under 100 team members, making us a 
+very
+ small company to have a full-time inclusivity role. Why would we add this so early? A few reasons:
+We’ve been 
+growing rapidly
+, and we feel it’s important to be deliberate and conscious about how we grow. Right now, the Buffer team is 
+69% men, 78% white, and 81% age 25–34.
+ We think we can improve here.
+Focusing on inclusivity feels in line with 
+our values
+, particularly “Do the right thing.” Opportunities for meaningful remote work shouldn’t be just for some; they should be for everyone!
+We believe more diverse perspectives will make our team and our products better.
+So what does an Inclusivity Catalyst do?
+Good question; I’m still figuring that out! Here’s the job description I wrote for myself:
+Inclusivity Catalyst
+Buffer is a global company with not only the opportunity but also the responsibility of bringing a variety of cultures, backgrounds, life experiences and perspectives to our work in order to truly represent our customers.
+The 
+Inclusivity Catalyst
+ will focus on creating an environment at Buffer where those of all ages, races, classes, ethnicities, gender identities or expressions, sexual identities, abilities, sizes, nationalities, cultures, faiths, neurotypes and backgrounds can feel welcome and experience a sense of belonging.
+Areas of focus include (but are not at all limited to!) the following:
+ — Working with Buffer’s CEO and leadership to create an environment where teammates have the freedom to share their “whole selves” openly
+ — Crafting, editing and/or monitoring internal processes like salary formula, performance reviews, benefits, family leave and more with a focus on supporting our diverse team and growing more diverse still
+ — Continuously working to develop a diverse pool of candidates through a variety of recruitment experiments
+ — Creating resources to encourage team-wide education on inclusivity topics and acting as a advice giver to any teammates who would like one
+ — Advocating for more inclusive products and marketing materials wherever possible, by considering elements like accessibility, language, representation and more
+ — Supporting and building relationships with groups and individuals working to advance the presence of underrepresented groups in technology careers and positions
+ — Contributing to the future of diversity in tech through the development of fellowships, sponsorships, internships and other initiatives
+ — Sharing transparently our efforts (successes, failures, challenges, everything!) towards more inclusivity through various forms of content like blog posts, podcasts, videos, etc.
+If this triggers any thoughts for you, I’d be keen to hear any thoughts or feedback!
+The story of inclusivity (so far) at Buffer
+I’ve been increasingly taking on pieces of this role over the course of about a year — a year of advocating, taking small steps, 
+messing up a lot
+ and learning a great deal.
+But I am far from alone in this effort. I’ve been inspired by Buffer’s CEO 
+Joel
+, who has pushed himself to intense levels of reflection in this area and continues to encourage 
+transparency even when it hurts
+.
+Many of my teammates have provided amazing ideas, feedback and encouragement (including a whopping 23 volunteers who sit on our inclusivity guild, where I ask for advice a lot).
+Together, we’ve taken steps like:
+Exploring issues in tech that affect underrepresented groups on our blog
+Modifying our 
+Journey page
+ and 
+job descriptions
+ to include images and language that actively includes everyone
+Bringing in smart voices who can help us learn more — like 
+Anil Dash
+, who 
+did an awesome Bufferchat with us
+; and the awesome folks at 
+Paradigm
+, who gave us an incredible course in understanding unconscious bias at our most recent team retreat
+Sponsoring awesome initiatives like 
+POCIT
+‘s 
+Beer and Boardgames
+ event and 
+#wocintech
+‘s awesome photos, and learning from many more
+Transforming our interview process to reduce bias and level the playing field
+Sharing our open roles in new locations that focus on less represented audiences
+And we’ve seen a lot of progress. Our candidate pool is steadily becoming more gender diverse, and team growth in 2016 has been gender-balanced for the first time ever.
+We’ve gone from 83% white in 2015 to 78% so far in 2016. (Our team is still very young, which feels like something we could work a lot more on). We’ll keep setting goals and sharing openly with you.
+Who is qualified to do this kind of work?
+I’m a typically abled, white, cisgender, neurotypical, 37-year-old woman married to a man. I have a lot of privilege. 
+Am I truly the best person for this role?
+I’ve given this a lot of thought, and taken the opportunity to learn from others here.
+Megan Rose Dickey, who writes about diversity and inclusion at TechCrunch, 
+opined on who’s qualified to take on an inclusivity role
+ and landed on this:
+“…perhaps there is no one answer to who is the best fit to fill a diversity role. It might be a case of needing to factor in the entire employee base at the company in order for the role to be as effective as it can be.”
+Erica Baker, who’s been instrumental in championing inclusivity at Slack, says
+ accountability has to start at the top
+:
+“Diversity and Inclusion should be a priority for all employees, but the person who leads the efforts and holds people accountable should be nobody but the CEO.”
+Heben Nigatu, one-half of the incredible podcast 
+Another Round
+, talked about this on the 
+Longform podcast
+:
+“I can’t emphasize enough how much I ask people to 
+try
+. Literally just try! Think of things and sit down in a meeting and talk about it. And then have actionable items where you go out and do stuff.
+We tried to think through all these perspectives in setting up this role. The inclusivity area reports directly to 
+Joel
+, our CEO, and we’re in communication quite a lot about what to prioritize and how to achieve our goals.
+If Buffer is lucky enough to have a long life and grow into a large company with hundreds or thousands of teammates, I’d be delighted to hand this role over to someone (or a team of someones!) more suited for it in the future.
+For now, though I don’t have all the answers, I can promise I’m trying.
+What’s next for us?
+Now that inclusivity is a bigger priority than ever at Buffer, what kinds of things can you expect to see as a result?
+In my mind, everything we do in this area should be in service of either bringing more new perspectives to Buffer, or making sure everyone on our team feels a true sense of belonging.
+Here are some of the projects I and others are working on for the next few months or so:
+A new, updated version of our open-source 
+Diversity Dashboard
+ to help keep us accountable and transparent. Here’s a peek at what we’re working on:
+A new, standalone “Inclusivity hub” of resources for anyone else who might be working in this area
+Volunteering at and sponsoring cool stuff like 
+AlterConf
+, 
+2020Shift
+ and more
+Frequent blog updates on the experiments we’re trying to connect with new communities
+More recommendations around Buffer processes like family leave, experience levels, our salary formula and more
+A podcast! (I hope)
+Over to you
+I and the whole team at Buffer have a lot of big, exciting work ahead of us.
+The responsibility for creating a more inclusive culture at Buffer is Buffer’s alone. But if you happen to want to share any thoughts or feelings about this position or any of our inclusivity efforts, I’d be honored to hear them.
+P.S. Get all our posts on workplace culture, productivity, transparency and more in your email. 
+Sign up now
+.Originally published at 
+open.buffer.com
+ on April 19, 2016.

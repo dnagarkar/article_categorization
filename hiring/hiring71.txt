@@ -1,0 +1,69 @@
+6 Questions for Startups to Ask Themselves Before Hiring Bootcamp Grads
+Or for bootcamp grads to ask companies before joining their teamAt Keen IO, we work with many bootcamps and have hired a good number of bootcamp grads. Bootcamps (especially those for code) help ease an obvious pain point for growing companies, but they can’t always help bootcamp grads avoid their own pain point — of joining a team that isn’t ready for them.
+Keen was one of those teams when we hired our first bootcamp grad. We pretty much threw people into the deep end and hoped they could swim. But after some early failures and feedback from those who stuck with us, we are proud to say 7 of our 45 current team members have come from bootcamps. We are even building a learner program to help bootcamp grads land on their feet in their first job — whether or not it’s on our team.
+In the hopes of helping others learn from our early mistakes, we commissioned this story by the team at 
+Job Portraits
+, which helps startups improve hiring and build culture through storytelling. To write the piece, Miki and Jackson from Job Portraits visited our office and interviewed half a dozen people on our team. Below are the six questions they (and we!) suggest companies ask themselves before hiring a bootcamp grad.
+P.S. 
+These are also great questions for bootcamp grads to ask teams they’re considering joining — remember that good interviews go both ways!
+1. Can senior team members spare time to mentor?
+Aubrey Howell
+, who joined Keen in November, remembers hearing a common tale from recent grads as she was finishing 
+gSchool
+ in Boulder last summer:
+“They said our engineers were too valuable for me to ask them questions.”
+Aubrey Howell, who is leading development on Keen’s learner program
+If that sounds familiar, you might not be ready to support a team member with less experience (and more questions). Remember that bootcamp grads are coming from an environment of intense learning and cameraderie. Going from that into a situation with almost no mentorship can be jarring and alienating. Plus, it’s ignoring a potential benefit to the senior team.
+“Your best developers probably learned from someone, so mentorship is likely already part of their life,” says Justin Johnson, who joined Keen in August 2013, a month after graduating from 
+General Assembly
+. “Giving them the opportunity to mentor would make them happier at work, which would make them more productive, which ultimately improves your bottom line.”
+2. Does your team proactively offer help?
+Actions speak louder than words: If senior team members act put-out by questions, new hires aren’t likely to believe you when you tell them to “ask for help anytime.” And even if questions are genuinely encouraged, Keen has learned that occasional reminders are sometimes needed.
+Becky Standig joined Keen in 2013 after graduating from Hackbright Academy
+Keen engineer and bootcamp grad 
+Stephanie Stroud
+ remembers her early days at the company: “Becky [Standig] once told me, ‘You can ask Cory for help. It’s ok.’ He was a scary senior engineer with four monitors who said ‘fuck’ all the time. I was like, ‘He seems kind of busy. Maybe I shouldn’t interrupt him.’ At other companies, maybe that would be true, but it turns out he’s really nice and happy to help.”
+Becky Standig
+, who graduated from 
+Hackbright Academy
+ in December 2013, was the first bootcamper Keen hired as a full-time engineer, as well as the team’s second woman engineer.
+“I don’t regret it, but there just weren’t enough people to provide the kind of mentorship that someone coming out of bootcamp needs.” –Becky
+Considering her own experience, she suggests hiring bootcamp grads in pairs “so they have someone else they know is at the same level and they don’t feel stupid asking questions — even though no one ever made me feel stupid here.”
+3. Can you be patient while also moving fast?
+When your top priority is to move fast, how can you justify making time to mentor new hires? 
+Josh Dzielak
+, who joined Keen in January 2013 and has dubbed himself their “Open Sorcerer,” suggests you might first have to come to reckoning with the whole concept of speed. “Our philosophy is, ‘Go fast enough to survive, but trade no further distance for speed,’” Josh says.
+“As soon as we’re comfortable we’re viable, everything contributes to going far instead of fast.” –Josh
+That’s the philosophy behind Keen’s learner program, which would provide a kind of paid apprenticeship to help bridge the gap between bootcamp and a grad’s first full-time job. Rather than seeing training as a roadblock to growth, they see it as an investment in long-term viability.
+“Going fast can be seductive,” Josh explains. “You often don’t realise that focusing just on speed can cripple the long-term sustainability of a company — especially if you end up sacrificing team chemistry or culture fit in order to hire people who can simply move fast.”4. Are you willing to slow down your hiring process?
+The bonds within a team, like any relationship, are built on trust. And since trust takes time to cultivate, Keen has learned to start relationships long before the interview. Stephanie graduated Hackbright in December 2013, when she also met Keen CEO 
+Kyle Wild
+. At the time, there wasn’t a place for her on the Keen team, but Kyle suggested they keep in touch.
+“I would email Kyle with questions periodically and he would give advice,” Stephanie remembers. “I had very down-to-earth, real interactions with him. My first conversation was actually about how I’m horrible at interviews; we sort of talked about anything and everything.”
+Stephanie Stroud joined Keen in 2014 after graduating from Hackbright.
+Stephanie joined Keen in May 2014, but first she worked on a contract project with 
+Michelle Wetzler
+, Keen’s chief data scientist. Her assignment was to create an IoT tool using Keen and 
+blog about it
+. At first Stephanie was nervous she’d be stuck blogging about code instead of writing it, but the relationship she’d already built with Keen helped ease her fears.
+“I trusted them that opportunities would arise and that this was a place where I could grow.” –Stephanie
+5. Do you expect everyone to “hit the ground running”?
+Taking the initiative and setting your own priorities is a prerequisite for entrepreneurs, so they often assume “radical autonomy” is ideal for everyone. But even 
+Justin
+, who previously ran his own company, needed a while to adjust to the level of independence expected at Keen.
+Justin Johnson, Keen’s developer and community evangelist
+“We have a culture that is seriously unusual, where you are empowered to make decisions without asking anyone,” Justin explains.
+“I was so freaking confused the first couple months!”–Justin
+“I kept asking another employee what he thought about investing money going to one event or another,” Justin remembers. “And he would be like, ‘Dude! I don’t care! Treat it like it’s your money and go wherever the hell you want.’”
+Another way to think about it is, just because someone isn’t running on day one, doesn’t mean they won’t be sprinting soon enough. Bootcamp grads are smart and hard working enough to have learned a brand new skill set in 12 weeks. They deserve at least that long to learn the ropes at a new company.6. How do you think about ‘work experience’?
+While bootcamp grads are by definition new to their field of study, they also arrive with important expertise and perspectives from their previous work.
+“Some people have this idea that bootcamp graduates are less valuable than someone who went right from high school to their computer science degree to their first job,” says Aubrey. “That’s totally false because we bring so many new ideas and alternative ways of viewing things.”
+Plus, many would say the most important skill to succeed at a startup is the ability to manage time and stress while producing high-quality work at a fast pace. In other words, how not to burn out. And you know a great place to learn that skill? At bootcamp.Cover photo: Keen IO Cofounder and CEO Kyle Wild (left) helps Engineer Stephanie Stroud assemble her first Magic deck.
+A big thank you to 
+Miki
+ and 
+Jackson
+ from Job Portraits for putting this story together. ❤learn more about 
+Keen IO
+learn more about 
+Job Portraits

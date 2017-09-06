@@ -1,0 +1,274 @@
+Legal 101 for Startups: 12-Min Introduction
+Originally published at 
+http://www.appsterhq.com
+A
+lthough not the “sexiest” part of launching a startup, founders must familiarize themselves with the basic legal principles and practices associated with building a business.
+Virtually every legal decision a founder makes carries with it the potential to seriously impact the company’s partners, investors, employees, and even customers.
+And it’s essential that founders develop an understanding of startup law 101.
+To help with this pursuit, I’ll provide an introductory guide to the most important legal decisions involved in launching and scaling a new business.
+A Word of Advice
+Early-stage startup founders
+ are caught in a bit of a bind.
+On the one hand, they’re often told that hiring an experienced lawyer to expertly deal with all the legal aspects of launching a business is very important.
+On the other hand, though, they typically lack the funds required to retain a qualified lawyer.
+This short guide is therefore meant to function as a kind of in-between compromise:
+it lays out the general ideas of the core legal decisions that all startup founders have to make,
+but it’s certainly not any kind of substitute for actual legal advice or choices.
+It’s always best to gather as much information as possible, especially information that is 
+tailored specifically to your company
+, before making major business decisions.
+If you have the requisite funds then we here at 
+Appster
+ recommend consulting with a professional lawyer prior to instituting significant legal changes to your startup.
+1. Forms of Incorporation
+One of the very first major legal decisions you’ll have to make as a founder concerns the specific legal form that your startup will take.
+Incorporation refers to the act of creating a legal entity that exists separate from the venture’s owners.
+According to 
+Investopedia
+, incorporation is…
+“…t
+he legal process used to form a corporate entity or company. A corporation is a separate legal entity from its owners, with its own rights and obligations.
+Corporations can be created in nearly all countries in the world and are usually identified as such by the use of terms such as ‘Inc.’ or ‘Limited’ in their names.
+Incorporation involves drafting legal documents called ‘Articles of Incorporation’ that list the primary purpose of the business, its name and its location, and the number of shares and class of stock being issued, if any.”
+In
+ 
+most cases
+, incorporating a startup creates a situation in which the corporation, as a separate entity, has its own set of responsibilities, obligations, and privileges over and above the company’s owners — everything from taxes, financing, and employment to contracts and liabilities.
+In the United States, an incorporated business can take different forms, including Sole Proprietorship, Partnership, LLC, C Corporation, and S Corporation (sources: 
+1
+, 
+2
+).
+Let’s briefly review each of these in turn.
+Sole Proprietorship
+:
+Most common and easiest to create;
+Only permitted for businesses with single owners;
+No legal distinction between owner and business;
+Key benefits: preferable taxation treatment and ease of creation;
+Key disadvantages: owner’s personal assets are at risk, i.e., they can be used to pay for business’ debts/obligations (including lawsuits).
+Partnership
+:
+Owned by two or more individuals;
+Easy to form; minimal upfront costs;
+Each partner can contribute money, labour, or abilities in return for an ownership stake in the company;
+Primary advantages: taxation benefits and ease of creation;
+Main drawbacks: personal liability for business obligations, and partner in-fighting/disagreements.
+LLC
+:
+Governed exclusively by state law;
+Owners must choose how to be taxed by the IRS (e.g., as a sole proprietorship, partnership or corporation); typically, taxes “pass through” to LLC members;
+All members have limited liability;
+Key benefits: practicality and flexibility insofar as they combine the limited liability of corporations with the taxation benefits of partnerships;
+Main disadvantage: can be a little more costly to operate in comparison to sole proprietorship or limited partnership.
+C Corporation
+:
+QuickBooks
+ provides a comprehensive overview:
+“If you have aspirations of going public on a stock exchange, a C corporation is your ideal route. Considered a distinct legal entity from its owners.
+C corporations provide limited liability protection to shareholders, insulating personal assets from business debts.
+However, C corporations are subject to ‘double taxation’ and don’t receive preferential tax treatment.
+The C corporation’s profits are taxed once at the corporate level, and shareholders are taxed again at the individual level. It’s important to recognize that shareholders can potentially forfeit their limited liability status and be held personally liable for the C corporation’s debts and obligations.”
+S Corporation
+:
+Pools the limited liability defense of C corporations with the taxation benefits of partnerships and sole proprietorships;
+Limited to companies with 100 shareholders or fewer;
+Similar to C Corporations regarding the possibility of shareholders being stripped of their limited liability protection if corporate formalities are violated;
+Main downsides: relatively difficult and costly to establish; low degree of flexibility (sources: 
+1
+, 
+2
+, 
+3
+, 
+4
+, 
+5
+).
+Selecting the wrong form of incorporation can result in problems for your company, including:
+having to pay higher-than-necessary taxes,
+difficulties changing your business,
+and potentially being held personally liable in various circumstances.
+Generally, corporations, LLCs, and limited partnerships offer the most benefits for founders, a key one being liability protection from creditors.
+However, most investors tend to allocate their funding to C Corporations, and to Delaware-incorporated C Corporations in particular.
+On that note, it’s important to point out that many U.S.-based companies are incorporated in the state of Delaware.
+Why? Because:
+Delaware’s court system specializes in corporate matters and it’s highly respected throughout the country;
+Delaware offers founders plenty of flexibility, various tax benefits, and important privacy protections when it comes to structuring companies; and
+According to 
+Nellie Akalp
+: “VC investors and investment banks typically prefer Delaware corporations above all other states and business structures.”
+For a more detailed analysis of the potential benefits and drawbacks of incorporating in Delaware, see 
+here
+.
+Services like 
+Stripe Atlas
+ or 
+valcu.co
+ help startups incorporate in Delaware.
+Finally, here’s a fantastic infographic from upwork.com summarizing some of the main attributes of each of the different types of incorporation:
+(Image 
+source
+)
+2. Taxes and Accounting
+There are many complex tax and accounting issues that founders must consider when they start their businesses, and each one of these matters could be the subject of a full-length article.
+Rather than delve into tons of precise details, I will instead point to some of the major tax- and accounting-related decisions that founders must make when launching new startups.
+First, it’s important for new businesses 
+to complete the following
+ accounting steps after incorporating:
+Open a bank account dedicated to business transactions;
+Track business expenses;
+Implement a bookkeeping system; and
+Establish a payroll system.
+Next, you must familiarize yourself with both state and federal tax obligations.
+T
+he 
+U.S. Small Business Administration
+ provides an excellent introductory overview of these various obligations, including the need for and purposes of federal and state ID tax numbers for which you’ll likely be applying.
+It’s important to keep in mind the following facts:
+Tax obligations vary depending on the legal structure of the business.
+If you’re self-employed (sole proprietorship, LLC, partnership), you’ll claim business income on your personal tax return.
+Corporations, on the other hand, are separate tax entities and are taxed independently from owners. Your income from the corporation is taxed as an employee (
+source
+);
+Most but not all U.S. states have sales taxes (i.e., there are a small number of states that do not require businesses to pay sales taxes) (
+source
+);
+It’s entirely possible that you will have to register for a sales tax permit, charge sales tax to customers, and file sales tax returns 
+in one or more states other than your home state
+ if your business has what’s known as a “
+sales tax nexus
+”, i.e., a significant connection, to states outside of your home state — see 
+here
+ and 
+here
+ for more information; and
+U.S.-based startups selling digital goods in the European Union typically have to pay the new EU VAT tax: Just because your business isn’t physically located in the EU doesn’t mean you’re not liable for this tax.
+The EU now collects this tax based on the customer’s location rather than the seller’s. That means if your American digital business sells to a customer in the UK, you have to pay VAT (
+source
+).
+To help offset some of the costs of paying state, federal, EU, and other forms of tax, be sure to research the various kinds of tax incentives (such as 
+renewable energy tax credits
+) to which your business might be entitled.
+Additionally, be sure to do your due diligence if you plan to grant stock options to your employees: doing so without complying with IRS guidelines can lead to negative tax consequences, both to the company and potentially to your employees.
+Similarly, all sales of stock to investors and founders will be subject to federal and state 
+securities laws
+. These kinds of laws can also apply to family members and friends who invest in your startup in return for equity.
+3. Co-Founder Agreements
+Setting co-founder relationships right is an advice we keep giving to 
+our startups at Appster
+.
+In a 
+recent article
+, I pointed out 5 crucial strategies for successfully forming co-founder partnerships:
+Define role responsibilities early
+ (collectively decide which tasks belong to which co-founder);
+Create and sign a founders’ agreement
+ (hammer out the specific details regarding duties, equity ownership and vesting, and intellectual property assignment);
+Agree on time commitments
+ (develop clear expectations of how much each person will contribute and when);
+Agree on an exit plan
+ (do not leave questions about what each member ultimately wants to do with the company unanswered); and
+Agree on a “we failed, now what?” plan
+ (decide early-on what it would take to conclude that the business has failed and what would have to be done in response).
+A co-founder’s agreement must contain answers to the following key questions:
+Who gets what percentage of the company? Is this subject to 
+vesting
+?
+What does each of the co-founders expect in terms of roles, responsibilities, and time commitments?
+Under which specific circumstances can a co-founder be fired?
+At what price can founders buy back a fired or retired co-founder’s shares?
+What is the process for making key business decisions? How will you resolve instances of “deadlock”?
+What is the overall vision of, and mission for, the startup from each co-founder’s perspective?
+4. Employment Law
+F
+ailing to comply with state and federal employment laws (
+1
+, 
+2
+, 
+3
+) can produce serious implications for your startup, including the possibility of criminal charges being laid against a variety of different kinds of individuals involved in your business.
+Amongst other common violations, misclassifying an employee as a contractor and failing to pay employees the minimum wage are two typical examples.
+To simplify the matter: if an individual is required to show up at your company office at a specific time and work a particular number of hours each day then that person is considered an 
+employee
+ — regardless of whether different terms (e.g., “contractor”) are used in a contract.
+See 
+here
+ for more information regarding delineating between employees and independent contractors.
+A
+nother important step to take is deciding which kinds of information — e.g., cost data, customer lists, general financial data, inventions, product specs, etc. — will be kept confidential and private.
+Furthermore, as a founder you must explicitly design a policy and implement practices around preventing harassment in the workplace.
+The very best strategy is to do everything reasonably possible to prevent harassment in the first place because once it occurs it can dramatically affect your company’s reputation and the health of your business culture.
+5. Privacy Policy and Terms of Use
+A “privacy policy” can be 
+defined
+ as a “statement that declares a firm’s or website’s policy on collecting and releasing information about a visitor.”
+TechTarget
+ provides a more helpful and extensive description, noting:
+“A privacy policy is a document that explains how an organization handles any customer, client or employee information gathered in its operations.
+A privacy page should specify any personally identifiable information that is gathered, such as name, address and credit card number, as well as other pieces of data like order history, browsing habits, uploads and downloads.
+The policy should also explain if data may be left on a user’s computer, such as cookies or if user data may be shared with or sold to third parties.”
+A “Terms of Use” Agreement sets forth the key terms and conditions that users agree to follow when using your website/app.
+In other words, it encapsulates “the contract for acceptable use of digital media as defined by the developer” (
+source
+).
+Terms of Use documents are vital because they legally establish specific arrangements between your company and your users.
+TermsFeed
+ insists that these statements can help startups prevent abuse, protect their content, preserve their right to terminate, limit their liability, and establish the location of the laws governing their operations.
+To put it bluntly, detailed and transparent privacy policies and terms of service statements are absolutely necessary for 21stcentury tech companies.
+E
+ven if the laws surrounding these two areas of privacy protection and service usage are 
+a bit unclear
+, no startup operating in today’s Internet-centred world should conduct business without explicitly telling its users what it does with their data and what users can expect from using the startup’s services.
+There are a handful of really popular services that make it easy for startups to create first-rate privacy policies and terms and conditions statements, including 
+Clerky
+, 
+Lubenda
+, and 
+Snapterms
+.
+6. Intellectual Property
+Oftentimes, a tech startup’s most viable asset is its intellectual property (IP).
+When it comes to protecting your IP, you have several options from which to choose, including:
+Patent
+ (i.e., “a limited duration property right relating to an invention, granted by the United States Patent and Trademark Office” (
+source
+));
+Copyright
+ (i.e., “a form of protection provided to the authors of ‘original works of authorship’ including literary, dramatic, musical, artistic, and certain other intellectual works” (
+source
+));
+Trademark
+ (i.e., “a word, name, symbol or device which is used in trade with goods to indicate the source of the goods and to distinguish them from the goods of others” (
+source
+));
+Trade secret
+ (i.e., “any confidential business information which provides an enterprise a competitive edge” such as Coca-Cola’s formula (
+source
+)); and
+Confidentiality agreement
+ (i.e., “[a] legal agreement between two or more parties that is used to signify that a confidential relationship exists between the parties” — otherwise known as “non-disclosure agreement” (NDA) (
+source
+)).
+Here 
+at Appster
+, we believe that patents are usually a waste of valuable resources — especially time and money — for early-stage startups.
+Typically, they’re too costly and simply unnecessary within the startup world.
+And entrepreneurs should allocate their money to executing their ideas, not needlessly protecting them at a cost of $30,000 each. 
+I wrote about
+ why patents are usually unnecessary for tech startups if you want to learn more.
+However, it 
+is 
+crucial that you:
+Trademark your brand;
+Purchase related domains (to avoid 
+“domain squatters”
+ and other parasitic individuals who will attempt to take advantage of your success); and
+Draw up and sign comprehensive confidentiality agreements with your employees and co-founders.
+A fantastic and comprehensive infographic provided by 
+startupcommons.org
+ detailing the various legal concerns arising at each of the different stages of the startup lifecycle://
+Thanks for reading!
+If you enjoyed this article, feel free to hit that clap button below 👏 to help others find it!Originally published at 
+http://www.appsterhq.com

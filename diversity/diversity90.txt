@@ -1,0 +1,16 @@
+The Importance of Addressing Diversity Early in a Company’s Life
+What does ‘diversity’ mean in a new startup and how can I pay attention to it? Is it even appropriate to prioritize diversity when you’re just trying to figure things out? Is there some magical number of employees at which diversity should start?
+These were well-intended questions we have heard repeatedly from founders over the past three years — both in the 
+Homebrew
+ portfolio and more generally. Where there are questions, there’s energy and where there’s energy, there’s opportunity for action, so we recently published a doc on 
+Diversity at Startups
+. And when I say “we” I really mean to give credit to Homebrew’s Head of Talent 
+Beth Scheer
+ and the friends from our tech community who gave her input.
+A few notes to accompany the Diversity link:
+It’s a living document
+ — a structured collection of ideas and best practices, with links wherever appropriate to the source material. We intend to continue updating based upon your feedback and new resources.
+It’s public
+ — One of our fundamental values at Homebrew is to try and grow the pie overall for early stage entrepreneurs, not just benefit our portfolio. Anything we create to support our investments we ask ourselves “why shouldn’t this be public?” The answer is often “no reason,” and so we hope to publish and collaborate on more tools, events and data that aren’t behind our paywall (a.k.a taking a termsheet from us) but are available, even owned, by the broader community.
+It matters
+ — We believe startups are built on a foundation of product, distribution, team and culture. Your company is your first product. If you’re not attentive to it, don’t expect it to be world-class. You start thinking about diversity the moment you form a company.

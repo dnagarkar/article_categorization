@@ -1,0 +1,78 @@
+Things You Need to Do Before Hiring a Designer
+Bringing any employee into an environment where they don’t have the tools or authority to succeed is unfair to them and a huge waste of your hard-earned money.The following is an excerpt from 
+You’re My Favorite Client
+, a manual for hiring and working with designers. Available now from 
+A Book Apart.Before you hire a designer, set up the situation this person needs to be effective. Bringing any employee into an unprepared environment where they don’t have the tools or authority to succeed is unfair to them and a huge waste of your hard-earned money. It also burdens the other employees who aren’t sure what to do with this new person.
+A few years ago, I made plans with a friend for breakfast. She was late. When she finally got there, she apologized, saying she’d been cleaning up for the housecleaner.
+“Why in the world would you clean up for a housecleaner?!?” I asked.
+“So she can actually clean, you idiot.”
+This made no sense to me, but I let it go. Otherwise, we would’ve argued about it for hours. About a year later, I got busy enough with work that my house looked like it could star in an episode of Hoarders, so I hired a cleaner. After a few visits, I found myself cleaning up piles and random junk so that she could get to the stuff I actually wanted her to get to.
+I called my friend and said, “I get why you had to clean up for the cleaner now.”
+“I told you you were an idiot.”
+(My friends are great.)
+The moral of this story is you can’t drop a designer into your environment and expect them to succeed. You’ve got to clearly lay out your expectations, but you also have to set the stage so your designers come in and get to the stuff you need them to do.
+Introducing a new discipline to your workplace
+Let’s assume you don’t have a designer on staff. People have been going about their business and getting their work done, and now you’re introducing a designer. Even if your employees have been 
+begging 
+you to hire a designer, this creates a challenge. People are creatures of habit and comfort. As difficult as they claimed their jobs were without a designer, having one 
+still 
+means giving up control of things. This isn’t easy. All the complaining about having to do someone else’s job is about to turn into complaining about giving their work to someone else. People are awesome.
+A designer will absolutely change what your company produces, and they’ll also affect how your company operates.
+You’ll need to adjust your workflows for this new person, as well as being open to having them adjust your workflow once they arrive.
+Before you throw someone into the mix, sit the company down and explain why you’re hiring a designer, how the company benefits, and what the designer’s role and responsibilities are. Explain how adding this skill set to your group makes everyone’s job easier. (Including possibly going home earlier!) Thank them for going without a designer for so long. Talk to them about things that they no longer need to undertake 
+because 
+of the new designer. Tell them to expect some bumps as the designer gets integrated into the fold.
+Then back your designer up when those bumps occur.
+Your designer can’t do shit without support from the person up top. If their job is to go in and change the way people work, the way the product behaves, and the way people interact with each other (all of which design 
+will 
+do), that’s gonna ruffle a few feathers. When a colleague runs into your office and says, “The designer is changing things!” a well-placed “That’s exactly what I’m paying the designer to do” sets the perfect tone. Remember, designers aren’t out there doing it for their own well-being. They’re your representative.
+As tough as introducing a designer may be, it’s infinitely easier than introducing a designer into a workplace where a bad designer has been nesting. We’re talking industrial-sized smudge sticks. I once took a job where coworkers would walk to my desk and ask me to whip up signs for their yard sales. When I informed them that wasn’t my job, they replied that the previous designer always did that stuff. I reminded them that the previous designer got fired for not meeting his deadlines. Eventually, they stopped asking. Had I been more willing to bend to their requests, we would’ve forever established that designers are the people who make yard sale signs for coworkers.
+Clear the table of any shenanigans like that before your new designer starts. Delivering this message is much easier coming from you. Don’t pass it off to the new person.
+Understanding What Designers are Responsible For
+This may sound obvious: a designer is responsible for design, right? By 
+design
+, I’m talking about not 
+just 
+how something looks, but also how it manifests the solution to the problem it solves. Remember that nice young designer who worked at a big company — the one who wasn’t invited to strategy meetings? By the time work got to him, the decisions were set down to the smallest details and all he did was execute. He wasn’t designing. He was executing on someone else’s design.
+In truth, he needed to assert himself. But this chapter is about you. Design is the solution to a problem, something you pay a professional to handle. A designer is, by definition, uniquely qualified to solve those problems; they’re trained to come up with solutions you may not even see. Your designer should champ at the bit to be involved in strategic discussions.
+Make sure to use your designer’s skill set completely. Make sure they’re involved in strategy discussions. Make sure they’re involved in solving the problem and not executing a solution that’s handed to them. Most of all, make sure they see this as part of their job. If they don’t, your design will only ever be as good as what people who 
+aren’t
+designers think up.
+Giving the Designers the Authority and Space They Need
+Just as it’s absolutely clear what authority your office manager, accountant, and engineers carry, make sure your company understands what authority your designer has. Let’s go ahead and extend the definition of authority to “things they own.” In the same way the bookkeeper owns the books and the engineer owns the code. (Yes, I get that technically 
+you 
+own it all. Work with me here.)
+Trust your designers. Give them the authority to make decisions they’re singularly qualified to make. Before you bring a designer into the company, decide what authority they have over parts of your workflow or product. Do they have the last call on user-interface decisions? Do they need to get input from other stakeholders? (Always a good idea.) Do they need 
+approval 
+from every stakeholder? (Always a political shit show. Trust me.)
+The right answer depends on the type of organization you run and the skill level of the designer. But whatever that call is, empower your designer with the maximum amount of agency to do their job well. No one tells the accountant how to do their job, but I’ve been in a hundred workplaces where people told the designer how to do theirs.
+A designer with backbone and experience won’t have any problem carving out the room they need to work, but they can’t do so if you don’t grant them the authority. Otherwise, you run the risk of bringing someone in to follow the whims of those around them. That’s not a full member of the team. That’s a glorified Xerox machine, an asset used by the rest of the company whenever they need some pixels pushed around.
+That’s how someone who’s supposed to work on your website’s UI ends up making Lost Cat flyers for Betty in HR.
+Equipping Designers With the Tools They Need
+This should go without saying, except I once spent the first two weeks at a job spinning through a draconian requisition process to get copies of Photoshop and BBEdit, which the company considered nonessential software. Someone from IT gave me a one-hour demo on how I could harness PowerPoint to do anything I needed Photoshop for. (I know I should’ve stopped him, but at some point my annoyance faded in favor of fascination at how much he’d thought this out.)
+Like any craftsperson, your designer is only as good as their tools. Make sure they have what they need. Yes, it’s fair to ask them to justify their use. No, you don’t need to understand what everything does. Trust that 
+they 
+do.
+Measuring Success
+How well you prepare your team for a designer, how well your designer gets along with everyone, and how professionally they behave means exactly jack squat if your designer doesn’t succeed in their goals. Before bringing 
+any 
+employee on board, you should know how you’ll measure their success. Will it be hard metrics? Do you expect sales or conversions on the website to increase a certain number? Is the goal to deliver a big upcoming project on time and under budget?
+Your business needs vary, so I can’t give you a magical equation for design success. But I can say:
+…whatever your success metric is, make sure your designer both knows about it and has the authority to accomplish it.
+I 
+do 
+have a story for you though. I took a contract-to-hire job once, and the creative director sat me down on my first day and told me that he wasn’t sure what to expect of me and how I’d fit in with the rest of the studio. (Someone didn’t get their house in order.) At the end of the contract period, he’d evaluate whether to keep me around. I was young and stupid, so I didn’t press much and decided to blend in as much as possible (rookie mistake). When my contract was up, the creative director called me into his office and said I hadn’t performed the way they’d expected. Which was odd, because neither of us really understood what had been expected. I felt shitty, wondering what I could’ve done better. And honestly, I’m sure the creative director felt shitty too, because he realized he hadn’t properly set expectations for success.
+So yeah. Don’t do that. It should never be a surprise to 
+anyone 
+working for you that they’re doing badly. Or doing well for that matter. Let them know what they need to do to succeed. Let them know they’re succeeding. If they’re not succeeding, help them adjust course. And finally, let them know once they’ve succeeded.
+Writing the Job Description
+The most important thing about readying for a designer is figuring out how your company or organization benefits from their involvement. What will you be able to do once they’re here? Picture yourselves a year in the future. What do you hope to accomplish? Write those things down. They’re the basis for the job description you’re about to write.
+Make a list of what you need this person to do. Not the technical skills they should have, but the needs you hope those skills will fulfill. Do you need branding? Interface design? Illustrations? Forms? What kind of business are you in? Is it editorial? Are you a retailer that needs a catalog designed? Don’t forget to take care of your mobile needs. Trust me, you have mobile needs. (Trust me, you’ve had them since yesterday.)
+The result of this exercise may look something like this: “We need a designer with mobile experience that can do branding and interface design for complex data.” The longer that list gets, the more you’ll pay for a designer, and this exercise may help you realize that you need more than one person. A capable illustrator who can build a responsive site and understands agile workflow is a rare unicorn indeed.
+Now let’s go find us some designers! 
+(Wanna know how? It’s in the book.)
+If you’d like to find out more about working with designers please pick up a copy of 
+You’re My Favorite Client
+. Available now from 
+A Book Apart.
+Title photo by Jeffrey Zeldman.

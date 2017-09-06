@@ -1,0 +1,141 @@
+My Cofounder Said “I love what we’re doing” And We Shut Down Our Startup
+It all started with a casual meeting over a meal…
+The lunch
+One beautiful Tuesday afternoon, Dmitry and I went out for a late lunch. I asked my close friend of 20 years how he was doing. Dmitry answered, “Awesome! I love what we’re doing these days!”
+It was obvious that my most sarcastic friend genuinely meant every word. Little did we know then, that 
+Dishero
+, the company we had co-founded a year and a half ago, would be shut down within the next 72 hours as a direct result of his answer. We laid off everyone that very Friday…
+Success -ish
+Let’s roll back. Dishero was founded by 
+Ilya Ginzburg
+, 
+Dmitry Fink
+ and myself with the goal to replace the paper menus and give restaurants full control over their online presence.
+Our business was seemingly working and from 30K feet — it looked great:
+We had raised a total of $2.8M (2 rounds). Most of it was still in the bank, providing us with a comfortable 18 months runway.
+We had assembled great engineering and business teams, totaling 17 people in 6 cities and 3 countries.
+We had had happy customers and revenue almost from day one. Our revenue grew continuously for 11 months in a row.
+We had recently hired a VP of Sales, who was the first VP of Sales at OpenTable, hired their first 45 salespeople and signed up their first 1,000 restaurants. An absolute bullseye for us.
+But here is the thing — 
+mediocre success is worse than failure.
+ Much worse. When things work out great — it’s obvious what to do. When things don’t work out at all — it sucks, but again, it’s clear what to do. However, there are no obvious answers when you are stuck right in the middle.
+Despite of all of the above, Dishero was still in a mediocre category: we were burning $100K/m and making $9K/m in revenue. The revenue continued to grow, but the growth was painfully slow and unpredictable.
+I could’ve continued to pretend that I can transform this into a success story, but the truth was — I couldn’t. It was time to admit the obvious: Dishero wasn’t working and it was my duty to either fix it or stop wasting investors’ money and everyone’s time.
+Our unique-ish story
+Per Anna Karenina’s principle: “All happy families are alike, while each unhappy family is unhappy in its own way.” Similarly, every failure has its unique set of factors. Below is the story of our product with the specific challenges of our industry.
+Here’s our big insight / little secret — 
+selling to restaurants is a dead end
+.
+Our customers were restaurant owners, who are:
+Always busy. If they’re available, it’s only for a few hours in-between lunch and dinner slots.
+Not answering their emails or phones (thank you, Groupon & Living Social for your marketing efforts).
+Running heavily regulated, low margin businesses, with low wage employees and high personnel turnover.
+Cutthroat competitors. Wouldn’t refer a new client to Dishero, even if they were happy with our service.
+Majority of them are not business, marketing or finance people. They just have the best 
+borscht
+ in town.
+Tired of the SF startup scene, as too many stories go like this: an engineer walks into a bar, orders lunch and figures out how to improve the dining experience with a brilliant new app. Local restaurants have heard every story under the sun by now. And if subscribed to someone’s vision, often found the startup failed within a year wasting precious time. There is a graveyard of food-tech startups here.
+Restaurant business is hard
+It is. Here is one example: The owner of an SF staple steakhouse — Epic on Embarcadero — was a friend of our company. He’s been running a profitable restaurant for many decades, was president of the Golden Gate Restaurant Association and is considered to be an uber successful restauranteur.
+In one of our meetings, he told me that one of his problems was that he didn’t know how much meat to buy. I wondered, how come, after 40 years of running the place, he doesn’t have a spreadsheet estimating how many people show up on a Tuesday night.
+Turns out, the number of diners often depends on the Giants’ performance. If the Giants win at the nearby AT&T Park, people come to Epic to celebrate, if they lose — people just go home. If one could predict the outcome of a Giants’ game, they’d be in a different line of business.
+This example is obviously not applicable to every restaurant. However, it’s representative of the countless meetings I had with our customers. Running a restaurant is hard for a host of reasons that I could’ve never imagined.
+Dishero might’ve had a good set of products, but not good enough to overcome these industry challenges. A year of iterations failed to nail a 
+must-have
+ product. No sales or growth hacking tactics could have ever changed that. Nor would the size or color of our Call-To-Action button.
+Near the end
+In July 2015, we assembled the executive team to discuss the situation at hand: that despite having a growing revenue, we were a 
+zombie startup
+. We had 18 months of runway, but weren’t on a path to either become profitable or be in a position to raise the next round.
+We brainstormed for weeks, produced dozens of new ideas and looked deeper into a few. We built many models, but no amount of knobs tweaking showed a path toward a venture scale business that was worth pursuing.
+Back to the lunch
+And that brings me back to my lunch with Dmitry in late July. His response to my mundane question started the difficult conversation.
+So what was he happy about? Dmitry was excited about the fact the ideation process had finally led us to discuss a more drastic change to our core products. The models we had considered effectively meant pivoting within our space. However, the more I thought about it, the more I realized this particular course of action made little sense in our current setup.
+Here is how I saw it:
+Option A:
+ Continue to iterate. Slow death was inevitable.
+Option B:
+ Pivot within our industry. After all, we have a strong team and paying customers — we’re perfectly setup to do it. In reality, it’ll take us months to achieve meaningful results and with our burn-rate, combined with the industry challenges — it’s a marginally criminal path forward.
+Option C:
+ Stop (pivoting outside of our industry essentially meant the same, as our business team was cherry-picked for the restaurant space).
+By the end of that lunch, Dmitry agreed that those were our only 3 options and that A and B weren’t the right ones.
+Investor time
+Back at the office, I wrote down my thoughts and sent them to 
+Manu Kumar
+ from 
+K9 Ventures
+, our lead investor and a board member, asking for an urgent call.
+Here is the original email to Manu (in Europe that week):
+Manu, hi
+Please see 
+attached
+ quick summary of the current Dishero situation and my view of the options for the next steps. Thought sharing this framework with you prior to our convo would make it more efficient. Would love to get your perspective on this when we chat in the morning (your evening).
+Thank you,
+Alex
+Manu’s response, an hour later:
+Alex,
+Thank you for a well thought out and thorough summary. You answered all the questions I may have had when reviewing it. The % of burn, cash position, and monthly spend breakdown is very helpful.
+Here is my quick, and to the point/very direct take on things:
+Option A/B: If you’re going to do anything within the restaurant industry, IMHO it would have to be done in such a way that the restaurants come to you and you don’t have to go and sell to them. Otherwise the cost of customer acquisition with a sales team ends up being way too high, slow to scale, and just painful. I would encourage you and your exec team to sit together and brainstorm more about this. You guys have been selling to restaurants long enough now that you should be able to identify pain points. I would start there. Make a list of what are the things that are a pain point for restaurant owners and prioritize them by how much would they be willing to spend to solve those pain points. This is probably a 1/2 day exercise with another 1/2 day discussion the next day after people have had time to sleep on it.
+Option C: Honestly after everything I’ve learned from working with you and Dishero, the restaurant industry just doesn’t feel very attractive. What you do have is an awesome team and so pivoting outside the restaurant industry is an option. This is kind of what was in the back of my head when I emailed you yesterday about <redacted> being able to target a broader segment than just restaurants.
+It sounds like whatever option you choose, the main lesson here is that doing door to door sales to restaurants is not scalable/fun. Being brutally rational, the sales team is your biggest cost center and it’s the part that doesn’t work for the business. This isn’t saying that they’re not performing, or that they aren’t good people — they are. But the reality is that if there’s one thing we could magically fix, it is being able to sell without a sales team.
+That leads to two options:
+1) If you’re going to retain the sales/marketing team, you have to come up with a product that’s priced high enough to be able to provide a much higher leverage to the bottomline.
+2) You can cut (I know this is hard) the sales/marketing team, go back down to three founders + engineering and think about what the pivot needs to be.
+Let’s talk on the phone later today. I need to run at the moment.
+Regards,
+-Manu
+Wednesday
+In the morning, Manu and I discussed our earlier correspondence and agreed to connect again later today.
+I spent the entire day with Ilya and Dmitry digesting our options. It was clear to us that options A and B weren’t good ones and there was no option D. We went home that night to sleep on the implications of option C — kill the company that our team worked so hard to build for the past 1.5 years.
+Another call with Manu in the evening and everyone was on board.
+The decision was made.
+The end
+Thursday morning we started working on packages, legal and HR issues. I called the other investors to update them on recent developments. Everyone supported our decision. I also shared the news with some of my friends. Here is Jan Koum’s reply after reading my email to Manu:
+just read it twice. it looks good — send to <redacted>. i think option C is the best one — $1.8M is a lot of money to still do and accomplish a lot with!
+any ideas on what the next big thing is? i am happy to talk and brainstorm when I get back (August 16th)
+— jan
+Thursday was an exhaustingly long day. Friday turned out to be an even longer day: we laid off everyone, those who gave their talent, time and spirit to Dishero. Building Dishero with them was the most rewarding and humbling experience for me. I am forever grateful to them for that.
+I have an 11-page write up about these two days. I will need to clean it up before making it public.
+UPDATE: Published at 
+“How to Shut Down a Startup in 36 Hours”
+.
+Epilogue
+Investors told us to keep the remaining funds, which eventually led to the birth of 
+Bugsee
+. I will cover this, post-mortem and the specific lessons I learned in the next blog post.
+UPDATE: Published at “
+A Post about Post-Post-Mortem
+”.
+UPDATE 2: Last chapter was published at 
+“The Deciding Deep Dive”
+For now, I will leave you with this:
+Every day we deal with equally important, yet conflicting pieces of advice. For instance, 
+early bird gets the worm
+, yet 
+second mouse gets the cheese
+. For a startup CEO, the choice is always between 
+don’t give up
+ and 
+fail fast
+.
+How do you decide? Well, if you 
+didn’t give up 
+for a really long time, and you’re still not there, maybe it’s time to 
+fail fast. 
+Really fast
+. 
+Running a slowly dying business into the ground is worse. Much worse.
+Please check out 
+Bugsee
+ explainer videos for 
+iOS and Android
+ and 
+Web
+, or our 
+Demo
+. Bugsee is also on 
+Facebook
+ and 
+Twitter
+.

@@ -1,0 +1,118 @@
+Growth and Traction for Fundraising.
+Thanks to our Experts in Residence 
+Scott Sage
+ and 
+Keith Wallington
+, and 
+Jeff Lynn
+, CEO of 
+Seedrs
+ for key contributions to this post.
+As an early-stage startup trying to fundraise, you’ll likely have to tell a version of your company’s story that demonstrates high likelihood of growth to attract an investor. Which are the stories that are most commonly used during the early stages of a business, and which ones later on?
+In this post, we’ll cover the various forms of ‘validation & traction’ that you can potentially leverage in conversations with potential future investors as well as to create internal benchmarks for you and your team.
+If we look back at this topic as a form of storytelling, below are the ’stories’ I hear the most (alone or multiple at once):
+Look at my amazing team — effectively, whilst we haven’t yet produced anything, we have gathered experts that will likely generate something great.
+Look at my amazing product in an amazing market — the traditional point of fundraising, where you’ve identified a meaningful enough market and have embarked on creating a product and are fundraising to hit product-market-fit.
+Look at my amazing investors (past, or about to invest, and are committed in the round).
+Look at my amazing growth (non-monetized) — typical of social networks.
+Look at my amazing growth (monetized) — pretty much every other type of business that isn’t included in #4 above.
+In previous blog posts, I’ve covered what makes an amazing team and how 
+investors evaluate a team
+, what Tier an investor is in and how other investors might judge who is in your round. In this one, I want to focus on 4 and 5 of the list above. Basically, understanding when you have any kind of traction and what constitutes ‘impressive’ for the average investor.
+One way of trying to benchmark what is ‘impressive’ is by looking at some companies that are generally considered to have done extremely well. In this Quora 
+post
+, we can see a few of the companies often referred to as ‘impressive’:
+Weekly Revenue Growth
+AirBnB: 17.25%
+Facebook: 21.5% (for more detail check out this 
+post
+)
+Groupon: 25.1%
+However, as impressive as they are, these numbers don’t show the entire story. They hide various operational and industry dynamics that are only possible in the sectors in which those companies operate. For example, the 
+cost of acquisition
+ and the sales cycle for each of these businesses might be drastically different than yours. Looking at these figures as a 1:1 to what you have to achieve might create an insecurity complex and frustrating unit economics. Effectively, you can’t compare oranges with apples. They’re impressive for sure, but are they applicable to your company and is it realistic for you to sustain those kinds of numbers in the long term?
+Whilst the above point might seem self-evident for extreme cases, I’m always surprised by what I hear some founders receive as feedback from investors when being compared to idealized growth cases.
+Let’s kick things off with the easiest form of growth to talk about, user-growth in any kind of network effect business where monetization is not the immediate short-term goal. The most typical example will be social networks.
+These kinds of companies are the ones that are the most referenced to when looking for ridiculous growth rates. Facebook and Twitter in their early days are good examples. However, before we get into what kind of week-on-week growth is impressive, let’s tackle one very big point that makes any growth meaningful.
+If the business’s successful growth allows it to have lock-in effect, then a non-monetized growth strategy early-on makes sense as a way to monopolize the customer-base and once locked-in, monetization strategies can be considered without fearing user-growth-rate loss and churn to competitors and/or substitutes.
+Not all businesses that embark on a non-monetized high user-growth rate strategy truly have lock-in capabilities so it is not unusual to have these be the ones most investors are less interested in. If there is any risk that you might fall into this category, start thinking about what could make your user-growth rate create a lock-in that no competitor could make you lose.
+For these kinds of businesses where user growth rates are what is being used as a proxy for future revenue, a 6–10% week-on-week growth rate will be considered as impressive. Above 10% week-on-week would be considered as boss-level growth, as can be seen from Facebook or other companies mentioned in the Quora post above. Only a few companies frequently achieve these levels. Other impressive growth rates from companies falling into this category can be seen 
+here
+.
+Once a company decides it needs to be charging early-on because its product doesn’t have a network effect built-in (or where there are plenty of substitutes in their market), one can expect the company to be measured by a different set of growth rate standards. Although there are always exceptions, once money is involved, things get more complicated.
+There are several factors that can generate a different set of growth rates, with the main ones being:
+Sales cycles
+Marketplace balancing
+Operational capacity building
+Sales cycles can vary greatly from business-to-business and can serve as a proxy for sales growth until you actually materialize sales. If you want a quick brief on sales cycles, this 
+link
+ will walk you through the basics.
+Comparing growth rates of monetized companies becomes complicated because not all of them have the same sales cycles. We’re back to our orange to apple comparison dilemma. Some might have a heftier cost of customer acquisition but can sell immediately (such as software download), while others might require a subscription once someone deems the relationship with the service worthwhile (such as dating sites) but might be able to leverage virality effects intrinsic to their sector or customers’ needs/desires to lower their cost of acquisition. Life isn’t fair, but let’s try and see how we can compare businesses in these categories.
+Let’s first start by looking at companies that have a long sales cycle. These companies might have interactions with their customers via newsletters, social media, click-throughs etc. but can have frustratingly low month-on-month growth rates on conversion. For those, a good starting point as a proxy for growth is to have engaging discussions really early on about the value you bring to your customers so you can use it as a proxy to the actual (and hopefully, eventual) conversion point. Try and find correlations between behavior and interactions with your product as a precursor to conversion between marketing initiatives (content marketing reads, etc.). This isn’t easy or pretty, but having nothing to speak about on why your early customer might care is likely unacceptable. This also helps to think about what kind of ‘features’ you can build into your product that can signal the intent of conversion in the future. For example, does adding things into a wish list you’ve created for customers increase conversion once key dates in the year come around (holidays or birthday).
+As a software company, you should not get caught in the sales funnel trap. Too many startups equate growth to how many deal leads are being added to the sales funnel every week. Adding X% new business to your pipeline every week is great, but if the output — closed deals — is close to nil and not growing, you have a serious problem. If you and your team are able to convert your top of the funnel demand into an efficient sales process and close deals, well done. But if you’re like most startups, you will have inexperienced people adding every possible deal lead in the world into the sales pipeline without knowing 1) how to qualify those deals or 2) whether they even fit what a typical buyer looks like.
+So, how should we think about traction from the standpoint of a software startup and their sales cycle? One important note to make is that the range of pricing varies greatly. A startup selling $100k enterprise deals will have a longer and more complicated sales cycle than a startup selling a $5k deal that may not require the board’s or your CFO’s sign-off. Investors want to see consistency in your sales execution. If you were able to close nine deals in the first quarter of focusing on sales, then they will want to see at least nine deals in the next quarter. The more deals your team closes, the better they get at qualifying opportunities, pushing the sale through, and understanding where various customers receive the most value from your product. Once you have a good idea of what your sales cycle looks like, then you should be able to shorten the cycle and in theory, close more deals faster with the same team.
+At a high level for SaaS businesses, investors want to see an absolute minimum of 100% growth year-over-year. Assuming your sales and marketing team and costs stay the same from one year to the next, investors will expect you to retain a very high proportion of customers from the first year (let’s assume for simplicity you’re able to keep 100% of the revenue from year one’s customers by retaining 90% and up-sell another 10%). Then with the same team, you should be able to acquire the same number of customers with roughly the same size of contracts. So Y1’s recurring bookings + Y2’s new bookings = 2x Y1’s first year’s bookings.
+Aside from Sales Cycles, there are other limitations that can create an artificial restriction on growth rates in early-stage companies, which make it unfair to compare companies like for like. Two examples include marketplace supply and demand balance, and operational limitations, which when optimized, lead to increased demand.
+Various successful marketplaces have used a number of strategies to capture a market and grow, but all share a common pattern, which was to start from the supply.
+Shutterstock, Founded 2003
+Started from the supply side by uploading 100,000 pictures on the website before sourcing buyers
+Opened up the platform to the contributors globally as demand was growing
+2013–2014 year-over-year growth of 39.3% and 39%, respectively
+IPO 2013
+Airbnb, Founded 2008
+Started from the supply side by offering users who listed properties on Airbnb the opportunity to post on Craigslist as well
+Year-on-year supply side growth/listing growth: +140% (2011–2012); +150% (2012–2013); +83% (2013–2014)
+Funding growth: $7,2k (2010); $112k (2011); $200k (2012); $450k (2014)
+Etsy, Founded 2005
+Started from the supply using an offline strategy: attracted sellers by attending arts and craft shows across the US and Canada every weekend — leveraged social movement, feminist blogger who were using craft as a rejection of mass-produced culture
+2015 IPO
+Growth metrics:
+32% of the seller who were active in 2011 are still actively selling
+GSM contribution per buyer type:
+Quibb, Founded 2013
+Started with the supply side by having coffees with potential users for an hour each day
+Targeted startup founders and other tech people to have valuable feedback
+Spent ~100 total hours acquiring 40 initial members during a 3 to 4-week period
+Key Lessons:
+Grow supply first
+Find the appropriate growth hack for your business to grow it quickly and make a market possible
+Ensure transactions take place by validating demand (product features, build trust, ease of use, transparency etc.)
+Supply base can also become customers (i.e. photographer buyer and seller) => onboarding a customer on Airbnb means those customers can be hosts as well
+KPIs:
+Gross Marketplace Volume (GMV) / aka Total Transaction Value (TTV)
+: what is the total dollar amount being transacted through the marketplace?
+Commission / take-rate:
+ should increase over time once the demand side starts growing and merchants become more reliant on the marketplace for their sales
+Unit economics:
+ a granular view of revenues and costs of a single transaction
+Basket size
+: value of each transaction
+Repeated purchase rate
+: repeat customers
+Demand fulfillment rate
+: what percentage of the time can your marketplace deliver on its promise to consumers? — correlated with consumer net promoter score (NPS)
+What investors look for in online marketplace businesses: growth metrics
+Supply
+Double-digit growth on the supply side (product, merchants, workers) and some bookings and retention on the demand side
+How quickly you can grow the supply
+How capital efficient can you grow the supply
+Frequent site/app visit and transactions are the best performing cohorts
+Demand
+Only when supply has been sufficiently grown
+Only switch to on demand when it becomes purely organic (supply has reached critical level)
+Focus on early adopters to kick start the demand as these are the people who will see the value, after this it’s a matter of how you’ll get the early majority on board and how you create the brand
+Summary Table for how to think of where your company’s economic opportunities are
+So, we’ve covered quite a bit of ground on user growth rates, sales cycles, marketplaces and the like, but how about for businesses where there might need to be some stockpiling of inventory first before going out to the market, or perhaps R&D and progress therein, before being able to announce/launch a product, or how about ones that are just getting better and better in their internal processes and waiting for the next inflection point in demand to really scale up after a fund raise?
+For now, let’s focus on the optimization of production costs that are already existing in order to better demonstrate your company’s growth in preparation for a fundraising.
+Optimizing production costs leads to unlocking the ability to service more customers and, therefore, to grow faster. Until fully optimized, you will be limited not by user interest, but rather by operational limitations. Week-on-week or month-on-month growth could, therefore, be pegged to operational improvements.
+A number of operational blockades will need to be overcome throughout the customer journey:
+Demand Generation
+Can start manually going through a human collection of leads such as contact details etc. and is appropriate for early-stage customer validation. The process must be automated or other lead sources secured to ensure marketing can deliver a growing volume of appropriate leads into the customer acquisition funnel.
+Physical Sales
+Might be limited by the number of meetings each sales person can schedule and attend in a week/month- solution: study the sales funnel and automate where you can, improve use of CRM, evolve marketing lead qualifications and nurturing processes to deliver better-qualified leads to sales such that the customer is more progressed towards a purchase by the time they are handed to sales. Adding more sales people without optimizing these other pieces will likely see CAC not improving as the business grows
+Onboarding and Support
+Manually onboarding and supporting customers is ok in early customer validation phase but must be automated to the maximum appropriate degree without destroying customer experience to avoid a bottleneck. Often an automated onboarding and support experience (with good monitoring, alerting and access to help) can improve customer experience as they can work at their own pace and not need to fit into a schedule
+Impact on Customer
+Process innovation by reducing issues internally and unlocking a new rate of growth. Marketplace growth requires balanced growth and should result in week-on-week growth.
+In conclusion, there are many variables that can be used to determine a company’s growth and traction ‘by proxy’. In a recent chat with Jeff Lynn, founder of Seedrs, he said “the appropriate unit of time to measure a business’s growth varies from company to company. One of the things we’ve found with Seedrs is that month-on-month growth rates aren’t particularly helpful because we’re too spiky in terms of monthly transaction levels. When we look at month-on-month, one month we’re over the moon because we’ve grown 200% over the previous month, and then the next month we’re in despair because we’ve shrunk by 50%. We’ve now moved to measuring everything on a quarter-by-quarter basis — even that isn’t perfect, and our real cadence is more like six months, but we’ve had to balance that against the need to iterate and adapt quickly enough (although in our Series A fundraising materials, we should everything on a six-monthly basis, and it worked just fine).”
+Hopefully, this post has given you a new way of looking at some potential ways for you to start tracking growth in your company to create a more compelling case for future investors.

@@ -1,0 +1,110 @@
+The Recruiter Plague: How Recruiters Have Broken Tech HiringTo all the recruiters reading this, I’m sorry. I’m sure you’re a fantastic human being. Please don’t take this personally. It’s not aimed at people, but at the role of recruiters in the tech industry: 
+Recruiters suck.
+The Recruiter-Candidate Relationship
+I’m going to do something that a lot of people will think is complaining about a good thing, or even the dreaded humble brag, but it needs to happen. I feel like people don’t talk about this enough for fear of being criticized.
+That’s stupid. People should feel free to talk about real problems without getting bombarded by hate.
+Before you say something hateful, make a conscious effort to try some empathy, instead.
+I’m far from alone, and people in this position deserve empathy as much as anybody else does.
+Early in my career, I was a bit flattered that recruiters were interested in me. I took it as a source of pride. It made me feel good knowing that if I ever needed a job, I could just dip into my recent emails and get an interview quickly. Eventually, I realized — they do this to everybody. It’s not a complement. It’s a search algorithm. It has nothing to do with me.
+As my career progressed, the problem grew, and grew… and then it got ugly.
+Recruiters don’t care about you. They’re incentivized to send lots of referrals and see what sticks. They won’t dig deep into your GitHub profile, your blog, your OSS projects, your talks, your books, or your prime areas of interest and expertise. They won’t ask you about your long term goals, or your dream job.
+They have a list of clients looking for a particular list of buzzwords, and they’re looking for developers who might have a chance of getting to an interview, using the absolute minimum effort they can expend to find them.
+In the meantime, there are hundreds of thousands of open positions for developers — many of which have multiple recruiters working on them.
+If you know anything about math, you can see how this creates a problem for developers. Once a developer has built up a track record and any kind of following (blogs, books, conferences, Twitter, etc…), recruiters zoom in on that social proof. They know that those candidates will be hot prospects, and that they’ll earn more money for referring them than they could referring junior developers.
+This means that LinkedIn gradually becomes a useless social network for senior developers. It’s flooded with recruiters promising the perfect fit at the coolest company in the coolest space — maybe one in a thousand actually delivers on those promises. For me, LinkedIn is a glorified resume, not a social network. I ignore all of its messaging features.
+Any type of public contact email address becomes useless — flooded by the same kind of spam. I’ve declared email bankruptcy and retired several email addresses permanently. If you exchange emails with any human being, somehow, hundreds of recruiters discover the email (I suspect LinkedIn has something to do with this). Now I do zero human communication with email.
+Has your phone number ever been listed? Beware. I’ve turned my ringer and notifications off permanently. Nobody can call me unless it’s scheduled first, because I won’t hear or see the call coming in.
+I’ve changed my phone number several times, but that didn’t work. I still get several recruiter phone calls every day, even though 
+I never, ever answer recruiter calls
+. Recruiters have even harassed my relatives.
+It’s difficult to overstate how much this sucks.
+This constant harassment by thousands of recruiters is a very real problem for a lot of developers — especially those with a high public profile, but this started happening to me long before I wrote my first book or gave my first talk.
+The harassment gets so bad, it’s like having 1,000 stalkers. It’s borderline criminal, and many recruiting companies put you in a database and continue to harass you for years, no matter how many times you ask them to remove you from their list.
+Maybe it won’t ever get this extreme for most developers, but no matter how you position yourself in your career, at some point, you’re going to start to see recruiters as more of a public nuisance than a helping hand.
+Dear recruiters,
+Please, please, please — just stop.
+~ Every Senior Dev
+The Recruiter-Company Relationship
+Recruiters suck for hiring companies, too. They’re not trained to perform a decent screen. They spot keywords on resumes, and if they see matches, they reach out and try to line up an interview, flooding companies with prospects who couldn’t code up an app if their life depended on it.
+This wastes an enormous amount of company time. Recruiters charge companies 20–25% per hired employee for the privilege. To save money on fees, companies frequently hire in-house recruiters.
+You know what I’d do if I were an in-house recruiter? I’d act more like a tech evangelist (content and speaking), form relationships with a few good tech agents, set up interviews with tech leads, and get out of the way.
+Tech Agents: Hiring Nirvana
+Chances are you’ve never heard of a tech agent. The easiest way to explain what they do is to compare them to recruiters:
+Recruiters:
+Work for the hiring company.
+Get paid by the hiring company.
+Cold contact hundreds or thousands of developers looking for a match.
+Have no deep understanding of any particular candidate’s skills or goals.
+Usually have only a basic, keyword-driven, rudimentary understanding of the tech and position they’re recruiting for. Frequently confuse Java and JavaScript.
+Usually have no idea what an agent is.
+Tech Agents:
+Work for the candidate.
+Get paid by the candidate.
+Candidates seek them out, not the other way around, which means that the candidates are actively looking to advance their careers, and much more likely to take a good offer.
+Work with a relatively small number of developers, and get to know the developer’s skills and career goals very well.
+Form long-lasting relationships with the best hiring managers at the best companies. Ask meaningful questions about the positions to find the best match.
+Employ tech consultants to help them understand the needs of both clients and the companies searching for talent.
+Hate being confused with recruiters, because recruiters are seen as a 
+necessary evil
+ by both the talent and the companies that hire the talent.
+Tech Agents Are Better for Hiring Companies
+Better at listening to your needs.
+Refer better candidates. All reputable agents work with the best talent, and 
+pre-screen their clients
+ with the best tech advisors in the business.
+Always refer hot prospects — never random people who may or may not be genuinely interested in a new job.
+Don’t charge the hiring company.
+Tech Agents Are Better for Talent
+Tech agents work for you — they have your best interest at heart.
+Get to know you well — from the tech pre-screen, to your long-term career goals, and your dream job. Agents can become valuable career counselors, guiding you toward your goals.
+Instead of cramming whatever they have available down your throat, they actively seek the best possible match for you.
+Provide much better referrals through established relationships.
+Negotiate for you and land better deals, leveraging their social proof and preexisting relationships.
+Can negotiate all kinds of deals and establish side-stream revenues. Want to speak at conferences? Travel the world? Work remote? Work contract gigs? Write a book? No problem.
+Fight recruiter spam for you & act like a recruiter bouncer, so you’re bothered by fewer lame offers that don’t align with your career goals.
+Tech agents pay for themselves.
+Typically, an agent will take a percentage of the deal they negotiate for you, billed to you 
+after you’ve been hired and paid
+ by the employer.
+Because they establish good relationships, conduct great pre-screens, and an excellent reputation for referring only the best, a referral from a tech agent is a point of social proof that’s worth much more than a referral from a recruiter. This puts you in a much stronger position to land better offers.
+Agents are professional negotiators. It’s what they do for a living every day. They negotiate with people who know and trust them, and they lend a tremendous amount of social proof to your resume. Because of those factors, they can negotiate deals worth tens of thousands more than most developers could negotiate on their own.
+What It’s Like With an Agent
+I started working with an agent a few years ago, and it has transformed my life. She finds amazing deals and opportunities for me. I’ve traveled around the world, spoken at great conferences, created workshops, landed great contracts with amazing companies, written tech articles for top industry publications, etc… With her input, my hourly rate has doubled.
+I’m convinced that my agent, 
+JS_Cheerleader
+ is the best in the business. She has a background in the entertainment industry, and her networking skills are second-to-none. She has introduced me to actual rock stars (the guitar playing kind) and arranged magical gatherings of some of the most amazing people working in the tech business.
+Could I do some of this myself? Maybe. Do I have the time or the connections to do all of it myself? Not even close. All of the most incredible professional experiences I’ve had in the past few years are the direct result of the hard work of my agent.
+I have some particular needs. I prefer to work remotely, keep my own hours, and I like to spend my time doing things I love most. My agent finds the right opportunities for me, handles the negotiations and makes all of that possible.
+It’s Not Easy to Find an Agent
+Tech agents are a fairly new idea. There are only a few good tech agencies out there. All of the tech agents I’ve heard of started off in the entertainment industry, spotted the similarities and the need for agents in tech, and blazed new trails.
+Most techies have never worked with an agent before. We need a lot more education on both the hiring and talent sides to teach the tech industry about how agents can help us solve our most pressing talent problems.
+The best agents attract a lot of people looking for an agent, but they maintain a very short list of clients. We need a lot more agents in the business in order for tech agents to be a viable solution to everybody’s problems, but I’m hopeful.Are you a senior JavaScript developer?
+Want to write your own ticket?
+Contact 
+JS_Cheerleader
+.
+Are you hiring senior JavaScript engineers?
+JS_Cheerleader
+ can introduce you to the best pre-screened talent in the business.Eric Elliott
+ is the author of 
+“Programming JavaScript Applications”
+ (O’Reilly), and 
+“Learn JavaScript with Eric Elliott”
+. He has contributed to software experiences for 
+Adobe Systems
+, 
+Zumba Fitness
+, 
+The Wall Street Journal
+, 
+ESPN
+, 
+BBC
+, and top recording artists including 
+Usher
+, 
+Frank Ocean
+, 
+Metallica
+, and many more.
+He spends most of his time in the San Francisco Bay Area with the most beautiful woman in the world.

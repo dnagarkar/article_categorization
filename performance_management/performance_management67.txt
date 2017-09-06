@@ -1,0 +1,33 @@
+12 Major Features of Automated Performance Management Systems
+When you choose a Performance Management System, you look for 
+benefits
+ like time saving, easy decision making, and streamline of work flow.
+The above benefits are possible when performance management systems contain functionality related to taking inputs to display reports.
+Functionalities supported by Automated Performance Management Systems:
+Conduct and capture performance inputs.
+A system capable to take inputs as per Performance Management needs. Ratings, subjective descriptions, record narratives.
+UI for displaying goals, performance standard, rating process
+User Interface which clearly shows performance objectives, parameters for measuring performance, rating scales. A system which supports multiple browsers and is mobile-screen compatible.
+Detailed Self-help and quick guide pages
+Every employee is participant in Performance Review process. As users of performance management system, employees should be able to navigate without any guidance and get support when needed.
+Inputs from employees, reviewee, reviewer, moderator on accomplishments
+System allows compilation of data from different participants in the review process.
+Workflow management, sending documents across, access to forms as needed.
+Online documents are routed to different participants at different stages of review cycle.
+Data security and access permission.
+Employee details, compensation data is secured from security hacks. Every user has specific access.
+Allows real time feedback and training
+Process which allows real time feedback. Automated systems allow easy feedback giving mechanism, converts on the floor feedback to real time feedback.
+Automated reports
+Automatic reports are created on Employee Performance, training and development. With every cycle of performance reviews, with hundreds of data record collected, automated reports are created.
+Providing managers with sample behavioral statements
+Providing reviewers with numerical/subjective rating scales, which helps to explain employee performance and behavior more appropriately. Also allows comment areas which helps managers to customise comments about performance and behavior.
+Providing automated development
+On analysis basis, weak spots and gaps are identified and training programs are recommended. Organization wise weak points are evaluated. Employees can enter development details, evaluate progress of development plans.
+Automated training recommendations are generated based on lowest scores on competency across departments.
+Facilitating HR decision-making.
+HR can make better decisions, based on detailed analysis and reports. Compensation modelling in automated systems helps to connect salary to performances of employees. Reduces time in decision making as budget setting, final increments are decided automatically.Help managers inflate rating.
+Help managers inflate rating
+Performance Management Systems help to remove manager rating biases. Some managers may be easy raters, some may be difficult ones. Normalisation helps to remove rating biases.
+This was originally posted in 
+GroSum Blog

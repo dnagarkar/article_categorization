@@ -1,0 +1,107 @@
+Diversity in Tech FAQ v0.1
+Photo courtesy wocintechchat.com
+For the past two days, I have watched friends and acquaintances debate the merits of diversity in tech with ill-informed folks on social media. This stems from an ignorant set of remarks about 
+Facebook’s inability to attract talent from backgrounds underrepresented in tech
+, essentially blaming it on “the pipeline issue,” one of the laziest analyses of this sector’s lack of diversity.
+So, for the people who are working on this issue and are tired of repeatedly rehashing the defense, I have assembled an FAQ, to use the term loosely. These are some of the typical arguments lodged against diversity efforts, followed by responses. Copy and paste, refer people to it, use this information as a guide. 
+Most of all, help improve it
+.
+How can we diversify when the pipeline is so small?
+The pipeline is wide compared to the yield. For example, each year in U.S. universities alone, 
+13–15% of computer science grads
+ are Black and/or 
+Latinx
+. If the tech sector is only between 3–5% Black and/or Latinx, we are losing significant numbers of people every year. Where are they going?
+Many are going to big companies with clearer career paths, not to the innovation economy where these things are often ill-defined.
+Some people are unwilling to come to or stay in the Bay Area, knowing the steady decline in the number of people of color we are able to retain in our neighborhoods. 
+San Francisco in particular
+ does not signal to Black candidates that this is a place for them.
+People inclined to come into tech are dipping their toes in and deciding to leave before ever actually arriving. The anecdotal evidence is overwhelming that this is not a welcoming place. In the case of women of color in STEM fields overall, 
+100% report experiencing gender bias
+. If you were told that 100% of people like you face bias in a field, how inclined would you be to give it a shot?
+In short, “the pipeline is too small” is the industry’s worn-out excuse for companies whose diversity efforts fail. The truth is we are here, we are 
+tired of being invisible
+, and we are building pathways for more of us to get inside.
+How can we hire the best if we’re lowering the bar by focusing on diversity?
+Based on the “bar-lowering” logic of the questioner, tech companies currently — and miraculously — find all of the “best and brightest.” And yet, 
+demographics in tech bear little resemblance to the makeup of the US
+, and even less resemblance to the Bay Area.
+When we talk about seeking diversity, we are talking about hiring people who (a) meet the requirements of a job and (b) have not had access to tech jobs or are over-looked in current tech recruiting. There is no salient argument for loosening skill-based requirements in hiring. Being lax on qualifications does no one favors, especially the person being hired. What is more important to understand is the fact that hiring in most companies is a painfully inexact science, bolstered more by “culture fit” than any objective measure of skill-based excellence.
+“Did you like the candidate?” a recruiter asks an engineering manager.
+“His code was good, but I don’t think he is someone I’d like to grab a beer with. Pass.”
+Are you hiring him to drink beer with you? Is that in the job description? If not, strike this analysis from the record. “Drinking beer” or any other similar non sequitur is a craven shortcut for “not like me.” So, on measures unrelated to the job at hand, people from underrepresented backgrounds are at a significant disadvantage in hiring.
+(For the sake of research, I checked several large job boards in the U.S. for jobs with “drink beer” in the job description. I found one, 
+at a brewing company
+.)
+Equally important in measuring “excellence” is the fact that 
+technical interviews are notoriously broken
+. This is perhaps one of the worst-kept secrets in tech. Technical interviews are lauded as great equalizers when in reality they are anything but: Steeped in bias, technical interviews reek of hazing and overwhelmingly favor those with dominant cultural context.
+Google, the pioneer in ridiculous interview questions, 
+recently lobbed this at an intern candidate
+:
+Estimate the number of tennis balls that can fit into a plane.
+This question assumes that
+The candidate is familiar enough with a tennis ball that they can estimate its volume;
+The candidate has been on a plane enough times that they can estimate volume; and
+The job will require volume calculation on some regular basis.
+If the candidate is missing knowledge about (1) or (2), they are already at a loss. “But who doesn’t know how big a tennis ball is? Who has never been on an airplane?” a hiring manager might ask. Answer: A hell of a lot of people. Does the candidate say “I’m sorry, I have never really held a tennis ball.” or “I have never been inside a plane?” For the dreaded fear of 
+impostor syndrome
+, they definitely don’t.
+So despite getting excellent math grades and being comfortable calculating volume, this candidate is stuck, based wholly on the cultural assumptions of the question. This has nothing to do with their mathematical prowess nor does it determine their ability to succeed in the position. Using this “methodology,” our industry discards so much talent at the doorstep of our biased hiring processes.
+Those who say that they only want “the best” must examine their definition of “best.” Best at what, and as measured by whom? “Best” is a subjective description, as measured by a singular viewpoint steeped in a specific world view.
+“Lowering the bar” is a red herring: Armed with no concrete definition of excellence and bias-laden interview processes, tech companies lay waste to the type of talent that could bring sorely-needed innovation.
+Why can’t we get candidates from underrepresented backgrounds to apply for our job listings?
+This is like saying “I wanted to invite you to dinner last night but I didn’t have your number. Sorry you missed a great party. Why didn’t you come?”
+Every company must do the hard work to 
+go out
+ and find the talent, wherever it may be. A company that assumes everyone knows how to find them, their job listings, or that the brand “speaks for itself” is delusional. Through traditional methods like 
+job boards
+ and 
+conferences targeting people from underrepresented backgrounds
+, to showing up at 
+interesting and innovative events
+ where diverse tech talent gathers, companies must do the legwork to demonstrate commitment and build a network.
+Simply showing up is not a magic elixir, however. Each company’s reputation precedes it. People of color, white women, the LGBTQ community, folks with disabilities… our networks are strong. And if there is a well-earned reputation for what happens when our friends enter your company, all of the conference sponsorships in the world won’t fix that. In short, we know we’re invited to your dinner party, but 
+your house is not somewhere we want to hang out
+.
+I agree with you, but how do we make sure we’re doing it the right way?
+The last time a white, male engineer with no expertise in diversity and inclusion asked me this, I asked to see some of his code. I told him I wanted to make sure he was doing it the right way.
+“But you are not a developer,” he said.
+Which is correct, and he is not an expert in diversity.
+This is a thing that exists now. Diversity work hinges on best practices, research, and a ton of data. While not everything works perfectly (ever try to debug some code?), there is some real geekery behind effective diversity efforts. It is rife with nuance, grounded in years of experience and research, and requires massive amounts of iteration and innovation. And while many people have opinions about the best way to go about it, we need to level up on the general understanding of what this work entails.
+So what 
+is
+ the right way? For that, I again suggest a technical parallel. Ask a developer a couple of questions, ones that an engineer colleague of mine calls “nerd grenades:”
+“What language do you use to start a new project?”
+“Given the choice, should my underlying physical page size be 4KB or 2MB? Which will ultimately be better for the performance and memory profile of my application?”
+The answers vary wildly based on context, and may require substantial shared knowledge to fully explain.
+It’s the same with diversity and inclusion work. No short answer in 140 characters or a single Medium piece is going to suffice. But those of us who have been doing this work for the better part of our careers know what to do. We have lived it, studied it, carved our professions from the best remedies for our communities’ pain. Now we need the resources, platform, and authority to do the best work of our lives and invest in the talent that will change this industry.
+What even counts as diversity?
+Here is a working definition I developed and still use. Please feel free to adopt it and help improve it:
+Diversity means demographics that are underrepresented in tech and overly-predictive of career and educational success. This includes, but is not limited to race, ethnicity, gender, sexual orientation, age, disability and more.
+Or to put it more plainly, all of the stuff about ourselves that we can’t control, but that have a massive impact on how we experience the world and how the world interacts with us. There is nothing about intellectual capacity or creative potential in this definition, because “
+intelligence and effort are evenly distributed, but investment and opportunity are not
+.”
+The ubiquitous cop-out for many tech companies is their claim on “diversity of thought.” Yes, diversity of thought exists. Any time there are two people together, even if they are identical twins, there is diversity of thought. There is no legitimate argument to be made that all white men, for example, think the same way on any issue. However, as our demographic characteristics have an extraordinary impact on the 
+shape of our lives including our overall life expectancy
+, expanding diversity across the axes listed above will likely yield a wider range of diversity of thought.
+There are many other aspects of diversity that companies should value and desire. However, companies that find creative ways to avoid openly targeting race and gender diversity at a minimum are missing the mark. In so doing, they will miss the talent, too.
+What is the benefit of diversity anyway?
+At the risk of being overly-simplistic, there is one reason that compels most people who interrogate diversity efforts:
+Revenue
+. Greater diversity, specifically along gender and race lines, makes a company more money. I’m not sure there is more to say since we are, after all, discussing business.
+It’s not the sole reason to do it, but if you really want to end an argument about whether or not diversity is worthwhile, this usually does the trick. 
+Here are five other compelling reasons
+ bolstered by data.
+I hope this piece serves as a living resource for tech diversity and inclusion advocates. 
+Please send me your thoughts and suggestions via pull request
+.
+For too long, the industry that I love has gotten away with flimsy arguments cloaked in the myth of meritocracy. This has real consequences for a sector that desperately needs diverse talent. Those of us who have dedicated our careers to diversity in tech do so because we care deeply about building an industry where all people can thrive and feel supported. In so doing, we will help usher in the next set of technical innovations, built by people who experience the world in a myriad ways. From building 
+inclusive dating apps
+ to 
+helping people access water
+, the next cycle of genius is ready to take its rightful place in tech.A million thanks for support on this piece to 
+Amanda Gelender
+, 
+Danilo Campos
+, and the group of GitHub engineers I left arguing about the “nerd grenades” referenced above. I love my job.

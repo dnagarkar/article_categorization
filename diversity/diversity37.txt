@@ -1,0 +1,19 @@
+Diversity in Tech: The Unspoken Empathy Gap
+Ken Norton
+ recently published a great 
+piece
+ about the importance of authenticity and psychological safety in order to help teams succeed. In his article, he cites research from Google that suggests 
+psychological safety is the most predictive characteristic of successful teams
+. As a minority working in tech, this article brought to mind a pressing question: given the lack of diversity in tech, how can tech workers foster a psychologically-safe environment for minorities, many of whom struggle just to be their true selves at work? For me, it starts with empathy.
+Have you ever spent time in a place where you’re in the minority, even briefly? At an event, for example, or in another country? Think about how you felt being the only man at an event attended primarily by women, or the only white person in an entire train station in a predominantly African-American neighborhood. If you have never experienced this, try it. 
+The feeling of being an outsider, of not belonging, is what many minorities experience in the workplace on a regular basis.
+Until recently in my career, I was always the only black person on my team. Coworkers have generally been nice to me, but it’s hard to ignore that I’m 
+noticeably
+ different when no one else at work looks like I do. I’ve learned to ignore this feeling of being an outsider, but it always comes back eventually, whether it’s during meetings with executive leadership, while walking into a company’s office for an onsite interview, or in other work-related situations.
+Perhaps you know some minorities who don’t seem to experience that feeling, and perhaps they don’t, especially when they feel successful in their career. I know minorities who’ve reached a point where they no longer give a damn about what others think or they’ve learned to cope with the status quo.
+But many minorities spend a significant amount of cognitive energy trying to belong instead of performing our best work and it’s exhausting.
+One thing I’ve come to realize is how hard it is for people to share these experiences. Often, these stories are too personal, emotional, subjective, or hard to share without deeply trusting the listener. It is also difficult to share these stories, as without the larger context, the listener is unlikely to grasp the nuances of the experience without knowing the backstory.
+In general, many minorities choose not to speak up because they don’t want to jeopardize their careers, be disliked, feel like victims, or because their opinions have been ignored in the past. Even if your minority coworkers do not verbalize the isolation and ‘otherness’ that they experience, it does not mean they feel as if they can act authentically, true to themselves, or thrive.
+Although there has been more and more discussion about the lack of diversity in tech, I believe there is still a startling empathy gap as most people do not realize the sheer amount of energy minorities expend trying to belong. The ideal solution is simply to have companies that are diverse, so that no one feels out of place and everyone can thrive.
+As a first step, our white, male-dominated industry needs to recognize the real struggle that underrepresented groups face and start driving conversations and actions to create a more empathetic and inclusive workplace. Without such empathy, most companies will continue to fail to achieve true organizational buy-in and won’t be able to take the necessary actions to attract, retain, or get the best work from people who come from underrepresented backgrounds. We can all contribute to finding solutions, but many people in tech don’t bother looking for those solutions because they fail to see the problem in the first place.
+(Thanks to Dan Sherizen and Leah Reich for reviewing earlier drafts)

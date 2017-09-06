@@ -1,0 +1,122 @@
+Diversity Debt: How Much Does Your Startup Have?
+There are a lot of ways to look at diversity, but the most helpful way I have found is called “
+diversity debt.” 
+In the same way that engineers can accrue “technical debt” when they push out sloppy code, or business owners can accrue “bookkeeping debt” when they procrastinate their financials until tax time, companies can also accrue diversity debt over their life cycle. The more people your company hires until you have a diverse team (meaning an array of genders, LGBT, socio-economic backgrounds, ethnicities, ages, able-bodiedness, etc.) — the more diversity debt your organization has accrued.
+The diversity problem in tech is rampant everywhere you look. 
+Facebook only hired 7 black people
+ out of 1,231 hires in 2013, and only added 26 black people last year even with much more effort. 
+Twitter just held a frat party
+.
+fail.
+These huge organizations have accrued a ton of diversity debt, and like most debt situations, it becomes harder and harder to fix the longer you wait. But, if you ask most startup founders, diversity falls very low on the priority list.
+Jenky whiteboard drawing I did recently — as you can see, diversity falls on the “important” axis but rarely “urgent” which is why it rarely gets addressed.
+What gets done in a startup usually intersects where “important” meets “urgent” — most people in startups agree that having a diverse team is “important,” but when is it urgent?
+Recruiting ANY top talent, let alone diverse talent, is the hardest part about being a start-up founder today. If the biggest tech companies, with dedicated budgets and recruiting machines, are making dismal progress, can you imagine how difficult it is for startup?
+The truth is that early startup teams are largely a reflection of the founders themselves and their networks. Most founders don’t think about building a diverse network when they are building their professional networks, and this has huge consequences throughout the life cycle of a startup.
+Startup hiring is also more difficult; there’s huge pressure to hire “A” level people who are awesome long-term culture fits, not to mention limited compensation, higher risk, and no dedicated recruiter. Earlier in my career, I read startup investor Elad Gil’s 
+blog
+, which advised founders to hire early for 
+homogeneity in values and “culture fit” beer tests
+. From the purely pragmatic angle, it makes perfect sense. Early team disputes are potentially life-threatening for a startup, and recruiting outreach is expensive. But, this attitude is also a huge contributing factor to the lack of diversity in tech today. This is why startups who value diversity should start as early as possible to avoid accruing diversity debt and build a better culture.
+WAYS TO ADDRESS DIVERSITY IN YOUR STARTUP:
+1) Start as early as you can.
+People often ask me: when in a startup’s life does it makes sense to prioritize diversity? 
+TL;DR answer: Debt starts to accrue around the 4th hire, speeds up around #10, REALLY HARD after #20.
+If you don’t believe a homogenous team is beneficial for the future of your company, start early — even when it doesn’t feel urgent. Homogeneity becomes harder to change as your company grows. Small culture and process changes can make big differences over time.
+Stage: Founders only, < 4 employees
+Under four people, it’s hard to find realistic ways to hire minorities, women, LGBT folks if you don’t already have them in your immediate network. Depending on your funding, it may not be justifiable from an economic perspective either to expend extra effort to source, vet, and convince people to join these already difficult to fill roles. This is why it’s an advantage to have a diverse founding team. 
+Besides the network effects and attracting diverse candidates, the benefits of having a diverse team is experienced early on. 
+These values trickle down. However, finding the right co-founder is like finding the right spouse, so unless you have a diverse network to begin with, this isn’t possible or likely for most people today.
+So, at this stage, you should be preparing for the hires you’ll need down the road. Create your team values. Discuss how your culture will be inclusive to people who are different than you. Start building real relationships with people who are very different than you and come from different communities. See resources below to find ideas where to start.
+Stage: Hire #9 or #10
+When a startup begins to grow quickly, the question is: how much time do you allocate to recruiting vs. just hiring whoever comes to you and relying on the team’s existing network?
+At this point, you’re growing and need to hire people quickly. This is when tough decisions need to be made. It means that perhaps instead of referral bonuses, you may use those funds to support a diversity scholarship or send your team to a diversity conference. It means you might have to make hard decisions at inopportune times, but these early trade-offs could have a huge impact on the climate and long term development of your culture.
+Offer mentorship. Network with diverse groups and communities, and find new graduates, early stage professionals, people seeking to change careers who are passionate. Hire interns who come from many different backgrounds.
+Stage: >20 people
+At this point, it makes sense to put some serious resources toward your diversity efforts if your team is still mostly male and white. Hire a recruiter who has experience with hiring diverse candidates. Track internal metrics about your applicants. Invest in outreach, mentorship programs, and conferences.
+2) Be proactive about your website, job ads, interviews, and benefits.
+Define culture fit, and be specific about what exactly your core values are and the message you want to send to current and new team members. For example, does “work hard, play hard” as a company value manifest as 14-hour workdays and wild weekend drinking adventures as a team? If so, it’s also a huge repellent for anyone NOT a young, extroverted 20-something without kids or any desire for balance. A recent 
+article
+ wrote about how 
+Stripe
+ is rethinking this:
+“Stripe has minimized bias in the “culture fit” component of its interviews by focusing on whether the candidate is someone people at the company would actively seek to work with, rather than someone they “want to hang out with…”
+Examine your job postings for
+ language that alienates women, minorities, parents, older people
+. This includes highly exclusive language and aggressive language. 
+Hire More Women in Tech
+ is a fantastic resource and primer. Read more about writing better job ads
+ here
+.
+Revamp your interview process. 
+Beware of whiteboard technical interviews
+ or alcohol-based social test outings with prospective employees.
+Publicly offer and describe benefits on your website, and include domestic partner benefits, maternity, paternity, and adoption leave 
+— even if no one needs it
+.
+Use referral bonuses with care. If your startup is currently dominantly young, white, or male, 
+$10K referral bonuses may be contributing to your diversity problems… 
+which brings me to my next point:
+3) Understand unconscious bias, and try to compensate for it.
+Educate yourself and your team about 
+unconscious bias
+. Here’s a great 
+video
+.
+How do you compensate for unconscious bias? Other than education, you might try introducing some practices and policies.
+For example, one of my friends runs a very popular hardware meetup that always fills up. He created a separate mailing list for the women in the group and sends any meetup invites to that list first and waits a day before blasting to the whole community. Another friend has a policy in her startup that if their team is on the fence about a diverse candidate, they will bring the candidate in the office for another interview.
+These types of measures are often accused of being “special treatment” or somehow unfair. I don’t see it that way. If you acknowledge unconscious bias in your team, these types of policies can act as a safeguard to counteract unconscious team biases and lead to meaningful learning for the whole company.
+Try to interview at least one diverse candidate for every major role you’re hiring for.
+ It’s a version of the Rooney Rule strategy that helped the NFL increase coaching staff diversity. Key is to take them through full process — and it doesn’t count if you rule them out before meeting them. Why? a) You are giving the candidate a better chance to be fully vetted, and b) So you become accustomed to interviewing candidates with backgrounds different from yours. 
+Facebook has started doing this for a select set of roles.
+4) Build an inclusive culture from Day 1.
+There’s a lot of emphasis on hiring, but 
+the attrition rate
+ for women and people of color is the more alarming problem in tech. Your culture changes with each early hire. Too often, I notice this culture forms without much thought. When I joined my first startup, my co-workers would make fucked up jokes all the time. I thought this was normal. I would often hear comments that hiring more women or parents or a black person would mean we would “have to hire a HR person” — which is code for saying the “fun” culture would end. A couple years later, when I grew tired of working with startups with similar cultures and started speaking up about diversity, a close colleague asked me if I was becoming a “feminist.” 
+Startups should be fun, but they should also be inclusive, safe spaces, even before a diverse candidate joins.
+Lead the team by example, and speak up.
+ I spoke to a young female engineer who told me that another more senior engineer asked her to give him a back rub 
+in front of their founders
+, and the founders didn’t do or say anything.
+Be mindful of humor and defining what’s acceptable 
+— ask yourself, if a healthy number of women and people of color and generally mixed bunch were here, would we be making the same jokes? Work should be a place where people can have fun and be themselves, but founders should use best judgment here and set the tone to prepare the culture for a diverse team long-term.
+5) Position matters — and watch the office housework!
+When I was helping hundreds of companies with their taxes, accounting, and payroll, I noticed that the first woman a startup would hire would usually be an office manager or administrative role. Now, that’s not to say these roles are not important or valuable (I started my career in customer success/operations), but having primarily women in these roles or as the first female hire sends a message about power dynamics and influence in the office, and it can really turn off potential women candidates in leadership and other roles from joining a culture that feels very Mad Men.
+Devote resources to finding women in leadership positions and key roles in engineering, product, and sales as soon as possible.
+Take extra care with handling administrative roles and communicating their value to the team. Female office managers have often mentioned they feel like second class citizens in their organizations. Respect is key.
+Currently, 
+women do most of the office housework
+. Pay attention to who takes out the trash, orders food, stays after to clean up after events. Create a rotating schedule for these tasks.
+Also important note:
+If your startup hires a woman or person of color, it’s not their job to increase the diversity — it’s everyone’s job. 
+Diverse teammates often have to take up the second job of increasing diversity, which may or may not be important to them.
+6) Do your best.
+I empathize with founders who believe in creating an inclusive culture and make an effort, but still lack the diversity on their own teams.
+This was my startup
+ inDinero
+ in 2012:
+Our team was led by two women. We hired Joe, who was a year older than my father, who brought a very different and much-needed perspective. We had two gay men on our team. Jose and I are Filipino, an underrepresented group in tech. We did our best to bring on people of different perspectives, which made us a stronger team. Still, we struggled to hire more women and people of color as we grew, especially during periods of rapid growth, and it’s something I still regret. I wish I knew then what I know now, and I hope with this information you’ll be able to build diverse, thriving teams.
+Very Short List of Groups (so much more at 
+Hire More Women In Tech
+ and 
+this fantastic piece
+):
+Code2040
+Black Founders
+Women 2.0
+MotherCoders
+TransHack
+Women Who Code
+Geekettes
+Femgineer
+Latinas in STEM
+Lesbians Who Tech
+StartOut
+Black Girls Code
+Reaching Out MBA
+Out for Undergrad
+RecruitHER
+AkimboConnect
+Please send more resources I should add to this list!
+I’m passionate about making tech more inclusive. Please send suggestions, additions, and feedback to me @abarrica!
+Big thank you to Monique Woodard, Rose Broome, and Aubrey Blanche for helping me with this piece.

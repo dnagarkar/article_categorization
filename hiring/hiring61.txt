@@ -1,0 +1,12 @@
+Hiring junior developers isn’t about what they know now
+: it’s about their ability and eagerness to learn new things and grow into the role. I would have a totally different set of questions for junior devs:
+How long have you been coding?
+What have you learned and accomplished in that time?
+How did you get interested in programming?
+Do you have some current code samples I can look at?
+What are you doing to learn?
+What areas and technologies are you particularly excited about? Front end? Design work? Node? React?
+Are you interested in finding a mentor?
+Here are 
+13 tips for people learning to code
+.

@@ -1,0 +1,157 @@
+A Complete List Of UX Deliverables
+by 
+Nick Babich
+The list below contains most common deliverables produced by UX Designers as they craft great experiences for users. For better readability, I’ve combined the deliverables according to UX activities:
+User Research
+Market Research
+Design
+Testing
+For each item in the list you’ll find additional links or video with detailed explanation or best practices.
+Let’s start!User Research
+Personas
+Persona is a fictional character created to represent a user type that might use a product in a similar way. Personas make it easier for designers to create empathy with users throughout the design process.
+Persona is a fictional character that highlights behaviors, needs and motivations of the target users. Image credit: 
+xtensio
+Related links:
+Getting the most out of personas - UXM
+9 minutes read Personas are great. No seriously, they are the best thing since sliced bread. I can't think of any…
+www.uxforthemasses.com
+Predictive personas - InVision Blog
+Anybody who's spent time on a design team has almost certainly encountered the persona. There's a reason for that-the…
+www.invisionapp.com
+Creating Personas | UX Booth
+Cooper, co-founded by industry giant Alan Cooper and his wife Sue, is a leading user experience and service design…
+www.uxbooth.com
+User Flow
+A visual representation of the user’s actions to complete tasks within the product. Visualized user flow makes it easier to identify which steps should be improved or redesigned.
+User flow helps build a “common understanding” of each page of your app or site. Image credit: 
+Michael Pons
+Related links:
+Stop Designing Pages And Start Designing User Flows
+For designers, it's easy to jump right into the design phase of a website before giving the user experience the…
+www.smashingmagazine.com
+Creating Perfect User Flows for Smooth UX
+If someone asked you to define the word "flow" or describe an example of one, what would you say? Would you immediately…
+www.uxpin.com
+A shorthand for designing UI flows
+Flows are just as important to good interfaces as individual screens are. Customers don't land on screens from out of…
+signalvnoise.com
+Experience Maps
+A diagram that explores the multiple steps taken by users as they engage with the product. Experience map allows designers to frame the user’s motivations and needs in each step of the journey, creating design solutions that are appropriate for each.
+A simple experience map reflects one possible path during one scenario. Image credit: 
+effectiveui
+How to create a customer journey map
+Related links:
+All You Need To Know About Customer Journey Mapping
+"Stories have defined our world. They have been with us since the dawn of communication, from cave walls to the tall…
+www.smashingmagazine.com
+How to Create a Customer Journey Map - UX Mastery
+Despite best intentions and mountains of data, many organizations continue to offer lackluster experiences for their…
+uxmastery.com
+Use Cases
+A use case is a written description of how users will perform tasks in your app. It outlines, from a user’s point of view, an app’s behavior as it responds to a request. Each use case is represented as a sequence of simple steps, beginning with a user’s goal and ending when that goal is fulfilled.
+Use case is a list of actions or event steps, typically defining the interactions between a user and a system, to achieve a goal.
+Related links:
+Use case - Wikipedia
+In software and systems engineering, a use case is a list of actions or event steps, typically defining the…
+en.wikipedia.org
+Smart UX: Use Cases - Usability Geek
+Triggers. Actors. Flow. Complexity. These are words that come to mind when we hear someone say " use case ". Use cases…
+usabilitygeek.com
+Storyboards
+Storyboards are illustrations that represent shots that ultimately represent a story. In UX this stroy illustrates the series of actions that users need to take while using the product. Translating functionalities into real-life situations, helps designers create empathy with the user.
+Smile and sadness on human faces can add emotions to your story and it comes alive in the hearts and minds of your audience. Image credit: Chelsea Hostetter, Austin Center for Design
+Related links:
+Storyboarding in UX Design
+by Nick Babich
+uxplanet.org
+Storyboarding in the Software Design Process
+Using storyboards in software design can be difficult because of some common challenges and drawbacks to the tools we…
+uxmag.com
+Market Research
+Competitive-analysis report
+Analysis of products competitors that maps out their existing features in a comparable way. Report helps you understand industry standards and identify opportunities to innovate in a given area.
+A competitive analysis allows you to assess your competitor’s strengths and weaknesses in your marketplace and implement effective strategies to improve your competitive advantage. Image credit: 
+yellowpencil
+Related links:
+Competitive Analysis: Understanding the Market Context
+"While user-centered design focuses on user needs/tasks, and information architecture focuses on content, these two…
+boxesandarrows.com
+Conducting a Solid UX Competitive Analysis
+Most people are familiar with the concept of a competitive analysis; it's a fairly standard business term to describe…
+danforth.co
+Design
+Moodboards
+A collaborative collection of images and references that will eventually evolve into a product’s visual style guide. Moodboard allows UX desigenrs to show stakeholders and teammates a proposed look for the product before investing too much time or money on it.
+A moodboard is a great tool for stopping to check that your idea of the app’s/site’s look and feel matches your stakeholder’s. Image credit: 
+usabilitygeek
+Related links:
+Mood boards are for more than inspiration - InVision Blog
+I am a UX designer. That's fun to say, because it's a job that didn't really exist a few years ago. I've worked with…
+www.invisionapp.com
+How a Web Design Mood Board impacts User Experience Design
+branding guideline communication style personality This creative process also provides designers with a golden…
+www.protofuse.com
+Sketches
+Sketching is a quick way of visualizing an idea (e.g. new interface design) by using paper and pen. Sketches are useful to validate product concepts and design approaches both with team members and users.
+Sketching is a useful tool for validating product concepts and design approaches both with team members and users. Image credit: 
+David Sleight
+Related links:
+UX Sketching
+Why is it necessary? 
+uxplanet.org
+The art of UX sketching and paper prototyping
+Tips and tricks of “paper prototyping”.
+uxplanet.org
+5 Tips from 5 Designers to Improve Your UX Sketches
+It's the beginning of a new project. You've got all these ideas bouncing around your head, but they're too incomplete…
+www.uxpin.com
+Wireframes
+A visual guide that represents the page structure, as well as its hierarchy and key elements. Wireframes are useful when UX designers need to discuss ideas with team members/stakeholders, and to assist the work of visual designers and developers.
+Designers often use wireframes as the skeletons for mockups
+Related links:
+UX Wireframing: Bedrock of Interface Usability.
+In 4th BC Plato said: “The beginning is the most important part of the work”. Almost 24 centuries since then his words…
+uxplanet.org
+What is a Wireframe: Designing Your UX Backbone
+The logical place to start the actual design process is with a rough wireframe. This basic documentation is simple…
+www.uxpin.com
+Prototypes
+A prototype is a simulation or sample version of a final product, which is used for testing prior to launch. The goal of a prototype is to test products (or product ideas) before spending lots of time and money into the final product.
+Low fidelity paper prototype
+High fidelity prototype in 
+Adobe XD
+Related links:
+Considering Prototypes | UX Booth
+Although prototypes have been used in other domains for quite a while, their value to the design & development of…
+www.uxbooth.com
+What a Prototype Is (and Is Not) | UX Magazine
+In case of a paper prototypes the major advantage is that you can use the same pencil sketches you initially began your…
+uxmag.com
+Testing
+Quantitative Survey
+Questions that provide numbers as result. Quick and unexpensive way of measuring a level of user satisfaction and collecting feedback about the product. Survey is a quick way to collect information from a large number of users but their obvious limitation is lack of any interaction between the researcher and the users.
+Related links:
+Better User Research Through Surveys - UX Mastery
+Online surveys are commonly used by marketers, product managers, strategists and others to gather feedback. You've…
+uxmastery.com
+Usability report
+Usability report summarize usability findings in a clear, precise and descriptive way that helps the product team identify the issue(s) and work toward a solution. When reporting results from a usability test, UX designer should focus primarily on the findings and recommendations that are differentiated by levels of severity.
+Related links:
+Making Usability Findings Actionable
+For usability testing to be valuable, study findings must clearly identify issues and help the team move toward design…
+www.nngroup.com
+Analytics report
+Numbers provided by an analytics tool on how the user interacts with your product: clicks, user session time, search queries etc. Analytics report can also “uncover the unexpected”, surfacing behaviors that aren’t explicit in user tests.
+Google Analytics
+Related links:
+Complete Beginner's Guide to Analytics | UX Booth
+Analytics is more than just a numbers game. It's a way of tracking and analyzing user behavior over time. In this…
+www.uxbooth.com
+How A/B Testing And Analytics Can Make You A Better Designer
+Metrics can be a touchy subject in design. When I say things like, "Designers should embrace A/B testing" or "Metrics…
+www.smashingmagazine.comHave more deliverable to share? Please let me know in the comments!
+Follow UX Planet: 
+Twitter
+ | 
+Facebook

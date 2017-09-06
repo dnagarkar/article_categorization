@@ -1,0 +1,238 @@
+Non disclosure agreements (NDA) for startup fundraising don’t matter, so don’t ask
+Non disclosure agreements, NDA, confidentiality agreements or even proprietary information agreement, what are they good for? Well I’ll tell you. ‘Will you sign my NDA?’ is a very frequent question first time founders have. It’s also really bad one. There has been a lot written on this topic. To save you time googling, I’ve put together a pretty definitive blog together. If you are short of time, just read the tl;dr. Or just this:
+don’t ask for an NDA, no one will sign it and you look dumb.
+TL;DR
+Do not ask for an NDA — you will lose credibility and no VC will sign one (ever)
+Asking for an NDA prints n00b on your head. Asking for one shows you are not Kool and the gang
+VCs don’t want to sign NDA because they don’t want to waste time and they don’t want to be sued if they end up investing in someone else (and not you)
+Initial contact is like triage in a hospital. Investors want to figure out who needs attention fast
+You can phase the information you provide as the VC shows more commitment to you, so share sensitive stuff later
+Don’t share anything in early phases you don’t mind competition getting. Your competition will unlikely get your deck, but just assume they will
+You can’t afford the legal fees to sue a VC anyway
+What is an NDA?
+An NDA is an acronym for Non Disclosure Agreement:
+It’s a legally enforceable contract
+It creates a confidential relationship between a person who has a secret and a person the secret is told to
+The secret can apply to many types of information, but some secrets won’t stand up in court
+It’s normally about one page long of dense legal language
+Someone who has signing authority from both companies or as an individual (if not at a company) needs to sign at the end of the document on the line that is dotted
+In short, they are used when I want to tell you a secret and so that I can sue you if you then play Chinese whispers with Suzy-Anne.
+NDAs typically serve 3 key functions (3 truths and a lie!)
+NDAs protect sensitive information
+. By signing an NDA, you promise to not divulge or release information shared to anyone the NDA says you can’t (You may be able to share internally in your firm, for example). If you leak, the ‘injured’ person can claim breach of contract. Shenanigans!
+In the case of new product or concept development, a confidentiality agreement can help the inventor keep patent rights
+: In many cases, public disclosure of a new invention can void patent rights. A good NDA can help the ‘original creator’ hold onto the rights to a product or idea
+They expressly outline what information is private and what’s not
+: Often, the agreement serves as a document that classifies exclusive and confidential information vc what is not
+They are a great tool to blackmail investors and waste their time
+: Once you successfully sue the VC you will get celebrity status and everyone in the Bay area will want to work with you
+What is the value of an NDA and why do some founders think they need a VC to sign one?
+In my first month in investment banking, my VP had to explain NDAs to me. I asked why we do them and he said “
+You are never going to actually sue someone on one, but it sets expectations. No one has ever sued on an NDA
+”
+“
+YOU ARE NEVER GOING TO ACTUALLY SUE SOMEONE ON ONE, BUT IT SETS EXPECTATIONS. NO ONE HAS EVER SUED ON AN NDA
+Signing an NDA sets the tone that you are sharing confidential information and it is not to be shared. Upon signing one, if people ask you about the deal, you respond “
+sorry, I’m under an NDA
+.” It’s not only a good excuse to stay mum, but it makes you think twice too.
+If I’m never going to get sued then why not flaunt it and guest post on Pando? Whilst you are never going to get sued, there is a real reputation risk of not being trust worthy. It would look bad on you and your firm. Why would anyone take the risk of being persona non grata?
+Now to be clear we are talking about the sale of established, large, cash-making companies that are in a sale process (We have a ‘sell-side mandate”). After the sell-side banker sends potential buyers a teaser, the buy-side assert interest of entering a process, and the sell-side asks for an NDA to be executed before sending a 300 page IM (Information Memorandum) which literally lifts the kimono of the company with all their financials etc. This information is only useful in maybe 7 years- you are not this type of company (yet).
+So no, you don’t get an NDA. No one cares about you, until they do. Investors generally don’t care about you before they have read your deck and maybe not till after the first or second meeting. An NDA is not a barrier to entry, or a protective provision, it is a barrier to getting you funded though. Do you really want to put up hurdles when you are racing against Usain Bolt?
+What is the value of an NDA for fundraising then, in theory?
+Almost none, there are some fantasy scenarios and some theoretically good ones:
+Set the tone of the relationship
+: After signing an NDA, people feel less inclined to blab and they have an excuse not to tell anyone
+Discourage investors puff, puff passing your info around
+: There is theoretical legal recourse if your secret info gets out to the ether
+Block investor investing in competition
+: Get all the VCs to sign an NDA and they can only invest in our taxi app and not Uber…
+Get investors to think you are professional
+: You used NDAs in banking so you are going to apply that high-finance world to the unwashed one of VC and in teaching these rapscallions a thing or two you gain respect and leverage at the negotiating table
+Strike out at investors if they pass on you and invest in someone else
+: 
+So they passed on you as they wait to see traction (Lie! You can read about that here
+) and invest in a ‘competitor.’ Boooo hooo, so now you need to save face and sue the guys who ‘stole’ your idea
+Why do founders think they need an NDA then?
+It’s a myth propagated by lawyers who can charge for the pleasure of displeasuring others
+Founders wanting to play big boy (professional)
+Founders being advised by an ex-banker that don’t have a clue how startup/VC works
+Founders mistakenly thinking an idea has value, which it doesn’t
+Founders mistaking an app idea with real hard-core science with patentable secrets (Which should have an NDA if sciency stuff is to be shared and actually has monetary value)
+Mismatch in value concentration attribution: founder has one startup, VCs have many eggs in their basket
+Who benefits from an NDA?
+No one other than Lawyers and paper companies, neither one of which you really care about.
+Ryan Roberts, a partner at Roberts Foster LLP, writes:
+“If VCs maintained the practice of signing NDAs for each submission they received
+, only two groups would benefit: lawyers and paper companies
+. Lawyers would benefit because they would get to draft, edit, and negotiate each NDA. Additionally, the VCs would have to retain a team of lawyers to keep track of all the NDAs they’ve signed with the fund-seeking entrepreneurs that have come before you. Therefore, 
+NDAs would increase a VC’s transaction costs and potentially prevent a VC from even hearing your pitch.
+ Both reduce the already slim chances you will get funding.”
+Why do VCs not sign NDAs?
+Think about first contact like triage in the emergency room of a hospital. 1,000 patients come in with either the sniffles (Wantrapreneurs) or something really serious (the unicorns). Given the abuse of ER, there are only 1–10 really serious cases a year that the Doctor needs to see and focus on. The other 990 are not worth their time and the doctors (Partners) and nurses (Associates/analysts) need to get through the chaff in double time.
+If a patient speaks English and Catalan, but insists on speaking Catalan for personal, nationalistic reasons, demanding a translator before they will talk to the staff, that patient is not going to be processed terribly fast, right? Asking for an NDA is like asking for a translator in a battle field. BTW, I used 1,000 patients as a benchmark for deal flow of a decent VC; the really big boys will get 5000–10000 patients a year!
+There are 12 reasons VCs don’t’ sign NDAs, these are:
+Waste of time
+: VCs look at a lot of startups on top of having to run the firm, support their portfolio, report to LPs etc. NDA back and forth is simply really low ROI. Pulling the wings off flys and just saying no to founders and watching them cry is way more fun
+Waste of cash
+: VCs would spend their time and that of lawyers to review your NDA. Multiply the cost of staff by a few hours per NDA, by a thousand NDAs a year and you can see the math doesn’t work here right? Most if not all founders think they are special and there aren’t another 999 founders vying for the same concurrent attention. Also remember the cash that isn’t spent from management goes into the pockets of some of the Partners, which can be used to buy jewellery at the Rosewood
+NDAs aren’t part of their work flow
+: VCs aren’t going to change how they do business to suit you. They are focused on triaging deal flow and stage one is whether you as a potential investment fit their investment thesis and requirements (e.g. category, stage). An NDA is a speed bump on an 8 lane high way. Establishing whether you pass a filter, which an intern can determine, saves both the founder and VC a lot of time
+Lack of incentive
+: In most cases they just don’t care till they do. Reading and signing an NDA is a friction cost that could prevent a VC even reading your pitch once you finally get to sending it over. Particularly when you don’t have a strong tie to a VC, why would they make the effort?
+VCs would have to keep track of NDAs they signed which is boring
+: If VCs wanted to be lawyers they would be. Every time they signed an NDA they would have to check the docs when they talked to a new startup. It’s just too boring to be viable
+Some VCs have analysts/associates vet pitch decks
+: If a junior member of a firm had to keep asking for permission to look at a deck and get the boss to sign one, they simply couldn’t be bothered
+Chance of getting sued
+: No one likes to be sued, and in places like America it seems to be a national pass time. Even if a VC wins, they lose. They generally have a bigger public image than founders too. In a hot sector with many similar ideas, if VCs signed NDAs with each of the players they looked at, and invested in one of them, the other who don’t get funded would claim their idea “stolen” and potentially use their favourite pass time and executed NDA as the basis for legal action
+They are not going to steal your idea
+: VCs do what they do so they don’t have to do the hard work (lol). Sure they occasionally have EIRs (who could steal your idea and do it, or even join you?) who you might want to be careful of though, but still… It is not the VCs job to steal ideas and execute on them. Look, ideas are cheap and plentiful; market opportunities are rare and valuable. At early stage a VC really only cares about the market and the team- those are harder to rip off
+In a hot sector, many startups start at the same time and VCs sleep around till they find Prince Charming: 
+Food was hot in 2015, AI is hot in 2016. When the timing is right there are a lot of startups to place a bet on. Most VCs place a bet on one so will look at everyone till they feel Goldilocks. Note that Thematic VCs and sneaky ones may invest in a number as they don’t’ care who wins so long as one does. Rocket Internet has done this in food delivery startups with Markey Spoon, HelloFresh, Food Panda and Delivery Hero. Victor Hugo said “
+an invasion of armies can be resisted, but not an idea whose time has come
+.” When an idea’s time is prime, many founders independently “discover” the same idea at the same time. Furthermore blatant copy cats in other markets all come up with a weak origination story… But let’s face it, the best VCs have deal flow, they see it all, yours and others. Do you want the investor that doesn’t have deal flow?
+VCs know NDAs are almost never enforced and so not worth the PDF they are digitally signed in:
+ As I mentioned above, NDAs are only ever enforced in much larger contexts such as M&A, IPOs, huge commercial distribution deals etc. If you don’t have the same commercial understanding how are you going to scale your startup?
+NDAs may not stand up in court and you have to prove guilt:
+ So you are pissed, even with a signed NDA you have to prove the VC you are suing did whatever you are having a hissy fit about, you have to prove they did it! Hang on a second, do you even have the cash to litigate a VC for a year? Ok so you do… do you know how high the burden of proof is? You need to prove that there was no other means by which they could have had happened upon the information, provide evidence that they did it with full knowledge and if what you shared is publicly available, it simply won’t hold up in court. So likely 1/ you don’t have the cash to sue and 2/ you won’t win, so why bother? Also, litigation is very slow, the horse is out of the barn
+Suing will make you a leper:
+ Suing investors will not help you make friends and influence people. Even if you win, who the hell is going to sign an NDA, or work with you in future? News travels fast and people love gossip. If you win, everyone will know about you. But maybe Ellen Pao will fund you?
+What will happen if a founder asks a VC to sign an NDA?
+The investor will smirk or roll her eyes depending on mood, and either delete your email or send you a canned response, which, either 1/ terminates the thread, or 2/ waits for you to acquiesce and send the deck anyway since you have less leverage than the VC.
+The times someone has been naive enough to ask me to sign an NDA, I have sent a brief response along the lines of:
+“
+I and no other VC will sign an NDA as we look at many deals, sometimes in the same sector and can’t be conflicted. I also recommend for your benefit that you don’t ask other VCs to sign one.”
+The people who ask have always been CFOs or have an investment adviser.
+The important principle to understand here is 
+leverage
+. Unless you are Carly-Anne, the
+prom queen at the ball (ie Slack) and the whole football team (everyone with a check book) wants to ask you to dance, you are frumpy in the corner with potentially a nice personality. In short, you have no leverage. If the quarterback thinks you are smoking hot, you can do what you want, ask for an NDA whatever (hmmm, maybe).
+In most cases, the reality is like some 90s movie; the quarterback talks to you to make his ex-girlfriend think he is a nice guy (ie you get an intro through a trusted contact) and he progressively realises you just dress bad and are in fact a total hottie he wants to go steady with. You then only get leverage if he gives you a term sheet and the other investors get FOMO and ask you out too, but at this point you don’t care about the NDA anyway, right.
+Why shouldn’t I ask for an NDA?
+If it isn’t clear yet, here are the 6 reasons you really shouldn’t ask for an NDA:
+Trust red flag
+: You are implicitly telling the VC you don’t trust them, this is not a great start to, what could end up being a very long marriage is it? Gold-diggers freak out at pre-nups, can you image sending one to a dude/chick on Tinder before a first date? Yes, that would be dumb and so is asking a VC. As Mark Suster at Upfront Ventures says: “
+If we had a reputation for sharing proprietary information we wouldn’t get too many entrepreneurs knocking on our doors.
+”
+I have n00b stamped on my head
+: There are so many sources of information these days of how not to be a total n00b, that it’s almost a test VCs set to see if you have done any basic research and are taking this raise seriously. Asking a VC for an NDA is like a trip-wire for stupidity. If you set off that big badda boooom what happens next is unlikely to be auspicious
+Implies your idea and what you have done are more important than what you will do- execution!:
+ Ideas don’t matter, execution does. If you are so confident in your ability to hustle and get shit done, do you care if your competition knows something about you? Huh, aren’t you about to tell the VCs that you are going to out-execute everyone and you have a better team (your ‘special sauce!’).
+As Brad Feld, Managing Director at Foundry Group says in 
+Are Watermarks On Presentations Useful?
+“
+Also — remember that it’s rarely the idea that matters — it’s the execution of the idea. 
+So — even if your presentation gets passed by a VC you approach to a potential competitor that is in their portfolio, it probably doesn’t matter much beyond the notion that a potential competitor is now aware of what you are thinking about. You will still have to execute — as will they — to be successful.
+”
+Where you start and end may well be different:
+ Startups sometimes make big pivots, focus on a new demographic etc, right? Twitter/Odeo, Instagram/Burbn etc. VCs know you will change and the value of an idea is limited. It’s only what you execute that matters
+Your secrets are not as secret as you think:
+ Very few things are unique and very few ideas are unique to you. Someone else has had your idea already, just not executed on it. unless you have a Theranos (that works) sort of startup or the formula for Coke, who cares about your new food delivery idea?
+There is always a way to screw you, or brain rape you:
+ Why can’t a VC have a series of meetings with you, bring in some ‘experts’ to evaluate your idea, take notes and get more value than the garbled attempt at communication you called your pitch deck? It happened in Silicon Valley right? It is called brain raping. I’ll show a little video about it later in the blog.
+What’s the worst thing that can happen?
+Now there are super edge cases where sending your deck to VCs has a dark side. I personally have not heard of bad things happening at a reputable investor, but without a doubt it has and will continue to happen- most likely sending a deck to portfolio startups (your bad for not checking their portfolio!). I have however read about two instances of it, which I’ll share in the next section.
+Sequoia Capital actually say not to share confidential information:
+“
+Do not submit any information or other materials that you consider to be confidential or proprietary. Because of the large number of business plans and related materials that we review, and the similarity of many such plans and materials, we cannot accept responsibility for protecting against misuse or disclosure of any confidential or proprietary information or other materials in the absence of our express written agreement to do so.
+”
+These are the negative outcomes I can envisage:
+Send to portfolio company/ competition gets it
+: They push the little forward button in Outlook and the CEO of some portco and your competitor has it. Ok, so they have proof you exist and maybe an idea of your product roadmap. Big deal?
+EIR does it
+: An EIR at the firm decided to jack your idea. This is not a great outcome as he might well be better than you, at least more connected. It’s not a likely outcome and there aren’t many EIRs around anyway. Just FYI, EIR at Rocket Internet is code for intern, they are not real EIRs
+Gets on the internet
+: It’s on slideshare. Oh dear. Worse case is someone hears about you and maybe even blogs about you. Either way it’s free press
+Your existing investors get pissed
+: They don’t want info public and maybe call you up and shout?
+They brain rape you
+: Watch the video in the next section. This can be fairly dangerous, so don’t be dumb and fall for it. It does happen
+What happens if VCs share or want get exposure to your space by hook or crook?
+It’s not VCs job to rip your idea off and do it themselves, though that is not to say they might not facilitate it. Brain raping is real, I have heard about it first hand in Asia and it has got into the Silicon Valley show; there is no smoke without fire, right?
+Here are 3 examples of brain raping:
+#1 the TV version of how it happens
+Actually, YouTube won’t allow me to embed the video so you need to click on the photo/link. Don’t worry, we’ll wait for you whilst you watch it.
+https://www.youtube.com/watch?v=JlwwVuSUUfc
+#2 The venture build pitch to a potential VP of eng
+The first real example I have read about of VCs sharing startups’ decks comes from 2008 posted on the blog of a founder called Rich Skrenta with the title 
+Spice Girls VC
+. It goes a little something like this:
+So one day a few years ago I’m sitting in a VC’s office having a chat. I had a few ideas rattling around in my head but the VC had his eyes on a then-current space which was hot. He tossed a business plan for one of the leading startups into my lap.
+“Where’d you get this?” I asked.
+“They gave it to me.”
+He went on to talk about how he wanted to launch a company into the space as well, and I’d be a great vp eng. He said he knew a guy with some technology who could be cto, had a vp marketing in mind, and then we’d just need a world class ceo to round out the band.
+I formed a theory that the process of seeking VC ended up calling your own competitors into existence. You’ll meet with many more VCs than the 1–2 who end up funding you. But after seeing a company or two get funded in your space, the VCs who passed or weren’t able to get in decide they want to have a bet in the space too. Fortunately they have the benefit of having heard your pitch and the opportunity to personally grill you at length on your approach.
+#3 The VC anecdote of shady investors in Canada, eh
+The only example I have found of VCs sharing startups’ decks comes from a YouTube video in late 2009 from Jacqui Murphy at Tech Capital Partners in Canada. Skip straight to 35min 30sec to see the anecdote.
+So now you have some ideas of how it might play out with dodgy VCs.
+How honest VCs act when they catch you napping
+I recon almost every top VC is pretty honest- it is a sickly small world and shady dudes will be found out eventually, right? You don’t last long once people find out you are not trustworthy. Lies pile up and the truth will out.
+If you a too lazy to check a VC’s portfolio, manage to get a meeting and the VC realizes they might be conflicted, they will tell you. A shady one will not.
+If an honest VC is potentially conflicted it will go something like this:
+“
+I’m sorry. I need to stop this meeting right here. We invested in Widget, Inc which does middle out compression for enterprise clients, they call it the box. I’m not sure if you are a direct competitor or not, but for full disclosure I think it best for you to decide if you would like to continue this conversation.
+”
+At this point you can either:
+Stop
+: Say thank-you, I didn’t realise, it’s best for us to end this meeting, but I appreciate you taking the time to meet us
+Continue
+: Say, I’m aware of them, we do something different focused on consumers. It is your knowledge in this space we want to leverage and actually see some portfolio synergy. We would be happy to continue the meeting so long as you have the intent to concentrate your investment in this category?
+In either event, you have a little egg on your face as a founder but it’s not too bad. Shake hands and be grateful you met one of the good ones. I have seen this happen a few times, so it is not imaginary scenario.
+How can I manage to not be an idiot sharing my confidential information?
+I purposefully phrased that as ‘confidential information.’ Don’t share confidential information willy-nilly. You can do a normal deck and not share your ‘special sauce.’ You don’t need to put out till you get bought a steak dinner, right?
+Your deck/teaser etc most likely will not get in the grimy hands of your arch nemesis, but you should assume it will. So don’t share details that must remain confidential until you absolutely need to. Think about ‘middle out’ in Silicon Valley.
+So here are my 12 tips to not be a dummy:
+Check the portfolio companies of the VC you pitch
+: Seriously, have they invested in your direct competitors already? Go to the website and click on the ‘portfolio’ tab. All their active ones will be there. VCs bury their dead quietly so failed ones won’t be on it.
+Check if you are sending information to a credible investor in the first place!
+:
+Don’t work with dodgy people, it’s as simple as that! I know of a firm in Asia that pretends to be US investors to extract extensive information out of startups so they can copy their idea and how to execute on it. Tangentially, in 2010 there was a case where 
+Mattel employees printed fake business cards and misrepresented themselves to steal toy ideas from MGA- child’s play
+Only send your deck to people you trust and want to work with in the first place:
+ You are raising money, that comes with strings and you need to live with these guys. So pick your investor like you would your puppy.
+Watermark your deck
+: A shady investor might be less likely to share your deck if their name is on it. Sure they can always edit but, 1/ most VCs are lazy and 2/ ironically crap with software. It is also quite reasonable to kindly add in the email you send your deck to a VC: “Please don’t forward this outside your firm.”
+As Brad Feld, Managing Director at Foundry Group says in 
+Are Watermarks On Presentations Useful?
+“
+When I see something that could be construed as competitive with a company in my portfolio, I generally mention this to the entrepreneur approaching me right away and give them control over whether or not they want to send me any other information.
+ “
+Send a teaser deck first
+: If the investor is interested, you can have a meeting and share more later. This can also be tricky as 
+I like to have a deck before a meeting
+. You need to balance the info you share. One thing that is fine to do it 1/ send a teaser and ask if the venture capital man is interested, 2/ if interested, send a more full deck (without secret sauce) and schedule the meeting concurrently
+Send your deck with DocSend
+: DocSend is a SaaS system where you upload your presentation and you can then share a link to it with the benefit of analytics (you can see an investor has read it and for how long). The benefit of this is you can track who read your deck and also add a ‘User can’t download’ option so it remains online only (ad can’t be shared). I find this a little annoying sometimes, but if you are paranoid, give it a go. If I am interested I ask for them to send me the PDF so I can read offline.
+Assume what you share will be shared: 
+Like not writing things you wouldn’t want your mother to read, don’t share anything you don’t want the world to see
+Mark Suster at Upfront Ventures says:
+“
+When you write your Powerpoint deck write it with the assumption that people you don’t want to read it will get a hold of it. It probably won’t get in the wrong hands but keep your information high-level enough that you wouldn’t feel compromised if it did. The detailed information can be delivered verbally and/or in follow up documents once you know that they VC firm you’re talking with is more serious.
+”
+Don’t share confidential information until you need to
+: You don’t need to share the holy of holys in a pitch deck. Before a VC writes a check, why not add ‘checking your code’ as a condition to closing?
+You can phase what information is shared
+: Raising money is a process with a number of stages. You can progressively share more information as the investor illustrates, through action and words, more interest in writing you a check.
+You can create normative leverage before sharing more information to help you move the process along
+: You can tell an investor that it is normal to share your code base only once a term sheet is signed and so they need to move to that stage to get the information etc
+You can ask for an NDA
+: Where you have a deeply-technical competitive advantage, VCs can delay due diligence of your special sauce to the end of the process, and then execute an NDA focused on the specific technical information to be disclosed at that point. You can make this a condition to closing after a term-sheet, if the VC is happy to do so
+You can write on the front page, or on each and every page on the bottom
+: “Strictly Proprietary and Confidential. Please do not distribute. Prepared for XXX”
+What do the big name VCs think about NDAs?
+To drive home the point that VCs don’t like NDAs, here are some quotes from well known VC bloggers and venture capitalists:
+Brad Feld, Managing Director at Foundry Group
+“Asking the venture capitalist to sign a nondisclosure agreement, or NDA: This is a stupid idea perpetuated by lawyers. Most venture capitalists will not sign an NDA, so all you’re doing is putting up a barrier to get their attention and demonstrating your naivety.”
+Guy Kawasaki, Author and founder
+“
+[D]on’t ask any potential investor to sign a nondisclosure agreement (NDA), because asking them to do so will make you look clueless. Venture capitalists and angel investors are often looking at three or four similar deals, so if they sign an NDA from one company and then fund another, they expose themselves to legal action. If you find an investor who is willing to sign and just to hear your idea, you probably don’t want his or her money.
+I’ve never heard of a venture capitalist or angel investor ripping off an idea — frankly, few ideas are worth stealing. Even if your idea is worth stealing, the hard part is implementing the idea, not coming up with it. Finally, continuing the dating analogy, you probably won’t get very many dates if the first thing out of your mouth is “Will you sign a prenuptial?”
+Mark Suster, Upfront Ventures:
+“
+Will a VC sign an NDA (non-disclosure agreement)? No. If they did they would be in constant violation because VCs often see 3–4+ companies in every market that they operate. NDAs would make it impossible to do business. Asking for one to be signed shows naïveté.”
+When is an NDA ok?
+When you do sciency stuff I don’t understand and you need a PHD to evaluate it before a deal gets done. This is the only time you are going to have an NDA signed, and it is only going to apply to that tech, not the more general process or disclosed info too date.
+Theranos never shared how they did their witchcraft, which is also why they never got top-tier VCs and got Wellington instead (Who also invested in Powa Technologies, a total disaster of a company). They raised a ton of cash without sharing their special sauce.
+Conclusion
+Don’t ask for an NDA. Any questions, ask below.
+Best from Florence, Italy. Now i’m going to see the Uffizi gallery!

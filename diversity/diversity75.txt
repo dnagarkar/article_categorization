@@ -1,0 +1,25 @@
+The hidden costs of tech diversity efforts
+Imagination fuels ambition. It’s hard for a little Hispanic girl to imagine herself as an engineer if she sees engineering as the domain of white men. This leads to the tech industry’s 
+pipeline problem
+: women and minority men are underrepresented in computer science 
+degree
+ 
+programs
+, which makes it hard for tech companies to interview diverse applicants.
+One way to approach the problem is to expose students to diverse role models. In practice, this means asking women and minority men to serve as mentors: give talks, show up at hackathons, and get lunch with students.
+The hope is to inspire the next generation of students, but it comes at a high cost to the current generation of underrepresented workers.
+The tech industry 
+also
+ has a 
+seniority problem
+. Women and minority men are dramatically underrepresented in mid- to senior-level roles. This means that the work of giving talks, showing up at hackathons, and getting lunch falls on a 
+small number of shoulders
+.
+Mentorship takes time that otherwise would be spent on engineering, rest, or family. Sometimes mentorship events are multi-day affairs that require preparation and travel from the speakers. Regardless of the format, it’s also typically work that requires 
+emotional labor
+. And all of this work is expected to be done for free, as a favor to the community.
+What else can we do? I offer three ideas:
+Instead of inviting minority speakers to come to you, take students and junior women to technical events with minority speakers. Not only will this save time, but you’ll be able to expose your students to a broader chunk of the community.
+Offer mentors something valuable in exchange for their work. I don’t work for free, and other minorities shouldn’t either. Is there an opportunity to meet senior-level people at your company, or a famous professor who works in their field? Can you provide high-quality speaker training? What about exposure to the press? Etc.
+If you want an informal event like a lunch, have several students meet with one person at once instead of hosting multiple one-on-one events.
+If you run these types of events, I do not mean to criticize you personally. You are probably a kind person who offers your own energy for free, and your efforts positively impact the lives of students and children. Still, we must — as a community — come up with a better system than relying on a small number of people to serve as mentors for underrepresented students.

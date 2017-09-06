@@ -1,0 +1,19 @@
+The Hiring “Trick” Every Founder Needs To Know
+When it comes to hiring, especially early in your company, you need to interview every candidate for two things:
+Cultural fit and attitude
+Technical skills
+Interviewing for cultural fit and attitude is relatively straightforward, but how do you interview an engineer for technical skills if you’re not an engineer? Or how do you interview a marketer (to make sure they can actually drive qualified leads) if you’re not a marketer yourself?
+There’s a simple way to test the technical or functional skills of any candidate and that’s what I want to give you today.
+Let’s say you need to hire an engineer and you’ve never written a line of code yourself. Let’s also assume you’ve shortlisted the two best candidates based on their cultural fit.
+Now you need to assess their technical skills.
+Instead of taking a punt, go out and find a talented engineer on Stack Overflow and pay them for 3 hours of their time. Find someone who has at least 5 years of experience doing the job you’re hiring for.
+You might pay $150 per hour. It doesn’t matter.
+You want the 3 hours you’re paying them for to be used as follows:
+30 minutes: come up with a series of questions they will ask each candidate during a technical interview on Skype
+2 hours: a one hour interview with each candidate, asking them the questions they came up with
+30 minutes: a Skype call with you explaining which of the candidates is more technically proficient and why
+You then pair the opinion of that senior engineer with your views on cultural fit and can make an informed decision about which shortlisted candidate to hire.
+I’ve used this approach dozens of times in the last 5 years and it works incredibly well. I hope it works for you too.
+If you want to experience rapid growth in your business, build an enduring legacy and become the absolute best version of yourself, then you should check out my private mentoring group for founders. 
+Click here to learn more
+.

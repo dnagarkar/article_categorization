@@ -1,0 +1,78 @@
+What UX Designers Can Learn from Psychology
+by 
+Joanna Ngai
+Learning more about psychology can help designers learn about how people make decisions, form habits and understand content. Armed with that knowledge, UX designers can better create products that are usable and understandable.
+Here are a few concepts to get started:
+Hick’s Law
+Credit: 
+interaction-design.org
+Definition: Increasing the number of choices available increases decision time.
+Tip: To reduce mental fatigue, keep it simple by reducing the amount of choices and having a default option.
+Fitt’s Law
+Credit: 
+interaction-design.org
+Definition: Simply put, closer and bigger things are easier to touch accurately.
+Tip: Placing key site components far apart will increase the amount of time required in completing sequential tasks in your interface.
+Miller’s Law
+Definition: The average number of objects that can be held in working memory is seven.
+Tip: Chunk relevant information when necessary, refer to Hick’s Law
+and reduce unnecessary complexity.
+Gestalt Principles
+Similarity
+Shared visual characteristics automatically create relationships
+Proximity
+When objects are closer to each other than to any other object, they are seen as a group
+Continuation
+Once the eye begins to follow something, it will continue in that direction until it encounters another object
+Example of Closure (Credit: 
+D+M Design
+)
+Closure
+When information is present, the mind supplies missing pieces of an object that is recognizable
+Figure/Ground
+The tendency to separate whole figures from their backgrounds based on one or more of a number of possible variables, such as contrast, color, size, etc.
+Tip: Consider grouping related tasks and content to make a more intuitive interface.
+Persuasion Principles
+ (Robert Cialdini)
+Reciprocity
+If something is done for us, we tend to return the favor
+Consistency
+We have a need for personal alignment with preexisting principles and values
+Example of social proof
+Social Proof
+When unsure what to do, we look to the behavior of others to guide our actions
+Liking
+We are more likely to comply with requests made by people that we like
+Authority
+We are inclined to go along with someone’s suggestion if we think that person is a credible expert
+Scarcity
+We tend to want what is less available
+Tip: For opportunities to create more engaging content, consider offering limited time access to an application or showing social proof from peers or experts to convince users of a product’s value
+The Magic of Free
+Definition: We tend to go for free things, even if they come at a price
+In 
+Predictably Irrational
+, Dan Ariely described a study in which they gave people a choice between two offers. One was a $10 Amazon gift certificate for free, the other was a $20 gift card available for $7. However, more people chose the $10 gift card even though the other option provided more value.
+Tip: Consider using the word “free” to help increase conversion and click through rates.
+The Invisible Gorilla
+Selective Disregard
+Definition: Ignoring what appears unrelated to the task at hand
+Tip: Make changes to a page obvious and follow conventions to improve usability by meeting user expectations.
+Affordance Theory
+ (J. J. Gibson)
+Definition: The world is perceived not only in terms of object shapes and spatial relationships but also in terms of object possibilities for action
+Examples include: buttons for pushing, knobs for turning, handles for pulling, levers for sliding, etc.
+Tip: Avoid leaving your users confused about what your product can do by communicating through conventions (ex. using common web patterns for a tech savvy) or visual cues.
+Conclusion
+Understanding perception limitations and common user behavior can help you predict how a user will interact with your product. Keep learning more about the field of psychology while making design decisions.
+—
+Thanks for reading! Feel free to check out 
+my design work
+ if you’d like.
+Keep learning more about 
+user experience design
+ or 
+design thinking 
+with my latest books or get a head start on app design with 
+my latest online course
+.

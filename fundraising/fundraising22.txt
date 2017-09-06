@@ -1,0 +1,61 @@
+How to Fundraise (1/5): Preparation
+This is the first installment of @efLDN’s five-part series on tactical fundraising advice.Fundraising is a necessary evil with building a tech startup. It can be stressful, confusing and a complete blow to founder’s confidence. At the same time, if you’re lucky enough to have a hot round, fundraising can be an exhilarating ego boost. Both cases result in strong emotional reactions and with emotion comes the risk of making sub-optimal decisions. The best way to overcome that risk is to approach fundraising with a plan and a process. As a pre-seed investor that deals exclusively with first-time founders, we spend a lot of time on this.
+In an effort to save time for both founders and investors alike we’d like to share the main insights from our Advanced Fundraising talk that we give to all EF founders. While there are already some great pieces on fundraising out there (
+here
+, 
+here
+ and 
+here
+) we’ve tried to provide a tactical view on the metrics and methods that have been most impactful in the success of our 
+past six cohorts
+. Given the depth of this topic, we’ve separated our thoughts into a five-part series. The first of which focuses on the foundational stuff that a founder must do before venturing into the wild.Preparation: The Boring Part
+It’s cliché advice but practice makes perfect and we’ve placed it up front for a reason. Don’t start fundraising before you’re ready to start fundraising. The surge in tech entrepreneurship throughout society has done a lot of great things and has created some amazing companies. It’s also created a lot of noise for investors. Most VCs now see thousands of companies per year and only make a handful of deals.
+That volume has forced most to develop short attention spans and quick decision making through pattern recognition. This means that in an hour long meeting an investor can tell in the first five minutes of meeting a company if he/she’s really interested or not. Of course, you only get one chance to make a first impression and there’s a lot you can do to make those first five minutes count.
+1. 
+An investor deck is NOT a pitch deck
+. Most startups will have likely created a high level deck that can be used as a supporting tool for a pitch competition, demo day or any other group presentation (“pitch” deck). These tend to be simple, visually pleasing and highlights the key message of whatever pre-rehearsed speech a founder may deliver. Many new founders make the mistake of tweaking a pre-existing “pitch” deck and adding a financial plan slide. You know what made your pitch deck so great? You! An investor deck needs to be a standalone document that can explain all the key points of your business without you ever being in the room. Many investors will ask for a deck before they ever take a meeting. This requires a difficult balance of high-level vision to inspire excitement while being detailed enough to calm initial concerns that might arise. If you have the time, read the 
+Pyramid Principle
+. It’s a consulting classic, but the lessons shared are very transferrable. As for the deck itself, it shouldn’t be any longer than 12–15 slides. You can always have appendices, but those should be a separate document, which you can share during or after a meeting. There are many template structures but I’ve always found this seven question framework very helpful:
+What does your company do?
+How big is your market?
+What’s your traction (know your relevant metrics; not always revenue)
+What’s your secret weapon? (what give your team the right to win)
+How do you make money? (even if you’re pre-revenue, what’s your plan?)
+What should I know about your team?
+What are you looking for? (raise, use of funds, investor profile)
+2. 
+Have a full artillery
+. There’s more to create than just an investor deck. While not all of these are necessary it can make the difference between a second meeting and a pass. This is especially true if you’re outside the sweet-spot of an investor and face higher than normal market or technical risk. These can include:
+Pitch/Demo Day recordings
+Product demos (almost a necessity for a consumer business)
+Teaser decks (1–3 slides with just enough to get them excited)
+Technical Research papers (Nature, MIT, original, etc.)
+Market research papers (McKinsey, Gallup, etc)
+Short of the teaser deck, I wouldn’t send these before a meeting. Rather have a tailored thank you email with some supporting info based on where your conversation went.
+3. 
+Build a robust pipeline
+. Like it or not, a lot of fundraising is a numbers game. While you should only focus on qualified and relevant investors there is a critical mass that’s required. In our experience this means 30 contacts at a minimum and 45+ being ideal. The makeup of this group will change depending on the size of your round and ideal cap table (i.e. VC vs. angels) but the aggregate number holds true. Securing warm intros to investors can be a challenge but building your target list is relatively straightforward as nearly all investors want to be discovered.
+Crunchbase
+ and 
+AngelList
+ are excellent free tools that can give you a decent amount of detail for a given investor. 
+CBInsights
+, 
+PitchBook
+ and 
+MatterMark
+ are more robust analytics options, though they may be expensive if you’re very early stage. Still, they provide some great analysis, rankings, etc. for free on their respective blogs and newsletters.
+4. 
+Research your investors
+. Fundraising is selling and you would never take a sales call without understanding a customer’s interests and needs. Many investors take great effort to build their brand so use that information to your advantage. Looking up their background, viewpoints and past investments will help you understand 1) if they’re a relevant investor for your business and 2) what they will likely gravitate towards during your meeting. Before any discussion I would suggest spending about an hour checking out the following:
+The firm’s website for investment strategy and recent investments
+An investor’s social media for recent interest areas (Twitter, LinkedIn, Medium)
+Prepare 3–5 insightful questions to ask at the end of the meeting. This could be tailored to them or a more general approach. I also recommend checking out this 
+piece by Techstars
+ and this 
+tweetstorm by John Henderson
+.
+Again, this is the first of a five part series, so there’s certainly more to come. There’s no perfect amount of preparation and every founder will need to decide for herself what’s right. I’m pretty Type-A so I tend to over-index on this. With that said, it’s very easy to sort out which founders enter meetings cold and it never reflects well. Fundraising is part life for most early stage startups. If an investor doesn’t get the sense that you’re taking your fundraising seriously it’s nearly impossible to believe that you’re serious about building a business.
+To continue to the next section of our framework please click 
+here
+.

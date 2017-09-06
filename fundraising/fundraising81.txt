@@ -1,0 +1,108 @@
+ICO: great fundraising scheme for those who don’t want to build.
+ICOs have been one of the hottest topics for a while and I feel like literally everyone is talking about them now. Even people outside the cryptocurrency space such as traditional VCs and entrepreneurs have suddenly started hopping on the great ICO bandwagon. It’s almost funny to see the number of “ICO experts” popping up out of nowhere these days.
+Image in courtesy of 
+TrendStream
+Certainly, 
+it’s a fact that the amount of money raised by ICO projects has been skyrocketing in 2017
+ and the ICO ecosystem seems to have established itself especially during the past few months.
+At the same time, there remains strong skepticism against ICOs in the space and many insiders have been voicing their concerns for some time now. Some question the legality of ICOs (
+the recent SEC announcement also created some noise in the community
+) while others are worried about the inflated valuation of ICO projects or calling it a bubble that is sure to pop.
+I am also worried, a bit frustrated and frankly puzzled by this ICO fever myself. Personally, what I find most troubling with recent ICO projects is the lack of viable product and absence of product delivery. As far as I understand, there are virtually no ICO projects which have delivered working products that have also made meaningful impacts in real life yet.
+Questions I have are as follows; What have those ICO projects produced up till now exactly if anything at all? And what are we celebrating ICOs for if they have delivered very little even months or sometimes years after raising millions of dollars in their ambitious coin offerings? Aren’t there structural and fundamental issues with ICOs and more money or time may not necessarily resolve the problem of underwhelming product delivery?
+So, in order to answer these questions, I did dig a bit deeper myself and researched ICOs in the past and attempted to analyze and evaluate them based on product delivery.
+My conclusion so far after the research; ICOs are certainly a great fundraising scheme especially for those without any tangible products and there is a good chance they will continue to underdeliver contrary to their great promises due to fundamental issues of information and incentive.
+Methodology
+I have put together a list of ICOs
+ which have completed their sales since 2014 to May 2017.
+The methodology I used to narrow down the list is as follows;
+I focused only on ICO projects who have specific purposes or products(so called “Appcoins”)
+I excluded platform currencies such as Ether, Waves and Lisk as they are more generic and harder to classify by product delivery.
+I excluded projects which use tokens merely as a profit sharing mechanism for consulting or other services that don’t require any particular software or hardware product delivery. (“people are the product”)
+I excluded projects which don’t have any data for how much money they raised on either 
+ICO Stats.com
+ or 
+Tokendata.io
+With the above method, I have narrowed down the list to 48 projects.
+Now as for product delivery, here is how I categorized them.
+I visit their official websites and search for any products I can test their claim against.
+If I cannot find anything after skimming through the website for several minutes, then I check their official blogs for latest updates and see if they release any product in the past couple of months.
+If I still cannot find anything, then I consider they have no product yet. Also if they claim they have something, but if the link or the page is broken or not functional enough to do a simple test, I also conclude that it’s equivalent to having no product.
+If they have something I can test on, I give it a try and sort them into three categories; Alpha, Beta, and Working product
+Alpha
+: With very limited features but at least they have something to show
+Beta
+: minimal product which has many of the features they claimed at the time the token sale but not used by real users in production yet
+Working product
+: Either “good enough” or final product where actual users exist to serve their demand.
+To be clear, this is far from perfect and the valuation is fairly subjective. I admit there were a few projects that were difficult to categorize and some of my categorization is certainly debatable. In fact, I welcome any corrections and am willing to update this post later if necessary. (Please leave comments if you think I am wrong about any projects included on the list. Don’t try to DM or email me please)
+With that said, I am fairly confident that I got the overall picture right and even considering some mistakes made, I maintain this will still be informative and help us better understand what’s really happening in the ICO landscape.
+(By the way, I can already see some people screaming at me that “so and so are shipping code like crazy and still on schedule. Check their github repos.” or “join our slack if you want to understand the progress better” and so on. To be honest, I don’t buy those arguments and we should be judging them based on what’s actually out there, not by the number of lines of code. Being active on github or on slack is nice but if you cannot put them together into a viable product, you still have practically nothing in my opinion.)
+Anyhow, here is the summary of my findings after going through those 48 ICO projects.
+Key Findings
+(Note: The following data merely provides a snapshot of the current ICO sphere and doesn’t imply any causation)
+Product delivery distribution
+Of the 48 projects, projects with
+Working product: 3(6.25%)
+Beta product: 7(14.58%)
+Alpha product:11(22.92%)
+No product:27(56.25%)
+As suspected, more than half of projects have no product yet and projects with working products (functional product serving real demand) stand at only 3 (Spells of Genesis, Lykke, and Vdice) But I’d assume many of you have never heard of or used these 3 projects (meaning delivering working products does not imply they have made a splash in the real world)
+The quality of beta and alpha products vary significantly across projects from my observation, but those with alpha and beta combined accounts for a little more than one-third.
+Whether we should consider this rate of no product delivery is high or not is somewhat debatable, but it’s safe to conclude that few ICO projects have delivered working products so far and none of them made a significant impact in the real world at least yet.
+The next question is that is it something time will solve? After all, more than half of the 48 projects completed their ICOs in 2017 and given sufficient time, they would likely come up with something in the near future?
+I have broken them into ICOs of 2016 or earlier and of 2017 and compared them.
+Product delivery and amount of money raised by time
+It’s not surprising that no 2017 ICO projects have yet to deliver a working product.(and it’s probably not fair to expect it in this short time frame anyways)
+What’s more interesting, however, is that 2017 projects have a higher rate for alpha product delivery and a lower rate for no product categorization. (2017: 52% vs 2016: 60.87%)
+Also, on average, 
+2017 ICOs have raised approximately 8.5 million USD worth of money, significantly higher (almost 3 times as much)than the 2016 and earlier average of 2.9 million.
+You can maybe make an argument that 2017 ICO projects are of higher quality with more competency in order to justify the better product delivery rate and greater funding. While this may be true, my impression or crude “eye-test” didn’t really support this hypothesis. If anything, 2017 projects, overall, seem to have been making more ambitious claims with less technical or operational specifications to me.
+If I assume my impression is correct and 2017 ICOs are no better than the earlier counterparts in terms of quality and competency, the fact that more than 60% of ICO projects in 2016 and earlier still have no product suggest that we may not see many working or meaningful beta products from those 2017 ICO projects either even a year or two from now.
+The next question is “would more money improve or correlate to the chance of product delivery? “
+Average amount of money raised by ICOs by product delivery
+Working product: 1.6 million dollars(3)
+Beta product: 1.2 million dollars(7)
+Alpha product:16 millions dollars(11)
+No product:3.3 million dollars(27)
+Total: 5.8 million dollars(48)
+There are a few outliers (Mobile GO, BAT, etc) which are inflating the number for alpha product delivery categorization, but the breakdown seems to suggest that the amount of money raised doesn’t necessarily have direct effect on product delivery. If anything, those with working product and beta product have raised significantly less money on average than those with only alpha product or no product. (Maybe the smaller amount of money made them stay lean and help keep focus, increasing the delivery rate? Who knows.)
+Or perhaps, maybe I can argue that the presence of viable product at the time of ICOs is not really relevant to how much money they raise.
+So what about the Return on Investment(RoI)? The better product delivery, the higher return for investors?
+Average rate of return by product delivery
+Certainly, projects with no product have a lower rate of return on average than those with working or beta products.
+It may seem crazy that those with no product (and some obvious scam projects to my eyes) still manage to have yielded almost a 10-time return in USD value. But keep in mind that in the same time frame, Ether and some other platform coins have experienced far greater price appreciation (See 
+Ricky Tang’s work 
+for more concrete analysis)
+In sum, projects with no product delivery as of now have raised more money than those with working or beta product, but yielded significantly lower financial returns for investors.
+Conclusion and thoughts
+While ICOs certainly seem like a great method to raise a large amount of money for projects or untested concepts without any tangible products, most ICO projects in the past have been failing to deliver functional or meaningful products so far. Furthermore, even with more money or time, there is no guarantee these projects will live up to the expectations they set for themselves during ICOs.
+Of course, it’s still a bit too early to dismiss all these ICO projects. Some of them may end up delivering meaningful or innovative products in the future and/or there is a chance that better ICO structures and standards will emerge and overcome the current shortcomings.
+However, we cannot deny that while fundraisers and investors are too concerned about how much money they can raise or how much return they can enjoy in the short run, ICOs with millions dollars in funding have produced very little so far and I contend this perspective is vastly underrepresented in the current debate by “ICO experts”.
+Why is this happening?
+Why do ICO projects underdeliver? Or why can projects without any viable product or a track record of success raise millions of dollars literally in a minute?
+ 
+In order to make a decent argument, a separate article and analysis would be probably needed but here are my brief explanations.
+Asymmetric information
+ICO projects seem to have (virtually) no obligation to be transparent to the public and can (and often do) refrain from publishing undesirable information pre ICO, resulting in overvaluation. (
+See the case of the Synereo team blowup right after the ICO
+)
+Many investors are incapable of telling the good projects from the bad in terms of validity of the concept, team competency, code quality and other risk factors. And the average investor literacy is going down, not up, as more and more new people start putting money in ICOs.
+Promoters, partners and pre-ICO investors close to the project bear much less risk investing in ICO projects compared to general investors. Also, insider trading is a common occurrence as far as I know.
+Combined with the rise of ICO promotion services or related media, potential investors are exposed to all the positive news but far less skepticism or criticism.
+Misaligned incentive(or aligned incentive for a lack of product delivery)
+Once you raise a massive amount of money in a single round of funding without building much in advance, why even sweat after ICO? 
+Some ICOs even go as far as explicitly stating in the sales agreement that the token serves “no purpose” attempting to deflect any legal responsibility
+.
+Strong incentives exist especially for inexperienced, incompetent, or malicious projects to make the minimal effort and build barely enough to eliminate or mitigate the legal responsibility. (we may see a lot of alpha or beta product releases but few working products in the coming months)
+After the ICO, pumping the token price to keep the initial investors happy with occasional updates and extraordinary claims becomes the priority rather than shipping a good product.
+Many of ICO investors are in it to make a short to mid term profits rather than consuming the finished product. They are more concerned about liquidating their position with a great return than the long term health of the project.
+Put differently, I believe there are fundamental issues with ICOs in terms of information and incentive structure and overvaluation with absence of product delivery is not necessarily about legality, effort or competence. Even if some ICO projects are legitimate at least from a legal perspective for example, they will likely continue to underdeliver without addressing the above mentioned problems in some way.
+This is a common problem with the traditional crowdfunding model as well but the facts that you can trade digital tokens for speculation even before the product exists and many people are buying into it not to use the product but to sell tokens later for profits are compounding the issues. (
+According to one study
+, only 9% of Kickstarter projects fail to deliver. I’d expect the failure rate for ICOs will be much higher.)
+Predictions
+We’ll have even more ICO projects without much substance in the coming months and this ICO fever will possibly last maybe years as long as the inflow of new money continues.
+The vast majority of them will deliver either no product even after years of development or deliver products that are far from what they have promised at the time of the token offering.
+One way or the other, ICOs will be regulated(either self regulation from within the community or government intervention) after the ICO “bubble” pops and lesser-informed investors suffer significant loss.
+We will end up with highly regulated and centralized ICOs. If they offer any improvements over the current system is yet to be determined in my opinion but it won’t be anything like the “revolutionary fundraising scheme” as some people are framing ICOs now.

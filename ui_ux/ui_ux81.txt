@@ -1,0 +1,215 @@
+The 8 Worst UX Mistakes Coming From ExpertsHave you ever asked yourself what UX is all about? It’s about learning from mistakes. You can build a design around the idea of turning bad experiences into good ones.
+We tend to follow the core principles of UX design, but sometimes they slip designers’ minds, and it leads to mistakes that are becoming an integral part of most projects. 
+If UX were treated as linguistics
+, I would say they no longer are mistakes — 
+they became UX errors
+.
+To locate these errors, I reached out with the question ‘What one UX mistake on websites drives you crazy?’ to the following UX experts in the field: 
+Paul Olyslager
+, 
+Frank Gaine
+, 
+Brad Frost
+, 
+Stephen Hay
+, 
+Andy Budd
+, 
+Molly Wolfberg,
+ and 
+Heydon Pickering
+.
+Here is the list of 
+8 worst practices in UX design
+.
+Expecting the unexpected
+Paul Olyslager
+What one UX mistake on websites drives you crazy?
+The unexpected. Performing an action (e.g. clicking a button) that does not result in a way I have thought it would.
+Paul Olyslager
+, UX Manager at Nu3 shared with us
+ 
+one of the core reasons for all bad user experiences — 
+the unexpected.
+ Have you ever been irritated with something that works opposite to your expectations? Many websites have this problem, when their users don’t know exactly what to do.
+The creator of a hilarious website 
+Webpages That Suck
+, Vincent Flanders, addressed this issue and coined in 1998 the term 
+mystery meat navigation
+, which means designing webpage elements in such a way that they do not communicate their purpose — just like overprocessed food.
+Life shows it still happens. 
+One of UsabilityTools’ clients
+ was a mystery meat butcher in navigation. Their front page featured an area, which had elements posing as call to action buttons asking people to Register Now. Through a click tracking study, they saw that people clicked on them too often, while the buttons 
+didn’t do anything
+.
+24% of these clicks did NOTHING.
+That made people quit the site, since they assumed it is broken
+. After changing the buttons into clickable ones, their conversion rate went up by 
+122%
+. A small usability fix, but influential.
+Luke Wroblewski
+, an expert in mobile environments, mentions another abomination of unexpected design: The meat tornado.
+Hamburgers and kebabs in mobile are the Jessie and James of UX design — prevalent and annoying. 
+Luis Abreu describes how distasteful hamburger menus are
+. They were supposed to be the fast food of navigation. However, they became harmful to our designs, as users are ignoring them and therefore do not discover all options.
+Be clear
+. Make sure that every item in your project has a purpose, and that it communicates its purpose immediately.
+You spin me round
+Frank Gaine
+What one UX mistake on websites drives you crazy?
+Those ‘Top 20′ websites, where you have to click a Next button and refresh the page to see each item in the list. Grrrr. They should just do a big long list on the one page.
+Are you dizzy when you browse the web? I sure am. The growing abundance of clickbaiting pagination makes many 
+nauseous
+.
+They exist to get more clicks and the page views. A terribly cheap way of exploiting your users. 
+A dark pattern in web design
+. But it’s not the only one.
+Brad Frost speaks of the bastard child of the merry-go-round family
+ — carousels. They are supposed to bring “fun” to the user. However, they are badly executed, causing confusion and misinformation. Because of that, people tend to skip them.
+The website 
+Should I Use a Carousel?
+ provides you with the best answer whether you should use it.
+If you need stats telling you why carousels are bad for your website, According to 
+Harrison Jones from Search Engine Land
+, sliders are bad for both usability and SEO.
+Remove image sliders, carousels, and clickbaiting pagination.
+ Be clear 
+and
+ honest, 
+as no one wants to struggle with the dark side of web design
+.
+Immobile pages
+Stephen Hay
+What one UX mistake on websites drives you crazy?
+When I follow a link to your site on my phone, and I can only get to the content if I ‘download the app’. I’m not going to download the app.
+Many a time upon entering a webpage was I greeted with a lovely message on my phone that I need to 
+download a dedicated app for that.
+Stephen Hay
+ from 
+Zero Interface
+ tells us exactly what happens in that situation: nothing. People quit the page and forget it ever existed.
+Thank you, Pintrest, for providing me with choice. It’s rare.
+There is not much to tell about this issue — any honest person should realise that
+. Acting with integrity towards your users is a must. Forcing them to download applications so they can browse your website is a shameful way of extorting statistics. And the claims that some websites aren’t optimized for mobile browsers… stop right here. 
+Don’t.
+theartofbadperformance
+Brad Frost
+What one UX mistake on websites drives you crazy?
+Performance is perhaps the most crucial aspects of a user experience, but unfortunately it’s largely ignored.
+And it’s largely ignored because it’s invisible. Teams spend a lot of time polishing the aesthetic experience and enjoy diving into the latest development tools, but ultimately neglect how fast the experience loads and performs. It’s up to us to prioritize performance in our projects in order to better serve our users.
+Bad performance ain’t gonna receive no applause, says Brad Frost. It all narrows down to how fast we can operate the website. High page loading times yield devastating results. 
+KISSMetrics even created a great infographic showing you stats
+, 
+which prove that a slow website equals death.
+Jakob Nielsen speaks how responsiveness is a basic user interface rule
+ that needs to be incorporated into every project you make. 
+Do not forsake performance for the sake of aesthetics
+. Slow loading times and heavy websites are the first detrimental factors that people notice. 
+Some long after the days of Flash websites
+, which showcased creativity under the principle “I can, so I will,” but it’s a pitfall.
+Be creative and usable.
+Everybody hates reading
+Frank Gaine
+What one UX mistake on websites drives you crazy?
+I hate huge amounts of text without subheadings to summarize and divide up the text!
+Since we rely heavily on the Internet nowadays, reading is an essential activity. Because of that, rules and guidelines were created in order to make that task as pleasurable as possible — especially since people scan instead of reading.
+Some do employ them properly, but some forget that reading content should be 
+optimized
+.
+UXBooth tells you that most designers put visuals before the content itself
+, claiming it is destroying the value of the text. Later on, however, they advocate how both design and content can be optimized — the right way to go. By optimizing typography, text division, order, and many more you can deliver the most pleasant experience to your readers.
+Content serves the web right now, so it is crucial to make it easy to digest.
+If you want to go in-depth with optimizing your text, have a look at this amazing piece from 
+Smashing Magazine telling you how to craft a 
+perfect 
+paragraph
+. We have been taught in our classes that paragraphs are the building blocks of every text, so let’s make sure that their quality is awesome, or else the whole thing shall crumble.
+UX Movement shows how 
+center alignment
+ makes orphans and children cry, 
+and they also advocate that you should get rid of orphans entirely
+ (you know, those dangling pieces in the text, not
+ real
+ children).
+Give people a nice read.
+Your forms are out of form
+Andy Budd
+ from 
+Clearleft
+What one UX mistake on websites drives you crazy?
+As a user I get really frustrated when overly enthusiastic form validation tells me a field is wrong when I know it’s right. This usually happens when I try to add an international prefix to a phone number, let’s say, but I’ve also had buggy validation tell me that my date of birth was wrong, which is especially annoying.
+A related frustration is when the page refreshes and some of the information you previously entered has been removed and it’s not clear what’s actually causing the error in the first place.
+I have no idea why so many websites neglect web forms and leave them completely not optimized when their business heavily relies on them. You work in eCommerce? Imagine having bad order and delivery forms — your conversion rates are going to hit the ground so hard your business will lose its balance.
+Websites tend to lie to you that you need to undergo a “quick” registration process that will take only a minute, and 15 minutes later you still are trying to enter the right CAPTCHA at the end. Don’t forget about re-entering your password every time, because it resets for security purposes.
+Soo, hunter2 is out of question?
+Smashing Magazine comes to help with an extensive guide to optimizing your web forms
+. Once you focus on three basic aspects of web forms (Relationship, Conversation, Appearance), you can fully understand the core principles of successful form design.
+There is one thing — check out this website focused on 
+showcasing terrible forms
+ on the Internet, BadForms. What I found curious is the fact that the category “Good Forms” is actually 
+empty
+. Dear Internet, start optimizing your forms, thanks — Everyone.
+If you are desperate to find out whether your forms are 
+good, 
+UsabilityTools offers 
+comprehensive web form analytics.
+Sign in? Sign OUT.
+Molly Wolfberg
+ from 
+UX Sisters
+What one UX mistake on websites drives you crazy?
+When I have to go through too many clicks to sign in! there’s one banking site I use often, and I have to click THREE TIMES to even get to my login page. It’s awful! If you’re making people sign in to use your product, make it easily accessible!
+Registering is a bane of many users. Not only registering should be quick and easy —
+ signing in when returning to the service should be a breeze as well.
+Do I hear faint “But it follows the 3-clicks principle…” in the background? 
+No.
+ The 3-clicks rule is an obsolete relic that only illogically shuts down any design-related debates. 
+UX Booth orders you to stop counting clicks
+, as the amount of pages you need to go through is not the issue — the amount of effort required for each of them is.
+Of course, the above is related to the browsing experience in general, but both the signing in and the general browsing face the same issue — being too strenuous for users. There are two solutions:
+If signing in takes too much effort because of the clicks you need to make, simplify it.
+If reaching information on your website can be done with two clicks, but requires tons of searching because of the abundance of tabs in the navigation menu, simplify it.
+Generally, simplify it.
+That does sound like a good principle, right? Let’s see the final point then:
+Simplify
+Heydon Pickering
+ from 
+Smashing Magazine
+What one UX mistake on websites drives you crazy?
+Complexity is the most prolific enemy of good user experiences, blighting all kinds of users. Complexity is also one of the hardest things to fix after the fact.
+The only way to “fix” complexity is to axe features, so being the anti-complexity tzar means telling people their work has to be destroyed. Not an easy job. Good planning and the willingness to say “no” in the early stages of a product’s life are the best way to reduce complexity.
+Complexity is 
+THE
+ issue of all UX projects, and is one of the most common mistakes. Many designers don’t see that their project is overloaded with features, even though they are core elements. Being critical towards your own work is difficult, as removing one part causes others to crumble, and this is the scenario we need to change.
+The philosophy of 
+all
+ modern projects gravitates towards this one rule — simplicity. UXMag speaks 
+how hard it is to be simple
+. If you want to make it, try following 10 principles UXMag proposes. They advocate being focused, as that will lead you to a clear product. 
+Smashing Magazine highlights many examples of changing projects by employing the rule of simplicity
+. The results are often immediately pleasant to the eye, proving that the results are there.
+Remember — complexity is dirty.
+ Clean it all up and make your projects simple.
+Just one thing
+Thanks to reaching out to UX experts, we could gather what actually bugs people on everyday basis. Some of abovementioned points appear to be painstakingly obvious — the question is 
+why they still appear?
+ The answer might be the fact that they became 
+too integrated
+ with most of the designs, and that forced us to get accustomed.
+That is a 
+terrible mistake.
+Never get used to bad experiences. Do your best to deliver and demand the most pleasant UX possible. Do it for both yourself and for others.
+PS. 
+I actually have a mistake number 9
+ — using colors and contrasts wrong. I even conducted a study and wrote an article about it, check it out if you want to learn more — 
+Color vs Contrast: Which Impacts People The Most?
+Article originally featured at 
+UsabilityTools blog
+. Wanna find out how much attention it gave us? Check out this article, it goes step by step how we created it: 
+How We Got 10000 Unique Visitors in 5 Days.Published in
+ 
+#SWLH
+ 
+(
+Startups, Wanderlust, and Life Hacking
+)-

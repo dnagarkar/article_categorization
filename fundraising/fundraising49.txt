@@ -1,0 +1,21 @@
+The system for labeling fundraising rounds is broken and uselessWhen I started learning about startups and venture capital, I was dazed by the inane set of vocabulary used to label separate tranches of funding. Years later, the system has degraded to the point of near uselessness.
+Mark Suster
+ and 
+Marc Andreessen
+ weighed in on this issue back in 2014 calling deviation from standard definitions “
+gamesmanship
+.”
+If we try to solve the problem at its root, journalists, investors, founders, and potential hires are all trying to use the “seed — A, B, C, etc.” system, which I call the “alphabetical investment round labeling system” to categorize companies on a few axes:
+Revenue
+Employee count
+Dollars raised in each round
+Total dollars raised to date
+Number of rounds of financing raised
+Years in operation
+The problem is that the current system of labels pretends to address the “dollars raised,” but best — but still inadequately — addresses the “number of rounds of financing raised.”
+For example, if a company is “seed” stage, I assume they’ve raised one to two rounds of roughly $10k-3M. Unfortunately, some companies are raising $10M+ “seed” rounds, which honestly and plainly makes grouping those startups in the same category with others who have raised <$2M just silly.
+The only thing these companies may have in common is that they’ve raised 1–2 rounds of financing. Of the six data points we’re solving for, we’ve solved for the most useless data point. And we wonder why we have an ecosystem obsessed with celebrating closing rounds of financing 👀.
+So then, what should we do about it?
+At my new company, we will call our first round of financing “R1.” Guess what we will call the next round? You guessed it. Seed. Just kidding, it will be called R2. When we announce it, we’ll add the amount we raised and the total amount raised to date.
+Is my system perfect? Far from it, but at least it’s a step in the right direction.
+🎉 🍻 ❤️ — Andy

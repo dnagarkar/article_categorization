@@ -1,0 +1,48 @@
+Medium: Diversity and Inclusion
+2016 edition
+Medium is a tight-knit group of incredibly dedicated, thoughtful people who are all obsessed with making Medium a phenomenal product for everyone to use. We’re so excited about what we do here, and we know that to have the best chance at success, we must build a diverse and inclusive company.
+Armed with this knowledge, we’ve spent the past year focusing and prioritizing our diversity and inclusion efforts. We signed the 
+Tech Inclusion Pledge
+, and as a part of that commitment, we’re using our platform to share an update on our internal demographics.
+We have further to go, but in the past year we’ve made significant improvements on our diversity and inclusion. We are learning a lot and are dedicated to continuing to improve. Continue reading for our 2016 demographics data and the details of some of our internal efforts.The data
+The majority of this data was collected through an optional demographic survey sent to our employees. A few notes on the data:
+Some gender, race, and ethnicity data was supplemented with our HR data if individuals chose not to respond. (This is required by law for submitting 
+Equal Employment Opportunity reports
+ to the federal government.)
+We separate our statistics into tech—which includes engineering, product, and design—and non-tech. We do not separate the demographics for other functional groups because their small size precludes anonymity.
+Senior employees are defined as individuals who are either an executive or are in one of the top two levels of our five-tier internal leveling system.
+1. Who are we?
+In a company survey, we asked employees about our company culture.
+We ❤️ this word cloud: It shows who we are and who we are becoming. Not all the words are positive, but this is us today. Our culture is alive and constantly evolving, so we’ll keep stretching ourselves to be the best version of Medium we can be.
+Sadly, only a few folks described us as hip. 😐
+2. GenderOur survey asked about gender identity as an open-ended question to which individuals could choose how to respond. A small percentage of our company identifies as non-binary. To protect anonymity, we chose not to share the specific statistics.
+Year over year:
+ Overall, our gender distribution has become more equitable— last year, we had 42 percent women and 58 percent men. We’ve also increased our percentage of women in tech from 26 percent in 2014 to 36 percent this year.
+3. Race and ethnicityWe take our racial and ethnic categories from the required categories for the 
+Equal Employment Opportunity report
+ for the federal government. Individuals are able to select more than one category, meaning these percentages do not add up to 100%.
+Year over year: 
+Overall, we have significantly increased the representation of individuals who identify as Black or African American — from one percent in 2015 to six percent this year. We have also slightly increased our share of individuals who identify as Asian or Other (meaning an identity not represented by one of the presented options). Our share of individuals identifying as Latinx did not change.
+4. Beyond gender, race, and ethnicity*This graph only include individuals who responded to our internal demographic survey (93% of employees).
+These questions are an attempt at understanding our diversity that extends beyond identities of gender, race, and ethnicity. Because these categories involve small percentages of our employees, we chose to display them only at the company level. We consider these questions to be experimental and will continue to evolve them to improve our understanding of one another.
+5. Measuring inclusion
+At Medium, we work on both increasing our diversity and creating a more inclusive environment. Measuring inclusion is a difficult task — how do you capture how inclusive or unbiased your company is? To start, we run an annual pulse survey built on the 
+SCARF model
+ (using the amazing 
+Culture Amp tool
+). Our questions on relatedness (the R in SCARF) include how comfortable individuals are in the Medium environment, whether they have a friend at work, and more. We use these results, broken out by demographic, to begin measuring inclusion.
+We have been really excited to see positive results and increases year over year in our measures of relatedness. Given that we’ve seen our diversity increase in the same time period, we’re incredibly proud to see this (nascent) measure of inclusion also improve. We do not share these results publicly as our pulse survey is premised on anonymity and privacy.Beyond the data
+We’re so proud of the changes that we’ve made this year. We’ve gotten here by investing in several key areas:
+Partnerships
+: We know diversity and inclusion isn’t a quick-fix area. That’s why we believe in forming long-term partnerships with organizations who know a lot more about this than we do. In the past few years, we’ve had incredible results from partnering with 
+Code2040
+ and can’t wait to do it again next year.
+Reducing interview bias
+: In 2016, our engineering team invested heavily in revamping its interview process to reduce bias and increase the number of individuals from under-represented backgrounds who are hired. 
+Read more
+ about how we did it.
+Measuring demographics
+: We measured what we wanted to change. Diversity can be a problem that gets ignored until “we’re at scale” or “we’re profitable.” Consistently measuring our demographics has helped open our eyes to how far we have to go and that we have to start right now.
+Diversity and inclusion initiative: 
+We formed a new diversity and inclusion initiative that will be leading and guiding much of this work moving forward. We intentionally asked individuals from across the company and from diverse backgrounds to join and lead the effort.
+Over time, we believe these efforts will lead to more diversity and inclusion at each level of our company. We’re excited for what’s next. 🎉

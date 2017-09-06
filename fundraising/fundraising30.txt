@@ -1,0 +1,96 @@
+‘Why’ you are making a financial model for your fundraise is wrong
+“No Battle Plan Survives Contact With the Enemy.
+– Helmuth von Moltke”
+The earlier stage your company is, the less you are able to make any reasonable projections, let alone what key assumptions are. Investors don’t invest in numbers as your forecasts will be certainly be wrong, but your thinking in how you came to them is what is worth backing.
+“When I was sixteen, I went to work for a newspaper in Hong Kong. It was a rag, but the editor taught me one important lesson. The key to a great story is not who, or what, or when, but why.
+– Elliot Carver, Tomorrow Never Dies (James Bond)”
+Like any great news article, the why is more interesting than the what. You need to realize that the model you are making is meant to be the actual plan you intend achieving with the funding your receive. That’s, right, the numbers need to be your actual plan and you will be expected to hit them. So if you approach your model from the point of view that everyone in your team needs to contribute to making that plan a reality, you will see this whole exercise in a new light.
+For pre-seed/seed companies I have never asked for a model and I am unlikely to in future. If I am sent one, it’s the area I spend the least imaginable amount of time in. Why? I’ll address that later.
+How I look at your model now
+Presently, the general things I quickly check for when I do receive a model are:
+Founder flags
+: How much are the founders planning on paying themselves. If I see $10k a month then I know these are probably not the guys for me.
+Logic
+: How structured are you in approaching the business? How have you set out the model? It says a lot about how you will approach building the business day in and day out, solving each and every subsequent challenge.
+Focus
+: Are you focused on the right things and only the right things? Do you know what is important and what is material?
+Ratios
+: Are your projections scaling out right in terms of proportions? As revenue goes up, how do costs proportionalise, including do you factor for economies of scale and learning. How do things look at your terminal point?
+Rationality
+: Are the numbers somehow logical? At top line, are you being optimistic or are you flat-out lying to get money? If you are completely unrealistic I will have to just assume everything you say is going to be taken with a ladle of salt, which is not the ideal foundation of a long term partnership.
+Experience
+: Does it look like you know how to run a business and what it will realistically take? One easy way to tell is the number of staff that will need to be hired, which is normally far too low.
+Ambition
+: How much money do you want to make? How big are you thinking? Is this a VC fundable business? You say you want to build a big business but does that reflect in your numbers?
+Homework
+: Do you know anything or everything about your vertical? If your background is not in the category, have you taken the time to learn everything conceivable about it? Are you numbers based on the heuristics and market stats you know or researched?
+Traction
+: What have you actually achieved and what numbers do you actually have. Being data driven is important, but I want to see you are already tracking and accumulating those numbers.
+This is a much faster exercise than you might actually think and regrettably less valuable too. I could tell you it is because I am an excel nerd and so know what a good model looks like or some other reasons based on knowledge, data-sets and experience, but the true answer is, what I want to see and should be in there, isn’t. I can tell this is an exercise for fundraising and not something that will be used operationally. So what should be?
+Your model should be a true reflection of your business model in a structured, idealized format that is also a living, breathing operational tool you live by
+Your model should be a reflection of your business model and the milestones you are going to achieve with the round of funding you raise. It is the basis of how you hire and how you track staffs’ performance.
+So this is what should actually be in there:
+Current numbers and optimizations to improve
+Basis of projections should be what you have actually achieved to date. I want to see your baseline and how these are going to get better. I want you to know how they will get better and why. E.g. We need to hire an SEM guy, we have done ourselves to date, but we have tapped out our current capability. We expect conversion to increase 10% month on month for 3 months after a hire etc.
+Business model
+How your business model will work, given your current assumptions and comprehension. You may not know your ideal pricing model, but you are making assumptions of how your business will succeed based on current assumptions of what you think is possible (Ideally supported by customer validation).
+KPI
+The numbers that you will use to track the performance of your business weekly and monthly. These should actually translate to the actual targets you give you sales team to acquire merchants each month, or marketing team for CPA, CPM etc.
+Logic
+How the model flows, how you came to projecting numbers and the driving assumptions are critical. Your logic doesn’t have to be perfect and it can be flawed.
+Intellectual honesty is super appreciated! Saying ‘we thought about a better way of representing our conversion but we just don’t know enough and it’s something we would like our investor to help through’ is a super attractive trait. It shows you want to learn, that you don’t have an ego and know what you don’t know you don’t know. Those kinds of people succeed because they learn faster than others. Also, the model can serve not as static FYI, but a real basis for conversing about how you will build the business.
+Milestones
+How you know you have made it and are making it. These are short term as well as key ones. As you go on they get more lofty, but they start small and achievable. The key ones I need to know are what will be delivered for when you start raising your next round of financing. I will blog about this, but as an early stage investor, my OKR is getting you to a next round of finance and we need to agree you can raise your targeted next round with those milestones.
+References
+The market is always going to be a ceiling and so an excellent contextualization of your business and achievements. Setting out the current market size as well as your forecasts for it’s (hopeful) expansion enables your numbers to be seen in very different and meaningful light.
+Flexibility
+Your base case is a case and not set in stone. Everything in your business is linked, so think of assumptions like a dial, which can be scaled up and down. If you increase your number of SKU or listings you need more salesmen and buyers, your conversation rate might increase so you will generate more revenue, you also may then incur more COGS, or need to apply more marketing spend.
+You aren’t certain how much you are going to raise so you should be able to flex up and down certain aspects such as the amount of performance marketing spend. If you truly understand the drivers of your business, you should easily be able to respond to questioning about ‘How could we really scale up this business faster?’ or ‘Assuming x and y assumption don’t hold up, how can you manage costs better to extend the runway?” At a later stage business you should be able to answer a question like “How can we move the break even point 6 months earlier?”
+Materiality
+What numbers matter and what don’t; do you know? What creates value and growth and what is a distraction? Are there any levers that may double results and what happens if they are half as effective? With the biggest impact variables, what are the factors that determine their success and if not, how will they kill your business?
+I want to understand what is going to drive significant value and that you are clearly focused on making them happen. I also want to know you know what will kill your business and that you are at least aware and ideally will take steps to mitigate the risks.
+A great example of this is for a low margin business such as say a marketplace where you make a few $ per transaction and may not have multiple transactions per year (i.e. Low LTV). Your CAC will make or break the business. You need to keep your costs low and attempt to increase your revenue, which whilst obvious is easier said than done.
+The point is ergo, are you aware that CAC and LTV defines whether you will succeed or fail, do you have boundaries for what is acceptable on acquiring customers?
+Assumptions
+Fundamentally, I want your assumptions to be clearly labeled. If you know the basic excel etiquette of assumptions having blue text in a yellow box at the top of the page, we are off to a good start. If you create base, upside and down cases you are a pro. Knowing ranges of values of what is reasonable surely illustrates you know your business and being able to reference your numbers against benchmarks is golden. Most fundamentally, I want to know how you came up with those numbers and why they are important.
+How to approach your model again
+So hopefully we are in agreement that your model is not simply to raise money. It is to:
+Give you clarity as to how your business will be viable and under what assumptions you will prove
+The milestones you are going to achieve up to your next round of finance
+Create your actual KPIs for the whole team that they need to achieve to make your vision a reality
+This is how I recommend you approach your model again:
+Understand the key drivers of your business model
+What adds value to the business and what doesn’t matter. In a marketplace these would be the number of listings and number of buyers
+Know what is connected to what and why
+How are the key drivers connected? How does scaling one driver affect another?
+Clarity on KPI
+From the drivers, what are the KPI you are going to have a maniacal focus on? Iterate your model around these and be happy they can be achieved when you give them to your sales team.
+Be object(ive) orientated ;)
+The whole model needs to be targeted to your key objectives. For example, your base case has to deliver your milestones to be achieved for next financing round. Your model needs a reason for existence such that it is not filed away once you raise money.
+Create heuristics that you use to understand how you scale up and down
+You have to know the key assumptions that underpin each part of the model. If your sales team can only onboard ten merchants a month, that is a key heuristic. If you want to scale revenue, you know a 20% increase results in 100 more listings and therefore 10 more sales staff. This is all about having mastery of your business.
+Build for flexibility
+Your model is wrong and it will change. You need to be able to quickly make changes in assumptions. Ideally you should be able to be on a call and make changes ‘on the fly’ and be able to see what the implications are immediately. Building in flexibility takes more time, but you have to.
+Contextualise achievement
+If you have a flexible model and make adjustments you need to understand the implications of that against a benchmark to create meaning. If you have market stats to compare achievement such as % of market, increasing revenue forecasts means you get 2% of the market instead of 1% and can get a feeling if that makes sense of not.
+Start from now
+You need to build your model from the status quo and adjust from there. The money you raise should enable you to make improvements from this point in time and not using imaginary market benchmarks you haven’t achieved. If you are going to double traffic, you need to know how you are going to do that, and that means by doing something tangible.
+Scale by a variable impacted by funding
+If you have more money, within reason, you should be able to grow faster. Therefore you need to know how and your model needs to reflect that. A 50% increase in funding may translate to a 30% increase in performance marketing budget. This then should impact the number of sales staff you take on and therefore the number of listings. If you raise less, the opposite should hold true up to a baseline. The baseline is important as you will always need a minimum number of staff to operate and so additional staff should be a ‘variable.’
+Assume everything is wrong until proven
+Don’t assume numbers typed into a spreadsheet are real and not subject to change. You need a paradigm of validating everything. Kill your darlings regularly.
+Have summary pages
+Your model has the potential to get big, but seriously resist that urge as much as possible. If you are focused on the key drivers you can leave out incidentals. Having said that your model will be a reasonable size so you need to quickly be able to view the outputs of your calculations and assumptions. This means simple dashboard summaries of your KPI and milestones, as well as the ratios and contextual benchmarks to give them meaning.
+Use sensitivity analysis
+At the end of the model add in sensitivity tables around all your key assumptions so you can easily see the range of outcomes that might happen. By viewing these you can get a feeling for what changes in your key variables will mean to your business model and milestones.
+Assume all staffs’ KPIs will be based off the model
+Once you are happy with your model and agreed on the ‘business plan’ with investors, this model is your bible and staff will need to know what to do. The model needs to translate into KPIs. You could actually have tabs that output staff KPI on a monthly basis and track them against achievement. One way or the other, just realize that staff need to deliver on them, so they have to be stretch-achievable.
+Conclusion
+If you do a great model, as an investor, I could imagine me spending more time in your model than in your deck because it would really reflect the business and the founders. We would be able to discuss the drivers of your business and how we can work together to achieve them.
+More so, if you truly understand how your model can beneficially impact how you think about your whole business and your approach to building it, you will take the entire exercise commensurately more seriously. Building one of these things is a pain, but if you truly appreciate the why, you might just enjoy it and generate real business value.
+Does this approach to building your model make sense to you? What challenges do you see with this approach? Let me know in the comments!
+Like this:
+Like Loading…
+Originally published at 
+alexanderjarvis.com
+ on January 12, 2015.

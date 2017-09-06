@@ -1,0 +1,52 @@
+How to Fundraise (3/5): Execution
+This is the third installment of @efLDN’s five-part series on tactical fundraising advice. The previous two posts covered 
+Preparation
+ and 
+Trial & Error
+.With practice rounds behind you it’s time to kick into high gear and enter “active fundraising”. Your slide deck is crisp, your narrative refined and you can talk your way out of any tough question. Fundraising can be exhilarating or exhaustive and it’s in this stage that the emotional roller coaster is most intense. Many founders enter this stage with excitement over their pipeline of warm leads. Quickly though, that interest can turn cold and you may find yourself staring at your inbox….waiting….watching.
+This can be avoided, or at least controlled, by designing a surgical approach to fundraising. Avoiding your initial reaction to rush into a Partner office will pay large dividends later on. Discipline is your friend. Below are several strategies that we suggest a founder adopt as she enters an active fundraise. Venture investing is an asset class that’s driven largely by psychological and social factors. If you can keep these feelings at bay and remain data driven you’ll get a better outcome, or at least some better sleep.
+Execution: The Gauntlet
+The fundraising process
+Track your pipeline: 
+Having a process around your investor pipeline is critical to your success. You can’t monitor what you don’t measure! At any moment in the Execution phase you should be able to immediately quantify: active vs passive leads, investors by process step, how many have passed, etc. If you’re 
+pipeline is robust enough
+ you’ll have too many leads to track in your head and forgetting to follow up is not an option. Your don’t need to use cutting edge software, just make sure that you’re actively maintaining every day. 
+Streak
+ (which I use), 
+Trello
+ or 
+Pipedrive
+ are all solid options and free. Whatever solution you choose, make sure you are tracking the following:
+All relevant investor info (name, email, title, etc.)
+Batch number (see below)
+Process stage (intro, first meeting, second meeting, passed, etc.)
+Date of last interaction
+Reason for passing (critical for continued learning)
+Batching: “
+Batching” is a strategy to mitigate these risks and keep you in the driver seat. In effect, group investors into waves based on priority and attack each wave in a structured process. Investors want to know that they’re seeing the best and regularly speak amongst each other to share notes. Back channel gossip can lead to increased valuations and better terms, but it can also have negative consequences that you can’t control. If you’re a particularly strong team many investors will throw term sheets at you very quickly, in the hopes of securing your deal before you shop the market. Even worse, if you have a bad meeting that single investor’s “pass” can have a ripple effect throughout the community as more will assume your a sub-par business.
+If you still think you may need a bit of work, start with a less important batch and work your way up. If your metrics are killing it, start with your top group and don’t waste your time with less desired funds. How you batch will depend on your needs as a business (patient capital, board leadership, commercial connections) so work with your co-founder to determine your strategy. You should also consider the networks of each fund. If two VCs typically syndicate, they’re probably going to talk so just batch them together from the start. To be fully transparent, this is a lot easier said than done. It’s very unlikely that every investor in Batch #1 will have a schedule that aligns with your plan, so don’t overthink this too much. Do the best you can and prepare to be flexible. The important thing to remember is that you control the fundraising process and deviations from ‘the plan’ are a conscious decision to make sure that you get the best outcome possible.
+“Ideally you want to be getting to term sheet stage with them all simultaneously, so prioritise scheduling with VCs that are behind the curve and push others back to bring them all into line.” — Theo Saville (CEO of 
+CloudNC
+)
+Start with a lead: 
+For the uninitiated, a “lead” is short for lead investor. These are professional investors who set the price and terms of your round, which is usually outlined in the “term sheet”. They’re typically VCs (but not always), who help pull together the rest of the round and represent the interests of all you other investors. They’re the lynchpin- and can help you make or break the deal. “Come back when you have a lead” is phrase you’ll hear all too often in fundraising. Many investors, typically angels, follow a co-invest only strategy and like to know that someone else has the conviction to back the founders with hands on support. It’s not impossible to secure angel commitments without a lead, but it’s much more rare and you want to be focused on the highest use of your time. Plus, once you secure a lead you’ll be in a much better position to secure your dream cap table because you’ve proven there’s market demand. This strategy does not, however, extend to convertible notes/SAFEs. If you know an investor that you want and he is willing to put money down that could be a great option. You just need to decide if that early cash is worth the extra dilution (typically a 20% discount).
+36 hour role: 
+It’s a simple rule: if you don’t hear back after a meeting within 36 hours just assume it’s a pass and move on. If an investor really loves you they will be falling over themselves to bring you in again and meet their Partner(s). In the Valley, you’ll hear stories of term sheets being sent after just one coffee. Sadly, in Europe that’s not so common. Regardless of your geography, investors are paid to make decisions quickly. This may seem aggressive but it does you no good to hold onto a false hope. Take the pass and move on.
+Don’t share who you’re speaking to:
+ Remember when I said investors talk and this can have damaging effects on your round? You can Batch all you want but if you go and blurt out “I’m talking to [Fund]” you kind of negate the point. If asked, dodge the question or use your best Jedi mind trick to change the topic. “I’m not able to share that info right now” may seem robotic but it gets the job done. If you must, give 
+one
+ example of your strongest lead and assume it will be referenced. Another common mistake founders make is connecting with an investor on LinkedIn. Don’t do that! If I see that you’ve recently connected with an investor there’s a 90% chance you just had a meeting.
+Stamina (again)
+: This is a marathon, not a sprint. It’s very common for founders to quickly grow sick of fundraising and begin to consider bottom tier investors or aggressive term sheets, simply to end the misery and “get back to work”. While I understand the feeling, it’s important to keep your head up and spirits high. This is a short(ish) term process which has VERY long term implications for your business. You owe to it yourself, your co-founder and your (future) employees to sacrifice the time and energy for a good outcome. Remember, there’s no “normal” time period with fundraising. A round is heavily influenced by a multitude of factors, many of which are out of your control. You can easily find tales of term sheets within hours or tribulation stories over many months. In my opinion, you should budget ten to fifteen weeks for this stage. It’s important for your own sanity to set realistic expectations for yourself to measure actual progress.
+“Fundraising is your opportunity to use investors to improve your business.” — Marc Sloan 
+(CEO of 
+Context Scout
+)
+In short, prepare yourself for battle. While no one will claim that fundraising is fun, many will agree that it makes you a better founder. Having a tight narrative, clear vision and solid commercial knowledge will yield huge benefits in the future with sales, hiring, PR, etc. If you keep your head down and your confidence high, pretty soon term sheets will start rolling in. That’s when the real fun begins…
+To continue to the next section of our framework please click 
+here
+. Or you can start from the beginning with our 
+first post
+. Special thanks to 
+Savitri Tan
+ for helping me write this post.

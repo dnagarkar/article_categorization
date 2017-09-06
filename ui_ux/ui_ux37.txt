@@ -1,0 +1,53 @@
+UX vs UI vs IA vs IxD : 4 Confusing Digital Design Terms Defined
+Once upon a time, if you said the word “design”, the odds were overwhelmingly likely you were talking about graphic design. But nowadays, the digital world is becoming increasingly more complicated and a lot of new job positions appearing, which lead to confusion for people outside or new to the design industry. Here’s a quick overview on the four different primary forms of design to help you understand what they mean.
+UX Design (User Experience Design)
+image by: Netizen Experience
+As is found on Wikipedia “
+User experience design (UXD, UED or XD) is the process of enhancing user satisfaction by improving the usability, accessibility, and pleasure provided in the interaction between the user and the product. User experience design encompasses traditional human–computer interaction (HCI) design, and extends it by addressing all aspects of a product or service as perceived by users.
+”
+UX designer is the person in charge with creating the products “logic” via wireframes and prototypes via software like 
+Axure
+, 
+Mockplus
+, 
+JustInMind
+, etc. Communication is one of the critical skills of the UX designers. They also conduct research, competitive analysis at the beginning as well as usability testing and A/B testing after the project has launched. UX designers are primarily concerned with how the product feels. If your website or app is difficult to use, users will probably be frustrated and move on to something else. If they have a great experience, they’re more likely to come back and tell their friends how great your app is.
+Deliverables:
+ Wireframes, Prototypes, Storyboards, Sitemap, Written specifications.
+Tools of the trade:
+ Sketch, Axure, Mockplus, Fireworks, UXPin
+UI Design (User Interface Design)
+image by: julessdesign
+Author and founder of Adaptive Path — a user experience consultancy, Jesse James Garrett, defines interface design as being all about selecting the right interface elements — like text, buttons, text fields, color coded lists, etc — for the task the user is trying to accomplish and arranging them on the screen in a way that will be readily understood and easily used. The goal is make the user’s interaction as efficient and simple as possible.
+Interface elements include but are not limited to:
+Input Controls: buttons, text fields, checkboxes, radio buttons, dropdown lists, list boxes, toggles, date field
+Navigational Components: breadcrumb, slider, search field, pagination, slider, tags, icons
+Informational Components: tooltips, icons, progress bar, notifications, message boxes, modal windows
+Containers: accordion
+Tools of the trade:
+ Photoshop, Sketch, Illustrator, Fireworks, InVision
+IA (Information Architecture)
+imgae by: ga-core.s3.amazonaws.com
+Information architecture (IA) involves the way a website/app is structured and how the content is organized. The goal is to help users find information and complete tasks. “
+In other words, information architecture is the creation of a structure for a website, application, or other project, that allows us to understand where we are as users, and where the information we want is in relation to our position. Information architecture results in the creation of site maps, hierarchies, categorizations, navigation, and metadata. When a content strategist begins separating content and dividing it into categories, she is practicing information architecture. When a designer sketches a top level menu to help users understand where they are on a site, he is also practicing information architecture
+”- from 
+uxbooth.com
+Some qualifications for IA:
+1. Experience documenting complex digital properties (websites, mobile apps, products, and system services)
+2. Extremely detailed documentation, ability to find discrepancies, cracks, etc. amongst complex site documentation
+3. Proficient with Mockplus, Axure, Omnigraffle, Keynote, as well as Visio and any other programs directly related to IA
+4. Analyze available information and assets to assess optimal IA approach
+Strong communication skills (written and verbal), and an ability to present effectively to agency and client staff
+5. Needs to be analytical, hardworking, creative, curious and interested in people and ideas
+6. Must be a confident and motivated self starter
+IxD (Interaction Design)
+Definition of IxD:
+ “
+Interaction Design (IxD) defines the structure and behavior of interactive systems. Interaction Designers strive to create meaningful relationships between people and the products and services that they use, from computers to mobile devices to appliances and beyond. Our practices are evolving with the world
+.”- from 
+ixda.org
+IxD designer is the people in charge of the websites/apps moving elements & interactions. If you’ve seen a cool animation on a website or app, that made you say wow or that is really cool, that’s the stuff motion designers do.
+Job description of IxD designer at Google:
+In an Interaction Designer role, you’ll tackle complex tasks and transform them into intuitive, accessible and easy-to-use designs for billions of people around the world-from the first-time user to the sophisticated expert. Achieving this goal requires collaboration with teams of Designers, Researchers, Engineers and Product Managers throughout the design process-from creating user flows and wireframes to building user interface mockups and prototypes. At each stage, you will anticipate what our users need, advocate for them and ensure that the final product surprises and delights them.
+So in an oversimplified and user-friendly nutshell, UX Design is how a user feels about the apps, UI Design is what, where and how elements work on the apps, Information Architecture is how a app is organized, and Interaction Design is how the user and app act and react to each other.
+Last but not least, the boundaries between each of these various design roles are very fluid. The IxD is quite similar to UX design in it’s approach as it’s part of the UX design cycle, so in some cases these roles may have a lot of overlap.

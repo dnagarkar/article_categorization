@@ -1,0 +1,136 @@
+Buttons in UI Design: The Evolution of Style and Best Practices
+by 
+Nick Babich
+Button is an ordinary, every-day element of interaction design. Although button looks like a very simple UI element, its design has changed a lot over the past decades. But still button UX design is always about recognition and clarity.
+In this article we’ll overview the evolution of the button design and figure out what is the most important best practices you should follow in order to create effective buttons.
+The Evolution of Style
+Three-Dimensional Button
+Since the early days, operating system buttons relied on the appearance of relief and shadow to distinguish them from their surrounding context. This design solution was based on the simple principle— using a border, gradient and drop-shadow makes the element stand out against the background and content and this makes it easily identifiable as a clickable element.
+Notice how the buttons appear raised
+This Windows 95 dialog box made use of heavy shadows and highlights to create 3D effect which was used to help users interpret visual hierarchy and understand which elements are interactive.
+Elements that appear raised look like they could be pressed down (clicked with the mouse)
+Skeuomorphic Button
+In digital design, skeuomorphism is when UI elements are made to look like real life objects, whether it be copying a real life texture, or making a button look 
+like a real life button
+. Skeuomorphic designs are intended to help users understand how to use a new interface by allowing them to apply some prior knowledge about the object. The calculator metaphor in example below is intended to help users transfer previous knowledge about physical calculators to the digital environment.
+Image credit: theultralinx
+Flat Design Button
+One of the major shifts that has happened in UI design recently is the trend away from skeuomorphic elements towards more flat ones, stripped of 3D effects. Unlike skeuomorphic design,
+ flat design 
+was seen as a way to explore the digital medium without trying to reproduce the appearance of the physical world. As a consequence, it removed the heavy-handed visual cues that have been traditionally used to communicate clickability/tapability to users.
+Regular and Flat button
+Calculator app for Apple iOS
+When everything is flat, how do users know which pieces are buttons?
+Users still need 
+visual signifiers
+ 
+to know where they can click/tap on a page: 
+perceptible clues
+ that help them understand how to use interfaces. Thus, color is especially important in flat design, because when you’re using flat buttons, these colors will be one of the main identifiers that help the user recognize them.
+Almost Flat Design and Floating Action Button
+Almost flat design was an evolution of the original (or ultra) flat design. This style is mostly flat, but makes use of subtle shadows, highlights, and layers to create some depth in the UI. Google’s 
+Material Design
+ language is one example of almost flat design with the right priorities and it brings a new type of buttons: 
+floating action button
+.
+ These buttons are layered over the top of the interface and draw attention to promoted or primary actions. They act as call to action buttons (“used for a promoted action”), meant to represent a single action users perform the most on that particular screen.
+Maps by Google is a great example of FAB done right. The main action performed by users on Maps is to get directions, so it makes perfect sense for an FAB that does just that.
+Google Map in Android
+Another good example of using FAB in UI design is Evernote. Despite having a mostly flat UI, the app provides a few subtle shadows on the navigation bar and the floating action button (‘add new’).
+Evernote app for Android
+Ghost Button
+In 2014, one of the dominant design trends to pass through the UI design world has been the 
+ghost buttons
+. Ghost buttons
+ 
+are those transparent and empty buttons that have a basic shape form, such as a rectangular or perhaps squared. They are also have titles like “empty”, “naked” or “hollow” buttons. Ghost buttons are generally bordered by a very thin line, while internal section consists of plain text.
+Normal state (left) and Focused state (Right)
+The origin of the Ghost Button came from the flat design revolution and ghost buttons become trendy when Apple released iOS 7. Many of the buttons on iOS’s UI are what we would call a ghost button. Simple and plain rectangular shape in combination with neat font inside the frame look perfectly within flat UI.
+‘Name’, ‘Release Data’ and ‘Featured’ are ghost-like buttons. ‘Get’ is a ghost button.
+They most often appear as Call to Action (CTA) buttons and offer a clean look. Specular site is a good example of usage for this type of buttons.
+Specular has a flat button as a primary ‘Purchase Now’ action and a ghost button ‘Take Tour’ as a secondary button.
+Basic Best Practices for Buttons
+Before you start designing your buttons it’s a time to think about how the design communicates 
+affordance.
+ How do users understand the element as a button? Most probably you should:
+Make buttons look like buttons (see 
+Shape
+)
+Make it easy for user to interact with buttons (see 
+Size and Padding
+)
+Label buttons with what they do (see 
+Label
+)
+Use color contrast to guide users to action (see 
+Color
+)
+And be sure to maintain 
+consistency 
+throughout your interface controls, so the user will be able to identify and recognize your app or site UI elements as buttons on each page.
+Shape
+A safe bet is to make buttons 
+square or square with rounded corners, 
+depending on the style of the site or app. Rectangular shaped buttons have been introduced into the digital world a long time ago and users are familiar with them.
+Some research suggests that rounded corners enhance information processing and draw our eyes to the center of the element.
+Rounded rectangular button
+You can be more creative and use other shapes such as circles, triangles or even custom shapes, but keep in mind the latter might be a bit more risky.
+Buttons with rounded corners are easier on the eyes. Credits: 
+UX design agency Ramotion
+Size and Padding
+The size of buttons also play a key role in helping users to identify these elements. You should consider the size of button elements as well as the 
+padding 
+between clickable elements:
+Size.
+ 
+When tap is used as a primary input method
+ for your app or site you can rely on 
+MIT Touch Lab 
+study in order to choose a proper size for the your buttons. MIT study founds that averages for finger pads are between 10–14mm and fingertips are 8–10mm, making 10mm x 10mm a good minimum touch target size.
+Image Source: 
+uxmag
+This suggestion isn’t for perfect error-prone touch targets, but rather to minimize the number of errors to the practical level while balancing other important characteristics (like screen information density):
+Image credit: 
+ux.stackexchange.com
+When mouse and keyboard
+ 
+are the primary input methods
+, button measurements can be slightly reduced to accommodate dense UIs.
+Padding
+. Padding between buttons helps separate the controls and gives your user interface enough breathing space.
+Padding between flat buttons in Material design dialog
+Label
+You should choose a proper labels for your buttons. The selection should be based on the 
+principle of least astonishment: i
+f a necessary button has a label with a high astonishment factor, it may be necessary to change the label.
+A rule of thumb —
+label buttons 
+with what they do. Add a clear message of what happens after the click/tap or indicate what an element does using action verbs.
+In example below you can see a dialog box which appears when user is trying to upload a file to the Dropbox using web app. This message is offering a single button which has a label ‘
+Awesome!’
+ And this label might be confusing for regular users because it’s not clear what the button will do once you click it.
+Image credit: uxmatters
+Color
+When picking a 
+color palette
+, remember to think about how colors will help users 
+navigate and understand the action
+:
+Use color and contrast to help users see and interpret your app’s content, interact with the right elements, and understand actions. In example below we use red for the button that performs a potentially destructive action.
+Notice how the action ‘Uninstall’ is stronger in colour and contrast. Image credit: Material Design
+Make the most important button (especially if you use them for 
+calls to action
+) look like it’s the most important one. For example, Amazon using a contrasting yellow button to drive user attention to the right action.
+Amazon uses a contrasting colors for CTA button ‘Add to Cart’
+Conclusion
+Every button (classic or modern one like 
+ghost button or floating action button
+) is meant to
+ direct users 
+into taking the action you want them to take. Think of the web or app as a conversation started by a busy user. The button plays a crucial role in this conversation — a smooth interaction keeps the conversation flowing along while glitches (such as an unable to find a right button) create interruptions and, at worst, breakdowns.
+Thank you!
+Follow UX Planet: 
+Twitter
+ | 
+FacebookOriginally published at 
+babich.biz

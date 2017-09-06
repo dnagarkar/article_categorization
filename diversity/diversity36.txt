@@ -1,0 +1,49 @@
+The Big Lie of the Google Employee’s Anti-Diversity Manifesto: Biology is why Women Underrepresented in Tech
+Over the weekend, a 
+10-page document that had been making it’s way internally within Google
+ was published by Gizmodo that argued against diversity programs trying to bring more women into the tech industry citing “biological differences” between men and women.
+Although the document is fairly well written (i.e. good grammar, sound structure, etc) it is full of false conceptions and statements that could have been easily addressed by using Google which is doubly ironic given the author works at Google.
+Yonatan Zunger has 
+an excellent write up of the 3 biggest problems with the manifesto
+ which you should read but I’ll also summarize below.
+Despite speaking very authoritatively, the author does not appear to understand key causes of disparities in gender representation in tech
+The author does not appear to understand engineering the “soft skills” he derides such as empathy are actually key skills needed to be successful as a senior engineer/leader in tech
+The author has created a challenge for leadership at Google by posting a sexist screed and now having the company make the choice as to whether blatant sexism is acceptable to their company culture or punishing someone for having an opinion. Basically Google management is now stuck between a rock & a hard place.
+Yonatan goes into much detail on the second & third points but leaves it to others to provide more detail on the first item. Since I had some free time this morning I spent about an hour reading research about gender representation in tech to understand where authoritative statements from the manifesto such as
+I’m simply stating that the distribution of preferences and abilities of men and women differ in part due to biological causes and that these differences may explain why we don’t see equal representation of women in tech and leadership
+This seems like a good time to bring up the eternal 
+nature versus nurture argument
+. Basically is the lack of women in tech due to something genetic or due to their cultural environment?
+After about an hour of research I couldn’t find any meaningful peer reviewed research study or paper that argued that biological differences in men versus women (e.g. men have more testosterone than women and women have more estrogen than men) accounted for differences in participation or interest in science and technology jobs. I did find a lot of research showing how cultural and social dynamics impacts this research and participation.
+Research on Social versus Biological Impact
+The most substantive work I found on this topic was the 134-page paper 
+Why So Few: Women in Science, Technology, Engineering and Mathematics
+. You don’t have to read it all. A key finding from their research in the nature versus nurture discussion is excerpted below
+One finding shows that when teachers and parents tell girls that their intelligence can expand with experience and learning, girls do better on math tests and are more likely to say they want to continue to study math in the future. That is, believing in the potential for intellectual growth, in and of itself, improves outcomes. This is true for all students, but it is particularly helpful for girls in mathematics, where negative stereotypes persist about their abilities…When test administrators tell students that girls and boys are equally capable in math, however, the difference in performance essentially disappears, illustrating that changes in the learning environment can improve girls’ achievement in math.
+…
+The issue of self-assessment, or how we view our own abilities, is another area where cultural factors have been found to limit girls’ interest in mathematics and mathematically challenging careers. Research profiled in the report finds that girls assess their mathematical abilities lower than do boys with similar mathematical achievements. At the same time, girls hold themselves to a higher standard than boys do in subjects like math, believing that they have to be exceptional to succeed in “male” fields. One result of girls’ lower self-assessment of their math ability — even in the face of good grades and test scores — and their higher standards for performance is that fewer girls than boys aspire to STEM careers.
+…
+One of the largest gender differences in cognitive abilities is found in the area of spatial skills, with boys and men consistently outperforming girls and women. Spatial skills are considered by many people to be important for success in engineering and other scientific fields. Research highlighted in this report, however, documents that individuals’ spatial skills consistently improve dramatically in a short time with a simple training course.
+The one cognitive difference is that men are typically better women at manipulating 2-dimensional or 3-dimensional spaces in their heads. This would make sense with regards to women not being represented as well as men in a field like architecture (
+although 42% of architecture degrees are awarded to women
+ 🤔) but doesn’t really explain disparities in interest designing and building mobile apps like SnapChat or Instagram.
+It is quite telling when you look at objective metrics for achievement such as GPA or standardized test score with regards to gender differences between men & women, it often seems that women hold their own quite well against men.
+Math & Science GPA and Credits for High School Males versus Females
+Women & Men perform similarly well on Computer Science AB
+In the chart above, it shows women performed just as well as men in advanced placement tests for 
+Computer Science AB
+ which included topics on algorithms, data structures and data abstraction.
+However despite holding their own in subjects related to engineering and CS prior to college, there is a whittling away of interest in STEM careers as women face more social pressure to stay away from male dominated fields.
+Social Pressure and Male Dominated Fields
+There is an informative article on social pressure women face in choosing STEM careers in the New York Times article titled 
+Why Are There Still So Few Women in Science?
+ which contains several eye opening stories for people who are unaware of the social pressures women face to choose “gender appropriate careers”. For example, this excerpt from the article
+Although Americans take for granted that scientists are geeks, in other cultures a gift for math is often seen as demonstrating that a person is intuitive and creative. In 2008, the American Mathematical Society published data from a number of prestigious international competitions in an effort to track standout performers. The American competitors were almost always the children of immigrants, and very rarely female. For example, between 1959 and 2008, Bulgaria sent 21 girls to the International Mathematical Olympiad, while the U.S., from 1974, when it first entered the competition, to 2008, sent only 3; no woman even made the American team until 1998. According to the study’s authors, native-born American students of both sexes steer clear of math clubs and competitions because “only Asians and nerds” would voluntarily do math. “In other words, it is deemed uncool within the social context of U.S.A. middle and high schools to do mathematics for fun; doing so can lead to social ostracism. Consequently, gifted girls, even more so than boys, usually camouflage their mathematical talent to fit in well with their peers.”
+The article also raises a salient point from the study on mathematical competition performance
+That the disparity between men and women’s representation in science and math arises from culture rather than genetics seems beyond dispute. In the early 1980s, a large group of American middle-schoolers were given the SAT exam in math; among those who scored higher than 700, boys outperformed girls by 13 to 1. But scoring 700 or higher on the SATs, even in middle school, doesn’t necessarily reveal true mathematical creativity or facility with higher-level concepts. And these were all American students. The mathematical society’s study of the top achievers in international competitions went much further in examining genius by analyzing the performance of young women in other cultures. The study’s conclusion? The scarcity of women at the very highest echelons “is due, in significant part, to changeable factors that vary with time, country and ethnic group. First and foremost, some countries identify and nurture females with very high ability in mathematics at a much higher frequency than do others.” Besides, the ratio of boys to girls scoring 700 or higher on the math SAT in middle school is now only three to one. If girls were so constrained by their biology, how could their scores have risen so steadily in such a short time?
+In Conclusion (aka TLDR )
+There’s ample evidence that the disparity in women in STEM fields isn’t due to innate ability as a bunch of studies and charts above show but instead because modern society deems these jobs as inappropriate for women and there are many implicit & explicit social pressures that work to convince women to stay out. If words don’t convince you, watch this video. It changed my life and my views on this topic forever.
+Now Playing: 
+DJ Khaled
+ — 
+I’m the One ft. Justin Bieber, Quavo, Chance the Rapper, Lil Wayne

@@ -1,0 +1,106 @@
+Your Job Ad: The Start of a Great Hiring Experience
+Here’s a favorite: 
+“Excellent verbal and interpersonal communication skills.”
+ Are there jobs for user experience designers that don’t need excellent verbal and interpersonal communication skills?
+Then there’s this one: 
+“Excels in a high growth, fast paced environment.”
+ In case you were only considering positions in no-growth, slow-moving environments.
+And this one: 
+“Strong attention to detail and good communication and team skills.”
+ Apparently, they need someone with a strong attention to the detail in the use of serial commas.
+All of these, you might’ve guessed, are job requirements from ads for user experience designers. The companies behind these ads are looking for… (Wait for it…) 
+“critical, out-of-the-box thinkers with ninja-like skills in conceptual ideation, communication hierarchy and storytelling, and design execution, who can crush simultaneous projects while remaining flexible enough to go the extra mile when necessary.”
+You probably couldn’t tell by reading the ads, but all these companies are trying to hire the best and brightest designers they can, just like everyone else. (Nobody tries to hire mediocre, dumb designers, do they?) Their awkwardly written ads aren’t helping them one little bit.
+The #1 Goal of Your Job Ad: Set the Tone and Expectations
+For many designer candidates, your ad is the first thing they’ll see.
+ It’s the only exposure they’ll have to your organization until after they’ve applied and you’ve called them back. Everything in your ad needs to convince a candidate to apply.
+No, that’s not quite right. Not just apply. It needs to convince them that they want to work for you. It needs to convince them to put your job as their first choice. A great job ad goes way beyond just encouraging a potential new hire to apply. It inspires and creates desire to be part of your team.
+Candidates, especially those with amazing experience and talent, will read a lot into your ad. They’ll decide if your company truly values design. They’ll determine if your team knows what they’re doing. They’ll try to determine if the projects are the kinds of projects they would love to work on.
+Most designer job ads go to great lengths to prove the organization doesn’t understand design. (Otherwise why would they have designed an ad so poorly?) The ads try to prove that your team doesn’t know what it’s doing. (Otherwise why would you require someone with such crazy experience and backgrounds?)
+The ads provide virtually no description of what the projects are like, except for the blandest of generalities. What top designer could get excited about working on 
+“end-to-end digital projects”
+ or 
+“concepting, designing, and delivering new and refreshed creative that meets marketing objectives and acquisition strategies?”
+ (Whoo-hoo! And, yes, 
+“concepting”
+ isn’t a word.) Why do organizations put so much work into making their most interesting project work sound so dull?
+Hiring Is a Designed Experience
+If you don’t think designing a great candidate experience is UX design, you are sadly mistaken. And, you’re losing great candidates.
+For most organizations, hiring falls under what we’d call unintentional design. People in distant parts of the organization who have nothing to do with the new position are the ones who create the hiring procedures. They create standard ad templates, not because that’s the best way to attract top talent, but because it makes processing the paperwork faster. They assume everyone knows why they’d want to join the company, so why go to any effort to make it easy for the candidate?
+This approach comes from a time when there was more supply of talent than there were positions to fill them. And in some industries, that’s still true. But, in user experience design, in most places, there are substantially fewer great designers than there are open positions. (And that’s getting worse, as more companies discover how competitively advantageous a great design can be.)
+When you’re trying to attract someone who has a lot of choices available to them, you need a different experience. Allowing the underlying processes and systems to design your hiring experience won’t cut it.
+What Does a Top Designer Want to Know About Your Job?
+Want to know what experienced, talented designers look for when they’re considering a new position? Ask them. That’s exactly what we did.
+There was practically no variation in what they told us. Everyone we talked to honed in on the same questions, with a consistent order of importance:
+How interesting and challenging will the projects be?
+Who will my manager be and what will I learn from them?
+How is design valued in the organization?
+How much do my future co-workers enjoy working at the company?
+Will I get a decent compensation and benefit package?
+Is the work conveniently easy to get to?
+Notice that pay, benefits, and location are below how challenging the projects will be and whether they’ll learn from the boss. These were very far apart in the designers’ discussions. They were far more interested in the top items than the lower ones. It’s funny how rarely we answer the most important items in the ad.
+Most Job Ads Are Not Helpful at All
+When we surveyed job ads, we found they had a different layout than what people wanted to know. Go look at them.
+You’ll see the ads almost always have the same format. Each has a vague description of the company. (No candidate told us they cared about this — they said they know how to use the Google to learn about the company and its products.)
+Some ads have a very brief, generic description of the work. Here’s the 
+entire
+ description for a UX Director position at a world-renown tech company:
+You’ll collaborate with other UX team members to ensure our product provides a consistent user experience no matter where it was developed.
+Really? Wow! Can’t wait to tackle 
+that
+ challenge. We found many that didn’t describe the work at all.
+Instead, the bulk of most ads take place in two consistently named sections: 
+Responsibilities
+ and 
+Qualifications
+. Even here, we see vague generalities, such as these we’ve collected from typical ads:
+Partners with Product Managers and Engineers to develop and refine product requirements.
+Develops and helps other develop simple solutions.
+Handle the UX/Interaction Design needs of projects you are assigned to.
+High level of finishing work on raster and vector graphics.
+Mastery of Adobe CS, mainly Photoshop and Illustrator.
+Intuitive understanding of and empathy for everyday users: their motivations, goals, and abilities.
+5+ years of experience working as a designer.
+Let’s go back to what the best designers want. They want to know what the challenges of the projects will be. They want to know how much they’ll learn, particularly from their manager. Where is this in the ad?
+Companies use this format, not because it’s mandated by law or some rule of the universe to specify jobs like this, but because everyone else does it this way.
+As Grace Hopper said, 
+“The most dangerous phrase in the language is, ‘We’ve always done it this way.’”
+ We can do better.
+Understanding the Job First
+If we intend to design a great hiring experience, we need to start where you always start with intentional design: understanding the goal: 
+Hire someone who will do a fantastic job.
+ To fulfill that goal, we need to know what it means to do a job fantastically.
+That means understanding what the work is. Teams that understand how to create a great hiring process start by taking apart the job. What will the new person’s first year of accomplishments be? If they are as amazing as we’d like, what will set their accomplishments apart from people who would not be fantastic at the job? What are all the major steps to making those accomplishments happen?
+For example, I’m working with a team that recently decided to pursue building out an organization-wide design system. Their soon-to-be-hired designer will be a key member of that process, spending most of their year working on transitioning the organization. The team specified all the activities that will go into their design system project:
+Making an inventory of the different websites and products the design system will affect.
+Identifying archetype pages and screens from each site and product that represent the UI challenges. (Solving for these will cover most of the cases for the entire system.)
+Pulling out patterns from the archetype pages and screens.
+Prioritizing which patterns to design for first.
+Creating a cohesive style guide and design language to account for the critical patterns.
+Interacting with key representatives from various organizations to ensure they understand the emerging style guide and design language, collecting their feedback.
+Working with “beta teams” to implement the style guide first for their products, to work the kinks out of the system.
+Put together training on the design system.
+Build a living style guide to communicate the design system.
+Consult to designers and developers across the organization to help them with questions and issues on the design system.
+Start working on version 2.
+Notice the level of detail here. Each one of these bullets requires different skills. Some will be heavy on the design and coding side, while others will be more inter-team communication and coordination. The role of the designer is very broad here.
+By taking the time to understand what each project will entail, the team could see what the new designer needs to undertake. They can balance that with the skills they already have allocated to the project. Because of this level of detail, the job ad becomes easier to write in an exciting and interesting fashion.
+Designing an Ad That’ll Attract Top Talent
+A job ad is a call for help. Literally. (That’s why it’s always been in the Help Wanted section of the newspaper.)
+If you need someone to come fix your roof, how would you ask them to come work for you? You wouldn’t start your conversation with a list of responsibilities (
+“You’ll nail shingles to the framing, as required.”
+) or qualifications (
+“Must demonstrate proficiency in safely climbing ladders with tools and supplies.”
+)
+No, you’d start with what you need them to do. You’d describe the problem you have and you’d explain why you need someone of their caliber.
+That client trying to build out a design system? This is from their job ad:
+Over most of the next year, one of our highest priority projects is building a new design system for all of our web sites (we have more than 60!) and our customer-facing products (including our new suite of mobile apps). It’s challenging, because we need to develop a detailed inventory of thousands of pages and screens, identify design patterns, then decide what the best visual and interaction designs should be for each of them.
+You’ll be part of a core team who will do all the research, design, and implementation. You’ll help decide what our products and services will look and behave like, working along side many stakeholders (some of whom have strong opinions, but they are all onboard). You’ll build a living style guide to help communicate the design system out to the organization, along with being a key point of contact.
+You’ll play a key role in the design system strategy and its tactical implementation. This is our first time doing this and we’re looking for someone who has great experience to share. In return, you’ll learn a ton about the unique challenges we have in the travel industry and work alongside an incredibly talented team of designers and developers.
+This is a solid call for help. It talks about the challenges and what makes the project interesting. An experienced designer, who loves a big challenge, and has tackled large design systems before, could read this and get very excited about the job.
+For the hiring team, it’ll be easy to see if someone qualifies, not just for being a designer, but for creating the design system. Have they created a design system like this before? How did they figure out the patterns? How many target implementations did they have? How did they plan the rollout?
+If they’ve done one or two projects just like this before, do we really care whether they have “5+ years of being a designer” experience? If they haven’t, what’s in their past experience that proves they’re perfect for this assignment? In deep conversations about comparable work they’ve done, we can clearly assess whether they have what it takes. But they have to apply before we can have those conversations.
+Generating Excitement for Our Position
+Getting a talented designer excited about the position is the job ad’s top priority. We can’t do that with the generic job ad format.
+We need to take control, break the rules, and design the hiring experience we want. The job ad is the first impression of your organization and your work. Let’s use our design skills and make it an intentional experience.This article was originally published on 
+UIE.com

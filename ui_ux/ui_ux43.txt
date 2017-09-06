@@ -1,0 +1,121 @@
+The Evolution of UI/UX Designers Into Product Designers
+What is a product? Until recently, the term was only used in relation to something material and often found in a retail store, but nowadays it is coming to mean digital products as well. 
+Apps are modern products.
+Apps are modern products. Image credit: 
+Wired
+When it comes to building great products, design is the most important “feature.” We’ve moved into the stage where product design dominates — 
+it’s
+ what sets companies apart and gives a real edge over competitors.
+The design industry has evolved quite a lot in the last few years and today there are a number of different responsibilities encompassed by the umbrella term designer: UX Designers, UI Designers, and Product Designers. “What is the difference between these job roles?” is a fairly common question in design industry. Let’s attempt to distill what each of these titles really mean, and look at why the evolution of UI/UX Designers into Product Designers is a logical development in the era of modern technology.
+UX, UI, Product: Who Does What?
+All of these roles have one thing in common — they all design how a user interacts with a product. But these people all perform slightly different functions to reach the same goal.
+UX Designer (User Experience Designer)
+UX designers are primarily concerned with how the product 
+feels.
+ The goal is make the user’s interaction as efficient and simple as possible. UX designers look at design from the mindspace of a user and squash potential problems by:
+Writing various product user scenarios and building patterns of interaction.
+Resorting to various kinds of testing and watching what users do (e.g. usability-lab studies, eye-tracking, A/B testing, email surveys, etc).
+Prototyping an interface and creating the products logic via wireframes.
+Low-fidelity prototyping out of cardboard in Nintendo is one way to actually know what a product would feel like. Image credit: 
+Nintendo
+UI Designer (User Interface Designer)
+UI designers, on the other hand are the people who are primarily concerned how the product 
+looks
+. They responsible for how we see the product in its final version. They are in charge of designing each screen or page with which a user interacts and ensuring that the user interface visually communicates the logic that a UX designer has offered (for example, a UI designer creating a data dashboard can front load the most important content at the top). UI designers are also responsible for creating a style guide and unified visual language that is applied across the product.
+UI Designer finds the best way to highlight elements that should grab user’s attention. Image credit: 
+Behance
+Product Designer
+Product Designer is a sum-up term used to describe a designer who is generally involved in the creation of the 
+look 
+and 
+feel 
+of a whole product. Many product designers consider themselves to be 
+designers who design experiences
+. This means that a product designer is the one who gives real insight to UX and UI designers when it comes to how certain features should work, or how a certain UI control should look.
+Product Designer is responsible not only how the experience 
+looks
+, but also 
+how it works
+ and 
+what it does
+. Credits: 
+Behance
+Companies use the term ‘Product Designer’ differently; the most general definition is a person who’s a champion of a user’s needs. As Justin Edmund 
+said,
+ “
+A product designer oversees product vision from a high level (how does this feature make sense for where we want to be in 6 months) to a low execution level (how does styling this button this way impact how the user flows through this function).
+”
+Drivers of Design Evolution
+Design and its component practices are like any other craft: you can always develop a deeper familiarity with the minutiae and master your skills by taking more active role in whole design process. There’s a general positive trend of designers taking on a larger scope of responsibilities within the product development process, and here are some drivers for this trend:
+Design Thinking
+Design thinking
+ has become a popular approach for designing a product. 
+The best design reflects the product’s goals.
+ Good designers have always applied design thinking to product design, whether physical or digital, because it’s focussed on end-to-end product development, not just the “design phase” part.
+Design thinking is a human-centric creative process to build meaningful and effective solutions for your users. Credits: 
+Cathy Wang
+When thinking in products, designers should 
+understand business objectives
+ and be able to answer the following questions first:
+What problem do we solve?
+Who has these problems?
+Why are we doing this?
+How are we doing this?
+What do we want to achieve?
+Answering these questions helps designers 
+understand the user experience of a product as a whole
+; not purely as interaction (
+feel
+) or visual (
+look
+) design part. Only after that it makes sense to move to the actual 
+state offinding a design solution
+ which includes following 6 phases:
+Empathize
+: Conduct research to develop a deeper understanding of your users.
+Define:
+ Combine your research and observe where your users’ problem exist. In pinpointing your users’ needs, begin to highlight opportunities for innovation.
+Ideate:
+ Generate a range of potential solutions by giving yourself and your team total freedom.
+Prototype:
+ Build a prototype (or series of prototypes) to test your solution. Creating a prototype lets designer see if they’re on the right track, and often sparks different ideas that wouldn’t come in other cases.
+Test
+: Return to your users for feedback. Ask yourself ‘Does this solution meet users’ needs?’
+Implement
+” Put the vision into effect. Ensure that your solution is materialized and works for your users. This step is crucial for the entire process.
+Design Thinking framework. Credits: 
+Sarah Gibbons
+Collaborative Work
+More and more companies try to unify designers and developers into the development process. This new way of product development has two major benefits:
+Working together in a collaborative environment creates a situation where team members are encouraged to think wildly. Also embracing the critique of a whole team is the best way to refine something that, if designed in isolation, is at risk of becoming impossible to use.
+Methodologies such as 
+Agile
+ and 
+Lean
+ leads to designers and other team members working more cross-functionally with larger scopes of responsibility.
+A unified process fosters better work.
+Continuous Improvement (Iterative Design)
+Unlike more traditional forms of design, design process for digital products isn’t a one-time thing and designers should never assume to get everything right on the first go. Implementation often reveals gaps in the design: undocumented conditions or bad assumptions about product usage, which hard to predict without shipping the product.
+How Spotify builds products. (Think It, Build It, Ship It, Tweak It). Credits: 
+speckyboy
+To design a successful product you need to adopt a process of 
+continuous improvement. 
+Iterative design follows the idea that design should be done in repeated cycles: it’s a process of constantly refining and improving the product based on both 
+qualitative 
+and
+ quantitative feedback data from your users
+. This is a great opportunity for designers to see a bigger picture, improve their work based on user feedback and make the product inherently more valuable to the user.
+Product design is an iterative process that relies on design thinking. Credits: 
+welovelean
+Conclusion
+Product design represents the next enlargement of design scope, from just user experience design towards an even broader state of design for an entire product.
+The best products are built by people who understand the whole product, not just their silo. In order to make such products, UI/UX Designers should look to evolve into Product Designers who are able to generate and process a additional information to get the best result.Nick Babich is a developer, tech enthusiast, and UX lover. He has spent the last 10 years working in the software industry with a specialized focus on development. He counts advertising, psychology, and cinema among his myriad interests.
+Originally published at 
+blogs.adobe.com
+.More about Adobe XD:
+Download Adobe Experience Design CC (Beta)
+Adobe XD Twitter account
+ — also use #adobexd to talk to the team!
+Adobe XD UserVoice
+ ideas database
+Adobe XD forum

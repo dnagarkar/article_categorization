@@ -1,0 +1,23 @@
+Meet Lattice Reviews
+We’re incredibly excited to announce that Lattice has launched Performance Reviews. We see this as a big step forward towards our mission of helping people reach their full potential at work.
+Performance management is changing
+Over the past several years, the standard for performance management has evolved. Today’s employees expect their companies to be transparent, have clear objectives, and to provide them with frequent feedback and paths for career growth. These things aren’t just what individual employees want, they’re pillars of good management that help companies thrive.
+Companies are moving away from annual performance review towards a more dynamic, transparent, and continuous system for performance management. It isn’t just tech companies that are evolving; Deloitte, GE, Gap, and countless others have made the transition in recent years too.
+The standards for people operations and performance management have changed, and we’re building Lattice to help support the new way of the world.
+Adding Performance Reviews to Lattice
+We launched goal management in May, weekly check-ins in June, and now we’re thrilled to announce the next key part of our offering: customizable performance reviews.
+After speaking with dozens of people operations leaders, we had clear objectives for our product. For administrators, the product needed to be simple and highly customizable. For employees, it needed to be engaging and easy to fill out.
+We believe that helping employees give each other more frequent feedback will lead to happier, more productive teams. Here’s what we built.
+How Lattice Reviews work
+We designed a step by step experience that makes it straightforward (and hopefully even a little enjoyable) to do performance reviews.
+Create:
+ Select the type of review and customize your questions (or use the Lattice template).
+Run
+: Send a kickoff email and launch the review cycle. We provide a dashboard for you to track progress and a nudge button so you can encourage employees to finish their reviews.
+Report:
+ View high level data from the review in a beautiful PDF and then share the individual review packets with managers.
+Here’s a quick overview of the new product:
+We’re excited by the positive impact that more frequent feedback will have on employees and their companies, and we can’t wait for people to try Lattice Reviews.
+To get started, sign up here: 
+https://latticehq.com/reviews
+.

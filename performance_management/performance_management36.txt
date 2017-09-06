@@ -1,0 +1,61 @@
+How Performance Reviews Are Reinforcing Gender Bias in Companies
+By Steffen Maier
+The existence of a major gender disparity in the tech industry, particularly in the male dominated culture of Silicon Valley, is common knowledge. The percentages of female employees working at major tech companies are pretty dismal with: 32% at 
+Facebook
+, 31% at 
+Apple
+, 30% at 
+Twitter
+ and 
+Google
+, and 24% at 
+Intel
+. The disparity between men and women is even greater when aggregating for women working in technical positions (developers, engineers, etc.). Companies have been trying to reverse this trend by implementing workplace childcare facilities, equal maternity and paternity options and other top down targeted policies. Apple and Facebook have even offered to cover the costs for female employees who decide to 
+freeze their eggs
+.
+While CEOs are trying to make it easier for women to stay and prosper in the tech industry, many are actually 
+leaving due to gender bias
+ rather than personal choices. Ellen Pao’s unsuccessful sexual harassment lawsuit against former employer Kleiner Perkins Caufield & Byers and then subsequent departure from Reddit this year has worked to significantly raise the profile of the issue. Even when women make it to the top level they are often treated as scapegoats in what has been termed by researchers as the 
+“glass cliff”
+.
+Eliminating gender discrimination is a top priority for tech giants and startups alike. Companies lose out not being able to make full use of potential top performers and are exposed to lawsuits, greatly damaging their reputation in the process. However, discrimination in feedback and performance reviews from mid level management continues to block women’s professional advancement in the industry. What steps can companies take to ensure all their employees are treated fairly?
+Unconscious Biases
+In spite of many CEOs’ intentions to prioritize gender discrimination, McKinsey & Company’s 2015 
+Women in the Workplace
+ study revealed that only one third of employees surveyed believe gender diversity is a top priority for their direct manager. What’s more, the same study shed light on the fact that while 70% of men view gender diversity as important, only 12% believe women have less opportunities for advancement, and alarmingly 13% even see gender diversity programs as a hurdle to their own advancement. It’s not just male managers that are the problem. Studies show women are just as likely to discriminate based on gender.
+Before assuming these statistics merely represent overtly sexist test subjects, it’s important to realize that, like it or not, we are all subject to subconscious biases. Harvard social psychologist Mahzarin Banaji has dedicated her life’s research to better understanding our unconscious biases by coming up with a series of 
+Implicit Association Tests
+. Through this testing she has concluded that even respondents who claim to hold egalitarian beliefs still demonstrate biases in their answers. This is due to our brain’s natural tendency to make connections and place people into groups based on preconceived stereotypes. Google has been using these tests to demonstrate to their employees and managers the propensity for unconscious biases.
+How does this manifest itself in performance reviews?
+As the gateway to advancement, gender discrimination in annual performance reviews may be the main factor reinforcing your company’s glass ceiling. In Kieran Snyder’s 2014 
+study
+ she collected performance reviews from women and men working in the tech industry and found that women were significantly more likely to receive critical feedback. When analyzing the feedback further she found that women were more likely to receive feedback based on personality traits that were often contradictory to those men received. For example, while men may be considered confident and assertive, the same behavior in a female peer is considered abrasive.
+Common words used in critical reviews of female employees included: abrasive, bossy, aggressive, strident, emotional and irrational. Out of these words only the word aggressive was used occasionally for men.
+Research
+ currently being conducted at Stanford University’s Clayman Institute for Gender Research has shed light on further barriers to advancement caused by gender stereotypes. For example, researchers have found that managers perceive women to have better team based skills, while they see men as being more independent. These assumptions result in women and men being put on different career paths, with men being favored for leadership positions.
+While analyzing performance reviews they have found that the language used for both genders conforms to these typical stereotypes of men and women. While women were given constructive feedback for using what was perceived as aggressive communication, they were also found to be ‘supportive’, ‘collaborative’ and ‘helpful’ more often than men. Meanwhile the language used to describe men was linked more to confidence and independence. Men were also twice as likely to receive feedback based on their technical expertise. These findings have pointed to the fact that stereotypes can essentially plug men and women into different career paths.
+Solutions:
+As a manager it’s important to be aware of the potential for unconscious bias, as a CEO it’s essential to train managers on how to give fair unbiased feedback and have mechanisms in place to prevent this problem. How can managers learn to identify biases in their performance management practices and begin giving feedback fairly?
+Help your managers to understand and confront implicit biases
+Diversity training is a great idea if given effectively. Many managers tend to see it as a formality. The tricky part about implicit bias is that most people assume that they’re not at risk of discriminating against their employees. What has to be realized is that we’re all subject to unconscious stereotyping and understanding why is the only way to overcome it. 
+Google
+ has been particularly active in trying to promote this awareness amongst their employees and has implemented specific programs to train their people to recognize unconscious biases.
+2. Be conscious of the language you’re using
+Understanding the unconscious biases we all have can encourage managers to consider the type of feedback they are giving to male and female employees. Once they have accepted this possibility, give them the tools they need to deliver feedback fairly and effectively. For example, one common mistake made in these studies has been managers’ tendency to give women feedback based on judgments rather than facts. Studies show that the way we perceive other people’s personality is often subjective, being based more on our own personality than that of others. 
+Teach
+ your managers to stick to facts and behaviors and allow the other person to respond with their view of the situation.
+Keep in mind the results of the studies. Avoid using adjectives like: abrasive, bossy or emotional. Making sure to use verbs over adjectives is a good trick to ensuring your feedback is objective. For more info on how to give constructive feedback the right way see 
+here
+.
+3. Bring more people into the review process with 360-degree reviews
+Receiving feedback not only from managers but also peers helps to limit potential biases. Allowing employees to seek feedback from other sources can also encourage new hires to seek out senior level employees for guidance on professional development, encouragement and advice.
+4. Have a mechanism in place for employees to give anonymous feedback to their managers
+This will help managers to correct unintended biases. For example, in the Women in the Workplace study, the women surveyed reported that they were less likely to be consulted on important decisions than their male counterparts. If female employees have the opportunity to point out possible unintentional biases, managers will have the opportunity to identify and correct their behavior.
+5. Help employees to easily track past feedback
+Easy access to performance data enables employees to track progress and compare feedback received, making it easier to report when they are not receiving equal access to promotions or development opportunities. Companies can use this data to identify managers who are blocking women from moving up in the company. Employees can also easily demonstrate when they have alerted their direct manager to a situation and have not seen them take action to remedy the situation.
+Steffen Maier is co-founder of
+ 
+I
+mpraise
+ a web-based and mobile solution for actionable, timely feedback at work. Based in New York and Amsterdam, Impraise turns tedious annual performance reviews into an easy process by enabling users to give and receive valuable feedback in real-time and when it’s most helpful. The tool includes an extensive analytics platform to analyze key strengths and predict talent gaps and coaching needs.
+@stgmaier

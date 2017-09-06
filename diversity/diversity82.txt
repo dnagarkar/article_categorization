@@ -1,0 +1,104 @@
+Lack of Diversity in Tech is Just the Tip of the Iceberg
+To build a real solution, we need to dig deeper
+Too many entrepreneurs tend to start building a quick fix to a problem after only having seen its surface.
+This lack of a deeper understanding of the problem is one of the main reasons that there is so much pivoting and failure among startups.
+Sadly, I often see many big and important issues, that affect millions of people, fall into this category of problems with quick and temporary fixes but no real solutions.
+Diversity in tech is one of them.
+People and business impact
+First of all, lack of diversity is a far more serious issue than just something that contributes to create a bad image of most tech companies in the public eye.
+First, it is a major cause of dysfunctional teams, disengagement and dissatisfaction among workers (which destroys productivity) and poor decision making (costing companies millions of dollars every month).
+Second, it is also making it much more difficult for countless talented people to succeed in their careers for 
+reasons
+ which have nothing to do with their true potential as professionals.
+A journey to the root of the problem
+When trying to solve a problem, I always begin by searching for its root since this is truly the only way to build a long-lasting, real solution.
+So, what is the root of this lack of diversity?
+Is it a shortage of talent? 
+Obviously not
+.
+Is it a “pipeline” problem? 
+I 
+don’t
+ 
+think
+ so.
+Even though most tools are based on a useless paper (résumé), and use outdated technology, they aren’t the main culprit but rather insufficient attempts to solve a much large problem than what they could handle.
+Is it a management and hiring problem? I bet it is. The real problem is the decision making process, particularly at the leadership and recruiting levels.
+But why is this the case?
+The complexity
+Here is where things get complicated as there are multiple reasons and factors, which contribute to the flaws of decision makers.
+What we can’t change
+:
+Historical reasons
+. We cannot change history, but we can most certainly learn from it.
+Subconscious biases.
+ We all possess biases, which we can’t escape as they operate subconsciously, below our level of awareness. Some are learned, others innate.
+Conscious biases
+. We cannot force ourselves or others to eliminate known and endorsed biases, so it is crucial that those individuals making the hiring decisions are both tolerant and open-minded.
+What we have to change
+:
+Inefficiency
+. At a time when every industry is becoming faster and more efficient, how can it be acceptable for recruitment to take longer and keep delivering even worse results?
+Education
+. Teach professionals how to understand and build a team (rather than simply “fill positions”), how to listen and learn what motivates each teammate, how to see what each individual need to grow.
+Professionalism
+. Everyone feels like they know how to hire people upon founding a startup (or can easily learn how to on the side). No wonder so many startups fail because of team issues.
+What we must incorporate
+:
+Future potential identification
+. How can you really expect to be able to predict what a person will be capable of in the future based on their past (résumé), especially at a young age?
+Science
+. No effective solution could be built without the necessary knowledge. Unfortunately, we have to cut through many crap that gets published (but we can build an algorithm to do the filtering for us).
+Human relationships
+. Understanding their complexity is critical to building great teams but I have yet to meet a single hiring manager with anything close to basic knowledge about them.
+As you can see, I have synthesized a few important points so you can get a quick glance of the big picture, which is far more complicated than what may be assumed at first.
+A simple solution to a difficult problem?
+At this point you may be thinking there is no solution to such a messy problem in the short term… but there is in fact one that could be built in a few months.
+I am talking, of course, about Artificial Intelligence.
+By combining the knowledge and technology available today, it is possible to completely automate the entire recruitment (& job hunting) process from the moment a company needs to hire someone, to the actual contract negotiation.
+That means teach AI to:
+Identify individual characteristics (IQ, EQ, personality…)
+Predict the future potential of person.
+Analyze teams.
+Match talent with companies.
+Interview candidates.
+Deliver a short selection.
+From my experience, acquiring the necessary data could be done in a very short time (a few minutes), without the need of any creepy tracking method.
+The keys are to identify the data you need, master how to ask for it, and optimize the amount of information you can obtain every single time.
+A plus, which makes the the data acquisition much easier, is when you provide an experience that’s both entertaining and useful for the user.
+Translating the complexity of human relationships into simple data that could be calculated by algorithms remains the most difficult part, but it can be done.
+The benefits
+What can we expect from an automated solution?
+Same initial opportunities for everyone.
+Bias and discrimination free selections.
+Vastly minimized chance of flawed decision making.
+Well balanced & significantly more diverse teams.
+End of searches (for both employers & job seekers).
+Happier, more productive teams. Lower turnover.
+Less frustration for job hunters, less costs for employers.
+More career & business success stories.
+Easier to found & scale startups. More innovation. More jobs.
+As you can see, it’s a triple win solution, where everyone wins: people, businesses and society.
+We need a solution, but do we really want it?
+This awful paradox is as real as it gets.
+Everybody agrees there is a problem:
+Women are kept out of executive positions & get paid on lower pay grade.
+Minorities & old people fall victims of discrimination.
+Frustrated young talent that can’t find a job.
+Companies complain there’s a short supply of talent.
+The Media keeps talking about it…
+Yet, when the time comes to actually do something about it, everybody expects someone else to do it, or are too busy finding a solution for themselves or just for their own backyard (you know, “as it has always been done”).
+Or even worse, suddenly every hiring manager feels capable of internally solving the problem within their company with more “training” …
+The choice
+So, in the end, we have two options:
+Status quo.
+Wait for someone else to build a solution, try to build a quick local fix, or hold onto our pride and continuing with a conservative approach believing that more of the same will somehow work one day.
+…or…
+Leverage the knowledge and the technology we have to build a real solution to a global challenge:
+Give everyone a true fair chance and access to the opportunities they deserve to build their careers, independently of their gender, race, age, beliefs, sexual orientation, appearance, origin, etc.
+What do you think?If you read this far, please hit the ❤ and share, it helps. Much appreciated!
+Thanks to 
+Michael Gasiorek
+ & Angela Marti for their draft reviews, & 
+Magdalena Requejo
+ for the image quote.

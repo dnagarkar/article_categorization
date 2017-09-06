@@ -1,0 +1,110 @@
+Nine Nasty UX Truths
+There’s much to learn on the internet about UX theory, but the tips below are 100% the result of hard-earned experience… a.k.a. painful moments. I’ve screwed up a lot, in the last twenty years, and these are some of the ways I’ve found to stop screwing up. Enjoy learning from my mistakes!
+Four truths about design:
+It’s actually not that hard, and you’re not half as clever as you think.
+1. Color is meaningless
+The users don’t understand your color-coding. Green might mean “good” to you, but to someone else, on a different screen, it might mean “unreadable,” or “goose shit,” or “
+Saigon — Shit — I’m still only in Saigon…
+”
+Each person sees each color in a completely personal way, 
+if at all
+. They like some colors, and hate some others, and it’s pretty much unpredictable. You can’t win.
+Color is not verbal or rational. It’s contextual and emotional. It’s powerful, not meaningful.
+The only things you can communicate with color are:
+Any color
+: this thing has a color.
+A different color
+: this thing is not the same as the other thing.
+Gray
+: this thing is broken.
+Red
+: the designer hates you and wants to make you angry.2. Position matters most
+Users don’t care what your button’s icons are, or what their labels say. You can redesign those every day and nobody will complain.
+Move things around, and your users will have your head on a pike.
+People use their natural 
+positional memory
+ to remember how to use your app. Moving their interface elements around feels to them like the most perverse form of torture. If you want to know what pure unfiltered burning hate feels like, go ahead and move things around.3. Nobody reads
+You’re probably not reading this sentence. If you are, you probably didn’t even read this article through the first time. You scanned the headlines and the quotes, and maybe you’re 
+skipping through the short paragraphs
+ now.
+Since that’s true, why do we write instructional text? Why do we allow long paragraphs of copy into our interfaces? Why do we pretend that user manuals, and FAQs, are a valid solution to usability problems?
+Because we’re lazy, that’s why. Too lazy to read, and also too lazy not to write.
+4. Navigation is failure
+Don’t be proud of your navigation interface, or your information architecture. If your app has a prominent navigation interface, you’re already on the path to failure.
+Your job is to help the user achieve their goal. Navigating an interface is never the user’s goal. If you’d done your job right, the app would only do one thing, and would do it very well, and would do it all on one screen. But you’ve failed to decide on and eliminate choices, and you’re leaving it to the user to do it.
+Design is making the tough choices so your user doesn’t have to. (
+Tweet this
+)
+Yes, okay, navigation is necessary for most apps, most sites, most experiences. We have to make some compromises in life. I agree, of course. I almost always end up making compromises too, and providing navigation. Still, shame on me, and shame on you.
+Three truths about process:
+Not everything is equally important. There are some things you should do first, some things you should do more, and some things you can completely ignore. Here’s how to tell the difference:
+5. Content is good, UI is bad
+My first UX-related job title, before the concept of “UX” had been formulated, was Information Architect. That’s still the most important job there is on any project. Things have 
+names
+, and need to be verbed. 
+Defining the names and the verbs
+ is the most important part of UX.
+The content is the solution. If you’re not designing the content, you’re designing problems. (
+Tweet this
+)
+Any time you create a wireframe with lorem ipsum, you’re insulting your users, and abusing your client’s trust. You’re also sabotaging yourself.
+Loremipsitis is to design what chlamydia is to lovemaking. (
+Tweet this
+)
+When you fail to grapple directly with the actual content, but focus on designing boxes for whatever the content will be, what you’re actually doing is putting pretty boxes between the user and their goals. Stop it. Design the content, and you’ll probably be just about done.
+6. Procrastinate away complexity
+On a project, do the sitemap and navigation last. Actually, never do them. Start with the most important object or screen: the one that helps the user achieve their goal. Waste all the project time and budget on making that screen perfect. Obsess over every detail. Lavish hours to the appearance of each pixel. Indulge every fancy and enjoy every minute of it.
+Once there is no more time or budget, your client/boss will get very angry, and scream at you that you didn’t do all the other bullshit they wanted to cram down the user’s throat. Play dumb, apologize, and earn yourself a reputation as a flake who never finishes anything… but still, don’t design any of it.
+Fail to plan to design the stupid parts. (
+Tweet this
+)
+Hopefully the junk you didn’t design will be pushed to Version 2, and the users will get to enjoy Version 1, until you get fired and your replacement ruins it all for everybody. There’s no shortage of UX designers who do as they’re told, and deliver what’s expected of them. This is why there’s so much bloatware in the world. Don’t be one of them. Stay the course.
+7. User testing kills babies
+User testing is wonderfantasterrifically awesome, that’s a well-known fact. No matter how amazingly smart you are, and how clever your UI is, ten minutes of user testing early on in the process will save you from abject failure down the road.
+User testing rules. If you don’t do it, you’re an idiot. (
+Tweet this
+)
+However, user testing does not absolve you from the responsibility to be smart, to work hard, to sweat out the details, and to go through the crazy, tortuous, gut-wrenching, bizarrely amorphous process of design. You’re still going to 
+have to
+ be a genius, buster. And that’s especially true when you’re designing innovative solutions or products.
+That’s because when it comes to innovation, users can be mean, narrow-minded, myopic, vain, philistine, petty, and stupid. And that’s coming from someone who’s dedicated his life to loving his users.
+User-testing new ideas sucks. If you do it, you’re an idiot.
+When you have a great new idea, it will start its life as a fragile embryo, barely viable. It needs nurturing and loving care to grow into a fully-formed innovation, that can stand on its own two legs, and withstand the careless handling by selfish users. User-testing a new idea is like shark-testing a new lamb: It doesn’t end well for the idea, or the lamb.
+So don’t let your idea go untested… but only once it’s ready. How do you know when it’s ready? When you’ve worked on it long enough that you start seeing its fundamental flaws: Problems that are not about how it’s been put together (improvable), but about how it works in the absolute (intrinsic). When it works close enough to the way you intended that you can start thinking of better alternatives… then it’s probably ready to test.
+Two truths about coders:
+You may think that what coders do with your design isn’t your 
+fault
+. Fair enough, but it’s still your 
+responsibility
+. Just like sending a message that won’t be received, delivering design that won’t be understood is a waste of everybody’s time.
+You need to understand your audience, and your audience is coders. They’re weird animals, but then again, so are you.
+If you take good care of the DevX of your UX, devs will make you rich and famous. (
+Tweet this
+)
+You really should get off your lazy designer butt and learn to code already. But until you do, here’s what you need to know about coders:
+8. Coders learn from terrible examples
+Developers don’t explore well-designed apps and sites to learn how to build apps and sites. They spend their time learning from demos and tutorials, which are written by other developers who are trying to explain complex coding concepts, by using contrived, ridiculous examples.
+Coding tutorials teach UX worst practices. (
+Tweet this
+)
+They don’t think about the real-life validity of these examples. They don’t think about the UX of these examples. They don’t give a rat’s ass whether these examples would lead to positive outcomes for the user in their fictional scenarios.
+Thousands of developers learn their craft by blindly implementing overly simple, badly designed, stupid scenarios, for hours on end. Then they build your app based on a couple of flimsy wireframes, and on hundreds of hours of terrible tutorials. So perhaps you should be a bit more specific with your specs?
+9. Coders love absurdity
+Programmers have to worry about things no sane human being ever considers. You drop a “last name” field in your design without thinking about it, but to a coder, there’s a hundred anxieties associated with that:
+What if the person doesn’t have a last name?
+What if their last name is expressed as a mathematical equation?
+What if their last name is longer than 255 characters?
+What if their last name contains tab characters, multiple paragraphs, non-breaking spaces, emojis, parentheses, commas, single and double quotes?
+What if their last name changes between the time when they type it in and the time when they submit the form?
+To any normal human being, these questions are absurd. To a coder, they are common sense. What this means for you, as a designer, is that you must keep close to your coders, try as much as possible to anticipate the anxieties that will besiege them, and keep them from derailing the experience with utter lunacy.
+Good luck with that, by the way. Make sure you enjoy the ride.I am UX Lead with 
+WAX Interactive Switzerland
+. My crew and I disrupt markets and business models, by 
+doing UX differently
+. We’re also 
+hiring Senior UXers and Full-stackers
+ who love the craft and the cause.
+I don’t bite (hard), so don’t hesitate to 
+reach out
+.
+Thanks!

@@ -1,0 +1,70 @@
+Your Job Descriptions Are Hurting Your Hiring Pipeline
+Let me guess: Hiring keeps you up at night.
+Welcome to the club.
+Finding great people is a top concern for companies today, 
+startup founders cited hiring as their #1 concern
+, beating out even revenue and customer growth.
+Yet for all the worrying about keeping a high-quality candidate pipeline, many of us are making the same mistake — we’re unwittingly writing job descriptions that turn off a large percentage of our candidate pool.
+We recently turned a critical eye to our descriptions at HubSpot. We wanted to put ourselves in our candidates’ shoes and see how we could improve their experience. What were our best descriptions doing differently? Who can (or can’t) picture themselves working at HubSpot? How can we make our descriptions more helpful and more human?
+Turns out, we have a lot of work to do. Here are four key themes we uncovered.
+Use caution with qualifications
+We tend to treat the qualifications section of a job description like a wish list: everything that would be “nice to have” gets thrown in. Why not? Setting a high bar for talent is good, right? Won’t making it tough to qualify ensure we find the best candidates?
+Well…no…
+See, even though 
+we
+ know there is wiggle room on qualifications, that’s not always how candidates interpret it, particularly women. While 
+men apply for a job when they meet 60% of the qualifications, women tend to apply only when they meet 100%
+.
+Turns out, a long list of nice-to-haves will actually deter female candidates from moving forward. Ouch.
+We’re starting to pay closer attention to this at HubSpot. For example, “Fluent German” is a required skill for HubSpot’s German Customer Support Specialist role. There’s no wiggle room here. But for skills and experience that will help a candidate stand-out, but aren’t truly required, we’re instead encouraging hiring managers to use language like:
+“familiarity with..”
+“bonus points for”
+“working knowledge of…”
+“comfortable with…”
+“if you have any combination of these skills…”
+We’ve also started watching out for the word “expert”. Some candidates will consider themselves experts, but many qualified, talented candidates won’t identify with that descriptor, or might even be intimidated by it. Do we really require an inbound marketing expert or do we require 
+someone who has the potential
+ to become an inbound marketing expert?
+Check for gendered language
+Gender also plays a big role in how language is interpreted in job descriptions. Certain words and phrases resonate with men more than women, and vice versa.
+Last year, 
+Courtney Seiter
+ from 
+Buffer
+ wrote about why they 
+removed the word “hacker” from engineering job titles
+. I was inspired by this so I sent a handful of HubSpot’s job descriptions to our employees to get their feedback. I asked them to comment on anything they had a reaction to, good and bad. Here is one great example:
+We tend to write the way we would talk, and normally that’s a good thing, but not when it comes to job descriptions. Phrases and jargon like “killer business instinct” might feel fun and colorful, but they send subtle messages to the applicant about the kind of team they are signing up for.
+Textio
+ is a free tool that analyzes and improves job descriptions for effective language and format. Based on data from third-party job boards and company data, Textio can tell which words and phrases are more likely to attract male or female applicants. I signed up for a free trial of Textio to see how our descriptions stack up, here are a few additional pointers the service surfaced for us:
+Highlight benefits for all ages
+Free beer and ping-pong might be a dream come true for a 20-something college grad, but when you’re starting or growing a family, paternal leave and healthcare are probably a lot more important at work than what’s on tap.
+At HubSpot, we’re passionate about creating a culture where people, at any stage in their career, can grow. Here’s a screenshot from our 
+jobs website
+ that features our Free Books Program, tuition reimbursement, Healthy@HubSpot programming, etc.
+But when I looked at our job descriptions, I found that a lot of them were still highlighting “shiny” perks and missing the opportunity to connect with candidates who bring years of experience to the table, as well as recent grads.
+But it’s not just benefits; language has a big impact on age diversity in the candidate funnel. The term “digital native” has been used in our job descriptions, regrettably. The sentiment is well-intentioned — we’re looking for someone who is passionate about technology, but a reader might interpret this as “someone who is under 25”. HubSpot’s co-founder and CTO, 
+Dharmesh Shah
+, says this:
+I think the term 
+digital citizen
+ is much better (and more inclusive) than 
+digital native
+. A native is somebody who was born there. A citizen is someone who may have immigrated in, but accepted the responsibility of citizenship. So, the contrast I like to use is: We’re looking for digital citizens, not digital tourists. Note: I am not a digital native (wasn’t born into this stuff), but I am a card-carrying, flag-waving, digital citizen
+Watch out for corporate-speak
+Insider language is a quick way to make someone else feel like an outsider, but if you’re not watching out for it, acronyms and “company speak” will inevitably creep into your job descriptions. Job seekers reading descriptions are usually still in research mode, so feeling like they don’t speak the language of a company makes it easier for them to cross that company off the list.
+One instance I found of this at HubSpot was uncovering “HEART” in the requirements section of a job description. HEART is a core part of our 
+Culture Code
+ and captures the characteristics we want to see in every HubSpot employee. It stands for humble, effective, adaptable, remarkable transparent. It’s important to us, but only confuses a candidates who isn’t familiar with our culture.
+This unconscious bias can be a little more subtle than acronyms. Here’s another great example we surfaced thanks to Matt, a software engineer at HubSpot:
+Watch out for wording or references that assume your candidate has insider knowledge about your business. Maybe you’re describing a responsibility of the role that assumes the candidate knows how another part of the business works. Or maybe the mission of a role assumes the candidate knows how many customers you have in Europe.
+When in doubt, assume the candidate doesn’t know the ins-and-outs of your company.
+How we’re solving for this at HubSpot
+Now that we have a better grasp on how to improve our descriptions, there are a few things we’re doing internally to try and walk the walk:
+We’ve run ‘How to Write Inclusive, Effective Job Descriptions’ workshops for our global recruiting teams
+We created an internal guide and template for recruiters and hiring managers to use
+We’re embedding peer review into the job description writing process
+A remarkable, inclusive candidate experience doesn’t happen overnight, and as we build out our 
+inbound recruiting
+ playbook, we’re constantly finding data points like this to improve and help us move the needle. Often times, that feedback comes directly from employees like Brittany and Matt. Sometimes it comes from our candidates taking the time to point out how we could be better. This input is invaluable.
+Take the time to read through your job descriptions with this new perspective. It might help you put yourself in the candidate’s shoes and help more people, regardless of gender or background, click ‘Submit’.

@@ -1,0 +1,41 @@
+How to use space in UI Design
+Definition with practical examplesEmptiness is an essential aspect of life. Imagine listening sound without spaces between the notes. You’d have a linear stream of noise. Same goes for photography, architecture, painting, sculpturing. And designers use it too.
+Space is a human need. — Ken Hiebert
+What space adds to our design:
+Emphasis
+Hierarchy
+Legibility
+Content structure
+Drama and tension
+It’s important that when you’re putting together a design layout that you let the elements breathe. To do that we need to low room between elements and create white space. It creates focus points for our users and leading their eyes to go through elements.
+Everyone ‘looks’ at things but very few people ‘see’ effectively — Greg Berryman
+As a designer, you need to see. This ability allows you to be aware of visual language.
+Emptiness
+One of the most overlooked elements in visual design is emptiness. If you are beginner you will try to fill every last bit of empty space. More experienced designers will encourage you to use more and more white space. From the user standpoint, very few people will complain that it has too much whitespace. Lack of emptiness causes visual noise.
+Now let’s see an example:Same content and vertical positions of elements. Note how emptiness creates visual hierarchy, contrast and feeling of order just by positioning the same elements. It’s crucial when it comes to graphic design. Content is way easier to read and scan.
+Microspace
+Micro white space
+ is the term used to describe the smaller elements of white space in a particular design. This is space within elements in a group. It’s the space between letters, words, smaller elements. Tweaking the amount of space between your smallest elements will help them to become more noticeable and organized. That creates feeling of visual harmony.Macrospace
+On the other hand, 
+macro white space
+ is the term given to larger parts of white space. These are the negative space elements between major elements of the UI like columns, paragraphs, photos etc.
+It provides avenues for the eye to follow.Visual aspect
+There is also the aesthetical side of white space which is highly correlated to quality. Think about going for shopping. More luxury brand will have a lot of space compared to retail stores.Design is the process of looking for and showing off the similarities and differences inherent in the content of visual design.
+Space can a
+ssociate with more values
+:
+Sophistication
+Simplicity
+Luxury
+Comfort
+Rarity
+Openness
+Now you know why we see so many fashion shots on dribbble (just kidding).
+Let’s talk about clients
+Upon now you probably know that space is important. On the flip side, white space can cause problems between designers and clients. Sadly, many clients and managers consider white space as wasted space. They think it could be used to introduce more content or arrange more information at once.
+The most important thing here is to 
+not hate those clients
+. Something that distinguish good designer from really good one is humility. You need to forget about your ego and try to understand why client thinks this way.
+Usually clients don’t have all this knowledge and it’s your role to explain and educate either client or your project manager. Arrange a meeting and explain your thought process instead of taking it personally.
+If this will fail try to make A/B testing with cluttered version. I’ve made tons of moderated user testing and people really don’t enjoy walls of texts and call to action buttons.
+Space is like air: it is necessary for design to breathe.

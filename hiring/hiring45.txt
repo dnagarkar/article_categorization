@@ -1,0 +1,91 @@
+Hiring a Cloud Engineer? Questions to Ask and What You Should Hear
+In this blog post, I provide tips for hiring an experienced cloud engineer who can help you run your startup or small business efficiently. I use the term “cloud engineer” as more of a quality/virtue than a position description or title. Whether you intend this person to be a CTO or an individual contributor, you need someone with the right skill set to architect your cloud. I show you how you can use five core principles to evaluate the strengths of candidates and make a great hire for the job. I also provide sample questions that you can ask during an interview as well as sample answers that you should hear from candidates.
+It’s All About Your Customers
+In the following sections, I focus on five principles that are critical to most startups and their customers:
+Availability
+Scalability/Elasticity
+Performance
+Problem Solving
+DevOps
+Availability
+Why this Matters to Your Customers
+If you have a digital business, downtime is a worst-case scenario. Customers, revenue, and reputation all suffer every minute your application is down. Consider downtime, measured in minutes, as one of the key performance indicators for your engineer. If you start seeing spikes in that metric, you know you have a problem in your IT shop. Check out fellow Solutions Architect Slavik Dimitrovich’s post on 
+High Availability for Mere Mortals
+.
+Questions You Should Ask
+How do you design for failure?
+How many 9s of availability do you think you can design for?
+How do you monitor application uptime?
+How do you build a self-healing architecture?
+What You Should Hear
+“I architect defensively.” 
+Your cloud engineer should know how to architect for failure at the following levels: application, server, architectural (app tier, database tier, etc.), and physical data center.
+“I have 5 9s tattooed on my arm.”
+ Your cloud engineer should be motivated and proud of his past availability metrics.
+“I don’t mind pager duty.” 
+This is a great sign. It indicates accountability and ownership of her work. You want an engineer who designs architectures and wants to own operating them. Another less obvious perspective is that an engineer who has designed a well-architected, self-healing stack sees pages as informational heads-ups, not drop-everything action items.
+Scalability/Elasticity
+Why this Matters to Your Customers
+The 
+Slashdot effect
+, aka the Reddit-hug-of-death, is a situation where news or social media sites link to a poorly architected site, leading to an overwhelming amount of traffic. These massive ramps in traffic are exactly what your company wants, but if your architecture isn’t scalable, it will crash and burn when you need it the most. Further, before and after those spikes your architecture should elastically downsize itself to keep your costs as low as possible.
+Questions You Should Ask
+How would you design our architecture to handle a sudden jump in traffic?
+How do you monitor and manage large-scale events?
+How would you test our system’s ability to handle a large-scale event?
+How would you “right-size” our system for normal and peak traffic situations?
+What You Should Hear
+“Elastic this, elastic that….” 
+Elasticity is one of the most important advantages that cloud computing brings to the table. Elasticity is all about matching capacity to demand as closely as possible. Not all elements in an architecture can be elastic, but your architect should recognize the importance of elasticity and strive to take advantage of it at every opportunity.
+“Horizontal scaling over vertical scaling.” 
+In the modern cloud, adding additional compute/networking/storage to an existing server (vertical scaling) is a trivial task. But there are eventual performance and practical cost limits. Balancing load across an auto-scaling group that adds/removes smaller instances is a better approach from a scalability, cost, and elasticity standpoint. Your architect should want to instinctually architect for horizontal scale from the start.
+“Internet scale services.” 
+AWS has a handful of services that are implicitly scalable (for example, Amazon S3, Amazon DynamoDB, and Elastic Load Balancing). This means that it takes little, if any, manual intervention to scale those services from handling a few gigs to several petabytes. A good cloud engineer leverages services to simplify, or entirely mitigate, the effect of something like storage as a bounding factor for an application.
+Performance
+Why this Matters to Your Customers
+Page response time is one of the most important metrics affecting usability. Architects have many tools at their disposal to understand where each millisecond of load time is being spent. That load time is affected by several factors including your user’s physical location, server-side processing, and networking bandwidth. A good architect can prioritize load-time bottlenecks and tactically address them throughout the full stack.
+Questions You Should Ask
+How do you monitor system performance?
+What are the most important metrics to monitor?
+Tell me about a time your application performance was bounded by something like memory/compute/storage. How did you architect around that?
+How have you utilized caching to improve performance?
+What You Should Hear
+“Caching data.” 
+As you begin to scale, a database tends to be where you first feel growing pains. Offloading database queries into a caching tier like Memcached or Redis can give your application lightning fast reads and can also significantly reduce demand on your database. Your architect should have some experience caching data in a key-value store.
+“Caching assets at the edge.”
+ 
+One of the most effective ways to reduce page load time (beyond compression) is to cache static assets like images, CSS, and JavaScript as physically close to your end users as possible. Content distribution networks (CDNs) make caching both static and dynamic content “at the edge” a fairly straightforward process. Your architect should have some experience with CDNs.
+“I’ve used tools XXX and YYY.” 
+One of the best indicators that an architect has been responsible for a real-life production workload is familiarity and preferences with logging and monitoring tools. An architect’s metrics are like a pilot’s instrument panel: she trusts and relies on them to keep the ship in the air.
+Problem Solving
+Why this Matters to Your Customers
+The pulse of a digital company can be measured by its rate of feature releases. Retaining customer engagement and satisfaction is often correlated with how fast your product evolves to fix a bug or release a new feature. If your cloud engineer is blocking developer progress because he is “still provisioning that cluster” or “still configuring the database,” he is slowing down your developers instead of enabling them to innovate. A good cloud engineer looks for every opportunity to solve an easier problem to get the same job done.
+Questions You Should Ask
+“What managed services have you used in the past?”
+“What is the shortest amount of time you were able to prep a database for development?”
+“When does it make sense to stop using a managed service and begin self-managing your own cluster?”
+What You Should Hear
+“Why reinvent the wheel?” 
+No matter the type of company, common sets of technical requirements evolve in an increasingly complex architecture, such as background workers, outbound email, or mobile push. Avoid engineers who believe they need to implement seemingly common architectural patterns from scratch.
+“I don’t like managing my own clusters.” 
+If candidates pride themselves in how they operated a 15-node cluster, it might be a red flag. Managing that cluster was probably a major focus, perhaps even a full-time job. Managing your own cluster is as in-the-weeds as you can get. Good cloud engineers let managed services sweat the management details so they can focus on optimizing the workload broadly across your stack.
+“I like to avoid database administrators.” 
+Managed database services like Aurora on Amazon RDS drastically reduce the operational complexity that DBAs have historically been responsible for. Database management experience is now much less important than the ability to select the right managed database for the right workload.
+DevOps
+Why this Matters to Your Customer
+Companies that make physical products are laser focused on their physical supply chain. Similarly, a digital company should have intense focus on Development Operations (DevOps). Think of your company’s DevOps process as the supply chain responsible for making sure your product features ship to your customers. Tactically, DevOps means ensuring that code is written, well managed, tested, and deployed in a reliable and repeatable way. Disruptions or holes in your company’s DevOps procedures will inevitably cause downtime or service degradation for your customers.
+Questions You Should Ask
+What version control systems have you used in the past? Which ones do you prefer and why?
+Tell me about a time where you had many people working on the same code base at the same time. How did you do deployments in that environment?
+Can you explain the difference between continuous integration and continuous deployment?
+What kind of DevOps tools have you used in the past? Which ones do you prefer and why?
+What You Should Hear
+“It’s a balance.” 
+Adding too much DevOps process and technology can slow things down if there are not enough people to justify it. Your cloud engineer should recognize that balance and find the appropriate level of DevOps based on factors like company size, developer mix, and growth targets.
+“Infrastructure as code.” 
+In today’s cloud, one can define entire technical architectures with specially formatted text files like AWS CloudFormation templates and AWS Elastic Beanstalk ebextension configs. If a candidate can talk intelligently about keeping infrastructure managed at a source-code level, it’s a sign of a progressive and forward-thinking cloud engineer.
+“I $#@%^& love/hate tool XXX.” 
+It’s a good sign if candidates have strong opinions about which tool chains they prefer. Someone who has learned to love or hate a CI or CD tool has actually walked the walk down the DevOps path.
+Conclusion
+There are a variety of backgrounds that can develop people into great cloud engineers. I find that software development and DevOps experience translate nicely into the cloud. Don’t immediately disqualify candidates with limited hands-on cloud experience. If they value and understand the ideas discussed in this post, they typically can learn the cloud-specific nuances quickly. Above all, you want an individual who can holistically look at your architecture and continuously optimize.
+Written by Paul Underwood, Solutions Architect, Amazon Web Services

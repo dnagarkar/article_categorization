@@ -1,0 +1,66 @@
+6 Problems UI/UX in AR
+Analysis of problems that can arise when design AR
+
+
+UI Kit AR Behance
+1. Method interaction
+How can manage augmented reality? When I started to think about this issue, I singled out several options. I want to emphasize that I did not consider options that are not possible to implement or they will not be developed in the coming years.
+Vote
+A voice is not a bad option and probably the most obvious one at this time. But we need to understand that the way of user interaction with UI, directly depends on the application tasks. Responding to in coming call is not the same working with a media content or other tasks for advanced users.
+Motion
+Gestures as for me the least realistic option, too difficult to implement + pulls a lot of problems.
+Interaction through the eyes.
+I liked this option very much, soon the technology will be able to afford it.
+Smartphone
+A good option is setting up via smartphone, this is a very useful option at the moment, I think this is the most logical thing that should now happen.
+User Interface | Glass Explorer Edition | Google Developers
+
+The timeline is the main user interface that is exposed to users and is comprised of 640 × 360 pixel cards. It provides…
+developers.google.com	
+
+View => Activate => Interact
+2. Eye anatomy. Problems
+Anatomy of the human eye, if we talk about the augmented reality is crucial. Either glasses or lenses, we should take into account peripheral vision and it is capabilities.
+In my work, I gave more focus on contact lenses as this technology emerging already. It will make a massive impact as soon it hit the market.
+Problem of energy consumption
+No matter how funny it may sound, but even smartphone are discharging 2 times a day. Battery life is still bottlenecked on the way of technological progress. We have learned how to make nano-sized chips but still can not feed them. It is difficult to talk about the implementation until this problem is solved.
+The best way to feed the gadget is to use our body as the source of energy. It can be kinetic, thermal or both.
+Easing pain for burns victims using virtual reality - BBC News
+
+Burn patients in the US are being helped to escape the pain of burn injuries by immersing them in the virtual reality…
+www.bbc.com	
+
+Placement of controls on peripheral vision
+3. Distractions
+It is important to build an interface so that it does not distract from life. Nobody will like to be hit by a car while posting a photo on Instagram.
+This problem must be solved through the interface and its hierarchy. In most critical environments (driving a car), AR interface should be turned off mandatory.
+What You Should Know About VR
+
+uxplanet.org	
+
+Perspective building
+4. UX scenarios
+What scenarios can be used? I believe that the main questions will be: “How big is the functionality?”. I believe that augmented reality should not replace the main ways of interacting with information, instead, it should complement.
+Whether it is a call or Google search, it is very important to look at the functionality in a new way. We can not just take the smartphone screen and put it in the AR device.
+UI Design Standards: Any good in VR/AR?
+
+In previous articles I've discussed general OS-level spatial design concepts, and touched on early visions of how you…
+www.linkedin.com	
+
+5. Systematics of the interface
+It is very important to develop a system that will be the foundation for developing new solutions in the AR space.
+I had to develop a system of 2 fields that are in peripheral vision, right for main information, left for additional information.
+The Balancing Act: Creating a Helpful UI for Augmented Reality
+
+At DAQRI, we feel that one of the main advantages of augmented reality is its ability to keep a user present in their…
+medium.com	
+
+(Blue) AR active pole
+6. Augmented reality for people with disabilities
+Another point is a diversity of the perceived world by man. There are people who see the world in shades of a gray (color blind) or for example, they do not have red shades. Base on that, you need to build the entire interface and graphics.
+Accessible Interface Design
+
+Part 1: On Designing With Accessible Colors
+uxplanet.org	
+
+In the end, I want to say, it seems to me that the AR has bright future, and I exited to be part of it.

@@ -1,0 +1,89 @@
+Tutorial
+Dead Simple Techniques for Using Branding in UI
+The product is a play. The UI is the stage.
+I tend to be a fairly utilitarian designer by nature, so I’ve had to learn ways to add little flourishes here and there as I’ve shifted focus onto product and away from pure usability.
+utilitarian
+: an emphasis on usefulness/practicality rather than attractiveness
+The best places to look for branding opportunities are areas that frame or introduce content. UI elements like splash pages, header areas, and modals are great places to infuse a bit of branding and character inside your app. They set the stage for the rest of the page and — like a stage curtain — 
+they easily get out of the way
+.
+But the reality is that most of us don’t have an 
+Etsy-caliber illustrator
+ or icon savant at the ready when we want to make our boring bulk-import modal more attractive for sales decks…
+…or when those of us who are less graphically-inclined have no idea where to start for something like a simple splash page.
+UX Power Tools has your back with a few basic ways to achieve your branding goals without taking up hours of your time. Here are some simple ways to utilize color, graphics, and patterns to add product branding to your UX workflow.Branding Splash Pages
+Tools used:
+ 
+IconFlower Plugin
+, 
+Colorful Gradients Plugin
+, IconJar, 
+Coolors
+This is the “purest” brand UI element in this article because its 
+sole purpose
+ is to set the stage for the rest of the product. I think this asset typically falls under the realm of marketing, but who are we kidding…you don’t have that luxury (or if you do, it’ll never crack the top-3 in their backlog priority list).
+Stop checking Dribbble and feeling inadequate!
+ Dribbble is like a 
+museum
+ of splash pages, and they are all magnificent works of art. Luckily, you don’t need that much to make a competent splash page that serves a purpose.
+Let’s imagine you are creating a splash page for a new app that helps you learn how to fix things around the house.
+Let’s call it
+ “Fixt” 👇🏼
+“Hey honey, how’s the toilet?”…”I FIXT IT!”
+Let’s start simple. You probably wanna get your name on it, and if you have a logo mark too, it’s best to go with both:
+(Left) Our app, (Right) The real Medium app.
+Alright this is pretty boring, but it at least tells me what the app is. In Medium’s case, their UI is heavy on whitespace, so it sets you up for their simple, stripped down interface. Their brand equity is well-established too, so they can get by with just their mark.
+But for 
+our
+ app, this is feeling a little flat. And since we’re a startup, we need to make a bigger impact. Let’s invert the background and logo color:
+(Left) Our app, (Right) The real Twitter app.
+We’re using a flat blue like Twitter, so it feels better to fill the screen with color like they do. Our app is all about action, and we want to give it a little more depth. You can achieve depth with photography, but stock photos feel lifeless, and unless they’re custom, they aren’t really on brand.
+One way you can add depth is swapping your solid fill for a gradient. In our example, the secondary brand color works well:
+(Left) Our app, (Right) The real LinkedIn app.
+Not every brand color combination works, and sometimes you might not even have a secondary color. With LinkedIn, they use a simple radial gradient extending from the center. We’re using our secondary brand color and filling from the bottom-right. Either one is just dandy.
+If you don’t have a secondary brand color, hop over to 
+coolors.co
+ and plug in your base color, lock it, then press spacebar until you find a combination you like. You can also use the gradient plugin for sketch to make this easier:
+dunckr/sketch-colorfulgradients
+sketch-colorfulgradients - :large_orange_diamond: Import colorful gradients as shape fills in Sketch
+github.com
+Let’s go just a 
+little bit
+ further and add more depth by creating a pattern:
+(Left) Our app, (Right) A real app.
+Laserlike
+ has a great combination of shapes. For our app, we want to hint at usage so I grabbed a set of icons from Nova that are the “Tools” of this make-believe app. Then I used 
+Avadh Dwivedi
+’s awesome Icon Flower plugin to spiral the icons out from the middle.Rad.
+That’s four simple ways to brand your splash page. Which one you choose depends a bit on your own preference, but also on your goals and position in the market. For startups with no brand equity, err on the side of caution: use your name, your mark, and add graphics that hint at your app’s purpose. For more established brands, you may be fine with a simpler approach.Let’s move away from mobile and see some ways to brand a desktop app.Branding Modals
+Tools: Confetti plugin, 
+Nucleo
+My modals are typically boring AF. There’s nothing wrong with that. They’re functional! But when screens start making it into marketing and/or sales materials, the product brand gets a little lost.LinkedIn uses a simply-styled card to nudge you (on the left), but recently went big with a new feature (on the right). Both are fine and well-suited for their goal. The left is a gentle nudge, the right is more celebratory and tries to catch your attention.
+Let’s see how we can apply this to a modal. Imagine we’re designing a dashboard for [generic big data] app (and also imagine we are going with pink and purple for our brand colors). We want to allow users to be able to add their own cards to the dashboard where they can pick which data points to show:Functionally and visually this is…fine. Hell, we even went with a two-column layout for the cards! How edgy!
+But then marketing puts this screen in a demo and comes back saying it was “a little drab”. No fear, we’ll throw some color in that top header!
+Now this modal is feeling like it’s alive, but it still doesn’t connect much to the brand. This is where we will get a little fancy. Remember, we have no amazing illustrators on our team but we do have a license for 
+Nucleo
+. We can grab colored version of a vaguely statistic-looking icon:
+Yeah I know it says “Medical” but nobody has to know.
+Then we drop into our file we simply swap out the colors for brand colors:
+We also increased the header of the modal to make room, which allowed us to play with the type a little bit.
+We might want to slow down before people start paying us to make this art!
+But no, we won’t stop there. We won’t stop until we’ve added randomly assorted icons in the background.
+I know you’re thinking, “Hey Christian, you promised this was going to be easy. I don’t have the time to make all those graphics and arrange them so delicately.” Fear not, I simply grabbed a bunch of user icons from Nucleo’s “glyph” set:
+Then used the internet’s hottest new Sketch plugin, 
+Confetti
+ by 
+Yummygum
+.
+Voila! You have turned a hum-drum modal into a branded piece of product that even marketing will be proud to show off.Now, Visual Design is 
+much more nuanced
+ than I’ve presented in this article. And there are truly amazing designers out there who can do much more amazing work than I can.
+But sometimes you don’t have that resource available, and using a few simple tricks like these can help you turn a usable product into a 
+marketable
+ 
+product
+.
+Feel free to grab the source file below if you are in disbelief at how I’ve made these masterpieces.
+😀When I’m not busy breaking down basic branding techniques, I work on 
+UX Power Tools
+ to help you help you create your own design system.

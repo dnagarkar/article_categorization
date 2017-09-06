@@ -1,0 +1,67 @@
+Diversity in Tech: The “Intro Textbook” We Must Co-Create
+Introduction
+I have wanted to write a book since the moment I realized that words and stories originated in human heads. At age three, I begged my older sisters to teach me how to read and once they did, I never stopped thinking about what it would be like to be the 
+teller
+ of the story, the creator of content.
+For the last year, I have thought that maybe “my” book is the primer on Diversity in Tech. It’s pretty much all I think about anyway, and real people are paying my firm real money to come into their companies and work on that very thing. Now that the conversation around diversifying tech has hit the mainstream, I am asked to give a lot of “talks” and steer people toward good sources of information. While fun, I find myself repeating the same ideas, disseminating the same advice, and introducing people to the same research over and over. But people are hungry for more information and I am eager to give them a starting point. The most frequently-asked questions at the end of any session has become “Where can I get more information? Is there a beginner’s book you recommend?” My answers: (a) Subscribe to 
+Model View Culture
+; and (b) No.
+More Voices
+Right now, a lot of folks are jockeying for position as The Voice of Diversity in Tech. I have no doubt that a book will soon emerge, and it will sell out in airports worldwide. But the notion that one person’s take might become the seminal work on how to change an entire industry worries me for a couple of reasons.
+The first is that book deals do not 
+usually go to the people society needs to hear from most
+.
+Second, there are better models of leadership that work for important movements, and right now we can learn from what 
+Black Lives Matter
+ is doing in this regard. When the mainstream media comes calling for A Leader they refuse to acknowledge just one because there are, in actuality, many. By de-centralizing the message and making way for a variety of voices, 
+Black Lives Matter is “leader-ful”
+ even when mistakenly referred to as “leaderless.”
+In that spirit, I humbly suggest we push for more leaders and 
+#morevoices
+ in the vast conversation around Diversity in Tech. A small sample of us cannot stand for all of the work that must be done. When we are asked to “talk about diversity in tech,” can we push back with questions of our own? Questions like: Which aspects of diversity do you want to know about? Do you want to know about recruitment and hiring? Do you want to know why under-repped people are leaving even if they’ve made it “inside?” Do you want to know about culture and leadership styles? And which aspect of tech do you mean, exactly? Do you want to know about small start-ups, or more established companies? Do you want to know about attempts that have failed? Do you want to know about engaging a specific community? I can think of great people to take each of those questions on, without naming the same person twice.
+This Work Is Changing Rapidly
+When my 12 year-old daughter learned about old-school encyclopedias a few years ago, she said disgustedly “That sounds awful. What did you do if information changed? If someone discovered something new, you just didn’t 
+hear
+ about it?” She shook her head and went back to a wikipedia entry on dinosaurs.
+The encyclopedias of my childhood.
+As a 42 year-old I can assure younger folks that this is 
+very much 
+a recently-adopted way of thinking. I am someone who made it all the way through college without the internet, so I am going to use my position as an “elder” to point things like this out. As a kid, I 
+never once
+ questioned the integrity of an encyclopedia. Neither did my parents or my teachers. But now that this thinking is ubiquitous — thanks largely to innovations in technology — I need to remember to approach everything with that level of skepticism.
+That said, it is really important to note that 
+no corner of tech has figured this thing out. 
+Some folks have implemented successful initiatives on a small scale, some are making giant proclamations and putting money behind it, but most are still wondering where to start. As we identify relevant research and successful interventions, we need to be able to add that information into a repository quickly so others can learn from it and iterate. The stakes are too high for us not to.
+We need a Starting Point and a Primer That Adapts
+Recently, in the middle of a training on emotional intelligence and its impact on diversity in tech, I thought “this is not how tech is done.” I did the same training for a different group of people earlier that morning and again that afternoon. I believe wholeheartedly in the need for in-person learning and the ability to ask questions. But how much more interesting could those questions be if participants had access to a basic repository on the topic? I could say go to 
+this place first
+, read through it, see what others have to say in the (curated) comments and then we will discuss in person. Follow some of the links to research on the topic, see what you find. Explore the hell out of this free, open, and online resource.
+Instead, people interested in the topic are scrambling to find the best think pieces and research papers on every aspect of a huge set of issues. This haphazard approach cannot take into account varying levels of familiarity with the array of concepts that comprise this work.
+In addition, what takes the place of a helpful entry point is whatever “hot topic” is currently being peddled as The Answer. Right now, it’s 
+Unconscious Bias
+. Unconscious/hidden/implicit bias is an incredibly important and endlessly fascinating aspect to the conversation about systems of exclusion. But it is 
+one
+ thing, not 
+the 
+thing. There is simply no 
+one 
+thing. It is 
+all the things
+ about tech that need to be held up to the light and scrutinized.
+We need a real starting place. We need a “Hello, World” for Diversity in Tech. So let’s create one.
+We can use some tried and true methods of 
+instructional scaffolding
+ and introduce key concepts that are important for those interested in diversifying tech to understand. For example, let’s introduce 
+Impostor Syndrome
+, 
+Stereotype Threat
+, and the differences between “equality” and “equity” as important building blocks.
+We can also use some tried and true methods of open source collaboration and development to create The Starting Place for everyone who is interested.
+Look, I know this isn’t a new idea. I am also aware of 
+That One Book Being Written By That Famous Biographer
+ and how pieces of it are being crowdsourced. But it is mostly about telling history. Interesting, but finite.
+I am more interested in how to make the lessons about Diversity in Tech applicable 
+today. 
+I want to write the book together, while we make this thing happen, at the very moment we are pushing the gates of Silicon Valley wide open.
+In summary, we need a place to send eager beginners, somewhere practitioners can share their knowledge, and something more substantive than whatever is being offered up as today’s solution. We also need to hear from the multitude of people who are doing the actual work, those who are seeing what is and isn’t having an impact in real time. We need to start from the beginning, review, iterate, and repeat. It needs to be online, open, free, and collaborative.
+I’m working on Chapter (Section? Entry?) One now: “What Do We Mean by ‘Diversity in Tech’ and Why Does It Matter?” I hope you’ll read it and offer comments once it’s done. Even more so, I hope you come up with something better. After all, isn’t that how tech is supposed to work?

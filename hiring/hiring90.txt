@@ -1,0 +1,65 @@
+Key Hiring Lessons from Amazon, Uber, Groupon, etc.
+If you want to create a successful, hyper-growth company you’ve got to get one thing right — 
+hiring
+.
+To kick off my series of blogs on “Hiring, Culture, and Experimentation”, I had a chance to catch up with Jeff Holden, the current Chief Product Officer of Uber.
+Jeff is a brilliant entrepreneur and executive who has held leadership roles at three hyper growth companies — Amazon, Groupon, and Uber.
+We talked about many things, but in this blog, we’ll focus on Jeff’s advice for hiring — these are critical lessons for every entrepreneur, so let’s dive in.
+Jeff Holden’s Rocket Ride…
+Jeff spent the first 5 years of his career at D. E. Shaw & Company, a hedge fund in New York.
+With a background in computer science, Jeff soon linked up with another Jeff at D.E. Shaw…. Jeff Bezos, that is. Bezos was his first manager at D.E. Shaw, and when Bezos decided to leave the hedge fund to build an Internet company to “sell books,” Jeff Holden joined him.
+Holden then spent 1997–2006 on the ground floor of Amazon, which now has a market cap of $277 billion.
+Holden left Amazon in 2011 to join Groupon, where he spent three years as the SVP of Product Development.
+And in 2014, Travis Kalanick (CEO of Uber) tapped Jeff to come lead the product team at Uber.
+Over the past 20 years, Holden has learned how to build amazing teams and create powerful cultures around experimentation and solving big problems.
+As such, here are few of the key principles Jeff shared around attracting and hiring the best people in the world.
+1. A-players Hire A-players and B-players Hire C-players — So Be Ruthless about Hiring A’s
+In order to hire the best people, you have to be ruthless.
+As Jeff Holden explained, “There’s literally nothing more important than getting the right people on your rocket ship.”
+If you lower the bar on the quality of people you let in, they will have a lower bar for the quality of people they hire. The spiral will continue to cascades downward until you’re left with, well… a mediocre company.
+Jeff has a saying that “A’s hire A’s and B’s hire C’s” — I couldn’t agree more.
+You have to be ruthless about the bar you set.
+If you’re going to be ruthless, you have to have simple, easy-to-follow mechanisms to make the process work.
+Jeff shared some of his experiences creating these mechanisms in very high-pressure, high-growth environments, where hiring managers were ordered to build their teams and not to “dilute themselves into mediocrity.”
+Here’s the story he shared:
+“We had to make sure that we kept the bar high, so we created a program called 
+Bar Raisers
+. It was very powerful and the idea was pretty simple.”
+“First, we handpicked a small group of people who we knew were ruthless hirers with very high standards. We dubbed them ‘Bar Raisers’ and their role in the interview process was pretty simple: (i) There always had to be one Bar Raiser in every single interview; and (ii) the Bar Raiser has veto power and nobody can override their veto, including the CEO or the hiring manager.”
+“What ends up happening is that these Bar Raisers become cultural leaders for raising the bar. They become passionate advocates of “The Bar”, almost evangelists.”
+“Then, the Bar Raisers actually run the hiring debriefs where they collect all of the feedback and data from all of the interviews and distribute this data to the decision makers.”
+“The first thing we did was to take a vote. We did this with our thumbs. You could vote by putting your thumb in one of four positions — Strong Hire, Inclined to Hire, Not Inclined to Hire, Strong No Hire.”
+You can’t choose “Middle”.
+“Then, there’s a discussion that ensued about what do based on the voting pattern that we observed.”
+Finally Jeff offered, “We made a decision 
+in that room
+ about whether or not we’re going to proceed with an offer or not. This rigor is extremely important.”
+You’ll likely make less offers than you would have without these processes, but the quality of people you do bring in and keep will drive extraordinary value into your business.
+2. Always Gauge the Passion & Interest of a Candidate
+It’s critical that new hires are passionate about and mission-aligned with the company.
+You need to screen for this in the hiring process to ensure that there will be cultural fit amongst new people you bring onto the team.
+There is a simple way to do this, as Jeff explains, simply ask them “Why do you want to work for this company?”
+“It’s unbelievable how many people have a terrible answer to that question,” Jeff said, “The generic answer is — ‘Well, you guys are doing really well…’.”
+Find people whose answers fit with your culture and core values (a topic we’ll discuss in future blogs) and…
+3. Be an Owner, Not a Renter — Hire Patriots, Not Mercenaries
+Jeff has a quote that he referenced — “Wars are won by patriots, not mercenaries” — This is a really important idea.
+In the context of hiring, this means that you need to bring patriots onto your team who aren’t in it for the money.
+You’re looking for team members who are passionate about the mission, folks who behave like owners (of your brand, product, vision, people, mission, etc.), rather than renters who always have one foot out the door.
+If the candidate just wants to make a lot of money, and they aren’t passionate about the mission, they are going to burn out when things get tough and it’s going to cost you. These are mercenaries, and they are bad for sustainable growth.
+Note**: Be careful — a lot of mercenaries are really good at “saying the right things” to make it seem like they are value-aligned. You have to run a series of culture fit experiments to see if their actions back up their words.
+4. Make sure you’re working with people that ‘Make You Feel Dumb’
+Finally, make sure you are working with bright, intelligent people who are constantly pushing you to learn.
+The people you surround yourself with in these often stressful work environments (and especially as a startup entrepreneur) can make or break your experience, and more than that, they can make or break the company.
+As mentioned, this was just the tip of the iceberg of my conversation with Jeff. We’ll dive further into culture and experimentation next week.
+Join Me
+This is the sort of conversation we explore at my 250-person executive mastermind group called Abundance 360.
+The program is highly selective. If you’d like to be considered, apply 
+here
+.
+Share this with your friends, especially if they are interested in any of the areas outlined above.
+This blog is the first in a series I am doing on “Hiring, Culture, and Experimentation”. If you have questions or comments about these topics, tweet at me @peterdiamandis and @codyrapp, and we’ll incorporate them into our research.
+P.S. Every week I send out a “Tech Blog” like this one. If you want to sign up, go to 
+Diamandis.com
+ and sign up for this and Abundance Insider.
+P.P.S. My dear friend Dan Sullivan and I have a podcast called Exponential Wisdom. Our conversations focus on the exponential technologies creating abundance, the human-technology collaboration, and entrepreneurship. Head here to listen and subscribe: 
+a360.com/podcast

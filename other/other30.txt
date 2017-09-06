@@ -1,0 +1,26 @@
+Why I’m leaving the Node.js project
+As you may have 
+seen on Twitter yesterday
+, I stepped down from the Node.js Foundation Technical Steering Committee (TSC) along with three other members. I am also announcing my intention today to step down as the chairperson of the Node.js Foundation Community Committee, and to leave the Node.js project entirely.
+To understand this action, let me provide some context.
+I got involved with the 
+Johnny-Five
+ project a little over three years ago. It is such a wonderful project with a diverse group of amazing people in it. I really got involved in OSS in general and the broader JS community because of Johnny-Five, the people behind it, and the welcoming and inclusive culture they created.
+About a year later, we formed the Node.js Hardware Working Group (WG) as part of the io.js fork to work with the project on pain points that Johnny-Five users encountered.
+During this time, it became clear to me that there were systemic culture problems in the Node.js project. As a result, a number of us formed the Inclusivity WG to fix these issues around the same time that the Node.js Foundation was formed.
+We faced obstacle after obstacle just in getting established. Most of the existing TSC leadership at the time played a role in this. The bulk of the resistance came from Rod Vagg, but his behavior was in part enabled by the rest of the TSC.
+By the time we were chartered in January of 2016, everyone was exhausted and burned out from the fight, so we limped along after that. I wound up running the WG during the spring and summer of 2016, and I joined the TSC during this time to represent them. I wasn’t able to generate momentum to accomplish much because of the expected resistance based on experience, combined with everyone’s burnout.
+So the Inclusivity WG collapsed for this and other reasons, and almost everyone had quit by the end of August.
+We ended up forming the Community Committee as an attempt to address many of the reasons the Inclusivity WG failed, and to address a number of other initiatives that weren’t really being undertaken by the TSC, such as education and evangelism. CommComm, as we call it for short, has been a lot more successful so far, and I’m excited to see where it goes.
+However.
+During this time, Rod had repeatedly shown a lack of judgement in how he acts within the project and with the broader community. He violated the Code of Conduct multiple times, and undermined efforts to increase inclusivity efforts at every step along the way.
+I do not believe Rod did this intentionally, or that he is a bad actor in the classical definition. Rather, his bad behavior stems from ignorance and an unwillingness to learn. Rod’s intentions don’t really matter though. As they say, the road to hell is paved with good intentions.
+More importantly, Rod’s bad behavior was due in part to the Node.js leadership’s tacit endorsement of his behavior through their unwillingness to take appropriate action. The TSC has tried talking to him on several occasions, but when those inevitably failed the rest of the leadership stopped trying. They were both unwilling and unable to make the hard decisions in this matter, and I was not able to take unilateral action.
+A single person who is causing problems in and of itself isn’t that big of a deal. This happens all the time in non-private social media. What matters is how those overseeing the space handle it. The majority of Node.js TSC members have repeatedly shown that they do not want to handle the situation, with some going so far as to say they do not even think there is a problem.
+And so, here we are.
+I’ve been doing inclusivity work in Node.js for over two years, and I’m finally burned out too. I can no longer keep doing this sort of work in the Node.js project for the sake of my own mental health. I also cannot be involved in a project with major cultural issues without working to make it better. As such, I have no other choice than to leave the project. I will take some time to hold an election for a new chairperson of CommComm and onboard them, at which point I will complete my departure from the project.
+I genuinely hope that the leadership of the project can fix the structural issues in governance that led us to where we are. Indeed, there are already signs that they are taking this more seriously after four of us resigned. I’m also really excited to see where the Community Committee goes. There are some wonderful people on CommComm who I know will do a good job in my stead.
+There are also some really wonderful people working in all areas of the project, and I in no way blame them for any of this. People like Anna, Myles, Rich, Tracy, Jenn, Tierney, Ashley, Rachel, Richard, Matteo, Franziska, Jeremiah, Никита, Josh, William, Gregor, Fedor, Shigeki and so many others that I forgot to list here. I respect and admire all of you, and I wish you all the best.
+As for me, my time in the project has come to an end.
+It’s a sad moment, but I’m also excited for the future. I’m excited to get back to more technical work, excited to devote more time to Johnny-Five again, excited to focus more on my role as a technical evangelist at Microsoft.
+And I’m excited to pass the torch to the next generation of folks who will fight hard for inclusivity.

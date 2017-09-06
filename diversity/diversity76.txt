@@ -1,0 +1,20 @@
+Why Talking about Diversity is So Hard (and how we might make it easier)
+For a long time, almost as long as I’ve been a member of the exclusive “Women in Tech” club, I’ve avoided talking about diversity. I modelled myself after Marissa Mayer, who when asked what it was like being the only female engineer at Google (back in the day) said “
+I didn’t notice
+”. I completely believe this. It’s very useful not to notice. Perhaps her blindness came naturally. For me, I trained myself not to notice being the only woman in the Slack channel because noticing hurt me. It literally made me worse at my job.
+There’s a 
+famous study
+ about students being asked their race before taking the SAT. Black students did significantly worse after checking the “black” box than when they were not asked about race. The conclusion is that 
+stereotype threat
+ (now an established psychological phenomenon) caused black students to do worse on the SAT because identifying themselves with a group that has stereotypical associations of lower intelligence in society primed them subconsciously to adopt that trait.
+As a woman developer, this same thing happens to me when I mentally check that female box and then proceed to be “in tech”. Identifying myself with a group stereotyped to be worse on average at technical tasks 
+primed me to do worse
+ when faced with a technical task. So the way around this for me was to downplay being a woman, and this meant not talking about Diversity (unless it was to joke about wooden ships).
+Diversity is morally the right thing to do. It also makes 
+business sense
+ (not that you should need a profit motive to do what’s right). But talking about diversity is hard for the Diverse ones because it primes us to identify with harmful stereotypes and potentially confirm them. It’s also hard for the non-Diverse ones — it must feel so threatening to have a “not diverse” black dot next to your name. White male developers are not less valuable because of their race and gender. Even this paragraph makes me uncomfortable, with it’s binary Diverse and Not-Diverse, as if we’re facing each other down across a battlefield brandishing pitchforks.
+Don’t let’s stop this conversation. It needs to happen, and it probably will regardless of who likes it. Let’s re-label this, and talk about Belonging. Because that’s the real issue: folks feel that they don’t belong in tech. I don’t want to Be Diverse, I just want to be. I want to feel I can really belong among my developer peers and equally, I want my peers to feel that they belong too (whoever they are). By talking about Belonging, we can refocus this conversation away from quotas and [insert noun here]-blindness, and discuss why it is that many groups don’t feel that they belong in our industry (and perhaps many people don’t feel they can truly be their whole selves) and what we can do to change that and make everyone feel really welcome.
+This quote sums up my feeling of fostering belonging beautifully:
+Every Monday, when we get a new class of hires, I say to them, “I don’t want you to come in here and think that you need to use ‘blind’ as a suffix. That you need to describe people as ‘just my colleagues’ or say things like, ‘I don’t see race. I don’t see gender. I’m colorblind. Sexual-orientation blind.’ In doing so you’re neutralizing a part of a person that is an asset. I want you to see those characteristics and see them as adding value — 
+Maxine Williams
+ of Facebook

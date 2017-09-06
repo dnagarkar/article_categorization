@@ -1,0 +1,65 @@
+Fundraising Is Like Playing Poker With VCs — It’s Not A Meritocracy, It’s A Game
+AS MUCH AS WE’D LIKE TO BELIEVE THAT THE BEST STARTUPS GET FUNDED, DEEP DOWN, IT’S ALL STILL A GAME. AN EXCLUSIVE ONE.
+This article was originally published in 
+Fast Company
+ on September 22, 2014.
+In high school 
+Nikhil Kalghatgi
+, now a partner at early-stage venture fund Vast Ventures, and his friends taught themselves how to count cards in blackjack.
+With enough practice, he says, anyone can get pretty good at mastering what he calls a simple arithmetic game. Eventually Kalghatgi found his consistent wins so easy that he became bored with blackjack and moved on to poker.
+Poker changed Kalghatgi’s life. He and his friends began to play all the time, and he continued to win through high school, college, 
+Harvard
+ Business School’s charity poker tournament, and regular trips to casinos. And while he no longer plays poker for his own gain — only for charity — Kalghatgi says he realizes that there are three unexpected commonalities between poker and fundraising for a venture fund.
+1. PICKING THE TABLE
+“The game begins before the cards are dealt,” 
+Kalghatgi tells the audience at 
+The Phat Startup’s sold-out event: The Good, The Bad, The Ugly of the VC World
+. “It begins as soon as you walk in the door,” he continues. “First, you pick the table — some are high stakes, some low, some are easy versus hard. Several people at the table have played together before and you’ll either beat several and walk away a big winner, or become the ‘shortstack’ losing precious time and money, forced to seek another table.”
+Intelligently picking the table in poker and fundraising requires some knowledge of the players. Kalghatgi says that as you build your 
+investor network
+, one goal should be to identify the pockets of investors that talk to each other regularly and share dealflow.
+This information unfortunately cannot be found in blogs, and contrary to popular belief it is not based on frequency of co-investments. Rather, this information is subtly conveyed when you ask: “Who are your closest investor friends in tech?” and “Which investors do you hang out with the most?”
+By mapping out clusters of investors, you are identifying groups of folks that effectively act as a herd. Knowledge of that herd will allow you to take advantage quickly and perhaps form a fast syndicate or avoid wasting time if a member of the herd is less interested in investing.
+2. FIRST IMPRESSIONS
+Given that poker and fundraising are full of limited and incomplete information, entrepreneurs and poker players can quickly create strong initial impressions based on a few interactions, and this includes your introduction. Since many VCs often rely on their network to do the first round of vetting, introductions function as social proof.
+Entrepreneurs are well aware of getting warm introductions, but solving for the introduction and optimizing for the best intro is hard. Instead of trying to build a network of investors, a founder should be building a network of introducers. And not all introducers are created equal.
+A good introducer is willing to make a dozen intros, not just to the one you asked them to make. A good introducer knows you well and will proactively speak highly about you to others. Kalghatgi believes meeting one founder in order to get one intro is simply not efficient.
+The best way to build a network of introducers is to be a great introducer yourself. Share a dozen contacts with another founder and ask for a dozen. There are lots of benefits to this method:
+It is an efficient use of time
+It builds a closer relationship with you and another founder
+Most importantly, doubling up on intros or back channel pings creates a stronger impression and brings you front of mind for the investor
+Angelist and 
+online networks
+ are good for research, but you need a solid social proof for them to close a round of funding for you. Some accelerators may be good for intros to VCs and angels, and some accelerators cannot add much value. The truth is that most VCs don’t really give much credence to the vast majority of accelerators or incubators.
+Also, don’t bother with the conferences or pitch contests that require founders to pay fees to meet VCs. The best ones don’t require founders to pay fees. Though some organizations like the Phat Startup have top VCs and prominent angel investors as speakers, public meetups are generally the worst place to try to meet VCs.
+3. HOW VCS THINK — BIASES INCLUDED
+People often ask if poker is a game of skill versus luck. As it’s a game of chance, being lucky is huge. But like a skilled player, entrepreneurs should know investors’ biases and faults, the greatest of which is the fear of missing out.
+Real momentum — and even the appearance of it — in a deal is like catnip to investors and can cause one to move quicker than normal. Keep in mind, there are two kinds of momentum:
+Momentum in a company
+Momentum in a fundraise
+Have initial meetings with all investors in as short a period as possible, and show forward movement in your company or fundraise.
+When deciding to invest, most VCs make a decision based on three considerations: market opportunity, traction, and team. However, seed-stage VCs espouse that they invest in the (usually male) founder first and the business second. The assumption is that the right founder and team will figure out a good business model.
+In a recent 
+Inc. 
+article titled 
+”The Insane Double Standard for Women Working in Tech
+,” Kimberly Weisul stated, “Research has shown how difficult it is to be the ‘right’ founder if you’re a woman. Regardless of a woman’s actual credentials, VCs evaluating her are much more likely to find her lacking in some ineffable way than they would a guy.”
+Keep this in mind when you’re fundraising if you’re a woman and push back. Challenge the VCs on their gender biases and their double standards.
+Fundraising may also be hard if you’re a marketer, over 30 years old, and don’t look like Mark Zuckerberg. It’s known that even “
+genius level marketing gets no respect in Silicon Valley
+.” Most VCs forget that Steve Jobs was a marketer, and they have a preference for young founders who look like Mark Zuckerberg.
+Y Combinator cofounder Paul Graham recently told Nathaniel Rich of 
+The New York Times
+, “
+I can be tricked by anyone who looks like Mark Zuckerberg
+.” Many VCs have openly discussed “
+their bias toward young entrepreneurs
+. Some argue that 
+Internet entrepreneurs
+ peak at 25.”
+Like the poker player, a VC’s objective is to make mathematically and psychologically correct decisions whether to play, bet, or fold. A founder trying to fundraise should learn the players, pick the table, make an impression, and make it look easy. However, despite the commonalities between poker and fundraising, the sad truth is that many of us can play poker in Vegas with more even odds. Meanwhile, fundraising with seed stage VCs is an exclusive game that many aren’t even invited to play because of their biases. Don’t just build your startup, learn the game and play it well because it’s not a meritocracy. It’s a game, and often a very exclusive one.
+—
+Sindhya Valloppillil Kalghatgi 
+is a freelance writer, marketing professor, and the founder and CEO of HELIX MEN, a 
+soon-to-be launched e-commerce men
+’s grooming and lifestyle brand. Prior to HELIX, Sindhya was a global brand and innovations manager at ZIRH, where she helped lead its successful exit to P&G in 2009 and received numerous awards for her work.

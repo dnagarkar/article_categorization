@@ -1,0 +1,62 @@
+The Importance of Hiring Junior Designers
+On Saturday, 
+Joshua Taylor
+ asked the following question on Twitter.
+A number of people replied. Joshua then posted the following statement…
+I looked at the replies to Joshua’s tweets and thought for a moment. It’s true. A lot of companies aren’t hiring Junior Designers. As a result, “inexperienced (but talented)” designers are having a hard time getting their careers started. I wondered, why are so many companies not hiring Junior Designers? How will these designers get started?
+I think it’s important we help inexperienced designers get started. In this post I’m going to share how I got my first Product Design job. I’m also going to share how we’ve been successful with hiring Intern and Junior Product Designers at Percolate Design. We all have to start somewhere.
+My Story
+As noted in one of my 
+earlier blog posts
+, here’s my story.
+In 2009, I graduated from architecture school and received an opportunity to work at a tech startup in NYC. I entered the industry as a Community Manager, then moved on to become a Creative Strategist and Project Manager. On the job, I learned to manage the development of products, but after some time, I wanted to try 
+designing
+ the products.
+Although my architecture education provided me with a good understanding of design principles, I needed to learn more about web and app design. I wondered, should I try to learn on my own? Maybe attend one of the new graduate programs? With these questions in mind, I asked for advice. I turned to my friend, 
+Matias Corea
+, co-founder and former Head of Design at Behance. He recommended an apprenticeship. I distinctly remember him telling me,
+“learn from a designer you admire.”
+That night, I went home and cold emailed the designer I admired most, 
+Khoi Vinh
+. I have always admired Khoi for his organized and systematic approach to design. At the time, Khoi had recently left his role as Design Director at the NY Times online and was co-founder and CEO of Mixel, a collage making app that has since been acquired by Etsy. Here’s a screenshot of the cold email. I remember hitting send was a bit scary.
+Much to my surprise, 30 minutes later, Khoi responded and we set up a time to meet. I was so excited, I almost fell off my chair.
+I met with Khoi at the Mixel office, a co-working space in NYC. After chatting a bit, Khoi offered me a 2 week product design assignment. He asked me to redesign the Mixel iPad app for iPhone. I accepted the project, and here are some of the sketches.After submitting the project, I earned a spot on the Mixel team to learn product design. Although we didn’t formally refer to my experience as an “apprenticeship”, I was in many ways an apprentice. On the design side, I absorbed so much knowledge from Khoi and 
+Roy
+. On the development side, I learned a tremendous amount from 
+Scott
+ and 
+Akiva
+. I learned everything from the fundamentals of Photoshop to the subtleties of interaction design. My experience at Mixel lay the foundation for my career as a Product Designer.
+4 Years Later
+At this point in my career, I’m now on the other side of the table. As a Product Design Director at 
+Percolate
+ in SF, I’m mentoring and hiring Product Designers.
+In the past 2 years, the 
+Percolate design
+ team has hired 1 Intern Product Designer and 3 Junior Product Designers. Looking back on the experience, here are 5 things that helped our team be successful with Intern and Junior Product Designers.
+Experienced Designers
+In order for an Intern or Junior Product Designer to be successful, we knew they would need to work closely with someone more experienced. As a result, we focused on hiring mid level Designers first, then expanded our team to Intern and Junior Designers. Starting with more experienced Designers helped develop a foundation for mentor / mentee relationships.
+Interest in Mentoring
+Not all Designers are interested in mentoring Interns or Juniors, and that’s totally OK. When we first considered Intern and Junior Designers, we spoke with our experienced Designers and learned all 4 were interested in mentoring. It was pretty awesome. At a minimum, I’d recommend ensuring 2–3 designers are on board with mentoring. The innate interest helps grow and support Interns and Juniors on the team.
+Process
+One of the most important things an Intern or Junior Product Designer can learn is design process. It’s all about helping them learn to solve a design problem from start to finish. At Percolate, we use the phrase “start to finish” because our Product Designers are expected to lead projects from the beginning to the end. Whether you’re an Intern or a Senior Designer, your project includes research, sketching, wire framing, prototyping, visual design and hand off to engineering.
+In order to help Interns and Juniors with this workflow, a few of the more experienced Designers developed an internal website with helpful documentation about our design process. We also worked with Product Management and Engineering to document our product process at large. These documents made it that much easier for an Intern or Junior Product Designer to jump in, learn and grow.
+Roadmap
+The best projects for an Intern or Junior Product Designer are start to finish, relatively small in scale, and not on tight deadlines. Since the projects vary in size and importance, it was important for us to ensure the right projects were on the roadmap before we hired Intern and Junior Product Designers.
+Reflections
+Mentoring is not simple. It takes time to learn. To help ensure our success, our VP of Design, 
+Dom Goodrum
+ met with the design leads on a regular basis to reflect on our experiences with mentoring. Over dinners, we discussed, shared tactics and learned how to improve. Mentoring the mentors was key.
+Conclusion
+Today, I’m thankful for my first Product Design job. I’m equally thankful for the opportunity to mentor young Designers. I believe Intern and Junior Product Designers are an important part of the industry.
+I urge every experienced Product Designer to ask the following…
+Do you have 3+ experienced Product Designers on your team?
+Do at least 2–3 experienced Product Designers want to mentor?
+Does your team follow a design process?
+Does your roadmap includes smaller, start to finish projects without tight deadlines?
+Do you have time to reflect with other mentors?
+If you answered Yes to each of these questions, then I hope you will consider hiring Intern and Junior Product Designers. Let’s help new Designers get a foot in the door.
+Thanks for reading! You can follow me on Twitter at 
+@lissalauren
+.
+PS: Looking for a design job? I’m a Product Design Director at Percolate in San Francisco and we’re hiring. Interested? Send me an email. I’m melissa@percolate.com. I’d love to hear from you!

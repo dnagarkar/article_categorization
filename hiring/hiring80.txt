@@ -1,0 +1,233 @@
+The Most Common Mistakes Made By Startups Throughout The Hiring ProcessIn the heart of entrepreneurship lies 
+a myth discussed by very few
+. 
+When we talk about iconic startups,
+ 
+we love to focus on the incredible impact of a promethean CEO
+. Apple? Steve Jobs, now Tim Cook. Google? Eric Schmidt, now Larry Page. Yahoo? Marissa Mayer. Salesforce? Marc Benioff. Amazon? Jeff Bezos. But behind this storytelling of a heroic leader moving the whole organization with
+ 
+her/his own hands, 
+we tend to forget not only the Sergey Brin & Steve Wozniak, but the true value of a tech startups: their talents.
+In the venture capital industry, we talk a lot about the importance of the founding team. But we might underestimate, especially in the early stages, something that might be as important as their drive, soft skills and strategic sophistication: their ability to recruit an A-class team.
+You might partner with incredible co-founders and attract great talents within your network but that doesn’t ensure that you have the right skills to attract people outside your network. And this is surely the biggest success factor of tech startup (any company actually).
+So I wondered, what are there best practices out there? I knew that I couldn’t find the golden formula, so I looked the other way around: 
+what are the most common recruiting mistakes done by startups CEO?
+And to get such answers, I interviewed four very skilled recruiters in the French tech ecosystem: 
+Emmanuel Stanislas
+, CEO of 
+Clementine
+ a headhunting firm, 
+Jonathan Azoulay
+, founder of 
+UrbanLinker
+, another headhunting firm, turned tech entrepreneurs, when he co-founded 
+Talent.io
+ a year ago, a platform to recruit developers, 
+Déborah RIPPOL
+, culture scout at 
+Buffer
+ and 
+Gaëtan Garnotel
+, co-founder of 
+Captain21
+, now HR manager at 
+Agricool
+Let’s agree on 4 arbitrary steps for any recruitment:
+The definition of needs and planning
+The sourcing of candidates
+The hiring process itself (pre-qualification, interview, assessment)
+The closing (a.k.a the offer)
+Now, we just need to figure out the traps that can occur at each step of the process.
+1. Planning Is A Game You Need To PlayJonathan & Emmanuel spoke with one voice about the riskiest part: the very beginning of the process. “
+Too often, the objectives are very loosely defined
+. Founders tend to start their research with a function in mind. I’m looking for a CFO. I’m looking for a CTO. But that’s not the right way to do it. Firstly because lots of different realities are hiding behind the word CTO. A CTO in a 200+ people corporation is very different than a CTO in a 20 people startups. The skills, the day-to-day prerogatives, the habits differ a lot.”, told me Emmanuel. 
+So we need to start the hiring process not with a function in mind, but with a set of tasks to be done.
+ Emmanuel comments: “if you don’t know precisely what your future recruit has to do, you cannot have a successful hiring. There are several reasons for that. Mainly, you won’t be able to define what are the skills you look for. Thus you won’t be able to know where to look, how to evaluate the candidates and how to know after the hiring if that’s a good fit.“
+Gaetan of Agricool adds 
+“Every question must be asked with an intention.
+ 
+You have basically two main things to check: skills and cultural fit.”
+Deborah, at Buffer, is starting every recruiting process by writing a 
+kick-off document
+ where she makes sure everyone is aware and aligned on the skills/experience an ideal candidate should have. “If you don’t start by making sure everyone is on the same page, you will end up by a shortlist that doesn’t make consensus. And that means starting everything again. Once everyone is on the same page, we design the process according to the exact attributes we’re looking for and we’re able to suggest the amount of time managers and interviewers will need to block 3 or 4 weeks in advance. We aim at doing that before we even publish the job listing”.
+Bottom line: better start off with figuring out what exactly is the company looking for
+Jonathan highlights another key mistake in that first step: 
+not having a clear picture of the market dynamics and our own position on it
+. “During the closing, the last part of the recruitment process, you get a pretty clear picture of your attractivity for candidates. It is very hard to be clear-headed about the image we display. At best, even when our working condition and corporate mission are great, we are cursed by the knowledge of what’s really going on in the company. But that may not be what people hear about the company. They may hear bad stories or even no story at all. So even if you are good at telling your story and onboarding candidates once they are in front of you, your job offer might not sound very appealing, even when the job is good.”, he tells me. “You have also to really understand what the market practices are, what profils will fit with the offer you’re making.“
+Bottom line: you need not only have a good definition of your needs, but also a good definition of the attractivity of your offer and your recruits’ alternatives
+“
+One other underestimated challenge is to have a common agreement about the definition of words
+. For instance, if you take a quality such as ‘creative’ or ‘rigorous’, you would be surprised how different people understand these words. And I don’t think only of the difference of perceptions between the recruiters and candidates but also among the recruiters. My advice is to be very explicit, take real-life situations as an illustration of the quality and include performance metrics to put everyone at the same page.”, Emmanuel says.
+“And sometimes, the checklist of qualities might be a bit contradictory (creative and rigorous are compatible until a certain degree), so 
+you not only need to figure out if the quality is really a requisite for this specific position but also to prioritize them
+.”
+Bottom line: words are misleading, make sure to make them as explicit as possible. And make choices: the fewer, the better.
+“
+There is a balance to be found in recruitment between making things that scale and things that doesn’t
+. As a rule of thumb, things that scale should be put at the early stage of the process (long email, questionnaires, exercises, etc.). It is important to send as early as possible a clear picture of what the process will look like: not only it is fair, but it discourages the ones that are the less committed.“, says Gaëtan.
+Deborah does the same, as you can see in 
+their job page
+. “The more senior or specific the position, the less hoops one has to jump through. More junior positions or ones that focus on soft-skills are sometimes seen as vague — so adding checklists and being transparent on what we’re looking for avoids wasting the candidate’s time. The whole interview process at Buffer is happening online since our team is fully remote.” 
+One of the key for a good process is organizing each offer per batches
+. “For a typical position, 
+the critical mass of candidates to get enough ‘qualified candidates’ to interview is 300
+. It’s important to have enough people to compare at each stage, and to advance at a similar speed with everyone to compare what’s comparable.” Both Deborah and Gaëtan are operating the same way: they screen out people throughout the process and make sure the candidate receive all the information on where they are at and what’s the next step almost in real time. For Deborah, 
+never leaving someone ‘in the dark’ for more than 3 days is one of their key metrics
+, rather than the total length of the process which influences less the candidate experience.
+Bottom line: build good description of the company and positions (examples: 
+daphni
+ & 
+buffer
+), build your process around batches and design questionnaires to save you time
+2. Sourcing of candidatesThe most common trap here is to not source enough people. 
+For a successful hiring, a headhunter will introduce to the managers between 4 and 8 candidates that went across the whole process.
+ “Even if you have a clear vision of your ideal candidates, you should stay open to divergent ones. Always try to meet one or two outsiders. People coming from outside your industry, people without the by-the-book education, etc.”, told me Emmanuel.
+But don’t be fooled by this number. 
+To have between 4 and 8 candidates matching exactly your research, the people in charge of the recruitement have to screen several of hundreds of people.
+Bottom line: hundreds of candidates in the top of the funnel, 4–8 meeting the managers
+Something very important. “There are very detrimental beliefs in the tech ecosystem. 
+People tend to like and look for people that look like them.
+ That lead to having startups full of young white city-dwellers male engineers. Let’s just focus on age. Ageism is a plague in the startups. Young founders have a very bad time recruiting people over 40. But as you dig deeper into that, you figure out that it is only a discomfort. They don’t see themselves managing people the age of their parents. But it is a sheer question of perceived legitimacy. When you ask the people over 40, they have no trouble being managed by a young CEO. They just long for competence and fairness.” And the issue doesn’t stop with the right attitude and openness to a diversity of profiles. 
+Your current culture is also sending a lot of signals to candidates.
+ “If you have a Nerf on every table, a PS4 in a corner and two foosball at the center of the office, with noisy competitive youngsters playing together, it’s like a big board saying “we value the social norms of young male adults”. You won’t be very attractive for a 40+ female executive. It won’t be necessarily a no-go, but it is a first blip on their radar.
+Deborah warns me “
+It is very important to not underestimate the power of bias.
+ We often think ‘I should make sure to have a good balance of background, genre, etc.‘ But the challenges are much more subtle. For instance, if you start your call by asking subjective questions, like offering the candidate to introduce himself/herself briefly, you start a bias spiral (can be influenced by the proximity of his/her background, hobbies, tastes with yours) and could unconsciously try to confirm your first impression throughout the interview. And it works both ways: positively or negatively. 
+Start with more objective questions, pay attention to every detail of your flow, and be very intentional about each part of it
+“. If you’re interested in the management of unconscious bias, have a look 
+at this whitepaper
+.
+Bottom line: meet enough people, value diversity and be very humble, caring and intentional.
+“To source talents, it’s good to 
+start wondering which working environment does your ideal candidate come from
+. This help you define what kind of industry or company to look for. The easy solution is to look at direct competitors. But it is not always the best option.
+Then you just need to focus your search with the right job titles and Linkedin becomes your best friend.”, adds Emmanuel. If you are looking for jobs that are not too narrow, you should use job boards and social network (the rights groups in Linkedin and Facebook) you will have plenty of interesting candidates.
+Bottom line: Use Linkedin, my friend. Unleash its infinite power. But don’t forget other social network and job boards.
+3. Hiring process“The biggest trap is to be in a hurry. This is all too common in fast-pace growing startups. 
+As a rule of thumb, people hire too fast.
+ You don’t save time when you’ve hired the wrong profile. You waste time, money & your team energy. From the very first step to the closing, you should not count in days but in weeks, if not in months. This enable to have generated a good flow of talents, with a diversity of backgrounds.” told me Emmanuel.
+“There is three principles I try to always respect in a process. 
+Humility
+, because you are often proved wrong and you shouldn’t start with too many preconceived ideas. 
+Curiosity
+, because if you really care about the candidates, you learn a lot during the process. And 
+radicality
+: you don’t bend the methodology to keep or rule out a candidate or back-pedal once your answer is sent.“, says Gaëtan.
+“Your hiring process needs to be tailored to the position and the market. The real key is to build an increase of motivation of the candidate throughout the process. 
+The balance between selling and being sold matters a lot
+”, says Jonathan.
+The hiring process can be itself divided into 3 parts: pre-qualification, interview & assessment, offer.
+3.1. Prequalification
+Prequalification often happens after the first point of contact (a quick exchange on Linkedin or by email). 
+The goal is to make sure the minimum requirement are met in term of skills and motivation
+, which could be done by asking people to fill themselves your framework, asking if they have the right number of year of experience, the motivation, habits, etc. See a good example of that in the 
+Happiness Hero offer
+ at Buffer.
+Deborah, from Buffer, told me: “
+once you know what’s essential for you and what’s superfluous, stick to it and make sure to interview only people that fit the bill
+. The biggest mistake you could do is interview people that you know for sure won’t be successful in the role. If your criterias are off, or if you don’t have enough candidates to review, fix those things instead.”
+Gaëtan likes to have 
+very concise job offers
+. “As a consequence, most of the candidates are curious people, and this is something I look for. I then send them a very long email detailing what’s ahead, and it sorts out automatically most of the people that were there only out of curiosity. Just by the design of these first steps, I sort out the wrong ones without effort the kind of candidates”.
+Bottom line: there is not a single way of doing the pre-qualification but try to make it scalable and cover mostly skills and motivation
+3.2. Interview & assessment
+There are many hiring interview methods & 
+employment tests
+. Franck L. Schmidt & John E. Hunter 
+conducted a meta-analysis
+ on 85 years of research in personnel selection to figure out 
+what procedure was working best to predict future job performance
+. The results are striking, considering what most of job interviews, and especially résumés sorterings, look like. 
+“Interests, amount of education [and age] have very low validity. 
+Others such as graphology have essentially no validity. Still others such as 
+General Mental Ability [ie: cognitive] tests and work sample measures have high validity.”
+According to the study, the three most valid procedures are in order (the last two are ties):
+work sample tests
+: giving candidates a sample piece of work, similar to that which they would do in the job and assessing their performance at it. It is however quite hard to do when the activities are highly diversified and when the variables evolve.
+structured employment interview
+: where candidates are asked a consistent set of questions (both behavioral (eg: prior achievements) and situational (eg: if that would happen, what would you do), with clear criteria to assess the quality of responses.
+For those, who are looking for structured interview questions, 
+here you are
+.
+general mental ability tests (GMA)
+: the best tests cover both learning abilities and capacity to solve hard problems. Standard tests, such as GPAs and SATs have many shortcomings, but mostly a) you can’t distinguish raw intelligence and training, (b) they tend to favour certain social groups (read 
+Gilhooly
+ & 
+Rosser
+).
+Combinations of these three procedures stand out as being both practical to use for most hiring and have a high composite validity
+, for entry level applicants and experienced applicants.
+When they tested 
+the best combination with GMA
+, they found out the best procedure 
+was an integrity test 
+(assessing honesty, dependability, trustworthiness, conscientiousness, and reliability). Companies with sophisticated HR practices such as Google use indeed what science says: a “
+combination of structured interviews with assessments of cognitive ability, conscientiousness and leadership
+.” At Google, their interview questions are build around four pillars: “general cognitive ability, leadership, googleyness and role-related knowledge” (Work Rules!, Laszlo Bock, more about Google’s approach 
+in this article
+)
+Bottom line: build a comprehensive procedure to have a better view of the candidate
+Deborah is focusing a lot on culture fit. “
+After reviewing and selecting our batch of candidates, the first interview is culture alignment & contribution
+. I know in advance the attributes and values we’re looking for, but also have tried to identify what are some ‘red flags’ that could be signs that someone will be unhappy at Buffer. For each questions I ask, before the candidate answers it, I have in mind what I measure, what are some ‘good‘ answers and what answers would cause us to ‘pause‘ and hesitate“. This is also what does Gaëtan: “The skills are tested through questionnaires and exercises. The goal of interviews is to test the culture fit with the company.“
+Of course, if you want to test the culture fit, 
+you first need to figuring out the core values of your the actual culture of your companies.
+ If you are looking for inspiration, you can check the culture deck of 
+Netflix
+, 
+Facebook
+ or 
+Buffer
+.
+Jonathan Azoulay is 
+focusing a lot on the potential of the candidates during the interview.
+ “I believe there are 4 important aspects to assess candidates. First, you need to figure out what I call the 
+coachability
+ of candidates: are they learning fast? Are they able to synthesize well what’s discussed? A good way to do so is to ask them to sum up the last interviews as you go further in the process. 
+Second, you have to look at their 
+work ethics
+: are they able to generate a high volume of work? Are they loyal? Are they conscientious?
+Third, you check for 
+curiosity
+ and 
+raw intelligence
+: are they creative? Have they analytical? How well do they understand the market, the competition, the offering? Fourth, and lastly, you need to understand 
+why they chose to work on technology, on the startup ecosystem
+. You listen to her/his story and ask why they are attracted to the specific mission of the chosen startup”.
+Bottom line: Focus the interviews on culture and potential and let the questionnaires and exercises do the rest
+“If the interview is going well and the tests/working situation are satisfactory, 
+you should ask the candidate a list of reference to have feedbacks of former managers & employees 
+(don’t focus too much on teammate, most will be friends). But be careful: negative feedbacks are very unusual. You should not give too much context to avoid people saying what’s expected for their next position. And 
+the key is to focus on what he/she has or could improve
+. Also, ask yourself: should he/she gave me someone that doesn’t appear on the list? A co-founder? A key manager? Any employee? And dig deeper on that. It could be just random, but often it reveals something.“, told me Emmanuel.
+Bottom line: be cautious with ref calls but do not underestimate them to grap good intel
+If you want to have an overview of what a good hiring process look like, have a look at 
+the amazing article
+ of Buffer’s culture scout, Deborah Rippol on the evolution of hiring at Buffer (she also covers the questions of culture fit & onboarding).
+And them… comes the offer.
+4. ClosingJonathan told me: “To track the efficiency of your hiring process, you should track the following metrics:
+number of applications received [proxy for the raw attractiveness of your position/company and for the diffusion know-how],
+number of applications received/number of application called or met [proxy for your selectiveness],
+number of offers/actual recruitments [proxy for your net attractiveness of your position, including the hiring process]”
+He added: “
+The whole process has to be designed to increase the interest of the candidate.
+ You need to balance well between showing interested in the candidates and making your offer hard to get, otherwise your indicators won’t be satisfying. 
+The biggest mistake is giving the candidate too much time to answer.
+ You have to make projections with “if.. then..” to understand his/her thought process, his/her hesitations and start having verbal commitments under some parameters.“
+Bottom line: recruitment is both buying and selling. Find the good balance.
+When your culture is appealing and the position interesting, one of the final conversation will be around the money. But don’t fool yourself: 
+money is very rarely a good reason for the candidate to say yes
+ (outside certain profiles or life moments). 
+The industry, company’s mission, environment, co-workers and values are much more important.
+“
+One of the key challenge regarding money is to both keep a fair salary grid, if possible 
+with a transparent formula
+ 
+(remember: salaries are always known by everyone at the end) 
+and be flexible enough to attract super stars
+”, told me Jonathan.
+Emmanuel warned me: “for some founders, it is very hard to pay people with 9–5 jobs, sometimes with equity bonus, more than they themselves earn, when they dedicate their lives to their company, week-ends and holidays included. But it is part of the game and they most always end up accepting it.“
+Bottom line: Be fair, but don’t get trapped by money. And remember that money can be a reason to say no but never a reason to say yes.
+Conclusion
+With all these traps in mind, and some good practices (prepare your interviews!), you hold all the cards to make amazing hirings. However, recruitment doesn’t stop when the candidate accept your offer. The long journey is just starting. Next step: onboarding.
+PS: Looking forward having your stories and feedbacks on good hiring practices. If you want me to dig deeper in some specific parts or specific companies processes, just let me know!

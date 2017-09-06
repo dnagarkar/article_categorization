@@ -1,0 +1,100 @@
+Good UX designers must be fighters, because compromised designs are not good designs.
+Disclaimer: I’m a designer at Google. This article represents my own opinions and in no way is it affiliated with Google or the greater Alphabet Inc.
+I dream stuff up and turn those dreams into things you use every day. To do my job well, I have to fight with people. A lot. If I don’t fight for what is right, my beautiful dreams turn into your worst nightmares. Because that’s just how it goes.
+What’s this all about?
+I don’t consider myself to be a particularly talented designer. But I 
+am
+ successful. And people often ask me how I became successful doing what I do (maybe they are confused because my designs are largely unimpressive). I’ll tell you what I tell them, and then I’ll tell you how I do it.
+I’m a successful designer because I’ve built a career and a reputation, fighting like a dog with a bone to do what is right by customers. I don’t drop the bone to make life easier for myself or my team. I don’t lie to myself or to others, and I never tell decision makers what they want to hear just to get a promotion or so that I might be liked. I’ll resign first, and I have done.
+Why is fighting even necessary?
+It’s strange… You’d think that digital products should be designed with the best interests of customers clearly set down as a foundation stone upon which all other product decisions are made. But this is rarely the case, at least in my experience, and I’ve been doing this for a while.
+UX designers and Product designers exist because (and I acknowledge I’m generalising here) engineers and developers largely tend to struggle with processing information from an alternate human perspective. In my experience, it’s rare to find an engineer who can force themselves to forget what they know about their products or interfaces, to the extent that they can put themselves in the shoes of 
+‘the other.’
+But you…you are special
+You are a designer. And you can do this magic thing. 
+This magic thing called 
+empathy
+.
+You serve a faceless and nameless mistress. She is one that never has the opportunity to thank you for your hard work. She will never know your name, for she is everyone, and she is no one. She demands only one thing from you; That you fight for her… relentlessly. That you give her what she wants, at all costs.
+Product design is expensive and the risks are high
+Organisations are inclined by default to mitigate the risks associated with product development by diversifying the number of people who are responsible for making decisions related to the product. This means multiple people are empowered to be involved in how your product looks, feels and behaves. 
+Welcome to the team.
+ But are these people loyal to your mistress? Do they know what she wants? Do they always put her first? Do they think about her, night and day?
+No. Not usually… It’s not their job, it’s your job.
+Hell is other people
+Teams are made up of people, and people are different. It’s not always possible to be unified behind a single vision. In fact, it’s almost always 
+impossible 
+because what each of us might want is ultimately dictated by factors related to our past, our personalities, and our uniqueness.
+So can you make design decisions as a group?
+Sure, you can try. But it almost never works. 
+We have a name for it in design circles, it’s affectionately called 
+design by committee
+, and it is our 
+kryptonite
+. Take a similarly feared phrase in engineering circles, 
+Tech debt, 
+and multiply it by infinity, take it to the depths of forever, and you barely have a glimpse of how feared 
+design by committee
+ is for designers.
+Booking.com is the global poster child for agile design and development and their website is a perfect example of design by committee. Each UX designer is able to dream up an experiment, and is given complete autonomy to change the entire interface at their own discretion. They are paired with an engineer who helps implement the design, and then they run an experiment for a couple of minutes. Globally. They literally A/B test planet Earth. Millions of users see the experiment. And millions don’t. After a few minutes, if conversion goes up by a fraction, Booking.com keeps the change. If conversion goes down, they pull it and rollback. The engineering behind this machine is amazingly efficient, incredible even. And while it’s impressive, it causes a problem that I believe will ultimately be their undoing: 
+their product is ugly, difficult to use, and inconsistent.
+To convert to sale on booking.com users must re-learn the interface on a second by second basis while they attempt to traverse sections of the site that have been architected and designed by different people at different times. Interactions like these result in a high cognitive load on customers and cause significant ego depletion. (
+Ego depletion is a tangible and measurable cost on the brain caused by micro-decisions, subconscious and conscious. It actually affects blood sugar. Pretty scary.)
+In other words, when using the product, your mistress gets confused, and she does not like that. Not… one… bit…
+If inconsistent and fractured design is such a big problem, why then is Booking.com successful?
+Because they don’t owe their success to good design. Booking.com is successful, in my opinion, because of their sales and marketing distribution network. They are the cheapest, globally. They guarantee this by doing deals with hotels all over the planet. We all know they are the cheapest. And 
+Booking.com spends a fortune on ads
+ to make sure that we know they’re the cheapest. So as a customer, I have a choice: Pay more and have a lovely designed and beautifully consistent experience, or pay less, and deal with the complex design by committee website that is Booking.com. I don’t know about you, but I will pay less and deal with the mess. 
+For now…
+But how long will it take for another company to come along with a beautiful and consistently designed product that offers me the same price or better? Not long at all…
+When you can’t differentiate on price, the only thing left is experience
+Airbnb has a beautiful and consistently designed conversion funnel. Also known as a 
+website
+. I feel good when I interact with their product, and increasingly this results in a sale. Without even thinking, I’m able to book a place to stay, and I’m overwhelmed by large and beautiful photos, aspirational colour and typography. It’s a pleasure to use Airbnb. Booking.com is a chore that feels like I’m doing my tax return.Can’t we all just get along and compromise?
+No. Great experiences cannot be designed by a group because great designs are almost always born from a singular and consistent vision. Sure the vision is iterated, augmented and improved progressively over time with the help of your team. But as the designer, you must be the gatekeeper of any decisions related to the interface. You must decide which pieces of information inform your design to the extent that you would consider making a change to it. And you must decide which pieces of information must be discarded because they do not fit the vision. You are the only person that can do this. And you will be the only person responsible if you fail. 
+You’re the babysitter. 
+It’s your fault if the kids trash the place and smother the walls in shit.
+So, how to win the fight?
+I have a process that works for me and I’ll list it here if you’re interested. 
+I hope it works for you.
+When someone suggests that you should change the design, or implement their idea, first:
+Listen, and then buy yourself time
+Make sure the other person feels heard, and make sure it’s clear that you fully understand their suggestion or idea. So often the fight happens because they feel like you didn’t listen. So take all the time you need to listen, and repeat back to them what you heard. Then ask for a day to process it, go through it thoroughly. Make sure you’ve considered the option fully.
+“Thanks Jimmy, I’d like to take some time to go through this in more detail and to seriously consider your suggestion. I want to see how it will affect other aspects of the product as a whole. Can you give me a day
+*
+ and I’ll get back to you after my analysis?”
+*
+If you can’t take a day, take as much time as you can. You don’t need to spend the whole day on it, do your other work, but you would be amazed how much this time apart will help to deflate the emotion that so often acts as a catalyst in situations like this. It also gives you time to consider something very important…
+Consider that you might be wrong
+There is every possibility that you’re wrong, and Jimmy might be right, and maybe his idea would make the product better. If he’s right, no problem. Change the design and make sure to give him the credit for the idea. But when you’re sure it won’t work and you’ve waited a day. It’s time to deliver the news.
+Thank them, then politely disagree
+“Jimmy, I wanted to first say thanks for your suggestion, I love it when people get involved in the design process… I can see where you’re coming from with the idea, but I’ve given it a lot of thought and played with the design to try to make it work, but I don’t agree it will solve the design problem in a way that is consistent across the entire product without impacting our users in a negative way. It’s like solving a rubik’s cube Jimmy. Your suggestion gets one side all sorted out, which is great, but it messes with the other 5 sides, and I have to solve the whole thing.”
+Use data as a weapon
+If you don’t have data from your own tests, find some elsewhere. Hit them with some statistics. Prove that you did your homework. Name a report or study that might back you up.
+“Jimmy, here’s some data that helped me make an informed decision about this. Here’s a report you might find interesting. You can also check out this link, this link and this link and you’ll see why I believe that my design solution is the right fit for this problem space and why your suggestion won’t work in this instance.”
+No dice? They still want a fight?
+Mock it up, and A/B test
+If you have the time, mock up the design and run a quick A/B corridor test. You don’t even need real users. Try it on colleagues. It’s important that you test with people outside of the team. The receptionist, a colleague from another department etc. Get at least 10 people to weigh in with their unbiased opinions. Take down the actual numbers and what each test participant said and put it all in a report titled:
+Validating Jimmy’s design suggestion.
+Share the report with the whole team, and thank everyone for coming to you with suggestions and encourage them to keep coming up with ideas. This is a bit of reverse psychology, but essentially people may be less inclined to challenge you in the future, if the outcome to a challenge is delivered as a report that everyone gets to read. Hopefully they won’t be too afraid to come to you with suggestions or ideas though, because you showed consideration and took the time to validate their idea. The other advantage of the report is that you can keep it on file for later, to bring to the surface anytime that your design thinking behind this decision is challenged.
+“Thanks boss, I had concerns about this design decision too at first, so we did a quick round of testing to make sure we were on the right track. Jimmy helped me with it, he was great and his ideas really helped solidify the design thinking behind 
+our
+ final design solution.”This approach has helped me with about 98% of design related challenges
+Following this process can also improve the team dynamic and build trust with developers. Especially if you are receptive and open to feedback that would actually improve your work. You all benefit if the product is awesome.
+But sometimes, it doesn’t work, and you still have to fight.
+What if the challenger is a decision maker, your boss, or worse, your boss's boss?
+If you’re being challenged by a decision maker, do your best to keep it quiet. Go into a meeting room with the person. It’s crucial to keep the respect you’ve earned with the rest of the team intact. State your case. Don’t be afraid to refer to gut instinct, and explain that you believe the most responsible course of action is to test and validate the design options. Explain that you are happy to take full responsibility and pivot if the tests prove that your design isn’t working, but explain that you can’t take responsibility for the failure of the product if your design thinking was compromised at this point in time because you were not able to do your job properly.
+“This is what I do Boss. I speak on behalf of our customers. I represent them in this room, in moments like this. Everyone is good at design in one way or another, we have really talented design thinkers on our team. Jimmy has some great ideas, but I’m here for conversations like this, where I must inform decision makers like yourself, with all due respect, that they are wrong. What our customers want, won’t always be the same as what you want. Please, let me do my job, and trust me. I only want what is best for our customers. I think the best course of action is to validate with tests and get some hard data.”
+If you still can’t test, and you have been over-ruled
+Consider again that you might actually be wrong. There is a chance you are, all things are possible, and admitting that you made a mistake to yourself, and to others, is not weakness or failure. As a designer, it’s actually a crucial skill.
+But…
+If you know you are right, and data proves that you are right, and you’re still being forced to degrade the design at the expense of your mistress (your customers), it’s time to consider how much value you can actually add to the project and the team if you are not being trusted to do your job properly. Also, bad designs stick to you like glue. How will you get another job a few years down the track, if you have to point to a heavily degraded design that you cannot be proud of?
+You can’t pretend that everything is covered by NDA forever. 
+In other words, it may be time to seriously consider looking for another project or team or job.
+One thing to consider, a light at the end of the tunnel
+If you are in a tight spot, and you’re losing these fights, don’t worry, it won’t be this way forever. Design thinking is changing on a global scale. I’ve seen organisations laugh at my suggestions only to see them implemented years later, and years too late. As stated above, when you can’t differentiate on price, all you have left is experience. Companies are starting to get it.
+As designers, this is our time to really make a difference. Don’t give up!
+Thank you…
+I hope these tips help you, and if they don’t, and you hate me for telling the truth, I’m sorry :)
+www.andrewdoherty.com
+www.linkedin.com/in/ajdoherty

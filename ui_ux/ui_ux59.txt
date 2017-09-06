@@ -1,0 +1,29 @@
+Designing for Various UI States
+This post will be part of a series of posts that will go over mistakes and lessons learned working as a designer. My goal is to keep them short and concise and hopefully provide value so other designers don’t make the same mistakes.
+One of the mistakes I made starting out as a designer was designing the perfect final state and passing the mocks with redlines onto the developers. What I failed to realize in the past is that the final ‘perfect’ mockup is just one state of the current design. There are usually other states that are needed for each specific screen in an app.
+I will be using examples from different apps that show various states that should be thought about before development starts to ensure users are never confused and that a quality product is built.
+Empty States
+There are different types of empty states but for this example I will go over an empty state that is seen when a user first opens an app. Designing empty states are important because not every page of an app will have data or content from the start. A well thought out empty state usually includes an explanation of what should be there and a call to action to engage the user to start on a specific task.
+Snapchat does a good job at this by showing that there should be stories displayed but since there are none, they want you to start adding friends.
+www.emptystat.es/
+Audible also does a good job on showing the user what type of content should be displayed and how to obtain that content.
+www.emptystat.es/
+Loading States
+Data doesn’t load instantly and certain actions take a while such as sending a large image attachment in an email or syncing information. It’s important to show users that the app isn’t broken and that their action is in progress.
+Facebook does a good job on placing placeholders on where the content should appear and has a nice loading effect that you have seen if you use Facebook.
+www.emptystat.es/
+The following is a shot I found on Dribbble from Hanna Jung that does a good job showing the loading state in a fun and playful way.
+https://dribbble.com/shots/2238642-Pull-down-to-refresh-Freebie
+Error/Failed States
+At times we experience areas that have zero reception or users try to do something in an app that is not allowed. Users need to know and be kept in the loop that their action isn’t working with clear indicators.
+The following is a shot I found on Dribbble from Ben Dunn that does a good job showing the user’s action is not valid.
+https://dribbble.com/shots/1926725-Handle-those-errors
+If the app needs the user’s location to work, an error state for this needs to be designed incase the user is on airplane mode or the user’s location settings are on private. The following is a shot I found on Dribbble from Ghani Pradita that shows this in a fun way.
+https://dribbble.com/shots/2160786-Error-Location-not-found
+Success States
+If a user completes an action such as sending a message to a friend, it’s important to not keep the user guessing if their message was successfully sent or not. By informing the user that their action was completed, the user isn’t left guessing.
+The following shot I found on Dribbble from Phil LaPier does a good job showing the user that their action was successfully completed.
+https://dribbble.com/shots/1712637-Success/attachments/273902
+Another popular way success states are shown are through modals that appear after the user confirms the action such as the following shot I found on Dribbble from João Oliveira Simões.
+https://dribbble.com/shots/1523277-Success-Popup-for-Handybook-New-App-GIFThanks for reading, if you have any questions or thoughts please reach out to me on 
+Twitter!

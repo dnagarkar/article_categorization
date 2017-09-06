@@ -1,0 +1,186 @@
+4 Strategies for Successfully Bootstrapping Your StartupA
+lthough many startup founders dream of securing massive investments from VCs or Angel investors that catapult their companies to endless growth, the reality is that 
+most startups never receive any sort of significant outside investment
+.
+Fortunately, it’s entirely possible to build a hugely successful company by funding it entirely through the use of your own resources, a process known as “bootstrapping”.
+In this article I’ll trace out 4 crucial strategies you can use to create the next bootstrapped high-growth startup.
+What is “Bootstrapping”?
+Bootstrapping, which originates from the famous phrase “to pull oneself up by one’s own bootstraps”, refers to the process of using one’s own finances, grit, and resourcefulness to build and grow a new company.
+Bootstrapping is the opposite of creating a business by accepting significant outside funding from 
+venture capitalists (VCs)
+ and/or 
+Angel investors
+.
+Businessdictionary.com
+ provides a more elaborate definition of bootstrapping:
+“Bootstrapping refers to building a business out of very little or virtually nothing.
+Bootstrappers rely on personal income and savings, ‘sweat equity’, lowest possible operating costs, fast inventory turnaround, and sometimes a cash-only approach to selling.
+Most of the world’s startups still follow this road to growth, either because there is no alternative available, or because of the unmatched control and independence it offers as compared to raising funding from external investors.”
+A number of the most successful tech companies of the 20th and 21st centuries were initially bootstrapped by their founders, including Apple, AppSumo, Craigslist, Facebook, Hewlett-Packard, MailChimp, Microsoft, and Oracle (sources: 
+1
+, 
+2
+, 
+3
+).
+Pros and Cons of Bootstrapping
+As with virtually all other major business strategies and decisions, bootstrapping carries with it a host of potential advantages and disadvantages.
+Advantages of bootstrapping:
+It’s often cheaper and more efficient
+ than accepting outside funding: utilizing nothing but your own funds (and possibly some money provided by friends, family members, and/or colleagues) to fuel your business forces you to run an efficient, agile, and 
+“lean” startup
+, one that simply cannot tolerate waste and needless expenditures if it’s to survive and thrive.
+It allows you to retain complete control over the ownership of your company
+: VCs, Angel investors, and other external financial backers virtually always demand that you grant them some 
+equity
+ in your company as a condition of their willingness to invest in your startup. By bootstrapping your company and not taking on external funding you don’t open yourself up to the very real possibility of having to dilute your ownership of your own company simply in order to attract enough money to run your business.
+It may make future funding easy to receive
+: when, at some point in the future, you’re ready to seek out external investment for your startup, investors are likely to be impressed by the fact that you’ve managed to build a company entirely on your own, i.e., without large infusions of cash from outside sources. This, in turn, may make them more likely to invest (and to invest more) as they recognize the true extent of your skills and dedication.
+It allows you to develop talents and execute in ways that you might not have previously thought possible
+: bootstrapping can make good entrepreneurs great by forcing them to be more nimble, committed, relentless, and action-focused than they might be if supported by the “cushion” of external investment (sources: 
+1
+, 
+2
+, 
+3
+, 
+4
+).
+Disadvantages of bootstrapping:
+It may prevent founders from acquiring enough capital
+: in certain situations, it may be very difficult if not impossible for startups to grow and scale using only bootstrapped methods. Outside funders like VCs and Angel investors can provide the huge amounts of capital sometimes needed for a new business to achieve its major objectives.
+It potentially closes founders off to the experience and expertise of more established entrepreneurs
+: many (although certainly not all) investors refuse to give startups money unless the former can play active roles in terms of using their knowledge and experience to help guide the businesses. Ventures capitalists and Angels are often highly successful entrepreneurs with many years of business success, qualities that can certainly help novice startups.
+It is significantly riskier in terms of financial losses (and possibly legal consequences)
+: by simple virtue of the fact that a bootstrapper invests his/her own money (and possibly the money of his/her close friends and relatives), the dangers and consequences of losing significant sums of money are greatly enhanced as compared to those of investing others’ capital. This often brings with it added feelings of stress, pressure, and anxiety.
+It may encourage too much of a risk-averse mentality, preventing startups from capitalizing on big opportunities
+: the fear of losing one’s (and possible one’s relatives’) money can stand in the way of opportunities for growth that, though risk, might launch a startup to massive success (sources: 
+1
+, 
+2
+, 
+3
+).
+With these pros and cons now better understood, let’s consider some key strategies you can use to increase the chances of successfully bootstrapping your startup.
+1. Validate Your Idea
+One of the very first aspects of successfully bootstrapping your startup involves identifying and validating a 
+monetizable customer pain
+, calculating the size and demand of your 
+projected target market
+, creating, testing, and refining your 
+minimum viable product
+, and achieving 
+product-market fit
+.
+Part of these key processes involves validating your product idea.
+Fortunately, it’s possible to do so without having to spend much money at all.
+As my partner and co-founder Mark McDonald 
+recently explained
+, startup founders can use one or more of the following helpful strategies to validate their product idea before launching something in the market:
+The $20 Starbucks test
+ (i.e., buying passers-by a coffee in exchange for honest feedback on your objectively-presented idea);
+The “knock-on-the-door” approach
+ (e.g., using online surveys, polls, and personalized messages on Internet forums to gather feedback);
+Create a test ad campaign and measuring the results
+ (e.g., building a cheap yet effective landing page that presents a unique value proposition and allows visitors to sign-up for (or even pre-order) your future product(s));
+Utilize a beta promotion site
+ like 
+betalist
+ and promote your app to testers/early adopters;
+Attend meetups and in-person events
+ to gather feedback and recruit assistance/advice from others in your industry; and
+Earn face-time with successful entrepreneurs
+ (e.g., leverage your social and professional networks by having others introduce you to important leaders in your market niche).
+Expanding on the 3rd point above, at 18 and 19 years old, respectively, my co-founder Mark McDonald and I designed a minimalist website in order to test our assumption that we could build a business helping entrepreneurs execute their mobile business ideas.
+We had no clue we were building the very first version of 
+Appster
+, which turned into a company of 400 employees working across 3 continents.
+We hired an actor and created an introductory video, which was uploaded to our home page.
+We spent around $100 on some specific Google Adwords and thereby generated traffic to our website.
+We managed to convert some of that traffic from leads to future customers.
+We made telephone calls to our future customers in an attempt to determine exactly what they needed from us.
+We discovered that there was significant demand for the type of solution Mark and I were planning to offer.
+We then very quickly realized that we had to locate and hire some developers so that we could deliver results to our earliest clients.
+A screenshot of what the original version of 
+the Appster home page
+ looked like:
+2. Embrace the Hustle
+Entrepreneurs love to recite the famous saying, “good things come to those who wait, but only the things left behind by those who hustle.”
+Bootstrapping your startup can allow you to excel to new heights as an entrepreneur and a creator.
+Anita Campbell
+ does a great job outlining the ingenuity and talent that founders can develop when they embrace the bootstrapped approach:
+“Bootstrapping brings out the best in entrepreneurs and the best in those they work with, too.
+They are enthusiastic, passionate and relentless. They don’t give up on their dreams and they never stop learning. They also end up learning a lot more about themselves along the way and end up accomplishing a lot more than they might have originally thought possible.
+Bootstrappers wake up earlier, spend longer days at work, know how to keep their wits about them even under pressure, know how to eliminate unnecessary distractions and are often very productive.”
+One of the crucial things to which Anita points here is the importance of learning as much as possible when operating as a bootstrapper.
+The reality is that founders who do not take on external investment typically cannot afford to hire sales or marketing teams or 
+public relations (PR)
+ firms.
+Instead, they have to do it all themselves — at least during the early stages of their startups.
+The point is that you 
+need
+ to hustle to make a bootstrapped startup work
+.
+Invest time into studying sales, marketing, PR, recruitment, accounting, general business practices, and so on — these are crucial aspects of business that you can learn and apply yourself.
+Remember that true hustling is ultimately about doing what 99% of the population won’t, i.e., doing everything possible to create a growing business and refusing to quit no matter how many obstacles are thrown in your path.
+Make cold calls and send cold emails, attend conferences and meetups, talk to your customers in person, blog about the ongoing growth — the trials 
+and
+ tribulations — of your company with your online followers, etc.
+3. Focus on Profits; Make Cash Work for You
+Cut your personal experiences, watch your cash like a hawk, and implement a business model that generates cash quickly: these are 3 crucial recommendations offered by 
+Rodrigo Santibanez
+ at Fast Company.
+Many others similarly emphasize just how crucial it is for bootstrapped startups to focus on generating profits by utilizing short cash conversion cycles, i.e., processes that allow every dollar you spend to return to your business as quickly as possible so that you can reinvest those earnings and achieve growth.
+Insisting that producing profit is the “first law of bootstrapping”, 
+Anita Campbell
+ stresses the necessity of bringing and reinvesting cash into a bootstrapped business:
+“Bootstrapped companies must focus on profits to keep on going. They have no outside investment dollars to spend — no ready pile of money they can tap into.
+Bootstrapped companies therefore can’t afford to waste money. They must make money, if they are to survive. The profits they make are what fund the business. And because of that, a bootstrapper needs to develop paying customers. He or she has to be able to make payroll, pay the bills, and still fund the company’s growth — all from the money the company earns.”
+How can you achieve a 
+positive cash flow
+ state for your bootstrapped startup?
+Two key strategies we’ve discussed in the past are driving down customer acquisition costs and improving your customer retention rates, each of which requires different tactics to execute successfully — see 
+here
+, 
+here
+, and 
+here
+.
+More practically, if you’re building a 
+SaaS business
+ then one technique to bring as much cash into the company as possible is to offer discounts on monthly payments if users buy an entire year all at once.
+As an example, Slack uses this very tactic to 
+promote
+ its annual billing:
+For more detailed information on the economics of running your startup, be sure to check out these recent Appster posts: 
+1
+, 
+2
+, 
+3
+.
+4. Be Resourceful and Gutsy
+Anthony K. Tjan nails the need for bootstrappers to be resourceful — i.e., to “bite down on their mouthguards”, refuse to give up, and exploit every last angle and opportunity — when he states:
+“Great entrepreneurs have the guts to go after big ideas. They are willing to put themselves out there when most worry about, ‘What will others think?’
+The definition of entrepreneurship that Harvard Business School Professor Bill Sahlman made prolific — ‘the relentless pursuit of opportunity without regard to resources’ — forms the center of the entrepreneurial mindset.
+Entrepreneurs don’t worry about the resources they lack, but about the resourcefulness required to get the big idea done.
+”
+Resourcefulness is a skill that must be developed.
+And there’s no better way to train oneself to become scrappy, dexterous, and possessed of ingenuity than to build a startup from the ground-up.
+What are some examples of resourcefulness?
+Securing enough money to fund your startup
+ even when you struggle to bring on investors: there are numerous government grants that can help push your company forward, from local and national to supranational and even private support offered by the likes of Google and Microsoft. For instance, check out 
+Google for Entrepreneurs
+.
+Using powerful yet free (or nearly free) tools
+ like Google Docs, Slack, MailChimp, Wave Accounting, Squarespace, and many others, which make it very easy to establish a fully operating early-stage startup.
+Being smart (i.e., “thrifty”) with your money
+: as 
+Rodrigo Santibanez
+ emphasizes, “being fancy doesn’t always get the job done. Pick functional over posh office space. Start with the free versions of QuickBooks and Dropbox. Print free business cards. Consider refurbished computers instead of the newest MacBook Air. Use a free banking service. Saving on little things goes a long way.”
+There’s never been a better time to launch a startup.
+Your only limits are your own creativity, passion, and willingness to bring your dreams into reality.
+//
+Thanks for reading!
+If you enjoyed this article, feel free to hit that clap button below 👏 to help others find it!Originally published at 
+http://www.appsterhq.com

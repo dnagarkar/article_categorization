@@ -1,0 +1,78 @@
+Facebook and How UIs Twist Your Words
+Can a UI affect our interpretation of others?
+It
+ started with an offhand remark from a friend as she grimaced at her phone: “What a 
+novel.
+” She gestured to the Facebook message filling her screen.
+The message in question was polite and standard: a salutation, a reference to how they met, a socially-savvy balance of interest and casual. There was nothing that should have sparked such displeasure.
+What was happening here?
+Let’s do some science!
+From my friend’s comment, it sounded like the length of the message had a lot to do with her ‘ick’ response. Since the UI can affect how long a message appears, I wondered: 
+“Would people react differently to the same message displayed in different UIs?”
+I drafted the following a message:
+Hey! What a show last night! Pretty sure my ears will be ringing for the next week. lol
+It was great meeting you. I’m surprised we hadn’t met before; we have so many mutual friends.
+We should hangout. Free on Saturday? I know a great coffee shop near Chinatown that has a killer view.
+And plopped the message into three surveys, each displaying the message in a different UI, identically inputed. It was either shown in a Facebook Chat window, in Facebook Full Conversation window, or just pasted as plain-text into the survey (the “control” condition). Note that while Full Conversation appears to be email-like, each bit of the message was sent chunk-by-chunk, inputted exactly the same way as in Chat.In each survey, I presented several scales on which to rate the message: desperation, confidence, boldness, awkwardness, masculinity and femininity.
+An example scale.
+Ready for action! I posted a link on Twitter and Designer News and used some Javascript to distribute link-clickers across the three surveys; this let me a) get about the same number of responses to each survey and b) hide the fact that there were three different surveys, which was important for scientific integrity.
+Results
+The fun part!
+I expected about 30 people to fill out the survey, and was gifted a shocking total of 
+1320 responses
+. 🎉 
+Thanks to everyone who filled this out!
+Using the magic of a statistical analysis called an 
+ANOVA
+, I compared the responses across the conditions, with an interesting result: when the message appeared in the 
+Facebook Chat UI
+, people found Alex to be 
+more desperate, more awkward and less confident, 
+in a statistically significant way. Oh dear.
+Chat had significantly (< p .05) higher ratings of awkwardness and desperation...
+… and significantly lower ratings of confidence.
+What’s going on here?
+Here’s my take:
+We all know the words used in a conversation are just one part of the picture; the 
+dynamics of a conversation
+ are a huge portion of communication. Who speaks first? Who fills silences? Who speaks longer? The answers to these transform a discussion dramatically.
+The ability to balance the conversation dynamic is a skill
+. Interpreting the dynamic and responding accordingly is the difference between coming off as “suave” or “awkward”, as “confident” or “trying too hard”.
+Offline, we rely on physical and verbal attributes, like body language, as indicators of meaning and social skill. Online, we use different indicators, like the 
+number of messages
+ and 
+message length
+. Too many messages, or messages too long, can shift power and make the conversation unbalanced and awkward.
+Let’s look at Facebook’s Chat UI with that in mind. Each message has its own border, emphasizing the number of messages. Because of the thin width of the chat box, the message wraps over several lines and, because of the small height, it hits the bottom and top of the screen.
+Visual result? In Chat, Alex’s messages look longer and more plentiful than in other instances. Since the reader has no significant relationship with Alex prior, their judgement of him is based entirely on this message.
+Through no fault of his own, Alex is discredited, appearing less confident, more awkward and more desperate than he would otherwise. This isn’t to say Facebook Chat was social suicide for our fictional friend Alex, but it did transform his interactions in a statistically significant way.
+Now, we’ve known for awhile that typography and layout affects our perceptions of the text: “the medium is the message”, 
+Baskerville is more trustworthy than Comic Sans
+, 
+typed essays receive different grades than handwritten
+, etc. But in this context, there’s something particularly interesting going on.
+This UI has a special role: it is a social mediator. It’s standing in for the user and speaking for them; the UI becomes part of their digital body language. This is a huge amount of power and responsibility. As this study has shown, while social platforms bring us together, UI missteps can push us apart.
+The UI is part of user’s digital body language.
+Designers must be aware of their role in social UIs and give the same thought to social dynamics that they would to legibility, scalability and others. They must be aware of what social friction they are introducing or reducing, and they need to ask themselves, “How will this UI make my user look to others?” and “How will this UI affect the quality of social interactions?”
+After all, if a communication UI can’t communicate properly, what’s the point?UI Research Newsletter
+It was super exciting to see such interest in this research. As a result, I’ve started a 
+UI research newsletter
+. You’ll be the first to hear about study results and have the opportunity to participate in new studies. 
+Subscribe today!
+UI is changing your life.
+Do we respond differently to a message depending on the UI? Whether we like it or not, interface design is shaping our…
+www.chantastique.net
+You can also f
+ollow me on Twitter
+.Update:
+ To be clear, Facebook is a fine platform to communicate on and using Facebook Chat isn’t automatically going to make the other person distance themselves: the effects of this study happened in a very specific context, with two strangers communicating. The results of this study would be very different if you knew the sender in person, and would vary deeply depending on your relationship with them.
+This is simply to illustrate that UI makes a difference in our interpretations: both Facebook Chat view and Facebook Full Conversation view share content and have chat-like features (such as showing you if your conversation partner is typing), but resulted in different outcomes.
+As well, there have been a few comments on how each messaged as typed. Please note that both Facebook Chat and Facebook Full Conversation allow you to send a new message on pressing enter, which I did in both cases. The input was identical, the visual output was not.This data came from the community, so back to the community it goes; I’ve shared 
+a dump of the data on Github
+. Feel free to slice, dice and share any interesting observations!
+Please note: this study was done on a very specific scenario. Interpreting the messages of strangers is different than interpreting the messages of close friends, and would likely have different results.
+Thanks to 
+Andy Davies
+, 
+Prasenjit Mukherjee
+ and Mauricio B. for their feedback.

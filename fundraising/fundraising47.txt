@@ -1,0 +1,92 @@
+The Rocket Scientist’s Startup Life
+Company Building and Fundraising for the Freakishly Smart
+By 
+David Frankel
+, Managing Partner & 
+Joe Flaherty
+ Director, C&C
+Steve Jobs, Bill Gates, and Mark Zuckerberg have popularized the idea of the 
+enfant terrible
+ entrepreneur who drops out of school to reshape an industry, and these fitful founders have made incalculable contributions to tech. However, there’s no reason a dedicated bookworm can’t become a startup CEO.
+The wizards at MIT, Stanford, Harvard, CalTech and other elite research universities are a shamefully underutilized source of company ideas, even outside of biotech. As a VC firm working in-between two of the greatest academic institutions on the planet, we want to help demystify the dark art of company building and hopefully persuade some Ph.D.s to scrap their Post-Doc plans in favor of founding a startup.To begin, we spoke to
+ Natalya Bailey
+, the co-founder/CEO and chief rocket scientist of
+ Accion Systems
+, a startup that makes ionic propulsion systems for micro-satellites. In the last three years, she has earned a Ph.D. in aeronautical engineering at 
+MIT’s Space Propulsion Lab
+, raised
+ $10.5M in VC
+ to productize her research, and booked a
+ $6.5M deal with the US Department of Defense
+ — among other achievements.
+1. Deciding to start a company
+Nothing gets developed in a vacuum
+Rockets are deployed in vacuums, but they aren’t developed in them. Academic entrepreneurs need to be on the lookout for catalysts that demonstrate the industry is ready for their wares.
+For instance, ion propulsion engines predate the first handheld calculators, but up until recently, the entire market for them has been the one or maybe two billion-dollar satellites launched by the military and DishTV each year. Fortunately for Accion, a few conditions changed simultaneously. Small satellites became viable and venture-backable. A new class of aero/astro entrepreneurs were open-minded to unconventional approaches and were keen for non-volatile propulsions systems that wouldn’t incinerate their venture capital dollars by exploding. MEMs manufacturing techniques allowed the engines to be built cost-effectively. Natalya’s research met all of these specifications and served as the springboard for a startup.
+It was a classic context shift, but one that required entrepreneurs who could combine an interest in an emerging field of science with a willingness to endure the uncertainty of startups — not to mention quantum particles, material science and other hard to model, non-deterministic physics.
+Don’t be Quick to LicenseAcademics are prone to believe that the fastest way to get their tech to market is to partner with an established industry leader who can handle all the messy parts of running a company from HR administration to the sleazy-seeming sales process. Natalya didn’t want to leave the commercialization of her new technology to chance, or a corporation with misaligned incentives.
+“We wanted to approach the problem of propulsion in a fundamentally different way,” she says. “The aerospace incumbent mindset can be inefficient, slow, with high overhead and it wasn’t clear we could even adapt their manufacturing techniques to our product.”
+Striking out on her own was a risky bet, as she was fielding inbound interest from serious industry players, but the thought of being another cog in the wheel and seeing her tech languish at a large company led her to launch Accion.
+Entrepreneurship is a pass/fail courseA failed experiment in academia provides fodder for better experiments in the future. Failure in entrepreneurship means the inability to meet payroll for the team that puts their trust in you.
+Natalya got her first taste of entrepreneurship co-founding a startup in the mid-2000s. There was confusion about expectations of involvement, responsibilities, and equity disputes among the founders. The startup failed to launch. And the crew went years without being able to speak to each other. “I wanted to work at my own rocket company, but I had blown it.”
+Even though it didn’t make her rich, it did teach her a valuable, if expensive, lesson. “Make your startup as ‘editable’ as possible,” she says. “Things will change, design your company with that in mind.”
+2. Running a company
+Entrepreneurship is not a science“Building one thing in a lab, one at a time, is not the same as a reproducible, manufacturable product,” says Bailey. Supply chains fall apart at critical junctures causing teams to scramble for alternate solutions. Every 105th widget will fail for reasons that are almost impossible to pinpoint. Ph.D.s turned entrepreneurs go from having every imaginable resource at a university lab to having to hack together solutions from Ebay salvage. Building a company is a messy process.
+This requirement that things work repeatedly also means projects take longer to develop. It’s not enough to prove a principle via experiment; those developments must be reduced to practice — something academics often fail to appreciate. The rule of thumb Natalya’s mentors provided was that it takes twice as long and is twice as expensive as you predict. In her experience, the real multiple is four times.
+For those considering starting a company at some point, it’s never too early to start developing DIY skills to build prototypes. Natalya joined a robotics team in high school, but was relegated to maintaining the team’s logbooks due to her lack of mechanical expertise. No doubt latent sexism could be a factor here, but Bailey also admits that she did lack experience actually making things. She ended up teaching herself through hobby projects. “I tried to build a robot dog because I couldn’t have a real dog in my apartment,” she adds. “It followed a LED bracelet I wore on my ankle.”She’s since been named one of
+ Forbes Magazine’s 30 under 30 in manufacturing
+ — Not bad for someone once considered unfit to hold a soldering iron!
+Divide Equity Like Engineers
+Dividing equity between co-founders is a fraught art and is rarely a smooth process. Feelings get hurt, and arguments ensue. When it came time to divvy up shares in Accion, Bailey treated the process like an engineering problem.
+Inspired by the book called 
+The Founder’s Dilemmas
+ by Noam Wasserman, the team broke down the skills and expertise that would be required in the first three years of the company’s existence, weighted those responsibilities by importance, and assigned each team member a value relative to their expected contribution. No one felt great about the split, but everyone understood the logic.
+Find Mentors
+Raw intelligence can only carry one so far; hard-won expertise can be more valuable than 20 IQ points. Natalya was wise to enlist 
+Anna Rowley
+, a world-renowned corporate therapist, and 
+Bill Swanson
+, who served as CEO of Raytheon for a decade, as advisors to her fledgling enterprise.
+“
+Anna
+ 
+helps me with communication — it’s a weird transition going from founding team, where everyone can just decide around the lunch table to work on the website today, to a company with 20 people where everything you say matters, and everything you don’t say matters,” says Natalya. “She helps me refine every aspect of my communication style.”
+“Bill is a
+ 
+walking encyclopedia of business lessons and anecdotes and helps with management issues like how to deal with high-performers who don’t share the company’s values,” she says. “And I can mention to Bill that I need an intro to someone at Boeing and by the end of the day, I’ll be introduced to the CEO.”
+The Art of Managing Academics
+Life in academia can be pleasant — brown bag lectures, collegial co-workers, and beautiful campuses are perks that startups can’t match — an endless stream of La Croix has nothing on lifetime tenure.
+So how do you lure brainiacs away from a bench at MIT or Harvard? Indulge their academic impulses. Accion can’t compete with Google’s “Twenty percent time,” but she does encourage cross-training. For instance, one technical employee was interested in applying his statistical acumen to market research. Bailey charged him with conducting a market analysis. It allowed the employee to stretch their mind while delivering actionable info for the team.
+Don’t Underinvest in Management
+Natalya’s career trajectory has been like a rocket ship for the past few years, but there have been growing pains. For instance, she understood the theoretical need to hire senior technical managers, but always felt there was a more pressing immediate need. Only after she hired a talented Vice President was she able to focus on the 30,000-foot view and see how much leverage she could get from a single hire.
+3. Fundraising for the Freakishly SmartCB Insights has
+ chronicled
+ the rise of funding for space startups and other “
+frontier tech
+” areas in recent years. Still, it can be difficult to get non-astrophysicists to invest in rocket science. Obviously, it helps to target specific partners with relevant expertise —
+ I had launched satellites as a telecom entrepreneur
+ and had some grounding in the area, but Natalya offers more general advice. “Be skeptical, prove yourself wrong before anyone else does.” What she means is to anticipate the concerns that potential investors will have, including unfamiliarity with the space, that is space, as a business venture. Ruthlessly strip jargon out of your deck and turn an academic challenge into an easier to understand commercial story.
+Why VC > Government Funding
+Raising funds from government agencies seems like a smart idea, especially non-dilutive grants, but there are challenges.
+It’s impossible to schedule innovation, but every government program comes with a timeline. Funds are released for a fixed period, and to get more, a company must deliver concrete results. Contrast that with the VC world where progress and sightlines matter a great deal more.
+By tethering a business to government grants it becomes very easy to end on on a spastic hire/fire treadmill where star employees are regularly laid off due to insufficient funding. VCs can be tough to manage, but by turning to the government, CEOs are effectively turning every election into a referendum on their business.
+Natalya encourages entrepreneurs to employ a hybrid model where venture capital is used to explore the unknown while government funding is used to refine that exploration into marketable products.
+To learn more, follow 
+Natalya
+ and 
+Accion Systems
+ on Twitter and visit their website 
+www.Accion-Systems.com
+.Hacker Noon
+ is how hackers start their afternoons. We’re a part of the 
+@AMI
+ family. We are now 
+accepting submissions
+ and happy to 
+discuss advertising & sponsorship
+ opportunities.
+If you enjoyed this story, we recommend reading our 
+latest tech stories
+ and 
+trending tech stories
+. Until next time, don’t take the realities of the world for granted!

@@ -1,0 +1,51 @@
+10 to 30 engineers in less than a year — 6 valuable lessons we learned while hiring
+Exotel powers 2 million conversations every day.
+Let me wait a minute for that to sink in.
+Last year, we were a 25 member team with 10 people in the engineering team. We were growing at a breakneck speed. The number of calls and SMSes our system was handling daily was growing exponentially.
+We had a problem on our hands. Albeit a good one.
+Our tried and tested stack was beginning to burst at the seams. We had to redo a considerable part of our stack to ensure it scaled well. But if our pace of growth kept up, it became evident we had to rewrite our current stack from scratch. We couldn’t see our existing stack being able to support us for much longer.
+Good problem number 1 led to Good problem number 2. We needed to build an even stronger engineering team.
+Over the last year, our engineering team has tripled in size.
+This meant, a ton of interviews, a lot of smart hires, some bad hiring decisions, missed out on a few good hires and lots and lots of learnings.
+Never hire out of desperation
+This is hiring mistake 101 and everyone has done this, at one point or another. We have done it too, but ever since we burnt our fingers, we have consciously stayed away from it. When in doubt, it is better to err on the side of caution. Missing out on a good hire is a possibility but it is a risk worth taking. When you are in doubt, remember you and your team have spent quite a few precious hours talking to the candidate. And, in spite of that, something hasn’t clicked.
+How can you get over the indecisiveness?
+maybe another round of interview?
+an exercise that addresses a specific concern?
+However, a lot of popular opinion states that if you are not able to make up your mind about a candidate by 3 rounds of interviews, chances are, they are not the right fit for you.
+Hire fast/fire fast
+?
+A bad hire will cost you heavily, pulling you and your team down. A lot of people argue that it’s ok to hire fast if we can fire fast. But the “firing fast” rarely happens.
+As a rule of thumb never hire out of desperation. Trust your gut. It won’t let you down.
+Avoid the jargon guys, like a plague
+We have all met that “
+Supremely Confident Candidate.
+”
+“I used kafka and made my system 4x faster.”
+“just by using react.js, I made my website faster.”
+“are you using Aerospike? Just moving to Aerospike reduced latency by 80%.”
+The above statements are all real possibilities. After all, that’s what these technologies exist for. And here comes the problem. Anyone could say they did this. It is important to just get the conversation to pure basics of the whys and the hows. Why Aerospike and how do you think Aerospike solved the problem? Or why choose Kafka? Keep the conversation at basics, pure basics.
+But if the conversation still meanders at 10,000 feet with a lot of name dropping, it is time to shake hands and bid goodbye.
+Hiring a senior engineer? Get a junior to interview
+There is a lot of literature about hiring people with the right “culture fit” and “attitude”. The folks at Intercom say hire for 
+Culture Contribution 
+rather. These are extremely difficult to get right in an interview setting. Even if you spend hours conversing with the candidate, the culture bit is a leap of faith based on observations in a non-work scenario. If you get the candidate to work with you for a week before making them an offer, it just makes the leap a little easier.
+Observation: a lot of the senior folks in engineering are excellent individual contributors but struggle to work with a team.
+A senior engineer should be able to mentor and grow the team. He should be approachable and help his juniors grow. The entire team suffers when a senior member of the team is bossy, closed to feedback from the juniors and lack the skills to mentor them. And to overcome this kind of a hiring mistake, we came up with a workaround that has been working very well for us.
+Get a junior person in the engineering team interview a potential senior hire.
+You may need to spend some time coaching the juniors to conduct insightful interviews. But it will pay off in the long run.
+No Code, No Hire
+If you are building a great engineering team, you need to hire people who can code, regardless of how many years of experience they have. A lot of interviewers are reluctant to ask experienced candidates to code. You are on a slippery slope there. We have seen even some of the most experienced guys struggle to code. <overboard>Modern editors, frameworks, search engines and stack overflows have spoilt generations of engineers </overboard>. Try a 
+FizzBuzz 
+question to break the ice. If you are still uncomfortable asking an experienced candidate to code, ask your HR/another senior to let the candidate know in advance that he/she is expected to code. Don’t hire without seeing the code. Period.
+Ask them a problem in recursion
+Ask a problem in recursion. Yeah, do that. However silly that sounds, this has been a good interview hack for us. The ability to break down a large problem into smaller subsets is the hallmark of good engineers. Recursion problems are exactly that. Good engineers will have a good grasp of breaking down problems into smaller subsets. You will be surprised to see the number of folks who stumble on facing a problem in recursion. Go ahead and try it out. In fact, a few our FizzBuzz questions are problems in recursion.
+Don’t hire Yes Men/Women
+Some of the best engineers, even those who are people of few words have strong opinions. Keep an eye out for them. And reject those who don’t and seem to agree with you on everything. In an interview propose a design and ask the candidate to review it. Or critique a popular open source architecture and get the candidate’s opinion or ask him/her to critique it or make some horrendously wrong claims on some code and see how the candidate reacts. The lesser mortals would let it pass. The good ones would jump at you. They usually turn out to be gold.
+Takeaways
+Do not hire out of desperation. It is better to miss out on a good hire than to make a bad hiring decision because there’s a gun to your head
+always stick to the basics.
+if you’re hiring a senior engineer, make sure they’re a good mentor. Get a junior to interview them.
+no code, no hire.
+ask them a problem in recursion.
+Hire the ones with a strong opinion. No aye aye, skippers, please!

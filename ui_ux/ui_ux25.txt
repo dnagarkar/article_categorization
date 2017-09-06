@@ -1,0 +1,51 @@
+A meticulous critique of the new Instagram logo/UI
+Instagram redesigned their logo. 
+People got mean.
+ Thanks internet.
+I’m not going there. Instead, I’ll focus on visual consistency and execution, which can be lacking in product design. 
+Having started out in the print world,
+ I get anal about these details. Let’s begin.
+Here’s their app icon. Look at the corners.
+Because of the difference in corner radii, the space between the corner of the icon and logo looks “thicker” than the top/bottom/sides. These visual abberations are like a splinter in my eyeball. There’s a prevalent rule in visual design: 
+make it exactly the same or decisively different.
+ I can hear my professor’s voice.
+One good thing happening here: the dot in the logo is thicker than the stroke on verticals/horizontals, making it look like the same weight.
+The difference in corner radii creates an optical illusion.
+On Android, we don’t have this problem. Birds are chirping. Trump doesn’t exist.
+A visually cohesive suite: Instagram, Layout, Hyperlapse, Boomerang
+Looking at the suite of Instagram apps, the visual design of their logos is cohesive: monoline, gradient, roundy (that’s a technical term) and connected (sealed, no open strokes.) Instagram has visual dominance and the supporting apps look subordinate.) Good job.
+The Instagram and Layout logos are the same exact size and position. Nice.
+A minor issue comes up
+The Hyperlapse logo (circle) is the exact same height as the Instagram/Layout logos, which makes it look smaller. Oh oh! In type design, “O”s extend beyond the baseline to make them optically aligned to horizontal elements. The same principle applies here.
+Now let’s look inside the product.
+Looking good.
+It’s a fine set of icons at first glance. They’re noticeably thinner than the product logos. You could argue that those should be dominant and all glyphs inside the app should be subordinate. I buy that.
+Hmmm.
+Overall, these glyphs are more neutral in feel, and less “roundy.” The thicker product logos have an aesthetic of 
+Japanese elementary school. 
+The thinner app glyphs look 
+Swiss airport wayfinding. 
+Hmmm.
+All the glyphs except “account” are connected/not open.
+I think the biggest question mark is why use a different glyph for camera? Use the Instagram logo.
+Magnifying glass or Dyson fan?
+As we compare states, more nits pop up. The active state uses a fill. That’s cool. But why does the search glyph not fill in? It looks like they just use a thicker stroke. This is a magnifying glass, which is solid in the middle. It’s not a Dyson fan that’s hollow in the middle. Then that account glyph fills in even though the stroke isn’t connected. The direct message glyph can’t make up its mind—
+Trump becomes the Republican front runner.
+Three different designers?
+The colors for active and rest states across the app get funky. The main menu uses gray/black (rest/active.) For some reason, photo actions have a black rest state, which makes it more dominant than the main menu. Then within the account submenu, a different gray(!) is used for rest state and a medium blue for active.
+Here come two more designers.
+Links also get a little cray. Links in the account detail page (and hashtags in photo captions) take on a darker blue. I guess the medium blue from before wasn’t good enough?
+Location links use black. I guess there’s a good reason for that. They have to add a right arrow so you know it’s a link. 
+Trump becomes POTUS…for 13 terms.
+There’s a reason why, right?
+The Layout app takes on a black UI for some reason. We find camera #3 and blue #3. There’s a giant Layout logo there that you can tap for no reason. 
+Teslas really run on the blood of first-born ethnic babies.
+Now let’s look at the website.
+Their web version uses blue #4. Yes, it’s really close to the other blue, but not quite.
+Instagram | Instagram
+These aren’t two different things. It’s called a logo lockup. The bug + logotype can be paired together. Remove the divider.
+This was in good fun. Hope you enjoyed it.
+If you’re looking for meticulous advice on your project, portfolio or career, book some 1-on-1 mentor time with me on 
+RookieUp
+.
+The views expressed are my own, not my employer’s. I’ve removed references to OCD the title to be more respectful to those with OCD.

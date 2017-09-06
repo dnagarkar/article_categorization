@@ -1,0 +1,50 @@
+Nail the pitch: overcoming the unique challenges of fundraising for hardware startups
+Greg Marsh knows how to unlock doors. His company, 
+KeyMe
+, was founded when he saw an opportunity to change the way 
+keys are copied and shared
+, making sure no one ever has to spend hundreds of dollars on a locksmith again. But his greatest skill may lie in opening a different kind of door altogether. Greg has raised over $70 million in venture capital for KeyMe, an experience that has taught him priceless lessons in fundraising for a hardware startup. He shared his knowledge at 
+Hardwired NYC
+, a monthly event organized by FirstMark that explores frontier technology:
+Fundraising for startups is hard. Fundraising for hardware startups is harder.
+Historically, raising capital for hardware companies is more difficult than other types of startups, due to several common concerns in the venture community:
+long product development cycles
+high technical and execution risks
+high capital requirements, especially early on
+However, if well managed hardware can have some unique, highly positive attributes as well:
+strong unit economics
+a clear path to scale
+high barriers to entry may mean less competition
+can require less equity capital over the total company lifecycle
+Years of pitching have taught Greg to address concerns over the common disadvantages upfront, and more importantly, emphasize the advantages to excite potential investors.
+Unit economics, cornerstone of hardware and the pitch
+Greg believes most hardware is driven off unit economics — so it’s not surprising they are the foundation of KeyMe’s pitches:
+A snapshot of KeyMe’s unit economics, used in their pitch deck.
+Before pitching, ask yourself: on a per-unit basis, how good are your startup’s economics? To answer this question, you’ll need to calculate your contribution margin (profit earned for each unit sold):
+Revenue — associated Variable Costs = Contribution Margin
+In this example, KeyMe’s revenue is $6 per unit, minus costs of $4 (COGS + Operating Costs) to produce that unit. The contribution margin is $2, and the contribution margin ratio (Contribution Margin/Revenue) is 33%.
+These numbers are key, Greg says. Hardware is unique in that the contribution margin is typically a lot better than other types of businesses
+.
+ Most investors understand this and will be excited by the quality of these economics, so focus on them in your pitch.
+A lot of entrepreneurs have a hard time creating a unit economics slide in the early stages of their company, because they don’t know how much they’re going to sell their product for and how much it will cost to produce. If you don’t have the data, do whatever you can to get it: survey people, do research on comparable industry norms, come up with rough estimates that are defensible.
+“Data based on surveys is 10 times better than no data at all.”
+With plausible, compelling unit economics in hand, you’re going to have a much easier time raising money.
+Market Size: defending a multibillion dollar opportunity
+Alright, you’ve got people excited about your product’s unit economics. The next questions from potential investors are likely to be, “How big can your company get and how quickly can you scale it?” KeyMe addresses market size with a two-pronged slide:
+Top-down
+This is the more traditional way people view market size: How much money are people spending on this problem? For KeyMe, the answer (their total addressable market) is about 7.5 billion dollars. The three pie segments below represent the three services they provide.
+ 
+The goal of this chart is to show the problem is big, and a lot of money is being spent to solve it.
+Bottom-up
+This approach further instills confidence you can become a multibillion dollar company by relying on feasible assumptions. Of 150,000 potential brick-and-mortar retail store partners in the U.S., KeyMe’s goal is to operate in about 20,000. That’s roughly a 13% retail penetration rate, which suddenly seems very achievable. With a reasonable assumption like that, investors will take your market sizing seriously and your business can justify a very large valuation.
+If you’re pitching a business in which the most successful scenario is going to be a couple hundred million dollars, think bigger. In KeyMe’s early days, Greg felt a multibillion dollar business pitch was so ambitious he’d erode confidence with investors, so he pulled back — and lost potential partners as a result. These days, venture capitalists manage such large funds, they want single exits that can return the whole fund. To do that you need a multibillion dollar exit. By playing small, you may be framing your startup as an opportunity that’s not worth the investor’s effort.
+A workaround for intellectual property
+“Many investors view IP as a golden ticket to monopoly, which is extremely rare in practice.”
+IP comes up often in hardware fundraising, and is commonly misunderstood by both entrepreneurs and investors, Greg says. Many view it as a way to eliminate competition outright, which rarely happens. Trolls aside, IP’s most common uses are:
+By larger companies, to bully smaller competition by forcing them to waste their money on IP litigation (even if there’s not much substance to the claim)
+As a Hail Mary for companies already being beat in the market, to hinder their main competitor’s success
+Even knowing this, investors may still find IP attractive. Filing a simple provisional patent before fundraising is the cheap solution. For about a thousand dollars, you can make investors happy by saying you have patents pending, and defer the actual hard work and expense — filing the real patent application — by a year.
+Be so good they can’t ignore you
+“Pitching is a skill just like anything else: the amount of time you put in, the practice, is really what makes you succeed.”
+Whenever an investor passes on KeyMe, Greg asks for a few minutes of their time, so he can understand what their concerns are. He uses the feedback as opportunity to improve his pitch for next time. He credits this simple practice with being the single most impactful factor in KeyMe’s pitch and fundraising success.
+Want to more fundraising tips? Watch Greg’s full talk:

@@ -1,0 +1,136 @@
+Moving from Performance Management to Performance Dialogue
+Written by John Foster
+I just finished reading 
+Let’s Not Kill Performance Evaluations Yet
+ by Lori Goler, 
+Janelle Gale
+ and 
+Adam Grant
+. I am in full agreement with the premise of their article: 
+that performance evaluations can have real value to employees
+. I think it’s clear that understanding “where you stand” is better than having judgments hidden in a black box, only to surprise you when it’s time to discuss a salary increase. After all, open sharing is a natural aspect of constructive human relationships, so it’s destructive to have a secret evaluation going on behind your back.
+Throughout the article they made excellent points, using research to show how most employees would rather have an evaluation than not. I’m not a fan of “killing” reviews, so I am happy to have a solid piece of writing to show that’s not a great idea. So 
+something
+ is better than nothing, and if you’re going to do traditional performance management, I think the approach described at Facebook would be called “best practice.” 
+Best
+ as they point out (among others like 
+Jeffrey Pfeffer
+) means you gather input from multiple perspectives, evaluate performance over time, and attempt to remove bias from the written discourse (BTW, I love that they are so committed to removing bias, but have to say that most companies I know simply don’t have a “team of analysts” available to conduct that step). 
+Best
+ also includes translating performance ratings into compensation.
+Despite the clarity of their points, I still don’t think “best practice” is good enough to make traditional performance reviews worthwhile. Even when done with as much care and diligence as described by Facebook, it’s still a very time consuming, expensive, and unsatisfying process for most participants. It’s still a dreaded, necessary evil that people must suffer through in order to be considered for a raise. I’m not sure how satisfied Facebook employees are with the reviews process, but 
+other research
+ on performance appraisals shows satisfaction levels are well below an acceptable level we’d apply to any other business process. Can you imagine if you accepted a 65% CSAT score as “good enough” in your customer contact center or any kind of product quality standard? So while something 
+is
+ better than nothing, I think it’s unacceptable that such an expensive investment would be “okay” at anything less than 90% satisfaction for participants.
+So probably the trend to “kill reviews” is misguided but understandable. I think the real problem with performance reviews is more fundamental than the issues of transparency, perspective, and bias. Fixing these issues assumes a paradigm about people and work that is functionally out of date and misaligned with what high performance people need to be successful. Ask one successful entrepreneur when a performance review helped them improve (actually ask them all!). I think that’s um, 
+never
+. That persona couldn’t even stand getting through school, let alone have a boss give them a rating. Isn’t that a really interesting conundrum? It makes me wonder if there might be other dynamics underlying high performance that we don’t fully understand in the HR and OD bubble.
+To me, using performance reviews is like using a fax to send information to your insurance company. They 
+need
+paperwork to justify their actions because their processes and tools are built around audits that review PAPER. Their well-designed controls don’t allow their agents to have email addresses or a printer, so you can’t send an attachment for them to print and file. Because of their sunk costs in legacy systems, customers have to print, sign, scan and fax so their agents have something physical to file. Despite the fact the paper actually originated in some “newfangled” digital transaction. Pretty crazy, huh?
+Solving the problems with performance reviews is not about how to deliver them better, it’s about taking a step back to wonder, “What’s the best way to help people perform at their best?”
+This might seem like a tangent, but in order to truly fix performance reviews, we need to dig deeper into today’s relevant human performance dynamics and create an entirely new design paradigm. Here are some warm up questions to stretch your thinking and start looking at this problem from other angles:
+How do we know if people are doing good work?
+How do we know if people are doing the right work?
+Why do we care about the answers to those questions?
+Why do entrepreneurs achieve so much without getting reviewed?
+Why do entrepreneurs succeed without having a boss?
+Why do some sports teams overachieve while others don’t?
+Outside of business, what are other situations where work quality matters?
+What do we know about evaluation in school versus evaluation at work?
+What do we know about evaluation in families?
+What motivates people to do good work?
+How do you measure human output?
+Who should measure human output?
+What information do people need to perform at their best?
+How do salaries get set?
+Do bonuses motivate people?
+What is performance? How do you know when it’s effective?
+When have you experienced a performance insight? How did you get it?
+When you have you done your best work? 
+What makes you call that “your best work”?
+Why is the sky blue? (Just kidding!)
+What’s the difference between effort and output? Do both matter?
+Where have you observed “high performance” in action?
+What are the conditions that create high performance?
+What kinds of relationships exist in high performance situations?
+What kinds of relationships exist in low performance situations?
+Are relationships an important factor in high performance?
+How does the human brain react to threats? What does it do to our body?
+How does the human brain react to challenges? To rewards? To compliments?
+What is the language of high performance? Are some words better than others?
+Where did the term feedback originate?
+What’s different about work today versus work 25–50–100–1000 years ago?
+I’m sure you could come up with dozens more questions as you pick apart the situation and begin to wonder with a “beginner’s mind” what performance reviews are all about. The next step is to define a clear problem statement that motivates us to persist in this now completely messy process. This is about finding satisfying answers to these questions:
+What problem are you trying to solve?
+How do you know you have this problem?
+To move us forward more quickly here, I’ll share some of the work I’ve been doing over the past decade while struggling with this persistent and complex challenge so many companies face. It took me several attempts at making performance reviews better before I decided to zoom out and rethink the whole concept. I built “best practice” processes at Citibank, Levi Strauss, and Mercury Interactive before arriving at IDEO, where implementing a 
+best practice
+ review system was abhorrent to even consider. Since I was forced into finding a different way, I adopted IDEO design thinking techniques (When in Rome…) to help me create something that would work there.
+I interviewed dozens of IDEO designers and support staff to hear their stories about performance reviews, feedback, and other related topics. I did a review of the literature and conducted benchmarking conversations. Not surprisingly my anecdotal discovery netted strong negative feelings about “being reviewed” but thankfully provided all kinds of cool ideas for making improvements.
+Well into the process, I asked a sharp young designer in Boston what he thought of 360 reviews. Instead of answering about his experience receiving a review, he flipped the question and answered about giving them saying, “I don’t have time to give feedback to others!”
+Given the supportive and collaborative nature of IDEO folk in general, I was taken aback. I asked him to explain a little more, and he gave me the spark that would fuel my approach from then until today. He described how he didn’t think it fair to give someone half-assed, quick snippets of feedback, and that doing a good job of giving helpful, high quality suggestions is a huge burden in addition to his regular work. In his opinion, it was an extreme disservice to provide feedback that was not well thought out and thorough. People would be counting on that information to learn and grow, and providing anything less than would be damaging and wrong.
+I had to steep in those comments among the hundreds of other 
+Post-its
+ I had gathered until I found a pattern to guide my design process. The big insight is to recognize that 
+the person who benefits most from feedback is the person receiving it.
+ Sounds simple, but with closer consideration, it reverses the feedback dynamic from 
+giving
+ to 
+gathering
+. In my experience, most performance management systems are designed from the perspective of the manager or the company. Seeking to “manage” limited financial resources by differentiating people based on their performance is a controlling paradigm that negates the value of feedback from the git-go.
+If instead, we start from the perspective of the individual, the problem statement becomes 
+How can I find out if I’m doing my work properly?
+ and a separate issue of 
+Am I getting paid fairly for the work I produce?
+So while performance management is about evaluating performance over time, performance dialogue is about discussing the focus and quality of work.
+Over time, I’ve clarified this into to 2 separate conversations people need to conduct at work, each with 2 driving questions:
+Conversation 1: Evaluating my performance:
+Is this the right work for me to do?
+Is this work I’m doing good enough?
+Conversation 2: Navigating my career:
+Do I have the capabilities necessary to succeed in this job?
+What capabilities do I need to progress in my career?
+Once divided into these 2 conversations and 4 questions, building a process, tools, and procedures to help answer them looks much different than the performance review we all know and hate today. The associated design questions in the new paradigm might look like this:
+Who can help me answer this question? 
+(Satisfies a need to identify key stakeholders like manager, peers, clients)
+What are good ways to gather input from others?
+(Based on deep understanding of predictable human dynamics)
+How can I make giving input/perspective easy for my stakeholders? 
+(Places the burden on me not them)
+How do a make sense of their answers? 
+(Leads to tools like a survey I can use to increase my skill/efficiency)
+How often should I ask these questions? 
+(Helps me define the nature of my work)
+In its most recent iteration at Thrive Market, I’ve started using a technology platform called 15Five to enable Performance Dialogue and make it scalable and efficient. 15Five provides the organizational reporting framework, a bundle of great question-building tools, and modern ways (like social media) to engage others in collaborative discussions about the focus and quality of work. But technology alone is not sufficient to make this fly. The “self-directing, self-correcting” behaviors we need to achieve personal and professional growth require refined interpersonal skills and attitudes, so we provide a basic training workshop and coaching to help people understand and engage in the process effectively.
+So, How Do I Get a Raise?
+Compensation is an agreement between an organization and an individual to pay a certain amount of money for a certain amount/type/scope of work. Performance Dialogue has no direct connection to compensation. Zero. Zilch. Nada. Performance Dialogue ensures work focus and work quality because it is a discussion 
+about work
+ not an evaluation of it. If you want to have high performance, creativity or innovation in your organization then people need to take risks. If you tie performance conversations to compensation they get corrupted because nobody will share a mistake or challenge under the fear they will get dinged in their rating.
+To determine someone’s compensation, you need to evaluate her capabilities against the market. It is a completely different conversation that you have once or twice a year, and is essentially the same process you use when you interview someone for a job in the first place. What does their experience indicate they are the able to do? What job responsibilities can they reliable accomplish? What is the evidence that they are capable of doing the job (and at what level of scope/responsibility/impact)? People with more capabilities generally earn more, so if someone grows in her capabilities, she should get a raise in accordance with what the market would pay her. The fundamental switch here is moving from evaluating 
+performance against goals
+to evaluating 
+capabilities growth
+. To clearly distinguish it from Performance Dialogue, I call this process Career Navigation.
+What about poor performers?
+Basic performance is a binary problem. Either someone is putting in the effort and making progress or she/he is not. If you determine that someone is no longer interested in putting in the effort, or is substantially unable to do the work, it’s time to part ways. This should be discovered over time via Performance Dialogue and handled long before you engage in Career Navigation discussions. Keeping someone on your team who is not able to do the work is a disservice to everyone involved. Act with care and compassion, but follow through nonetheless.
+This is really different
+The paradigm shift from 
+manager-led
+ to 
+individual-driven
+, should not be underestimated as a radical change for most people. In order to engage in Performance Dialogue and Career Navigation successfully, people involved have to operate from a 
+growth mindset, not a fixed one
+ and use inquiry and curiosity (not fear) as the motivation to participate. They also must interact with colleagues, supervisors and clients in a 
+reciprocal partnership
+ and avoid the paternalistic tendencies in most manager-employee relationships.
+Behaving with reciprocity does not mean turning the dialogue into a consensus or compromised endeavor that makes everybody feel good. Managers still maintain decision making authority and have the responsibility to ensure goals and standards are met. Employees gain more explicit control over their career options. The big difference in a reciprocal relationship is the use of questions and agreements, not directives and mandates. It rests on the power of an 
+unconditional, positive question
+not a passive-aggressive statement disguised as a question. In a Performance Dialogue world, nobody should walk away feeling “tasked” to do something… that’s the old paradigm creeping back. It might take more time up front, but I think it’s better to invest in core development and enable people to become self-directing and self-correcting “creators” over designing a high control system that assumes people are pawns.
+Originally posted by 
+John Foster
+.
+Republished on the 
+Bulldog Drummond Blog
+.

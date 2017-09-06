@@ -1,0 +1,71 @@
+Is diversity a problem in the design industry?
+Designers work for companies that tend to be more progressive when it comes to diversity in the work environment. But are we there yet? Let’s take a look at the state of inclusion in some of the largest companies in our industry.rep·re·sen·ta·ti·ve·ness: the level of how well or how accurately something reflects upon a sample; the state or quality of being accurately representative of something.
+Yes.
+Straight up: yes.
+Lack of diversity is still an issue in the design and tech industries.
+Let’s start with a few facts:
+In 2013, Facebook hired just seven black employees out of an overall increase of more than 1,200, according to the Equal Employment Opportunity Commission.
+ (
+source
+)
+In 2015, at Facebook, the share of Hispanic employees in the United States remained flat, at 4 percent, just as it did for blacks, at 2 percent. 
+(
+source
+)
+In 2016, those who identify as white accounted for 55 percent of Facebook’s employees in the United States, while Asians represented 36 percent. 
+(
+source
+)
+In 2016, senior leadership hires at Facebook were 9 percent black, 5 percent Hispanic and 29 percent women in the United States. 
+(
+source
+)
+In 2015, Google’s employee base was 60 percent white and 31 percent Asian, with Black employees making up 2 percent and Hispanics 3 percent. 
+(
+source
+)
+In 2015, EBay’s White employees made up 61 percent and Asian 24 percent of its workforce in the United States. Black employees grew one percentage point from the previous year, to 8 percent, while Hispanics remained flat at 5 percent. 
+(
+source
+)
+We are quoting companies like Facebook, Google and Ebay here because they are the ones who do a better job at being transparent and publishing diversity and inclusion reports every year. To be absolutely fair, all companies mentioned above have created multiple programs to reach more diverse candidates at a younger age, and are working to point out and reduce unconscious biases in hiring practices with recruiting managers.
+But similar symptoms are also noticeable in smaller-scale survey results from independent organizations, sites, companies, and teams: they all point to an impressively stagnated state of diversity in the design industry’s workforce. 
+Design Week’s careers and salary survey
+ from January 2016, for instance, with more than 2,000 respondents in the UK, revealed an industry that is predominantly male and overwhelmingly white.Race and gender are really just two of the aspects that affect the state of diversity in those companies. Ethnicity, age, sexual identity, ability/disability and location, among others, sometimes are not even tracked as they should.
+On a more empiric note, just a quick walk around the always-busy co-working spaces in San Francisco can be enlightening in that sense: the age range, the skin color, and even the way people dress make you feel part of a dystopian sci-fi movie where everyone looks just the same.Look around you while you read this: do you honestly think your team is as diverse as it could be, or do you sometimes feel like you work in a bubble?
+If you are in your office while reading this article, there is a chance you will get the same feeling when you look around. Does your company’s workforce mirror the talent available in the country? Does it mirror the users of your product? Do you honestly think your team is as diverse as it could be, or do you sometimes feel like you work in a bubble?
+Finding the root of the problem
+Fixing this issue is not as simple as it sounds, though. You can’t simply start hiring more diverse candidates — because the pipeline of qualified candidates is not very diverse. In the US, Hispanics make up 7 percent of the student population of the 193 most selective colleges, 
+according to a study by the Georgetown University Center on Education and the Workforce
+, while blacks make up just 2 percent. Engineering graduates also tend to skew largely white and male.Graphic design can be a fairly expensive profession to break into — as Roberto Blake gracefully points out on his article about 
+Diversity in the Design Industry
+:
+“The truth of the matter is that graphic design can be a fairly expensive profession to break into, and many minorities may be priced out of entering into this industry based on that fact. The hardware and software cost are staggering, even more so if you want to leverage the credibility of being a graphic designer who uses Mac hardware.”
+Teenager students that are part of minority groups, particularly African Americans and Latino Americans, are often pressured by their families to pursue careers that offer immediate employment.
+It turns out to be somewhat a vicious cycle: because these groups have a harder time finding a job in our industry, they end up choosing jobs that can pay them immediately and more steadily.
+You are part of the problem, too
+– Hey, we have this open position here in the company. Do you know any cool and talented designer that could be a good fit?
+– Oh yeah. There’s this guy that I went to school with, check out his portfolio.
+We have all been through a scenario like the one above. 
+Referrals
+ are one of the most reliable ways of finding great talent in our industry.
+It makes sense: as a hiring manager, if you enjoy working with a certain designer (and appreciate the way they operate and think), there is a big chance you are going to enjoy working with their friends and acquaintances who come from the same school or even the same social circle.
+On the other hand, if you are a designer and you are referring someone who will likely work with you in the near future, it makes a lot of sense to prioritize colleagues who think alike, share a similar vision, and even follow a similar design process than you.
+What we do not realize, is how this makes it even harder for people outside that demographic to have access to those job positions. Of course, the system is not “designed” to exclude people specifically based on their background, but most designers I know prefer to start the recruitment process from referrals.
+When you refer a friend to a job position — someone you went to school with, or someone from the same social circle as you — you are contributing to the lack of diversity in your team.
+We still have work to do
+The same big companies quoted at the beginning of this story acknowledge that there is still a long road ahead of us. Here are some quotes from these companies when publishing their diversity reports in recent years:
+“It’s clear to all of us that we still aren’t where we want to be. There’s more work to do.” — Maxine Williams, Facebook’s global head of diversity.
+“Like our peers, we have a lot of work to do”, Twitter said in a diversity report 
+posted in 2015
+.
+“We’re not close to where we want to be, but we’re working on it”, Pinterest 
+has said
+.
+“Google is not where we want to be when it comes to diversity”, 
+wrote Laszlo Bock in 2014
+, its senior vice president for people operations.
+It is becoming clear to us that 
+the problem is bigger than we thought
+ when we decided to start this series of articles on Diversity and Design. The next step is to understand some of the causes of this issues, as well as its subtleties — before we can really start talking about solutions.
+See you in the next story.

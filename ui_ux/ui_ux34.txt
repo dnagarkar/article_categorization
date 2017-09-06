@@ -1,0 +1,67 @@
+Top 3 UI Techniques That Users Hate Most
+by 
+Nick Babich
+Note:
+ the technique mentioned in this article aren’t always black or white. Meaning, they all have great potential if implemented correctly.
+1. Popups
+Most probably you know this feeling. You open up a new web page and half way through reading the content on it but suddenly you’re interrupted by a huge overlay asking for your email address. In most cases, your immediate reaction will be either to close overlay or to close an entire page with this overlay.
+The reason why so many sites are using this technique is obvious. However, the technique has a huge negative effect on user — it asks the users to stop doing what they’re doing (what’s important for them) and focuses their attention on completely different activity (what’s important to you). It’s better to allow users to finish the current activity (e.g. read content and get acquainted) before asking for anything. Give them the chance to decide whether or not they want to do something on their own instead of forcing them to do it.
+2. Infinite Scrolling
+Infinite scrolling is a technique that allowing users to scroll through a massive chunk of content with no finishing-line in sight. This technique simply keeps refreshing a page when you scroll down it. Tempting as it may sound, the technique isn’t a one-size-fits-all solution for every site or app.
+Image credit: 
+Geo Law
+The main downside of the technique is basically it’s major advantage — there’s no finishing-line in sight. When users get to a certain point in the stream, they 
+can’t bookmark 
+their location and come back to it later. If they leave the site, they’ll lose all their progress and will have to scroll down again to get back to the same spot. This inability to determine the scrolling position of the user not only causes annoyance or confusion to the users but also hurts the overall user experience, as a result.
+In 2012 Etsy had spent time implementing an infinite scroll interface and 
+found
+ that the new interface just didn’t perform as well as a pagination. Although a number of purchases stayed roughly the same, user engagement has gone down (people weren’t using the search so much).
+As Dmitry Fadeyev 
+points out
+:
+“People will want to go back to the list of search results to check out the items they’ve just seen, comparing them to what else they’ve discovered somewhere else down the list. Not only does the infinite scroll break this dynamic, it also makes it difficult to move up and down the list, especially when you return to the page at another time and find yourself back at the top, being forced to scroll down the list once again and wait for the results to load. In this way the infinite scroll interface is actually slower than the paginated one.”
+Designers should weigh the pros and cons of infinite scroll before incorporating infinite scrolling into the design. The choice depends on the context of a design and how that content is delivered. In general, infinite scroll works well for something like Twitter/Instagram where users consuming an endlessly flowing stream of data 
+without looking for anything in particular
+.
+More information:
+UX: Infinite Scrolling vs. Pagination
+by Nick Babich
+uxplanet.org
+Infinite Scrolling Best Practices
+by Nick Babich
+uxplanet.org
+3. Push Notifications
+Have you ever paid attention to the number of notifications and alert messages you receive on a daily basis from various apps? How many of those notifications 
+do you actually care about
+?
+Everyday, users are bombarded with useless notifications that distract them from their day-to-day activities and it gets downright annoying.
+Annoying notifications are the 
+number one reason people uninstall mobile apps
+ (according to 71% of survey respondents).
+When users start using your app they don’t mind getting notifications as long as they carry enough “
+value-for-interruption
+,” meaning they are 
+useful
+ and 
+interesting
+ enough to them. 
+Personalized content
+ that inspires and delights is a critical component.
+Push Notification is a privilege because users place trust in you by allowing you to send messages directly to them, and you mustn’t abuse that privilege.
+Designing notifications to be 
+useful, relevant
+ and 
+timely
+ for your users is extremely important. Push Notifications can be powerful tools for businesses to communicate directly with users and deliver the right message at the right time and place in order to
+ promote engagement
+.
+More information:
+Mobile UX Design: What Makes a Good Notification?
+by Nick Babich
+uxplanet.org
+How to create effective push notifications
+Over the past 20 years, the ways in which content has been distributed have completely changed.
+uxplanet.orgFollow UX Planet: 
+Twitter
+ | 
+Facebook

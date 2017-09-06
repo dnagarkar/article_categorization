@@ -1,0 +1,47 @@
+illustration by 
+Arnas Goldberg
+A guide to hiring your startup’s first designer
+How to move away from your agency and hire your own talent: no ping-pong tables required.
+I’ve been lucky enough to work with quite a few early-stage startups at 
+Hanno
+, building MVPs, with the goal of attracting funding, and then facilitating a handover to the in-house team.
+I must have one of those faces: for some reason I’m always being asked for advice. A lot of the time I’m asked about how to 
+work effectively with designers
+. However more and more often people are asking me how to find the right designer in the first place. And when you’re up against those ‘hot’ companies with the outrageous employee perks, great teams and even VC funding, finding and attracting quality design talent for that handover is not easy. Here’s what has worked for us and our clients so far…
+Finding your ideal match
+First up, you’re running a startup: I’m guessing you don’t have heaps of spare time — it’s 
+probably 
+a good idea to work out how valuable that time is to you. Putting in the hours is unavoidable, but a better designer will fit in easier, ‘get’ things quicker, and require less time to get up-and-running.
+But before you look at them, take a look at yourself:
+Be honest with your weaknesses
+: if you don’t have the design background to guide and manage a designer, provide good feedback and critique, and help them develop their skills and career, it’s probably a mistake to hire a junior designer who will rely on you to provide this kind of support. Don’t ignore your weaknesses and leave your designer frustrated and unhappy with the support and growth you’ve been able to give them — in that scenario, nobody wins.
+Be prepared to invest.
+ If you want a good designer on board, it won’t come cheaply. If you decide to go for someone inexperienced and cheaper, you’re probably going to pay for that in kind with all the extra communication time you’ll need to put in in order to make things work out. Don’t demand the earth on a shoestring.
+Accept the fact that 
+you are going to suck at communicating a design brief 
+. And commit to working out how to improve your ability to do that, fast. Few people (and I’m definitely including myself in this) are able to master it right away, and a lot of agency sorts spend years working to get better at it. Learn how to walk that tightrope: too much direction, and you’re going to be micromanaging and killing all creativity. Too little, and your designer is going to find it almost impossible to understand what needs to be achieved.
+Beware of hiring by pretty Dribbble profiles and follower counts
+. Pure artistic ability is far outweighed by the designer’s ability to understand a brief. Design is about communicating a message — the way a designer explains how they solved a creative problem is often the most revealing aspect of their portfolio — much more so than that funky weather icon they posted on Dribbble last week.
+When I’ve been talking to potential hires and sifting through job applications in the past, I’ve looked for a couple of key things that have served us pretty well:
+Self-sufficiency 
+is quite often something you’ll find with an ex-freelancer. Don’t underestimate the value of that ability to manage their own workload, understand a brief, and where there’s uncertainty, ask for more direction or do some further research — it’s huge. If you go into this with the intention of 
+managing
+ the way your designer designs, everybody is going to get very frustrated, very fast. Focus on doing it differently, and on moving as quickly as possible through the ‘getting to know each other’ stage, working towards a strong relationship where each of you provide valuable contributions to a solid end-product. Help your new hire understand what your startup and ethos is about, and build them up so they can begin to play a major role.
+If they’re working on the web, they 
+need to be able to code
+: we’ve turned away a lot of talented designers because they won’t touch code. If you’re going to design for the web, you need to know your tools and your medium. It’s not like they need to be coding production-ready code at the very highest level, but if a designer on a small team can’t mock up a concept in prototype code, your development process is going to be constantly blocked, and shipping anything new will take that much longer.
+They’ll need to have a 
+serious interest in usability and function
+: as a web designer, you need to be a bit obsessed with understanding why people behave in the way they do when using a website.
+Has 
+an online presence
+: if you’re a designer looking for work, and you don’t have some form of online portfolio or personal site, then with a few exceptions, that usually demonstrates a pretty serious lack of commitment to your career. If you use a template for your portfolio and the work inside isn’t absolutely mind-blowing, you’re making it that much harder to get a job for yourself.
+And the obvious things: passion for their craft, an attention to detail, and a desire to build quality products.
+Once you’ve found your designer:
+When you’re a small (often distributed) team in the early stages of startup growth, team balance and fit is a really delicate thing. If it’s your first time around, don’t make a full-time designer hire right away — work through a sample project first and see how well you fit together.
+It’s best to use a real-world project. This project will help you both to see how well you can work together — much more so than any interviews you might have beforehand. Save those questions about 
+piano tuners
+ for another time.
+Never ask a designer to tackle this project without being paid for it — this devalues the profession and pretty much eliminates the candidates you really want, from your shortlist. They, quite rightly, won’t be prepared to do this.
+Be understanding — it’s the first time you’ll have worked together, and it’ll take some time to really get things ticking smoothly. Be patient with those first steps, but watch out for the bigger issues that might be big problems further down the line.
+And honestly, just be responsible and fair with anyone you’re looking to take on board. As brilliant as your startup might be, anyone joining you is taking at least a bit of gamble on where they’ll be a few months from now. Be honest with yourself, and them. If you handle this hire right, the risk is more than worth it for the huge reward you stand to gain.

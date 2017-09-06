@@ -1,0 +1,90 @@
+True Diversity Is Intersectional
+At Project Include, we continue to be troubled by one big thing missing in diversity discussions: intersectionality.
+Almost all the responses from press and people who want to work with us have overlooked our focus on intersectionality — the interrelated nature of identity categories like gender, race, age, class, and ability. From our first discussions, we saw inclusion of all categories as an important requirement, and we listed it first in our values by design. We want to make clear that addressing intersectional experiences is part of our recommendations.
+Our focus on an intersectional approach didn’t get much attention, because we kept our discussion high-level and accessible to encourage participation from everyone from CEOs to VCs to individual contributors. We intentionally didn’t use the term “intersectionality,” and maybe that was a mistake.
+Starting today we are going to be even more explicit about what we mean and why. True inclusion addresses racism, gender identification, ageism, and many more categories and combinations of marginalization. In this essay, we specifically focus on Black women in tech, because we find the severity of their marginalization and the failure to address it particularly troubling.
+When you look at the numbers, women of color are at a significant disadvantage even compared to white women in business. While white men are 41 percent more likely to be executives than white women, they are 260 percent more likely than Asian women, and over 400 percent more likely than Black women and Latinx women.[1] Other research shows that Black women represent 7.9% of the workforce, compared to only 1.5% of executives while Asian-American women represent 2.8% and 1.3%, and Latinx women represent 6.2% and 1.3% — and these numbers have not improved since the race-gender double bind was identified in 1975.[2] While all women of color have a harder time reaching the executive level, Black women have it hardest.
+In the tech industry, where women of color, especially Black women, are struggling for a place, the numbers are even lonelier. Though Black women make up the fastest growing segment of entrepreneurs, they run just 88 startups and make up just 0.2% of all venture deals from 2012 to 2014.[3] Other research shows how Black professional women view work-life balance differently than white professional women, and that exactly 
+zero
+ companies have ever considered this when writing their policies.[4]
+All too often, the perceptions and experiences of girls and women of color are only used selectively to bolster the views of a group of predominantly white women. Anita Hill is often described approvingly as a “gender warrior” by white women; but if you listen to Anita Hill she is unable to separate race from gender in her experiences of sexual harassment. If you ask low-income underrepresented high school girls of color (Black and Latinx) in a challenging STEM program about obstacles to pursuing tech and other STEM careers, they will tell you they perceive racial barriers as more daunting than gender-based barriers.[5]
+Talking about diversity without addressing anti-Blackness and anti-Black womanhood is not true inclusivity. Waiting to address race because it’s too hard is 
+not diversity
+. When we fail to acknowledge much less address these issues, we are failing at diversity.
+We are surprised that despite our explicit commitment to broad inclusivity, most of the groups that have approached us for information or partnership have been only gender-focused. There are many women who are willing to promote gender-only focused diversity and not challenge it or raise the hard questions.[6]
+We want to raise the hard questions.
+ While we are all women, we believe it is important to include other genders and other marginalized groups in our advocacy efforts. Though the Project Include team has some common experiences and perceptions as women who have worked in tech, our differences are just as important and defining. The assumptions made about each of us, the opportunities some of us have, and some of us don’t, are layered with race, ethnicity, age, LGBTQ status, and class as much as they are informed by our distinct talents. When we write back to gender-focused groups asking about other types of inclusivity, the responses are disappointing. We hear it’s coming, we hear about limited resources, we hear about needing to be successful, or we hear nothing.
+We have not asked these groups a question that has been weighing on us: “If you have limited resources, then why not focus on Black women?”
+We can see why race gets overlooked even if we vigorously disagree with it; it’s easier and more relatable for some to deal with women only. White men have wives, sisters, daughters and co-workers who are women, and so begin to empathize with their experiences in the tech industry. How many tech employees have actually worked closely enough with a Black woman to begin to understand her experiences?
+As individuals we are torn. We see a hierarchy of privilege and exclusions that makes us want to talk about inclusion holistically, especially when talking about diversity and inclusion today often means ignoring race. But even talking about holistic inclusion has often meant erasure, ignoring the specifics of historical and current experiences of racism and combined racism and sexism. We have also noticed that today’s so-called holistic inclusion is limiting in other ways. In most conferences, where there are Black men on panels, there are no Black women, and in most conferences where there are Black women on panels, there are no Asian-American or Latinx women.
+Right now, despite all the opportunities and hundreds of thousands of open jobs, tech is not making room for everyone, and until that happens the environment will be toxic. We are working on patching a system that is fundamentally broken. It is not designed to add other groups, much less multiple groups. This zero-sum system causes many of us to focus on making incremental room for others instead of rebuilding systems from the ground up.
+Ultimately, we are distracted by fighting for scraps from the table instead of fixing the greater problem.
+How do we fix it? 
+We’re stuck at an impasse today. Most people agree that tech is woefully unrepresentative and that we have a problem. Most people have figured out that the problem comes as much from bias as a “pipeline” or supply problem. But even they have not committed to or been able to build long-term, comprehensive solutions.
+We hear pushback from VCs, CEOs, founders and engineers. They focus on donating money to pipeline efforts or adding a woman or two to the executive team, sponsoring a women’s conference, having a diversity training session, or even hiring someone for diversity and inclusion.
+They wonder why we’re continuing to spend so much time on these issues, but they are afraid to start a conversation. They complain about not being able to speak freely and about needing a safe space for expressing their views. It’s ironic coming from the majority that has disproportionate control of conversations, money, people, and power. Given their lack of racial and gender diversity, isn’t Sand Hill Road a “safe place” to have these discussions amongst a homogeneous group? Or the boards of most startups? Or the leadership teams?
+Anyone who is an “only” on a team, in management, on a board, in a meeting has felt similarly afraid to speak freely. She often feels she has no choice but to check herself at the door everyday, bite her tongue about which battles to pick, decide when to point out that something racist or sexist or homophobic has just been said or just be silent and hate herself for her silence.
+We have some hard questions for those of you who have been in the driver’s seat: 
+Can you use your discomfort talking about diversity (and the lack of diversity) to feel empathy to people who are underrepresented and the discomfort they experience? Can you stop talking about your discomfort or making excuses for the status quo, and just listen?
+For VCs: 
+Would the demographics in tech be dramatically different if you chose to pattern match beyond young, white men as partners, co-investors, board members, founders, executives, and mentees? How is it that 76% of the top performers in your firm are women yet you can’t make room for a single general partner who is a woman, much less a woman of color?[7] How can it be that bringing in women means “lowering the bar”?[8] What does that mean for Black women? How can you still claim that today’s tech industry is a “meritocracy”?[9] How can anyone believe any of this much less say it publicly to justify your commitment to the status quo?[10]
+Board members should consider their responsibilities to diversity and inclusion as well. 
+How many years in a row can you hear and approve companies saying about their diversity numbers, “It’s hard and we’re working on it?” Why are you comfortable with a gender-only focus on diversity, pay parity, and mentorship — shouldn’t everyone be paid fairly? Why do so many of you ignore the data and continue to think racial and gender diversity on boards does not make a difference? How is the board measuring diversity and the impact of diversity efforts — or is it?
+Even those who are pushing hard for diversity should take a moment to reflect. 
+Whether it’s Sheryl Sandberg or white male tech leaders, why is the dominant narrative, “If I haven’t experienced it, it doesn’t exist?” For Airbnb, if you had a racially diverse set of investors, founders and executives, would your platform have been designed differently to discourage racial bias against guests?
+The system is broken, and it’s going to take a lot more to fix it than acknowledging the problem and making excuses. Going forward, we will challenge the exclusion of race in diversity efforts. Our response to companies and folks who are only interested in gender will be, “while we think your intentions and efforts are worth learning about, we are well aware that a focus just on gender ends up focusing on privileged women and thereby setting back the cause of true inclusion.”
+It’s time to ask and answer the hard questions.
+Erica Joy Baker
+,
+ bethanye McKinney Blount
+,
+ Tracy Chou
+,
+ Laura I. Gómez
+,
+Y-Vonne Hutchinson
+,
+ Freada Kapor Klein
+,
+ Ellen Pao
+, and
+ Susan Wu
+Resources
+: Many Black women have written about their experiences. Rather than speak for them, we encourage you to read and learn from their first-hand accounts:
+The Reason Why there’s no Diversity in Tech
+How The Rhetoric of Imposter Syndrome Is Used to Gaslight Women in Tech
+Not a Black Chair
+The Other Side of Diversity
+#FFFFFF Diversity
+_________________
+[1] Gee, B., Peck, D., and Wong, J. (May 2015). “Hidden in Plain Sight: Asian American Leaders in Silicon Valley.” Ascend Pan-Asian Leaders. Retrieved April 2016 from
+ http://c.ymcdn.com/sites/ascendleadership.site-ym.com/resource/resmgr/Research/HiddenInPlainSight_Paper_042.pdf
+.
+[2] (March 2016). “Barriers and Bias: The Status of Women in Leadership.” Washington, DC: AAUW. Retrieved April 2016 from
+ http://www.aauw.org/aauw_check/pdf_download/show_pdf.php?file=barriers-and-bias
+.
+[3] O’Brien, S.A. (February 2016). “Only 88 Startups Are Run by Black Women.” CNNMoney. Retrieved May 2016 from 
+http://money.cnn.com/2016/02/17/technology/black-women-tech-startups-project-diane/
+.
+The complete research report is available through 
+Project Diane
+.
+[4] Black women tend to view working as part of being a good mother, and they often have support, including childcare, from family and relatives. As a result they experience work-life as less of a conflict than other women.
+Dow, D. (October 2011), “Black Moms and ‘White Motherhood Society’: African American Middle-Class Mothers’ Perspectives on Work, Family and Identity.” UC Berkeley: Institute for the Study of Social Change. Retrieved May 2016 from
+ http://escholarship.org/uc/item/6kr3v4pz
+.
+[5] Scott, A. and Martin, A.(May 2014). “Perceived Barriers and Endorsement of Stereotypes Among Adolescent Girls of Color in STEM.” Level Playing Field Institute. Retrieved May 2016 from
+ http://www.lpfi.org/perceived-barriers-and-endorsement-of-stereotypes-among-adolescent-girls-of-color-in-stem/
+.
+[6] A study of those who sit on corporate boards of directors reported that only 42% of women directors think “ethnic diversity” on the board is important. (As troubling as that finding is, only 24% of the men in the survey thought board “ethnic diversity” was important.)
+(May 2015), “2014 Annual Corporate Directors Survey — The Gender Edition.” Price Waterhouse Cooper. Retrieved May 2016 from
+ https://www.pwc.com/us/en/corporate-governance/publications/assets/pwc-acds-2014-the-gender-edition.pdf
+.
+[7] 
+http://www.latimes.com/business/technology/la-fi-tn-ben-horowitz-miliken-20150428-story.html
+[8] 
+http://www.usatoday.com/story/tech/2015/12/03/michael-moritz-sequoia-capital-women-diversity-silicon-valley/76736642/
+[9] Merchant, N. (September 2013), “The One Thing VCs Could Do Immediately To Increase Returns.” Harvard Business Review. Retrieved May 2016 from 
+https://hbr.org/2013/09/the-one-thing-vcs-could-do-immediately-to-increase-returns/
+[10] 
+https://medium.com/life-tips/what-you-re-really-saying-when-you-talk-about-lowering-the-bar-in-hiring-a30d9b12430f#.jylbjkrjn

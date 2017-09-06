@@ -1,0 +1,29 @@
+Kima Status: know where you are in the fundraising process, in real-time
+A few months ago, 
+@chrija
+ 
+polled founders
+ to find out what they considered to be the worst part of raising venture capital funding. The factor that ranked the worst (4.06 on a scale of 5) was “Not knowing where I am in the process”.
+At 
+Kima
+ we try to make quick decisions and to always explain our process and the next steps when we meet a company. But, since we often look at over a thousand new startups every week, I’ll admit that some end up falling through the cracks and we haven’t always been as clear or quick as we should be.
+The problem has been that, although all the companies are stored in our database and 
+we
+ know where each company sits in our process at any time, we have relied on manually communicating this to founders.
+Other industries have solved this problem with software, so why hasn’t venture capital?
+When someone sends you a package you receive a unique tracking number that you shows you exactly where your package is at any time and when it is expected to be delivered. When a package is out for delivery it can even tell you where the driver is currently on their route and where your delivery fits in. Even Domino’s allows you to track your pizza order through preparation, baking and delivery; all for a process that should only take 30 minutes.
+Introducing Kima Status
+From today, when a company submits their business to us via the 
+application form on our website
+ (we plan to later roll this out to email introductions too) they will be emailed a unique tracking number that they can use at any time to see where they currently sit in our evaluation pipeline using 
+Kima Status
+.
+Using this tracking number, they’ll know which step of the process the company is in, how long the business has been in that step and which member of our team has been assigned to evaluate the company further.
+We’ve also included public information on the number of new companies we’ve reviewed in the last week and the number of companies that currently sit at each step of our process. We’ll post aggregate numbers publicly but all individual data is private and companies can also opt-out of the tracking code by letting us know.
+In the future, we’ll be able to provide more information such as the average time companies spend in each step of the process and what percentage of the funnel moves from one step to the next, bringing more transparency to the process.
+You can see a demo status here: 
+https://status.kimaventures.com/#37TDWS
+Any questions or feedback let us know!
+Thanks to 
+@ale6_
+ for his work building Status.

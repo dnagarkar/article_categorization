@@ -1,0 +1,46 @@
+The Utopian UI Architect
+An ex-Apple interface designer’s 40-year plan to redesign not just the way we use computers, but the way we think with themWhen Bret Victor came in for his first day of work as a 
+“Human Interface Inventor” at Apple
+, he found an iPad sitting on his desk. It was August of 2007. The original iPhone was only a couple months old. iPods still generated a third of the company’s revenue. The App Store didn’t exist.
+“I said, ‘What is this?’ and they said, ‘We don’t know yet,’” Victor recalls. “It was an early prototype of the hardware. Maybe twenty other people in the world knew about it. Nobody had answers. My job was to try to figure it out.”
+Victor spent the next two months making “an app every week, explor[ing] new UI ideas” as part of a three-person “internal R&D prototyping group” that Apple had assembled. Soon, Victor says, the iPad became “a real project” and his group was reassigned to tinker with other experimental hardware. “Everyone [at Apple] was focused on the next product release, what needed to happen six months from now,” he says. “We were the ones looking at what could happen five or ten years from now.”Seven years later, in 2014, Bret Victor is still looking at “what could happen” to human-computer interaction in the near future. He’s still part of a close-knit internal prototyping lab (the 
+Communications Design Group
+) bankrolled by a huge tech corporation (
+SAP
+). But instead of designing interfaces and exploring use cases for tomorrow’s glass-screened gadgets, Victor’s “forty-years-out vision” concerns nothing less than redesigning computing itself — not as a product or service, but “as a medium of thought.”
+Victor doesn’t have a string of high-profile startups or software launches to back up his big talk. His most visible standalone app is an OS X Dashboard widget (remember those?) for 
+planning trips on San Francisco’s BART rail system
+; he also designed interactive infographics for Al Gore’s 
+“Our Choice”
+ iPad app and “invented features for Mac OS X Lion” during his stint at Apple. “I spent fifteen years making things that millions of people used,” he says, “and I was ready for something else.”
+What Victor 
+does 
+have are several years’ worth of surprisingly persuasive research projects in the form of software demonstrations, interactive essays, and live talks. He sees himself less as a designer/developer/engineer than as a researcher of computer-augmented creativity, much like his mentor 
+Alan Kay
+ (who pioneered graphical user interfaces and object-oriented programming) and his hero 
+Douglas Engelbart
+ (of 
+“The Mother of All Demos
+” fame).
+In other words, Victor practices what he preaches: he doesn’t use computers to build better mousetraps, but to explore and communicate ideas in a way that uniquely exploits the properties and possibilities of a programmable, dynamic, interactive medium.
+Unsurprisingly, the ideas tend to be about those selfsame properties and possibilities: 
+What if 
+doing calculus were like using AfterEffects?
+ What if 
+learning to code felt more like doodling than writing?
+ What if 
+“knowledge work” was something that engaged your whole body in a room, not just your eyes and fingertips on a screen?When Victor designs a software interface, he doesn’t do it to deliver functionality — he does it to advance an argument, in much the same way that 20th-century 
+utopian architectural designs
+ were never really intended as functional building plans. Victor’s UI demos are primarily manifestos on the sorry state of computer-assisted thought, framed with the same fire-eyed rhetoric of any Italian Futurist.
+A talk entitled 
+“Media for Thinking the Unthinkable”
+ sounds like an interaction-design equivalent of Lovecraft’s 
+At the Mountains of Madness
+; it’s actually a sober and rather technical demonstration of Victor’s various UI schemes for visualizing scientific models and engineering systems. And in the introduction to his 
+“Kill Math”
+ project — actually a quite benign, if broadly ambitious, attempt to reimagine mathematical notation in more intuitive and visual terms — Victor declares that “the power to understand and predict the quantities of the world should not be restricted to those with a freakish knack for manipulating abstract symbols.”
+These projects, Victor says, are just “nibbles around the edges” of his larger obsession: how the media in which we choose to represent our ideas shape (and too often, limit) what ideas we can have. “We have these things called computers, and we’re basically just using them as really fast paper emulators,” he says. “With the invention of the printing press, we invented a form of knowledge work which meant sitting at a desk, staring at little tiny rectangles and moving your hand a little bit. It used to be those tiny rectangles were papers or books and you’re moving your hand with a pen.
+Now we’re staring at computer screens and moving our hands on a keyboard, but it’s basically the same thing. We’re computer users thinking paper thoughts.”So what would “post-paper” thoughts look like? Victor admits he has no idea. He just has a conviction about the medium that will enable them. “The important thing isn’t thinking about computers or programming as they are today, but thinking about moving from a static medium like marks on paper to a dynamic medium with computational responsiveness infused into it, that can actually participate in the thinking process,” he says.
+To Victor, whether the UI of the future relies on interactive screens and graphics, data mapped onto tangible objects and materials, or something in between, is beside the point. “One of the big barriers with computers today is certainly the physical interface, but this isn’t a technology problem,” he says. “The bigger part of it is just in finding the right ways of thinking, finding the right representations of abstractions, so people can think thoughts that they couldn’t think before.
+“The example I like to give is back in the days of Roman numerals, basic multiplication was considered this incredibly technical concept that only official mathematicians could handle,” he continues. “But then once Arabic numerals came around, you could actually do arithmetic on paper, and we found that 7-year-olds can understand multiplication. It’s not that multiplication itself was difficult. It was just that the representation of numbers — the interface — was wrong.”
+All photos by Stephen Lam/Re:form

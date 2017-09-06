@@ -1,0 +1,39 @@
+Hiring a Junior vs. Senior User Experience Designer
+This post is for hiring managers and recruiters and new UX Designers that are entering the working world.As I prepare for the end of my two-year-plus run of teaching the founding 
+LA UXDI course at General Assembly (GA)
+, I feel it’s time for me to finally post my opinion regarding the differences between a Junior and a Senior UX Designer. 
+Please note, my opinion is biased.
+ My opinion is based on working with adult professionals that have taken a 10-week immersive program to transition into the role of a Junior UX Designer upon graduation.
+Hiring a Senior UX designer will most likely give you someone that has learned from some years of experience and can add value early on in the conception of design solutions. But I can say the same for a Junior UX designer that understands the UX Design processes and strategies, especially if they know when and how to use them.
+I also believe that the current demand for Sr. UX Designers exceeds the actual available pool of candidates. Sure, everyone would prefer a Senior designer, but that may not be feasible due to a variety of reasons:
+The rapid need for Senior UX Designers exceeds the actual talent pool. There simply haven’t been enough people trained with enough time/experience in the workplace. Give it 2 more years.
+Budget. I work in a land of start ups on tight budgets. To hire a Senior UX Designer costs considerably more than a Junior Designer. Hiring a well-trained Jr. UX Designer can be well worth your money.
+Here are the main differences that come to mind when talking about Jr vs. Sr. User Experience Designers:
+Junior UX Designers:
+ Students leaving a reputable UX Design training have learned the theories and have practiced the fundamental tools in a UX Designer’s tool belt. They should leave any course being well-rounded UX generalists with the ability to jump in and tackle product design at any stage of the product life-cycle.
+Senior (more years of experience) UX Designers:
+ There are a large number of people, that, in order to find employment, have put the letters “UX” next to their title. I don’t blame them; it’s a good strategy in a market that is now looking for UX Designers. However, they may often lack the full knowledge of a well-trained UX designer. 
+[This part of my post may be controversial, but I’ve seen it time and again, where someone puts UX next to their name (usually coming from a visual design background) yet they have 
+never done such basic things such as created a persona, done contextual inquiry or performed user testing
+. I believe this confuses hiring managers and recruiters as to the actual role of a UX Designer, but that’s a topic for another post.]
+ That being said, I personally came from a “Graphic Design and Web Design” background and evolved into “UI Design” and then, finally into “UX Design”. In my career, I learned UX as a survival skill; UX cuts opinion out of the design direction and bases design solutions on research based data. I’m sure this is true for many current UX Designers.
+“I’m looking for someone with more experience,” said most every hiring manager or recruiter.
+Junior UX Designers: 
+These designers may not have years of experience as UX Designers, but that could be a good thing. They have not been told “no” so many times in a corporate environment. Not yet jaded, new designers might be more apt to think outside the box and take risks which could lead to great user experiences. For example, they have not been told “no” to taking the time to do the proper research and user testing. Because of this, they are bright-eyed and passionate. Ready to hit the ground running to make the best product ever! Also, many of my students have a vast education, work and life history that has lead them to UX Design. Their life experience prior to becoming UX Designers is often a great resource for their design thinking abilities and helps inform their critical thinking and product design strategy.
+Senior (more years of experience) UX Designers: 
+These designers may find themselves more jaded when it comes to implementing proper research and testing. They’ve probably been told “no” so many times based on timeline and budget. There can be a tendency to go with the flow, keep your job and don’t rock the boat, even though the product suffers. Advocating for incorporating UX Design into an old workflow can be hard and scary. 
+(This mentality that UX Design may “take too much time” inside companies is hopefully changing as the benefits of UX become more widely known and appreciated.)
+Don’t get me wrong, senior designers have wisdom of experience from and have been building a store house of heuristics that speed design evaluation and production.
+Where a Junior and Senior UX Designer are the same:
+Conducts necessary research.
+Keeps the business goals and user needs at the center of design decisions.
+Tests with target demographic. 
+(A Senior designer knows that the actual user is the best place to find out how to make the best design solution. But so does a Junior designer.)
+Iterates based on data from testing, thereby reducing avoidable development rework and saving the stakeholder’s money.
+Collaborates and communicates well with the team and beyond.
+I believe so deeply in the skill and aptitude of these well-trained, new-on-the-scene, UX Designers, that I have created an agency in hopes of offering these grads a work place for them to gain more experience and confidence. They know what tools and strategies to use and when. I’ve seen what they can do. It’s amazing and I look forward to working with them again!Thank you for reading!
+If you liked this article, please like and share!
+Please also read and share this followup article about 
+“How to hire a UX Designer”
+.
+PS I receive no remuneration when my students get hired. My opinion is also separate from and not endorsed by any educational institution, however it is based on my experience from years of educating and free, weekly mentorship for emerging designers. (I have taught UX Design since 2014 and I serve on the Board of Advisors for Santa Monica College’s IxD program.)

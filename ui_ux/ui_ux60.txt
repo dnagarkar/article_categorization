@@ -1,0 +1,131 @@
+Animation Principles in UI Design: Understanding Easing
+An in-depth look into Ease-in and Ease-out
+What do you think these balls are doing?
+The green ball is obviously bouncing, but what’s the red ball doing? Sure, it’s moving up and down like the green ball. It’s taking the same time as the green ball to go down and come back up. Yet, the red ball feels robotic, while the green ball feels like it’s actually bouncing. Why do we feel this difference?
+The answer is easing.
+Well, this article is about easing, so that’s 
+obviously 
+the answer, but to understand what’s really going on here, we need to look deeper into the fundamentals of animation. We’ll take this step by step — we’ll learn the underlying concepts, explore ease-in and ease-out, break down easing curves and finally see how it all applies to UI Design.
+Timing and Spacing
+There are two important concepts we need to understand before we look at anything else — timing and spacing. These two go hand in hand and are pretty much inseparable. They are also crucial to make your animation readable.
+NOTE
+: "Readable" is how animators define clarity in animation — how clear and easy it is to understand what’s happening. 
+E.g.:
+That doesn’t read = It’s not clear what’s happening 
+That reads very well = It’s super clear. I got it immediately
+Timing
+: In our example, both the balls start at the top at 0sec, reach the ground in 0.5sec and come back up at 1sec. This is the ball’s timing — the time it takes to complete an action. Both the balls have the same timing. But wait… how can they both be a 1 second animation, and yet feel 
+so 
+different?
+Spacing
+: This is the key differentiator that makes the two animations vastly different. Let’s break the first 0.5 seconds of our animation into smaller units of time so we can observe what’s happening more closely. If we mark the spot where each ball will be every 0.1s, here’s what we’ll see.
+Spacing for the red robotic ball and the bouncy green ball
+You see that space between two units of time? That’s the spacing. Easy stuff, right? The time is timing and the space is spacing!
+Now, look at the red ball’s spacing — it’s perfectly even. As every 0.1 second ticks away, it moves by the exact same distance. There is absolutely no variation in its movement. The green ball, however, has different spacing for every 0.1 second. In the first 0.1s, it has very small spacing. As it falls down, the space gets wider and wider, until it finally hits the ground. In fact, it takes the green ball 0.4s to cover the first half of the distance, but just 0.1s to cover the remaining half!
+So, why are we increasing the space this way?
+Observing the real world
+Observe what happens when you bounce a ball. Try it yourself or watch a few reference videos on youtube. Here are a couple of them I found: 
+Bouncing ball with slo-mo
+ and 
+Tennis Ball Bounce
+The Physics behind the bounce
+: The moment the ball is let go, it has a relatively slow speed. As the force of gravity pulls it down, the ball’s speed keeps increasing until it hits the ground at maximum speed. The ground contact forces the ball back up at roughly the same speed. As the ball moves up, two forces are at work — the rebound force that’s pushing it up and the force of gravity that’s trying to pull it down. The rebound force is slowly spent, causing the ball to reduce speed as it rises higher, until finally it reaches the top of its bounce where there’s no more rebound force. It hangs in there for a microsecond before gravity pulls it back down, causing it to accelerate as before.
+There’s a reason I’m describing this in words. We’re trying to break down a natural action into concrete steps so that we can recreate it. 
+A few key things to note:
+When the ball is at the top, it is slow. As it falls, its speed increases.
+While bouncing back up, the ball is fast to start with. It slows as it reaches the top.
+When the ball is moving fast, it covers a lot of distance. As it slows down, the distance it covers is much less.
+That last statement might sound superfluous but here’s what we’re interested in noting — a fast object covers a lot of distance in a single unit of time, while a slow object covers less distance in the 
+same amount of time.
+Applying what we observed
+Let’s apply this concept back to our animation. Look at our spacing diagram again. We have small spacing at the top, gradually increasing space every 0.1s, and finally, the largest spacing at the bottom. This is exactly what we saw in our study above. We’ve basically “copied” this principle over to the green ball, applied the reverse while it’s going back up and voila — a bouncing ball!
+NOTE
+: Don’t be ashamed to “copy” nature as much as you can. Your audience will relate to the animation faster, making it easier for them to read.
+Now that we understand the physics of a bouncing ball, let’s look at the red ball again. It should be clear why the red ball doesn’t feel like it’s bouncing at all. Every 0.1 second, the red ball moves the exact same distance. From our studies, we know a bouncing ball can never move like that. And since, it doesn’t 
+move 
+like a bouncing ball, it doesn’t 
+feel 
+like a bouncing ball.
+So, what moves the same way the red ball is moving with such perfectly timed, precisely spaced movement? Well, mechanical robots, of course! Our red ball is “copying” the spacing of mechanical robots. In other words, since it 
+moves 
+like a robot, it feels mechanical and robotic. It’s really as simple as that!
+Takeaway
+: your audience will unconsciously try to relate your animation to something they already know. If your animation reminds them of the world around them, it will feel natural. If it reminds them of a robot, it will feel robotic. If it doesn’t remind them of anything they know, it’ll look “strange”.Ease-in and Ease-out
+You now know why we put uneven spacing in the bouncing ball. The technical term for this uneven spacing is easing. Depending on whether you have it at the start of your action or the end, it’s called ease-in or ease-out.
+Ease-in 
+: when the ball starts out slow and builds up speed, it’s called ease-in
+Ease-in: start slow and accelerate
+Ease-out
+ : when the ball starts out fast and gradually reduces speed, it’s called ease-out
+Ease-out: start fast and decelerate
+We’ve looked at a 
+lot 
+of theory to understand this one-line definition of easing!
+CAUTION
+: There’s a potential for confusion in this terminology. If you read a traditional animation book such as Disney’s The Illusion of Life or The Animator’s Survival Kit, they’ll tell you that, when an object starts slow and then picks up speed, it’s called ease-out, as it is “easing out” of its pose. But, in the software industry (CSS animation, Adobe Edge, etc), this is called ease-in! I’m not sure how this difference came to be, but unfortunately, that’s how it is. So, if you read an article and they’re calling an ease-in as ease-out, don’t get too confused. Just take a quick look at what website you’re on :D.
+Reading the easing curves
+You’ll notice that when you open your software package, the easing functions won’t show you a linear gradation like the diagrams above. Instead, you’ll get a curve like this:
+Icon for ease-in transition in most software products
+So, how does this curve relate to everything we talked about till now? Let’s plot our values on a graph and see what we end up with. Just basic math — something we (were supposed to) have done in school :).
+Here’s our graph sheet — we’re going to plot time along the horizontal x-axis and the ball’s y position along the vertical y-axis. For convenience, we’ve chosen 4 units of the x-axis to represent 0.1 second, and 1 unit of the y-axis to represent 10 pixels of the ball’s vertical movement.
+I measured the red ball’s movement and recorded its y-position at each 0.1 second. Here are the recorded values:
+Time   Y-Position
+(sec): (pixels)
+----------------
+0.0  :   0
+0.1  :  34
+0.2  :  68
+0.3  : 102
+0.4  : 136
+0.5  : 170
+Notice that for every 0.1 seconds, the red ball moves by exactly 34 pixels. If we plot that on our graph and connect the marked points, we get a straight line. Incidentally, this is the icon you’ll see in most software for a linear transition.
+Plotting the red ball on a graph
+Now, let’s do the same for the green ball. The values I got were:
+Time   Y-Position
+(sec): (pixels)
+----------------
+0.0  :   0 
+0.1  :   2
+0.2  :  10
+0.3  :  36 
+0.4  :  87
+0.5  : 170 
+The amount of change in the ball’s vertical position varies for each 0.1 second. It starts out with a very small change (just 2 pixels) and slowly ramps up. In the final 0.1 second, it increases by a massive 83 pixels. Plotting these points on the graph gives us this curve.
+Plotting the green ball on a graph
+Does that look familiar now? This is why the icons are the way they are. They represent the rate of change, or spacing as we now know it.
+NOTE
+: You’ll see more easing options in your software such as quadratic, cubic, quartic, etc. They're just higher easing, but the concept is the same. Just remember — the higher the easing, the 
+more
+ easing you get.
+Easing applied to UI Design
+Finally! Let’s see how this is applied to UI Design.
+There are no rules. Only tools
+- Glenn Vilppu
+I hesitate to suggest any 
+rules 
+for applying ease-ins and ease-outs in your apps. However, I can provide some common examples of how it’s being used in modern apps.
+The most common usage you’ll see in mobile apps is the menu slide. If the app did 
+not
+ use any easing, here’s what it would look like:
+Boring menu without easing
+A little boring, isn’t it? Let’s apply easing and see what happens.
+Menu, sprinkled with easing magic
+Ah! Much better. We’ve applied ease-in while the screen slides out and ease-out as it slides back in.
+But, why can’t we apply ease-out while sliding out?
+Well, technically, you 
+can
+, but here’s what’s happening: The user is clicking a button to make a stationary screen move away.
+An object starting from rest can not immediately reach its top speed. It needs to build up speed. Think of a car — when you start your car, it doesn’t instantly reach 100km/h. It gradually accelerates until it reaches cruising speed. We’re mimicking this to make our screen’s movement feel realistic. So, we’re starting slow and gradually building up speed. Doesn’t that sound 
+exactly 
+like ease-in? This is why our screen has ease-in while sliding out.
+While sliding back in, our screen is like a car that is braking to come to a halt. It starts fast and is reducing speed to stop — which is an ease-out.
+So, if you’re having trouble figuring out how you should animate a particular element, try to relate it to a physical behavior. It’ll immediately become clear how you should animate your UI element.
+Update: I’ve received some feedback on using Ease-out for the menu sliding out, or EaseInOut for providing a start and stop feel.
+Look around other apps you use and you’ll be surprised how often easing is applied. Other than menus, they’re used to swap screens, bring out an email attachment, display action sheets and a whole lot more. On iPhone, you can see it while unlocking the screen, opening/closing an app, sliding notifications … pretty much all over. Notice how these actions feel ‘natural’ as you navigate your phone.
+And now that you know 
+why 
+it feels natural, try and capture the same feel in your apps! I’m excited to see how you use these concepts in your designs.
+I hope this article has helped you understand easing functions better. It turned out to be a 
+tiiiiny
+ bit longer than I originally intended :). I’d love to hear your comments — add them on here, or ping me 
+@SureshVSelvaraj

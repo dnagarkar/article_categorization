@@ -1,0 +1,59 @@
+Startup life: Hiring PMsOver 10 years ago, I stumbled into a job at Google as an APM. I was 22 years old with a computer engineering degree. I was taught to write code and build circuits . In all honesty, I was a great student but just a decent engineer (maybe a little sloppy). I had no idea what being a product manager meant. I mean after all, it’s not a job like being an engineer or a doctor or a lawyer where you go to school for years, then apprentice for years, to make sure you’re ready for the job and its responsibilities.
+Let me be clear how unprepared I was:
+Never taken any type of design course
+My internships were all in government research labs
+Never built anything that was used by more than 100 people (to be generous)
+At Google, I was lucky to have great mentors on the management side like Sundar Pichai, Marissa Mayer, and work with great designers like Zhanna Shamis and Cole Jitkoff. They taught how to do the job as I stumbled along. Today I regularly get the questions from people in the tech business (startup founders, engineering managers, designers) about what the hell a PM does and how to find a good one. It is a job with an incredible amount of ambiguity around the requirements and the people doing the job don’t necessarily follow a simple template. I did a 
+talk with Axiom Zen
+ about this very topic. I thought I would condense the talk into this post and hope it starts a healthy discussion.
+What is the job?
+If I had to give the 10 second explanation of a product manager at any level, it is to
+ make the product successful whatever it takes
+. Breaking down the job a bit further, there are 3 primary responsibilities for a product manager (if they are don’t manage people).
+Execution
+: they’re responsible for
+ getting stuff done
+ and removing blockers along the way.
+Product vision
+: make sure the team is 
+building the right thing at the right time
+. 
+This means identify the right problem to solve, the right way to measure the success, and help set a quality/taste bar for the product.
+Leadership/Communication
+: this is a job where for the most part they’re 
+managing without explicit authority.
+ This means that a key part to success is someone who knows how to influence a large diverse group of people and 
+someone people want to believe in
+.
+No one is equally good at all these things
+.
+In my 10 years as a PM and manager of PMs, I haven’t met a single person who didn’t have a clear area of strength. This means that when you’re hiring PMs, you want to be thoughtful about what the product team is lacking and what strength you want to optimize for. That includes taking into account what you’re lacking (as the manager).
+Some general advice on hiring PMs before we get into specific types of PMs.
+Hire someone who can learn fast
+. No matter what, the key to a successful PM is being able to learn and become enough of an expert in an area quickly.
+Hire someone with taste
+. There are a million little decision made along the way to build a product, you want to trust the PM to make the right decisions.
+Hire someone you want to be stuck at an airport with
+. That’s what the month before launch feel like.
+How to hire?
+I have some
+ 
+archetypes for PMs
+ that I use as a framework for hiring, but one of the things I’ve realized working at small startup for ~8 months is that hiring is a zero sum game. Getting it wrong is very costly.
+Here are some additional tips I would give startup founders of heads of products who are hiring PMs.
+Hire for humbleness and a great work ethnic
+. This seems obvious but is a tough one to interview for. People who are humble and will do whatever unsexy work is needed to get the product in a good state are often not the greatest at interviews.
+So get deeper in your interviews, understand what the candidate thinks the day to day is and make sure it includes all the important organizational tasks like bug triaging and testing/using the product.
+Make the reverse sell, tell them how hard the problem and road ahead is and how much hard work is needed. See how they react.
+Watch out for people who has jumped from startup to startup and never gotten any depth. There may be a good reason but it’s a red flag for me.
+Optimize for someone who’s ready to do the job now
+. As a former APM I am a big believer in fresh blood and young talent. However, in a fast paced startup struggling for product/market fit, your first couple of product hires need to be people who are ready now. You want to be giving guidance on how to think more strategically or creatively about a problem. You want people you can give big, hard, ambiguous problems to and watch them attack it with confidence. With a junior PM you’re going to be spending time on how to run effective meetings, how to organize/prioritize projects, how to gain consensus in a cross functional setting, and all the other PM basics before they’re effective. While it may be worth it in the longterm, I recommend doing that when you have a good foundation for both your product and your PM team.
+Mission alignment is required at a startup.
+ Obviously you want to hire people who are really excited about your company’s mission and culture. But we have to acknowledge that are lots of reasons join startups.
+Dig deeper than the typical questions of why do you want to join this company? Ask them about what they love to do outside of work or what they’re looking to learn.
+Avoid the candidate who talk about being interested in a space because it’s obviously growing or who is running away from something at their current job.
+At Athos I always ask PM candidates about what they do for workouts. I want to see their eyes light up and for them to ramble on about how awesome yoga/biking/crossfit/pilates/etc is. That’s both the intuition and motivation that fuels the team to build great products and get the details right when things are tough.
+P.S. We are hiring for 
+a great frontend developer
+ 
+if you want to join us at Athos in helping every athlete achieve their goals.

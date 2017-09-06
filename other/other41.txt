@@ -1,0 +1,69 @@
+IoT: The Internet of (Every)thing?
+Gone are the days when I had to get up out of my bed to turn the lights on. Now every morning my lights slowly turn on automatically without lifting a finger. My Google Home’s alarm starts to sound in the corner of the room and somehow every morning I manage to mutter 
+“Ok Google, stop the alarm”
+. The Google Home stops, I greet it with 
+“Hey Google, Good Morning” 
+and it then starts to mutter away with the events in my calendar, the weather, my commute to work and the latest news. I get ready whilst it is automatically playing music it knows I would like (it hardly gets this wrong).
+A Google Home Device — a voice activated smart speaker
+I love the Internet of Things. I’ll admit, it can be pretty frustrating at times (see 
+this
+ twitter account for some 
+interesting
+ examples) but for the most part, I can’t wait to have the ability to connect more things to the Internet. Next on my wishlist is an internet connected teapot.
+With all these new ways to connect devices, there are so many new companies forming and a lot of potential to create new IoT products, especially in South Africa. Each market has its own unique challenges and opportunities. If you own a business, it is worth thinking about the different ways in which you can digitally transform your business using the Internet of Things. Some questions you might want to ask yourself include:
+How can I change the way my clients use my product?
+What kind of IoT device will provide our customers with more value?
+Whilst there are so many ideas for connected products, there are a few questions you should ask yourself before releasing your product to the public.Feasibility of the IoT product
+When designing a product that will be connected to the Internet there are many questions you should be asking yourself. The first and most important question is:
+How useful will this product be in comparison to conventional products in this space?
+For instance, I own some Philips Hue light bulbs. They function as normal light bulbs when you turn the light switch on and off but they are 
+so much more useful
+ when they are connected to the Internet. I’ve set them up to automatically turn on and off at certain times and I can ask my Google Home to turn them off if I can’t reach the light switch. These additional features make the light bulbs 
+way more useful.
+If the product is more difficult to use than the “
+unconnected
+” equivalent, the product will not be successful. If I had to reconfigure my light bulbs every single time the power went off, I would not use them. I would go back to using a standard light bulb that is more reliable and less frustrating.
+Is this product compelling to purchase?
+Consumers need to be sure they are purchasing something that adds value to their life. The product offering, especially if it is hardware, 
+has
+ to add value to their lives. Make sure your product adds significant value, otherwise consumers wont feel the need to purchase it.
+How will we get our hardware device into production?
+Another thing you should be asking yourself when designing a product is hardware support. If you are a software engineer, developing a hardware solution can be a tricky thing to get right. For instance, you can’t easily deploy a “bug” fix to hardware. 
+Here
+ is a great video from Google I/O describing how you can go from a prototype idea to production using the Android Things platform. The information in the video gives insight into hardware manufacturing if you have never done it before.Security of your IoT product
+A big aspect to the Internet of Things is ensuring your product is secure. There have been countless cases where security has been compromised on devices that are connected to the Internet. So the questions you should ask are:
+How can we make sure our communications are secure and only the correct people have access to their devices?
+How can we ensure the devices receive security updates regularly?
+These are very important considerations when dealing with the Internet of Things. The last thing I want is having someone taking control of my house due to the lack of security on my device. Make sure you are doing your due diligence with regard to keeping your software up-to-date and fixing security issues. Consider using platforms that can automatically manage security updates such as the 
+Android Things
+ platform and watching this presentation from Google I/O 2017- 
+“Security for IoT on Android Things”
+.
+NXP i.MX7D Development Board with a few attachments (camera, touch screen etc) running Android Things.Privacy concerns
+The thought of having my house know 
+everything
+ about me is pretty terrifying. I’m not sure I would actually want the Internet to know everything about my house. For example, I’m not comfortable having my fridge know exactly how many slices of cake I’ve eaten in a day. I suspect I’m not the only one with these types of concerns. The typical questions you should ask yourself about privacy include:
+How much information do people actually want to share?
+Where will the device’s information be stored?
+How can we allow users to customise the behaviour of the device?
+For instance, most of the voice-activated speakers out there offer you the ability to turn the microphone off if you want to, because ultimately the device is listening to everything you say.
+You should consider the privacy concerns some users might have with your product.Stability of your IoT product
+Stability of your product is of utmost importance, especially in South Africa which suffers from regular power outages. With this in mind, one important thing that should be considered when making a device that connects to the Internet is to ensure it works offline as well. If I don’t have an internet connection on my internet-connected lock, will I be locked out of my own house until the Internet returns? I surely hope not. 😵
+How will your product function in situations where there is no internet or power?
+This is another example where the Philips Hue lights have it figured out. When I have no internet connection, I can still use the light switch to turn the lights on and off. This IoT light bulb also functions as a normal light bulb, not an inferior form of a light bulb.
+It is very important to make your software and hardware reliable in all the different situations that it could be used in. Make sure it has gone through rigorous testing to ensure the quality of the product is good. Consider offering certain customers beta access to your product in return for feedback.Integration with other services
+Another critical consideration that should be made when dealing with internet connected products is the ability to connect the device to other services.
+How can we integrate with other services to ensure the ease of use of our product?
+Most people access their devices using a central service. For instance, the Google Assistant has access to all my devices in my home. This means that I can control everything using the Google Assistant. Consumers want the ability to control their devices in one place with their favourite service, be it through the 
+Google Assistant
+, Alexa (
+Amazon Echo
+), 
+IFTTT
+ or Siri (
+Apple HomePod
+). When developing your IoT device, you should include as many integrations as possible so that you can target as many users as possible.In Summary
+With all these questions and topics in mind, you should be able to make more informed decisions when trying to creating your own IoT product. Being able to answer these questions upfront will allow you to make good decisions regarding your product idea. Providing useful internet-connected products to your clients is a great way to digitally transform your business. It is important to ensure that your product idea is useful, secure, stable, respects privacy and integrates with other services for it to be a success.
+Have something to add? Let me know on 
+Twitter
+.

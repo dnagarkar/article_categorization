@@ -1,0 +1,128 @@
+UX is UI
+A meme can travel halfway around the world while nuance is putting on its shoes.
+Ideas bounce around the Twitters, endorsed and adopted wholeheartedly through fear, surprise, or a fanatical dedication to the church of UX. Mobile-first, responsive over m-dot, prototypes over wireframes. These truths we hold to be self-evident. Complex and contextual ideas, reduced to tweetable dogma.
+‘Design vs User Experience’ (Vinnie Quinn) via shittyuiuxanalogies.tumblr.com
+So too the images which attempt to explain User Experience. The notorious Design vs User Experience ‘paths’ image has become retweet gold, passed around without context, comment, nor attribution. Such things may appear neat analogies at first glance. They don’t hold up to scrutiny.
+I know we mean well. But by the time the meme has been circulated third-hand by the shiny-faced marketing managers of LinkedIn, we’ve succeeded only in propagating a skewed and oversimplified view of our craft. We do ourselves no favours sometimes.
+A curious example underscores a lament I’ve heard more and more this year. 
+UX is not UI.
+‘UX ≠ UI’, UX Movement
+And I wonder: What are we really getting at here? And why are we having to make this clarification now?
+A Process or an Outcome?
+What do we mean when we say 
+user experience
+? Let’s try a textbook answer: The motivations, behaviours, and satisfaction we want to encourage through the design of our products or services? The ‘experience’ we want our user to have?
+Or perhaps when we say we ‘do UX’ we mean that we adopt a user-centered design approach. We’re defining UX as the process itself. That act of creation, informed by field research and validated through usability testing.
+But what is it we’re designing? Let’s come back to that one.
+So what too do we mean by 
+UI
+? User Interface. Commonly understood throughout the history of industrial design to be the means by which a human and a computer system interact. That whole field of study is called Human-
+Computer
+ Interaction.
+The Fisher-Price Activity Center
+From the punched card screenless computers in the 60s, the command line in the 70s, the GUI in the 80s, to the mobile devices and gestural wearables of today. Type and point and click and drag and tap and swipe and wave and twist and shout. Such is our vocabulary to express engagement, joy, or rage against the machine.
+Is that UI design? Building the electronic Fisher-Price Activity Centre by which our user can achieve their goal? And furthermore, if that design process incorporates user feedback throughout, is that effectively UX design too? In stating so emphatically that ‘UX is not UI’ are we merely making the distinction between our process and its output?
+The UX/UI Designer
+Recent job postings appear to follow this reasoning. ‘UX/UI Designer’ they call it. Work quickly, iterate rapidly, design in the browser. Listen between the lines and you can hear it: 
+“Yeah we kind of just want someone to put a nice UI on top, but we’d better have some of that UX stuff too. Research? Sure, you can do research. As long as it doesn’t hold up the developers. Hallway testing is fine though, yeah? Jeez — I’m not paying for it!”
+. Maybe. Or maybe they — understandably — don’t really understand the distinction between user experience design and user interface design either. We haven’t always done a good job of explaining it in a non-hand-wavey way.
+“UX is not UI!” we persist, as we skill up in Axure, Framer, HTML, CSS, and other interface-building tools. And sure, we’re designing the user journey, the information architecture, maybe even the voice and tone of the microcopy, but for the most part all of these things are ultimately manifest in the design of the user interface.
+And that’s a problem. Because UX really isn’t UI. But by being limited, or even limiting ourselves, to such design execution, we’re making it so.
+UX isn’t all empathy and carousels
+In UX there’s no ‘one-size-fits-all’ design pattern for a given situation. Despite what clients ask, there’s no more a ‘best practice from a UX perspective’ than there is a ‘best recipe from a cookery perspective’.
+“Give me six hours to chop down a tree and I’ll spend the first four sharpening the axe.” — 
+Abraham Lincoln
+It’s about research, understanding, and evaluation. Figuring out the right problem to solve, before dipping into our toolbag of methods and patterns to solve it.
+That other definition of UX, the one about the outcome not the process, reminds us that we’re designing for behaviour. For attitude. For usefulness and desirability. In other words, putting something into the world that makes the world a little bit better.
+What have you done today to make you feel proud?
+Because here’s the thing. We’re not making closed software systems. The interaction we’re designing isn’t really between the computer and its operator.
+Explicitly or implicitly, the user interface is the interface between the 
+customer
+ and the 
+business
+.
+So UX design 
+is
+ UI design; we’re building all the enabling means by which the business and customer connect.
+We’re relationship engineers.
+It happens in lots of small ways. Form design; perhaps the most explicit means for the customer to speak to the business. Content prioritisation; where your taxonomy says a lot about what you believe to be true and to be important. Design decisions; especially the careful and deliberate restrictions you impose. Twitter’s 140-character limit. Instagram’s refusal to allow uploads from the computer. Both examples of engineering a specific kind of relationship.
+“Brand is the idea that you stand for, made real by what you do.”
+ — Wally Olins
+These things stem from fundamental brand proposition. For app startups in particular, the product and its customer relationship effectively is the manifestation of the brand.
+So designing a truly effective user experience, a genuinely meaningful experience has to involve designing the proposition itself. UX people are good at that. The process requires us to find the appropriate problems to solve before we leap into solving them.
+Solve the problem
+I love 
+this Medium post from Michal Bohanes
+, founder of 
+Dinnr
+, an ad-hoc same-day ingredient delivery service. Don’t look for Dinnr, it’s not around anymore. The post documents a lot of their issues, but as Michal puts it:
+“This will be the number one lesson I will never forget and the absolute key to understanding Dinnr’s failure —
+ we were not solving anyone’s problem.
+”
+ — Michal Bohanes
+If only he’d had a UX consultant on board. We live and breathe this stuff. Finding problems. Validating hypotheses. Not just making stuff right, but making the right stuff.
+Else you risk designing a beautifully frictionless, delightful experience which doesn’t solve anyone’s problem. Perfectly executing the wrong plan.
+The Shit-flavoured Lollipop Problem
+Remember young grasshopper: If your business model is based on selling shit-flavoured lollipops, the best experience design in the world won’t save you.
+Curiously, the reverse seems to also be true. While working at the BBC I witnessed several interface iterations on 
+BBC iPlayer
+. All fairly different, and many pretty terrible. But one design decision was a constant and persists to this day. Last night’s episode of 
+EastEnders
+ was always available from the homepage. And as long as that was findable and playable, little else about the interface apparently mattered.
+“Value must be greater than pain.”
+ — Scott Jenson
+Scott Jenson puts this wonderfully. We’ll put up with quite an astonishing amount of pain, so long as the payoff is greater still. Amazon’s desktop site will never win a design award, but my goodness you can have anything you can think of in your hands tomorrow, and for a decent price! Talk about user experience. Value must be greater than pain. And by value we mean genuine benefit, not just a pretty experience.
+And yet, that peculiar job role. UX/UI Designer. Make us an interface. Preferably flat design, or material design, or whatever is in vogue this week. Work within the Agile team, under the supervision of the Product Manager.
+Has Product Management assumed the role of defining proposition?
+Ah yes, the Product Manager. Back in the days when new media was new, and the web was all framesets and Under Construction GIFs, the person who didn’t do the front-end designing or the back-end coding was the Producer. Part manager, part IA, part client liaison, all nervous breakdown. A different job every place you went, and reminiscent of Product Management today.
+Product Managers have risen to power in the wake of Lean philosophies and Agile teams, as a kind of linchpin to anchor the product vision amid the iterative course correction. They’ve taken on the big-picture thinking of what a product should be.
+But wait a minute! Didn’t we just say that UX folk are great at figuring out the right problem to solve? Shouldn’t product vision be kinda our bag?
+Yet over the last five years as UX struggled to get that corporate buy-in, the Product Manager was a fait accompli, ushered in by the Cult of Lean. Now we’re in a weird place where companies have both a UX Lead and a Product Manager, with the two butting heads figuring out how best to work together. Because at their core, they should both have the same job to do; not just make stuff right, but make the right stuff.
+‘What a Product Manager Does’ (diagram by Martin Eriksson)
+This is where a PM sits (you see, product management has its memes too!)
+This Venn diagram admittedly gives UX toes in Tech and Business, but the suggestion that UX exists as a distinct discipline is worrisome. Creating a meaningful user experience should be the goal of all teams, not something that’s exclusively the domain of a design silo.
+I’m coming to believe that Product Management and UX leadership are indistinguishable. Right now, PMs may concern themselves more with product-market fit, data science, competitive analysis, loss analysis, and managing business requirements. UX may be more about qualitative study, evaluating prototypes with users, considering not just task completion but satisfaction.
+But really, isn’t it all just one continuum of product design?
+A PM I worked with was fond of saying that she did the ‘what’ and I did the ‘how’. God I hated that. The ‘how’ is an interesting exercise in design efficiency, but the ‘what’ is where it’s at.
+Creating the value, not just easing the pain.
+(Actually, the ‘why’ is where it’s really at, but I’ll leave that to 
+Simon Sinek
+.)
+Stack overflow
+That idea of the UX/UI designer is often conflated with the slightly-awful term ‘full-stack designer’, referring to a technology stack and meaning that the designer is also doing sort-of front-end development.
+That’s great. Designers should code; they need to be adept with the materials and grammar of the medium.
+But maybe it’s time we took another look at the original UX stack?
+‘The Elements of User Experience’, Jesse James Garrett (2000)
+In his book 
+The Elements of User Experience
+,
+ Jesse James Garrett offers a simple stack, with Strategy as its foundation. Product strategy is where it all begins. Everything downstream is just execution.
+You might say that Agile’s reliance on functional increments over holistic design systems has reduced UX to the execution of an often-haphazard UI; designers trying to keep up with a development process seemingly all about diving in head first.
+And that’s probably why we now have the UX/UI Designer. But UX can deliver more value than execution. And so be worth more to your company.
+They pay you what they think you’re worth
+Salary tells you how much a role is valued within a business. And UX roles are pretty well-paid, but right now in the UK there’s a glass ceiling that kicks in at around five years of experience, especially for freelancers.
+Perhaps this is how long it takes to be really good at using interface design tools?
+A popular question I hear at conferences is 
+‘How can I convince the business of the value of UX?’.
+ Designer, heal thyself.
+Ask instead 
+‘How can 
+I make UX valuable
+ to the business?’
+. It’s on you to get better at speaking the language, integrating the processes, and delivering the value that business needs. Yes, our methods are meant to be engaging and human-centered. But lets not spin our wheels being in love with our own process. After you’ve learned how to work the pedals and change the gears, all you care about is where you want to go.
+Jared Spool says that design is 
+the rendering of intent
+. User Experience should be more about the intent than the rendering.
+UX is no more about wireframes or prototypes than accountancy is about spreadsheets. We are business transformation consultants and our one true deliverable is behavioural change.
+Let’s dance
+Worlds are colliding. Roles are splintering and recombining. UX is no longer the name of the design silo, but the common goal of an entire organisation.
+I predict that Product Management and UX design will merge into a common strategic function informed by brand values and company mission, and with iteration focused more on making the right thing, and therefore less on making the thing right.
+We need to dance together. Lift each other higher. Product Managers: You might think you have all the answers with a combination of Google Analytics and your own hubris, and that’s fine if you can afford to be wrong. But please, stop hiring UX Designers to just implement what you’ve already decided.
+UX Designers: If you want to make the world a better place, you have to take a strategic hand in defining 
+what
+ gets put into the world, not just 
+how
+ that thing works.
+Make value greater than pain. Build an experience which interfaces the customer and the business for the benefit of both. Interface is a relationship enabler.
+Design the relationship.
+(This post is adapted from a short talk I gave at the SODA Social meetup in London on May 14th, 2015)

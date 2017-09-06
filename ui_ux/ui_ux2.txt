@@ -1,0 +1,107 @@
+100 Questions Designers Always Ask
+Design smarter by asking the right questions.
+
+Being a designer isn’t just pushing pixels and perfecting gradients. If I’ve learned anything from my agency day job at Innovatemap and my side project UX Power Tools, it’s that we have to be part designer, part marketer, part sales person, and part user.
+Here are 100 questions to ask yourself, the user, and the client.
+Let’s start with 50 business questions:
+What are the goals of the business?
+What are the goals of the product?
+Do the business goals support the user goals?
+Who am I serving with this design? The user? The client? Myself?
+Does the product solve a problem?
+Does the product solve a problem efficiently?
+Does the product solve a problem effectively?
+Is the product even solving the right problem?
+Who is the user?
+What’s their workspace like?
+What’s their workday like?
+Is the user technologically-savvy?
+How is the user interacting with the product? Laptop? Desktop? Mobile?
+How often is the user interacting with the product?
+Where [physically] is the user interacting with the product?
+What elevator pitch do we want to tell?
+What elevator pitch do we want the user to tell?
+How does the product support inexperienced users?
+How does the product support users with impairments?
+How does this product support users with inefficient Internet access?
+How long will it take to become proficient in this product?
+Will users need training? How should they be trained?
+How might users fail or get lost?
+How should users be rewarded?
+How much time should the user ideally spend using the product?
+How does the product earn new users?
+How does the product retain existing users?
+What value is delivered in the free version?
+What extra value is delivered in the paid version?
+How do users upgrade?
+How are users reminded of product value?
+Why might a user stop using the product?
+Why might a user want to start paying?
+How long does it take to sign up for the product?
+How long does it take to start using the product?
+What does an everyday user look like?
+What does a power user look like?
+Do/should we encourage user advocacy (telling their friends)?
+Do/should we reward user advocacy?
+Does the product support and reflect the brand?
+Does the product support sales?
+Does the product support marketing?
+Will the product grow?
+Does it have room to grow?
+Will the product expand into other industries?
+Will the product expand into other technologies/media?
+What would make this product invaluable?
+What would put this product out of business?
+Who would acquire this product?
+Is the market ready for this product?
+And now for 50 tactical questions:
+Is the font readable?
+Is there enough contrast?
+How will this appear on a laptop?
+How will this appear on a tablet?
+How will this appear on a phone?
+Does it even need to be responsive?
+What features are imperative for a mobile/native version?
+Is this buildable [with modern technology]?
+Does it fit into the client’s timeline?
+Where am I willing to compromise the design?
+Will this product integrate with other services?
+How could this product integrate with other services?
+Is this design performant?
+What does my design look like with perfect data?
+What does my design look like with ugly data?
+What does my design look like with no data?
+What does my design look like out-of-the-box?
+What type of user will love this [very specific] page I’m designing?
+What would they want to see?
+What might they be worried about?
+Am I showing the right data?
+Am I showing the data in the right way?
+Is this the right chart/visualization?
+Do I need a chart/visualization at all? Is it really worth it?
+What type of user do these charts/visualizations support?
+Will this [particular screen] be useful every day, or only occasionally?
+How does this [particular screen] help the user?
+What information might they want to see now?
+Do they care about this information over time?
+Will this information help them?
+Will this information hurt them?
+Should this [particular screen] be overtly negative or overtly positive?
+Does development effort match the user reward?
+How can I [better] enable developers to execute this design?
+Does the product adhere to design standards?
+Does the product use familiar design patterns?
+If development only executes 30% of my design, how does it look?
+Did I design for quick wins?
+Did I design for stretch goals?
+Why might I receive pushback on this design?
+Am I pushing the envelope and innovating?
+What products are already doing this well?
+What products tried to do this, but failed?
+What’s a sign that things are working?
+What’s a sign that things are failing?
+What would make this easier to use?
+What would make this harder to use?
+Is this page necessary?
+Can I combine this page with another?
+CAN ANY HUMAN ACTUALLY CODE THIS FANCY-ASS CHART?!

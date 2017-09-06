@@ -1,0 +1,75 @@
+copyright Sutha Kamal
+Hiring a great product leader
+“I’m not a product guy, and I know it. How do I hire for a skill that I don’t understand fully?”
+We walked around the Mission as the CEO described where the business was, where they wanted to take it, and why they needed a “product leader” to join. It’s never easy to recruit the most talented people to your team. Product is a particularly difficult function to recruit for: it means different things to different companies and “good product” is highly subjective. Even though it’s hard, you 
+can
+ find great product leaders, and I’ll show you how.
+What “product” is
+Product solves problems important to the business and customers
+At its best, product considers the business’ objectives, the available resources, and customers need. The solution is often unexpected, and creative. Let’s take a look at two similar problems, each solved differently by two companies.
+Problem 1: I need a car, but don’t want to own one.
+Owning a car in a city is expensive and mostly unnecessary, but occassionally you need one to get around. Also, as a trend millennials are increasingly renting things (often on-demand) instead of buying them: music, movies, cars, homes. So carsharing services like ZipCar and City CarShare popped up as a solution: pay a membership fee, and you can rent cars (conveniently located near you) by the hour.
+Avis
+: Avis owns and manages cars and real estate. So they acquired Zipcar: the urban-Millenial version of Avis. They understand the business, and made a bet on growing demand.
+BMW
+: They make and sell cars, and partnered with global car rental firm Sixt to built DriveNow. It’s effectively Zipcar with BMW cars, including the perfect-for-urban-Millennials MINI brand, and ActiveE electric cars. BMW makes the cars, and Sixt manages the fleet.Problem 2: Taxis suck.
+Taxis are hard to flag down, you never know which taxi company to call, you have no idea where your cab is or when it’ll show up, you hope that they take credit cards or need to remember to have cash… you get it.
+Hailo
+: They use the infrastructure that already exists: trained, licensed taxi drivers are already in every major city. They built an app that helps people use their phones to find taxis, request a ride, see where their taxi is, and avoid any payment friction.
+Lyft
+: A totally new entrant, with no legacy, no fleet, and (comparatively) no capital. Their insight: lots of people have cars but no job: lets turn them into drivers. Add a slick mobile app, a playful brand and you’ve got your own taxi fleet without any taxis.To solve the problem of making transportation easier for urbanites, we’ve found 4 companies that took very different approaches:
+M&A [Avis/Zipcar]
+joint venture [BMW/Sixt]
+use existing infrastructure [Hailo]
+use idle cars and people to build something totally new [lyft]
+Is it crazy for BMW compete with Zipcar? It depends on if their product the 
+ownership
+ of a BMW, or the 
+experience
+ of having one when you need it? Do you think about solving customer needs this creatively?What product isn’t
+Your product isn’t your app
+Or website, or gadget, or any of those things. Your product is the way you meet a customer’s need. Your conversations with the product team shouldn’t only be about user stories, tickets and wireframes. They should also include a lot of “What problem are we solving? Is that the right problem to solve? Is this the best way?”
+Product isn’t an order-taker
+At one company I met, the product team’s job was to take feature requests from the rest of the organization, and write up user stories and sketch wireframes. The CEO thought about the details (what to build today), and the future (“What will we need in 5 years?”). Nobody owned the vision and roadmap for the next 12 months. When sales called and said, “We really need you to build feature X for a customer, or we’ll lose the deal,” product couldn’t weigh this request against other priorities, because there was neither a roadmap nor objectives. Unless product is empowered and able to contribute, the best talent won’t stay, and the company will always be reacting to the market, instead of leading it.
+Product isn’t the boss
+While product is often at the center of everything, it isn’t necessarily 
+in charge 
+of everything. Done well, product supports the business’ needs. Here’s a simplistic flow:
+The CEO decides what the high-level objectives are (“We want more people driving our cars.”).
+Product studies the business needs, customer needs, and identifies a solution.
+Design takes that solution, and creates the best experience possible around it, often helping product re-imagine things.
+Engineering takes design and product’s output and ultimately decides what’s posssible, how to build it, etc. In a great organisation, engineering is also deeply involved in the iterative process alongside product and design.How do you test for product talent?
+1. Talk about their favorite products
+“Tell me about a few of your favorite products…” is a great open-ended question that gives you a peek into how someone thinks. Do they love their Audi because it’s fast? Great. Tell me more. They love sending an address to the car from Google Maps? Awesome. Why? What problem does that solve? How else could you solve this? What would be even better? Why did they build this feature?
+Ask them to show you a few of the most-used apps on their phone. What are great design decisions the developers made, and what could be better? Do they love the Twitter app? Awesome. Why? They love the new conversation threading feature? Cool. Why is that important? What problem did it solve? How did people solve that problem before? What would you change or do differently? Is there another product where something like this might be useful?
+You’re not looking for the surface-level thoughts here. You want to see three things:
+Are they getting into the head of the customer? What are they trying to do, and is this the best way?
+Do they understand what the developer was thinking? What were their objectives? Why might they have made the choices they did?
+Do they have a strong, thoughtful opinion on things, and can they communicate?
+2. Intellectual honesty: let’s disagree
+Great product leaders and consensus-led companies don’t mix, so you need to make sure you can disagree and communicate constructively. Challenge them: “You really think sending an address to your car is slick? I think everyone will just use their phone. That feature is worthless.” What do they say?
+You don’t need to believe your own objection, you just want to see how they react. Do they ask questions to clarify what you mean? Do they have a thoughtful reply? Do they just cave and agree with you (lack of spine is a bad sign). Do they build on your thought? Or — if your suggestion really is terrible — do they explain why you’re wrong?
+You will always have conflicting opinions, but you need to respect their thought process. You need to feel like you can communicate, disagree, and come up with even better solutions together. If you don’t feel like they’re thinking clearly or your communication styles just don’t mesh, don’t hire.
+3. Are they obsessed with solving this pain?
+Why do they want to join 
+your
+ company? What is it about the problem and your customers that they’re excited about? What’s the opportunity? If product’s goal is really to solve big customer problems and achieve lofty company goals, a product leader needs to be passionate about both.
+By the time a candidate met Steve Jobs, it was obvious that they were competent. He asked himself, “Are they going to fall in love with Apple?” Look at the last Apple keynote, and see how the leadership talks about the company, their products, and the mission. They’re in love, and that’s the goal.
+4. Do they ask hard business questions?
+When you interview a great product leader, you’re the customer, and they’re trying to understand 
+your
+ needs and goals as deeply as they can. If they join, they’ll be thinking about your customers the same way. So get ready (and excited) for some hard questions:
+How much money do you have in the bank? What’s the burn? What about Competitor X? How’re you going to make money? How do you think about lifetime customer value? How are you thinking about an exit? What does the cap table look like? What do you need to do before you raise your next round or get to profitability? How close are you to your goals? How have you led product so-far? Have you considered buying Company Y? What does the rest of the company think of this role, what are they looking for?
+A great product leader is someone who will think as deeply about your business as you do, so you should expect a lot of hard questions. They shouldn’t be afraid of challenges (competitors, the market, whatever), but they need to understand the terrain, where you are on the map, and what resources you can rally.
+5. Can they identify what’s most important?
+When you’re building a new product (and especially a new company), it’s easy to get disoriented by all the things you need to do. We get overwhelmed by all the awesome things the product 
+could
+ do. So we think about the 10 features it needs to have, the amazing companies we could partner with, all the awesome press we’re going to get when we ship it, etc. That’s awesome, it’s passion!
+It’s critical, though, to look at that list of 10 features, priorities and objectives and select the absolutely critical ones. Sometimes what’s critical are the features that will make 10 million customers show up at your website, eager to buy. Other times you need to prove a hypothesis to investors, so you can raise more money to go from prototype to market. What is the next big step for your company? What risks do you need to mitigate: market size, technical, competitive, legal? You need to identify the most important objectives to hit the next big milestone, and focus on them.
+It was more important for Tesla to prove to investors that they could build a reliable drive-train than that they could design beautiful showrooms. It was more important that the first iPod could sync all of your music wicked-fast (iTunes + small hard drive + Firewire), than it was to have a music store or Windows support. The Tesla showrooms, iTunes Store and Windows support came later: they were important but not critical.
+Ask them what is critical for your business. Do they quickly find the key items? Do they ask the right questions? If they come to a different conclusion than you, what do you think about their thought process?Great product leaders are thoughtful, ask questions, have an opinion, and communicate well.
+Now you know how to find and get the most from them, so build something awesome and tell me about it!
+I’m Sutha Kamal, a techy, design-y, product nerd, and the founder and former CEO at Massive Health (a consumer mobile health company, acquired by Jawbone).
+If this was useful, you should follow me on Twitter (
+@suthakamal
+).

@@ -1,0 +1,23 @@
+#TBT — What Series A Fundraising Looked Like in 1999
+By 
+Josh Hannah
+, General Partner at Matrix Partners.
+This article originally appeared on 
+joshhannah.com
+.
+Times have changed pretty dramatically since I started my first business in 1999, and I thought for throwback Thursday it would be interesting to share with the young’uns what Series A fundraising looked like back in 1999.
+My business was then called InsightMarket, as a placeholder, and we thought we would call it WannaBet. We eventually launched as Flutter.com and it became Betfair when we merged with our biggest competitor.
+I think our financing was extremely typical of the era — but how does the Series A process as of late compare with over fifteen years ago?
+Take a look through this fundraising deck and marvel at how risky a Series A investment was in 1999 — how little we knew about the product, the customer, acquisition, product-market fit. This 14 page deck was the entire fundraising pitch — there was nothing else, no model, no site, no demo… just this powerpoint.
+Where’s the Traction Chart?
+Yes, Virginia, there is no traction chart. Because there is no website. In fact, there isn’t even an engineer at the close of the Series A, or a mockup, nor have we ever talked to a potential user. This is a “Concept A”. In recent years you occasionally see a concept A, but only with a founder with an enormous track record. We (Vince Monical, Mark Peters and I) were three management consultants who had never run a business before.Dilution
+Our round was a very typical one for the time. We raised $5M on a $7M pre-money valuation with a 20% option pool. That kind of dilution of the founders is rare now, which is fitting given that they have generally made much more progress before they raise. I guess I need not say generally, since we pretty much hadn’t made any progress at all beyond this beautiful slide deck. Also note, we went straight to a series A with no seed round — also atypical now. That made more sense at the time, as we couldn’t have made any major milestones off $500K at that time — investors more generally just had to place a bigger chip down a team to see the results.
+Team
+Three management consultants, none who could code. Yech. In the current market, this deal does not get funded, maybe not even seed funded!
+Process
+Our Series A investor, Alex Nigg of Europ@Web, found us and got ahead of the process, and wrote us an exploding term sheet before we’d pitched any other European VCs. This is a pretty rare practice today, to very nakedly hit entrepreneurs with a take it or leave it. While it’s generally considered bad form today, I was not offended at the time (or in retrospect) — he was honest and straightforward that he wanted to close before we had a chance to get other suitors, and in return he laid out his terms and explained (accurately) that they were fair, and showed us how it compared to “market terms”. We were stuck in a fear (if we walk from this, maybe we won’t raise money) and greed (maybe we could get more/better from others) and ultimately chose to take the money and not look back.
+Follow us on Twitter: Josh Hannah, 
+@jdh
+ and Matrix Partners, 
+@Matrix Partners
+.

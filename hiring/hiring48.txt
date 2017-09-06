@@ -1,0 +1,64 @@
+The Top Concern of Startup Founders? Hiring.
+For the second year in a row, 
+First Round
+’s 
+State of Startups
+ report found that “hiring good people” is the #1 concern of startup founders, beating out both customer acquisition and revenue growth.Of course, this concern is not unfounded.
+Early hiring sets the trajectory for a company. The first 5–10 hires at a startup establishes the bar on quality and culture. Once that bar is set, change is difficult.
+Founders clearly understand how important this is, but that doesn’t change the reality:
+Startups are painfully constrained for time and resources.
+They’re competing against the brand (and compensation packages, which continue to grow at an astonishing rate) of the big names in tech like Facebook and Google.
+The only way to attain any kind of recruiting success is for the founder to be deeply invested in the process and spend a large portion of his or her effort bringing great people into their company.
+Most of the time, early hiring is a lot less fun than working on product.
+In the face of these challenges, there are 4 tactics I’ve seen founders adopt to tilt the scale in their favor:
+1. They treat hiring like a product and are methodical.
+This happens most often when a startup actually needs to grow their team now vs. just focus on an early product. They spend massive amounts of time on it — often days a week just focused on hiring. They’re insanely disciplined.
+One of my favorite examples of this is 
+Tim Chen
+ from 
+NerdWallet
+. He used a targeted approach that focused on three “tent pole” hires — a people ops leader from Zynga, and a business ops leader and engineer leader from LinkedIn.
+Chen knew that if/when he could get these key people to join his team, they would bring the personal credibility that would incentivize others to get on board.
+The strategy paid off. Florence Thinh, the people ops hire, was the primary reason NerdWallet was able to grow their team from 50 to 270+ employees in two years.
+The Total Talent Reboot — How This Startup Overhauled Its Workforce
+Two years ago, presided over a tech startup that employed mostly former Wall Street finance types (who were mostly new…
+firstround.com
+2. They search for undiscovered or undervalued talent.
+This starts by ignoring — not being seduced by — brand names on resumes. Resumes are so broken. There are massive issues with actually understanding what someone did at a named company. And the more pedigreed a given person is, the more challenging it will be to recruit them, given the market knows they’re supposed to be good.
+Triplebyte
+ is doing some interesting work on this front by throwing out the resume all together. It’ll be interesting to see if this becomes an approach that sticks.
+But resume or no resume — the best founders try to figure out who is outstanding by evaluating candidates’ projects, 
+reference checking
+, and 
+behavioral interviewing
+.
+3. They don’t just focus on people who are actively looking for new roles.
+John Ciancutti
+ played a major role in hiring early engineering talent at Netflix, Facebook, and most recently, Coursera, where he took the engineering team from 25 to over 80.
+Ciancutti’s advice:
+You have to own your recruiting process. Your network is never tapped out. Circumstances change for people. Someone who might not have been a good fit 6 or 12 months ago may be a great fit now. Plus every new hire you bring on board extends your network. This will be your best source of talent.
+He recommends initiating as many conversations as you can, even with people who are not looking for a job today. Send emails, talk to people at events, ask your friends to connect you with their friends for coffee chats. It might not result in a hire today, but you’ll start building relationships and a pipeline for the future.
+This is How Coursera Competes Against Google and Facebook for the Best Talent
+When John Ciancutti joined Netflix in 1999, he joined a team of four engineers. A couple years later, he became an…
+firstround.com
+This is what I see the best startup founders do again and again. Start building relationships today, it takes time time to convince someone who isn’t in the market to join your startup — start building that top of funnel.
+4. They lean on their network and their network’s network.
+Most founders are comfortable tapping their own network, but they stop short of tapping their network’s network.
+This means you need to go through your entire network and find people you respect and either try to recruit them, or get those people to tell you who they believe are talented. The best founders will physically sit down with someone and go through their LinkedIn or Facebook accounts and ask for referrals.
+Greg Brockman
+ was the founding engineer at Stripe and now is at the helm of 
+OpenAI
+. He would sit with every single engineer and get them to write out the best and smartest people they ever worked with, and then pursue those people with intensity.
+How Stripe Built One of Silicon Valley’s Best Engineering Teams
+Stripe, the payments company that makes it simple to accept payments on the web has quietly been amassing one of the…
+firstround.com
+Hiring is hard
+There’s a reason that, for two years running, founders point to hiring as their top concern — it’s freaking hard.
+So one final tip: 
+don’t waste time getting help.
+I highly recommend hiring a full-time recruiter. When you think about the impact that great people have on your company, making it someone’s job is worth the investment as soon as you have the capital and the need for more than a couple hires. Almost all founders wait too long to bring this critical person onto their team.
+As the founder, you’ll still need to be extremely involved, you should never outsource recruiting entirely, but having someone on your team that spends 100% of their time focused on hiring is a tremendously powerful lever for your business for 3 reasons:
+A recruiter gives you the leeway to be strategic and build a pipeline vs. scrambling to fill roles as they open.
+A good recruiter will create a fantastic candidate experience, making it easier to close candidates as well as stay competitive in the hiring marketplace.
+Your time as a founder is extremely valuable. Even if you save just a bit of time, it will have tremendous ROI. It will also keep you from wasting money on contingency fees, which add up quickly.
+If you enjoyed this article, please click the heart! ❤

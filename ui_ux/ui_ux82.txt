@@ -1,0 +1,93 @@
+The Art of Stealing: How to Become a Master Designer
+by 
+Michael Abehsera
+ Lead Editor Design @
+Toptal
+Pablo Picasso once said,
+“Good artists copy. Great artists steal.”
+This has never been more true than today.
+Many outsiders believe that designers are unicorns, gifted or special in some way. We have an innate ability to create gorgeous interfaces, a natural talent for matching complementary colors, an unexplainable intuition for building beautiful typography. 
+None of this is true
+. 
+Becoming a great designer actually takes years of hard work, experimentation, and failure.
+The problem with unicorn thinking is that it makes design seem unattainable to people who are interested, but don’t see themselves as creative types. I’ve met many programmers and people in tech who are convinced they can’t get into design because of this. But they can turn these mental blocks into building blocks with a simple mindset shift. Instead of looking at other designers’ work with envy, think of it as the key to your success.
+In fact, interactive design has a lot in common with the open source software community: You can master it by stealing and copying from the best of the best. And make no mistake: These are the top designers in the world, from places like Dropbox, Facebook, and Palantir.
+How do I know it works? Because it worked for me.
+Learn Pablo Picasso’s secret for taking your skills from good to great.
+The Parallels Between GitHub & Dribbble
+When I started learning design, I was amazed by the sheer amount of code that’s out there and can be used for free — open source software has a market share of about 80 percent. The best part is you can modify it and see what happens, which accelerates your learning. GitHub has every single plugin and code snippet you can imagine, anything from a jQuery dropdown to a CSS framework and much more.
+Dribbble’s rebound feature is the closest thing we have in the design industry to GitHub’s “forking,” or downloading any piece of open source software and making it your own.
+Dribbble
+It’s the best way to hone your skills. Go to 
+Dribbble
+, check out your favorite UIs, and try to copy them pixel for pixel. You can add your own twist and then rebound it to give credit to the original designer.
+Design Inspiration
+Let’s look at some examples of how designers have used the rebound feature.
+Example 1: Credit Card Processing
+Paul Flavius Nechita
+ designed this original shot and provided a free PSD, so anyone in the Dribbble community could use it.
+That motivated 
+Artem Borodynya
+ to create this really cool screen for credit-card processing.
+Wayne Spiegel
+ from Palantir had long wanted to improve Apple Pay’s UI. Inspired by Borodyna’s rebound, he created this shot, where the user chooses the desired card from a flywheel.
+Example 2: Deleting Items
+In this example, 
+Smenan
+ created a cool paper shredder graphic.
+And 
+Hanna Jung
+ from Google added animations to it.
+Example 3: Innovative Navigation
+This is 
+Brandon Termini’s
+ innovative take on a menu system for a technology company’s web site. Adding a shot like this to Dribbble really pushes the design community to move out of their comfort zone and be more imaginative.
+Termini’s work inspired 
+Ilya Kostin
+ to take a different approach to create this elegant interface.
+Example 4: Room Profile for Smart Home App
+Anggit Yuniar Pradito
+ designed an awesome smart home application that gives every room its own profile.
+Then 
+Ibnu Mas’ud
+ streamlined and simplified the UI to make it even more intuitive. Many other designers on Dribbble rebounded it too, all with different interpretations. If you ever get hired to design a smart home automation app, you know where to start.
+Example 5: Smart Chart
+The Dribbble community loved the simplicity of this energy usage chart, designed by 
+Kingyo
+.
+Alex Pronsky
+ improved on the original by adding a frosted glass effect, soft shadows, and vintage color scheme, and then gave away the PSD for the community to use for free.
+Example 6: Graphical Announcement
+When Dropbox joined Dribbble, the company made the announcement with this graphic.
+Which promoted the community to rebound this shot over 200 times. It’s amazing how certain shots spark creativity in the community. This one by 
+Jory Raphael
+ was one of my favorites.
+Example 7: Creative Web Dashboard
+Awesomed
+ designed this really cool web dashboard …
+… which inspired 
+George Vasyagin
+ to redesign it with bright new colors.
+Example 8: Recipe Widget
+Kevin Kalde
+ designed this simple but appealing recipe widget.
+Then, 
+Ididi
+ built on his design by adding environmental elements.
+Example 9: Nice UI Controls
+Ramakrishna V
+ designed these switches.
+And then 
+Tsuriel
+ brought them to life.
+Conclusion
+When you copy someone else’s design work, you have to pick it apart in order to understand it and apply it to your particular project. Otherwise, the design just won’t work, or it will seem out of place. Copying effectively teaches you to do it the right way. Nail the basics, and innovate where it makes sense.
+“Designers are made, not born.”
+If you want to be a great designer, don’t delay and don’t doubt yourself. Go to 
+Dribbble
+ or 
+Behance
+ and follow designers whose work you admire. Pick your favorite shots and start copying. Do it over and over and you’ll develop and hone your skills over time. Eventually, you’ll be able to do the same things your favorite designers can do.by 
+Michael Abehsera
+ Lead Editor Design 
+TopTal

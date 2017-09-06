@@ -1,0 +1,59 @@
+Your Diversity Problem isn’t the Pipeline’s FaultThe results are in. They’ve been in for so long, so consistently, that they’ve become old news: 
+diverse teams outperform
+. Across industries and organization sizes, teams with more gender and racial diversity return stronger results to investors, retain top performers longer, and make better decisions. It’s not even a close call.
+And yet, if your company is like any of the companies I’ve worked with in tech, your own diversity numbers leave a lot to be desired. We’re certainly not where we’d like to be at 
+Hubba
+. Our executive team is all white, all male, and while we’ve made several changes to how we hire that are seeing results (more than two thirds of our hires in the last year have come from underrepresented groups in tech) we know we’ve got a lot more work to do. But it’s important to us; we’re committed to getting better and sharing what others have taught us.
+Very few leaders I speak with are openly racist or sexist — most insist they’d love to build a more diverse team but…
+If the first step is recognizing that you have a problem, the second, much harder step is realizing that you do it to yourself. Very few leaders I speak with are openly racist or sexist — most insist they’d love to build a more diverse team but…
+but they can’t find quality candidates
+but they post jobs and don’t get minority applicants
+but they don’t want to lower the bar
+This thinking will sink you. And your competition will run circles around you when they get to the opportunity to hire these outstanding people before you do. Here are a few of the things that we’ve found have generated immediate results.
+Learn to Search Blindfolded
+A funny thing happens when you take faces and names off of resumes and linkedin profiles. People who would insist that they have no bias or prejudice suddenly start 
+evaluating candidates differently
+. You find candidates you somehow missed before. Unconscious bias isn’t a bleeding-heart liberal codeword, it’s a real threat to your business and your ability to find top talent. We now use the 
+Unbias browser addon
+ to automatically hide names and faces on LinkedIn. Try it. It really does change the quality of candidate searches, whether it ought to or not.
+Cast a Broader Net
+A job posting has 1 goal: to get good candidates excited enough to start a conversation. Every time a position you post reaches some great people, but they decide not to apply, your hiring program has failed. When a marketing program fails the answer is not to complain that there aren’t enough people out there; the answer is to market smarter. A job posting is no different.
+Services like 
+textio
+ can help you analyze your job descriptions to find obvious points for improvement, but they’re also useful for starting conversations about what you’re really looking for. A long list of bullet point requirements feels natural, but understand that 
+those lists implicitly select for men
+, who will apply when they meet a much smaller portion of them.
+a bit of reflection is all it takes to realize that screening based on free-time pursuits gets you more affluent white men than it does underemployed single moms
+In tech, a common pattern is for hiring managers to say “I don’t care who you are, just show me your hobby projects on 
+github
+, or your think-pieces on 
+medium
+” — but a bit of reflection is all it takes to realize that screening based on free-time pursuits gets you more affluent white men than it does underemployed single moms.
+Build the Best Team
+The most pernicious theme I hear from people in hiring positions is that they don’t want to “lower the bar” — that they’d happily hire a more diverse group but not at the cost of individual candidate quality. It sounds rational but it’s wrong-headed for two reasons. First, the implication that any current diversity gap must be a result of lower quality stinks, and ignores everything we know about the barriers many groups face. But second is that it misunderstands your job as a leader.
+Your job is to build the best team.
+ You can choose a lot of strategies to get there. But if your strategy is to hire “the best candidate” for each role without regard to the team’s composition, and it’s leaving you with a weaker, less diverse team, then your strategy is failing and it needs to change.
+Don’t Take My Word For It
+I shouldn’t even be talking about this. Tech in particular has a terrible history of putting white men at the centre of every conversation. But, perversely, we also know that 
+women and minorities are frequently penalized professionally for promoting diversity
+. Be smarter than that. There’s nothing I can say that will help you nearly as much as the work that 
+Kronda Adair
+, 
+Joanne McNeil
+, 
+Marco Rogers
+, 
+Shanley Kane
+, and many others do every day. It’s no one else’s job to educate you on this stuff, you have to educate yourself, but there are many people who can help you on the way.
+If this all seems hard: it is. So is building a business. Sometimes we have to do hard things. But this is the right thing to do, and the smart thing to do. Are you going to get there first, or will your competitors?A version of this post 
+originally appeared as an op-ed
+ for the Globe & Mail
+If you liked this article, click the little 
+♡
+ to share it with other Medium folks. Then click the 
+(Follow)
+ button to be notified when we write something new.
+If you’re an email person, 
+subscribe to our newsletter
+ to be the first to know when we post fresh stuff. 
+📬

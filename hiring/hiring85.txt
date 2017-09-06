@@ -1,0 +1,37 @@
+Hiring for Potential
+Qualifications, skills, accomplishments: most of us think of these as the key ingredients in the hiring process. Hire people with the right qualifications and skills to do the job. Use their past accomplishments to predict future performance. In other words, hire for competence.
+We could do worse. In fact, we often do. Most hiring processes suffer from crude heuristics, conscious and 
+unconscious biases
+, and worse. There’s plenty of room to improve how companies hire for competence.
+But competence isn’t the whole story. Many skills are quickly acquirable. And qualifications and accomplishments often reflect opportunities afforded by privilege. Hiring for competence emphasizes potential that has been realized. In the best case, it is a hiring strategy that minimizes risk.
+Working with the Army You Have
+The problem with hiring for competence is that we don’t necessarily care what a person has done — or even that person is capable of doing today. Instead, we want to know what someone will be able to do, given the right opportunity. We want to hire for potential.
+Unfortunately, potential is harder to measure than competence. It’s not obvious on a resume, nor can we assess it using standardized tests. So how do we hire for it? I asked a friend, and she shared an 
+inspiring success story
+.
+In 2010, 
+Amy Gaskins
+ was embedded with the 
+U.S. Army Intelligence and Security Command (INSCOM)
+ in Afghanistan, coordinating supply movements for thousands of soldiers. The six analysts at her disposal were hardly sufficient to provide intelligence support. She had to build a data collection and analysis team, literally from the army she had.
+Rather than looking for skills, she screened for curiosity and an analytical mindset. She looked to see who asked the best questions during intelligence briefings. Those questions demonstrated initiative, curiosity, and a healthy skepticism. The result: a team that not only contributed to the mission’s success, but unleashed its own potential. One of the soldiers, recruited as a truck driver, moved on to supervise all of the analysts within two months of joining the shop. Today he’s a counterintelligence analyst.
+Evaluating Potential
+I can’t claim any success stories like Amy’s. But I’ve had some small victories. Here are a couple:
+A promising junior engineering candidate wanted to join my search quality team but had no relevant experience. I sent him pointers to online resources and gave him a weekend. He taught himself enough to set up a search engine and start applying the concepts from the resources I’d provided. I hired him, and he worked out fantastically.
+A data scientist wanted to transfer onto my team as a software engineer. I was impressed with him generally but unsure of his coding skills. After I explained to him that he was taking more of a risk than I was, I accepted him onto the team. He quickly proved himself as an engineer and turned out to be one of my star performers.
+These stories are encouraging, but they’re baby steps. In particular, they involved candidates who had impressive qualifications, so I was mostly gambling on their lack of skills or accomplishments. The true test of hiring for potential would be to ignore qualifications.
+Risk Aversion
+I believe we all want to hire people based on their potential — not just out of a selfless desire for fairness, but because we selfishly want to hire the people who will deliver the highest future performance.
+So why do we focus on people’s qualifications, skills, and accomplishments? I suspect it’s because, like the 
+drunkard searching for the keys under the streetlight
+, we focus on what we can measure rather than on what we truly value.
+The best way to evaluate someone’s potential is to give that person a supportive environment and sufficient opportunity to take advantage of it. Unfortunately, that may not be a practical approach for risk-averse employers — or employees.
+No Silver Bullet
+I wish I had a silver bullet, but I don’t. There’s no free way to provide supportive environment and opportunities, and employers aren’t charities. And risk aversion favors the status quo.
+Indeed, a downside of hiring for potential is that it can require a considerable amount of effort to get new hires up to speed. While it’s rare for new hires to truly hit the ground running, there’s no question that competence accelerates the ramp-up.
+For large employers, however, I’m hopeful that they’ll recognize the inefficiency in their current hiring processes and explore ways to evaluate potential in the large fraction of the candidate pool they would otherwise screen out.
+Google 
+claims
+ it is ignoring qualifications (or at least degrees) and skills. Given my knowledge of the company, I’m highly skeptical. Especially since I don’t see how their hiring process evaluates potential.
+But even if Google’s claim is mostly a PR stunt, it’s still useful. Many companies look to Google for thought leadership, and their words are encouraging, even if their actions don’t live up to them.
+Hiring for competence isn’t going away. But companies that figure out how to hire for potential will have a significant advantage over those that don’t. And, if we are to aspire toward a meritocracy, let’s aim for one based on potential rather than privilege.

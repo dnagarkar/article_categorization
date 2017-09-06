@@ -1,0 +1,103 @@
+What should be in my fundraising slides?
+The art of the startup pitch
+I know of no better way to learn about a startup than to look at the deck that the founders use for fundraising. No document does a better job encapsulating the past results, present state, and future vision of a company. The best companies take pride in putting together a story that lets them share what they and their team are working on in the best possible light.
+I’ve worked on dozens of pitch decks, helped founders with dozens of others, and have been on the receiving end of many as an angel investor, an Entrepreneur in Residence at Benchmark Capital, and as an advisor to Point Nine Capital.
+I’ve learned one thing: there is no one formula for a pitch deck, otherwise smart people wouldn’t spend so much time banging their heads against walls trying to get them just right. But I do find the same feedback applies to many companies. This post, written with help from the team at Point Nine, represents our collective wisdom on best practices for pitch decks. It will include some high level advice followed by specific feedback and tips and tricks we find ourselves delivering over and over again.
+This is not meant to be a comprehensive guide to fundraising. It doesn’t cover how to target and approach the right investors, how to manage the meetings and follow-ups, how to demo the product and handle customer references, or how to negotiate and close. This post is only focused on the content you need to create to support the process. It is most suitable for companies doing a seed round or series A, where you’d have a product and some initial traction but would not have a mature business nor a fully-staffed team.
+First, a bit about investors
+Knowing your audience is key to good communication. At a startup, you will pitch multiple audiences: customers, partners, recruits, and investors. Although you may be able reuse some content between these audiences, you’ll need to make sure you devote time to a slide deck that is totally focused on the investor perspective. That perspective can be summarized as, “is this company likely to become far more valuable in the future?”
+The high failure rate of startups makes investing in them inherently risky: most will lose some or all of their invested capital. That failure rate, coupled with the lack of liquidity and long life of venture funds, means that the best investments in each fund must be able to return 10x or more their initial investment to pay back the losers. Because no investor can know which investments will be the large winners, *all* of their investments must have the potential to grow many multiples within a few years from the time they invested.
+So what characterizes companies that have a chance to grow 10x?
+Large market — no company can be larger than its market, so investors want to back companies in markets that can eventually generate 100’s of millions of revenue. This can be a new market that you are going to help grow, or you may be a new entrant into an existing market.
+A chance to win that market — this means having a great team that has a chance to out-execute the inevitable competition. You want to show that your team as a track record of great execution, works together well, has a diversity of skills, and wants to build a large, standalone business.
+Riding a large wave — almost all startups that have gotten large have done so by riding a major technology wave that is creating many new opportunities: cloud, mobile, social, tablets, the web itself. The best ideas are «possible, but only just barely». You need to be able to answer «why now?» for a new business idea.
+A business model that allows acquiring users/customers, monetizing them profitably, and scaling very quickly.
+A path to build sustainable competitive differentiation. All large markets attract competition and thus price pressure. A startup needs to be clear how it will compete in the long term, whether it be building a strong network effect, hard-to-replicate technology, or simply by out-executing everyone else. (See this great post by Christoph Janz on what Point Nine looks for in Saas investments: http://christophjanz.blogspot.de/2014/02/four-more-things-we-look-for-in-sa…)
+Momentum — investors want to see as much evidence as possible that the business is working, which means team, product, customer traction, and revenue. This is not because investors are there to “reward” you for your hard work. They are using your progress to validate how well your team is executing and as proof points that you can build a big company.
+And, these are precisely the same things that startup founders should be thinking about if they want to build a large business, so there is complete alignment with investors here.
+Make sure you are ready
+Next I’ll talk about some tips for how to make sure your story comes across to investors, but I’ll start with this:
+“The best way to communicate your business to investors is to actually know your business!”
+I’ve spent many hours with young founders working on fundraising, and I’m shocked by how many of them end up staying up late the night before their first investor pitch asking themselves questions like, “what should we say about competition?” and “what should we say our 12 month plan is?”
+If you are creating a lot of new content for pitches, it means that you don’t really have a firm handle on some of the key questions you need to answer to run your business. Questions about competition, differentiation, strategy, and your plans are not a ritual you create to please investors. They should be what you spend your time on all day every day.
+If you find yourself in this situation, slow down, do the necessary background work, have discussions within your team, and make sure you don’t go to investors until you know your plan cold and feel confident in it. Remember it has to be kept up to date. The content for your seed round may have been stellar, but if you are doing a series A 18 months later, your company and your market has probably changed so much that you’ll need to completely re-do much of your pitch.
+The content
+Now let’s talk about the best way to tell your story, starting with the content you’ll need to include.
+It is hard to improve upon the feedback given by Sequoia Capital in this post: http://www.sequoiacap.com/grove/posts/6bzx/writing-a-business-plan about what topics to cover in a pitch. Mark Suster also has an excellent outline here: http://www.bothsidesofthetable.com/pitching-a-vc/, and you can find many others.
+Most advice you read will recommend some combination of the following:
+1. Summary
+It is useful to orient your audience right away on what your company is doing, at what stage you are, and how much money you are raising. Don’t include so much detail that you “steal your thunder” for what comes later in the pitch, but you also don’t want investors distracted for the first half of the pitch not sure if the company is up and running yet, if it has launched yet, if it has any employees other than the founders, etc. Starting with a brief snapshot helps ground people and head off questions. Here is a hypothetical example:
+UberExpense is reinventing expense reporting for small business
+Founded 2012, 6 employees, $500K seed round from angels 2013
+250 customers, $95K MRR
+Raising $5M Series A to facilitate expansion to new markets
+This gets the investor grounded on who you are and what they should expect from your pitch.
+2. The problem you solve, and who has that problem
+“Pitch the problem, not the solution” (thanks to Dave McClure) is always good advice to founders, who tend to be in a hurry to talk about their technology. Talk about the problem you solve and who has that problem. And be clear if this is a *new* problem your customers are dealing with or an old problem where you plan to bring a new/disruptive solution to bear on it.
+Talk about how the customer is solving the problem today, how you can do it better, and what specific benefits you’ll bring them. Grab their attention with customer anecdotes or images: for example a screenshot of the broken old legacy systems your customers are using, or quotes and anecdotes from customers about their pain points.
+3. Your solution
+Now, highlight your product. Talk about key capabilities and what problems they solve for the customer. Show how your customer see urgency in solving their problem with your product (think “pain killer” vs. “vitamin”). Do a live demo when possible, but have some annotated screenshots available for situations where you have less time. Provide a link to a live instance of your application with a demo login.
+Include an architecture diagram if there is something specific about your architecture you need to highlight, but I find these don’t tend to communicate much, so you may want to move them to a set of backup slides or save them for technical deep dive sessions.
+Focus on the business benefits of the solution and what they allow your customer to do, not just what the product does. Do you save people time? Money? Generate new revenue? Be clear what the pitch you give to customers is, and talk about why it is compelling to them.
+4. Customer traction
+Now you want to show evidence, both that the opportunity is real and that you are the right team to crack it. Show the key metrics for your business (number of customers, revenue, engagement) as well as highlight a few case studies, hopefully with some quotes that show how much business value you have created for them. Use customers that are willing to take a reference call, since many investors will ask.
+(This is a great post from Brendan Baker on how to illustrate traction to investors: http://www.quora.com/Brendan-Baker/Posts/Startups-How-to-Communicate-Tracti…).
+5. The market
+Your company can’t be any larger than the market it is in, so you need to explain how the total addressable market (TAM) for your solution is either already large or will be large in the future.
+If you are disrupting an existing market, you can probably find some analyst quotes that talk about how large the market is and how quickly it is growing.
+But in most cases, it is more effective to tell more of a bottoms-up story on how many customers there are for a solution like yours and how much revenue you can get from each customer over time. Think about how AirBnB could use the hotel industry or Uber could use the transportation industry to support large TAMs for their businesses.
+6. Competitive landscape
+Every decent market has a rich competitive landscape of legacy competitors, new startup competitors, adjacent spaces, and customer alternatives. Talk about who is in the market today, who you expect to enter the market, and how you are different than the competition.
+Keep your differentiation at the level of strategy and focus, don’t get caught up into feature-to-feature comparison.
+You can either use a classic X/Y diagram showing where you and your competitors measure up vs. each other, or you can find other ways to lay out the segments in your market and where you and competors sit. Here, Steve Blank has some great advice here for how to illustrate your competitive landscape in a way that acknowledges who else is in the market but doesn’t try to draw an apples-to-apples comparison between you and competitors who have a completely different approach than you: http://steveblank.com/2013/11/08/a-new-way-to-look-at-competitors/
+7. Business model
+This is where you talk about your revenue model, pricing, and how you plan to attract and convert customers. You’ll need to talk about:
+How have you acquired customers so far and how will that change?
+How do customers find you and what have customers acquisition costs been for these channels?
+How do you convert leads, and what are your conversion rates?
+What are your plans for sales and marketing going foward?
+It is common for founders to not focus on these topics enough — they want to spend more time talking about their solution, but investors know that customer acquisition is where most startups fall down. Devote a few slides to the topic.
+8. Team
+Show who is on the team, a few bullet points on each of their backgrounds, and discuss the mix of skills your team has as well as key roles that need to be filled. This section can also be covered earlier in the deck, although you run the risk of bogging it down early. Either can work. In a face to face meeting, it usually makes sense to introduce the founders who are in the room doing the pitch and then move onto the rest of the team later in the presentation.
+9. The plan
+You need to answer the question of why you are raising money and what goals you have for the company over the next few years. Talk about the key milestones (product, revenue, new markets) you plan to hit in the next 12–24 months, how far you plan for the funding to go, and what key hires you need to make. Include some high-level financials that shows your growth in revenue and expenses for the next two years, along with the number of users/customers you expect to have on a month-by-month basis.
+10. The round
+Finish by talking about how much money you are raising, whether you already have commitments from other firms, the timing of when you plan to close the round.
+Some do’s and don’ts
+I see many of the same mistakes and patterns repeat themselves, so please think about the following:
+Do have great production values
+Sure, investors are more interested in your business than your Keynote skills. But valuing great design is table stakes for all startups, even ones that are enterprise-focused. Anything coming out of your company to investors, customers, and even recruits needs to represent the company well. If investors see that even one of your most important documents was hacked together, they’ll be skeptical that you are taking the utmost care to always present your company in its best light. Plus, there are so many great examples on the web plus free or cheap templates you can download, there is never an excuse to have slides that look like Mary Meeker’s annual state of the internet presentation: http://www.businessweek.com/articles/2014-05-30/redesigning-mary-meekers-ug…
+Don’t be too dense or not dense enough
+You’ve probably heard the advice to not include more than 10–15 slides in a fundraising presentation, but don’t use that as a reason to cram lots of text and detail on your slides. Make sure they illustrate the key points, but you’ll have other venues to pass along more detail. You may want to a create a second, more detailed, deck to use in situation where you want to leave a full copy of your plan with investors.
+Don’t just talk about product
+Product is very important, but your company is not an engineering team. Don’t just talk about the software you have built so far and the software you will build after you raise more money. Focus instead on *why* you are building the software (large market with an obvious customer need) and then let the product help illustrate how competent your team is and what bets you are placing.
+Don’t skimp on customer acquisition
+Many founders focus more on product and less on customer acquisition. Good investors will push you on how you will acquire customers profitably and what kind of sales and marketing effort you’ll need to execute. Come in ready to discuss this and don’t wait for them to bring it up.
+Do understand the competitive landscape
+Don’t just pop up a chart of your top competitor and show that you have a few more features than they do. Understand the entire competitive landscape, including direct competitors, adjacent markets, and potential entrants. And know them cold — if the investor does a Google search that yields a list of competitors that you aren’t completely literate about, it reflects badly on you and how well you know your market.
+Do position your market as “inevitable”
+You should feel so strongly about the market opportunity you are pursuing, you should be able to explain why it would be a great area to invest in even if your company never existed. The best markets are an outgrowth of a set of technology and and economic trends all converging at a point in time. You need to explain that broader context and why large companies will be built in your space.
+Do position your company as “inevitable”
+Never be arrogant, but also be clear that your company is going to happen with or without the participation of any specific investor. It is easy to fall into the trap of deferring to VCs and looking like you are asking permission to build your company instead of selecting for a partner to join you on your journey. Never describe your plan as something that will happen “if we raise money.” And while you should alway respond to feedback, don’t defer too much to the off-the-cuff advice investors will throw at you during your pitch — say that you’ll chew on the feedback, but don’t say, “OK, we’ll do that!”
+Example pitches
+Unlike the dark old days when pitching to investors was a black art understood only by a few serial founders, a wealth of great information is now available on the web about pitches. We list a few of them below:
+Reid Hoffman shares the slides from the LinkedIn Series B as well as excellent advice on how to approach venture capitalists and tell your story here:
+http://reidhoffman.org/linkedin-pitch-to-greylock/
+The Mint.com pitch deck has been available on the web for some time and still serves as a good example for an early stage, consumer web companies:
+http://www.slideshare.net/hnshah/mintcom-prelaunch-pitch-deck
+Buffer, which is known for transparency, explains their pitch deck here:
+http://onstartups.com/tabid/3339/bid/98034/The-Pitch-Deck-We-Used-To-Raise-…
+Jean de La Rochebrochard has more suggestions for a pitch deck template here:
+https://medium.com/@2lr/the-startup-pitch-deck-template-8e5fe2a382cc
+Pitchenvy is a collection of startup pitch decks. Not all of them are necessarily good, but it is a great source of ideas for how to present different elements of your pitch. You’ll see great examples of how to present key metrics, how to lay out competitive analysis, how to highlight you team, and everything else
+http://www.pitchenvy.com/
+Some other good resources
+David Lee from SVAngel, discusses how to approach the firm here: http://daslee.me/pitching-sv-angel
+Mark Suster created a great series of blog posts on all aspects of fundraising here: http://www.bothsidesofthetable.com/pitching-a-vc/
+Peter Thiel, as part of the CS183 class he taught at Stanford (soon to be made into a book), devoted two lectures to fundraising. These are also a «must read»:
+http://blakemasters.com/post/21869934240/peter-thiels-cs183-startup-class-7…
+http://blakemasters.com/post/22271192791/peter-thiels-cs183-startup-class-8…
+And of course, the great Paul Graham has written one of the definitive guides to fundraising, although he doesn’t devote much space to the content itself: http://paulgraham.com/fr.html
+In Summary
+Take the time to build a great pitch deck. Not only will it help you raise money, but it will help crystallize your strategy and plans, will help get your team on the same page, will give you content you can use to recruit new team members, and will serve as a foundation for future fundraising. Good luck!
+Many thanks to the whole team at Point Nine for reviewing drafts of this post, especially Chrisoph Janz, Rodrigo Martinez, and Nicolas Wittenborn.

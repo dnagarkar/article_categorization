@@ -1,0 +1,43 @@
+Hiring on Craigslist without flooding your email inboxMy startup saved 40+ hours with a 
+DIY recruiting tool.
+ Learn how we did it.
+Craigslist is an invaluable and underutilized resource for startups. We’ve posted several jobs there, ranging from part-time content writers to user study participants.
+I’ve been consistently surprised by the quantity and immediacy of the responses, but daunted by the task of screening through them. Almost immediately after the posting is submitted, a flood of email applications comes streaming into your inbox — often in the hundreds and of highly varying quality.
+The email flood
+Reading through responses with varying formats and content is a very messy and haphazard process, and it’s difficult to collaborate with other people.
+Traditional recruiting systems
+ are overkill for this sort of task. They cost an arm and a leg, take many hours to set up and learn, and usually require talking to a salesperson. In our case (and like most people posting jobs on Craigslist), we just needed a simple way to organize candidate information and keep track of where they are in our screening and interview process.
+In less time than we would have spent on the phone listening to a sales pitch, we made a 
+DIY applicant tracking system
+ using our own newly-released 
+Airtable Forms feature
+ that met our needs perfectly. For full disclosure, the hack involves our own product, but we spent a lot of time looking for alternatives and weren’t thrilled with the options.
+Here’s how we did it.
+We created a new empty 
+Airtable Database
+, then added fields to collect specific information from our content writer applicants — in particular, their name, contact info, past writing examples, a resume, LinkedIn profile link, and also asked them to make some specific messaging suggestions for our product’s splash page.
+Creating the Airtable
+2. We then created a 
+Form view
+ on top of this database, and added an informative field description for each question.
+Adding a public form to the Airtable
+3. This form comes with its own 
+direct link
+, which we pasted into our 
+Craigslist posting
+.
+We pasted the form’s link into our Craigslist post
+Now, instead of emailing us, applicants simply fill out our form
+4. As soon as the posting went live, responses began appearing in real-time.
+Applications neatly appear in Airtable, complete with resume attachments and writing samples
+5. We then added a dropdown field for us to mark the status of each application (reviewed, archived, needs followup, interview scheduled). This field would not be shown in the form view for job applicants.
+We added new fields to manage the review and interview process
+6. We also added an internal notes field and various other fields to keep track of our workflow, such as a checkbox field to indicate whether we had already sent promising applicants a trial project and our standard contractor agreement (via 
+Zenefits
+, which will handle the collection of the individual’s necessary personal and payment information).
+We could chat and collaborate in the context of each job applicant, making it easy to coordinate followups.
+Chatting and collaborating
+And that’s it! With our DIY system, we were able to save countless hours during the recruiting process and ensure that we didn’t miss out on any great candidates.
+Here’s how to do it yourself
+Click here to get your own copy of the Airtable database
+ we used for this example.

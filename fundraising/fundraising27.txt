@@ -1,0 +1,52 @@
+How to Fundraise (5/5): Allocation
+This is the final installment of @efLDN’s tactical fundraising series. Previous posts have covered 
+Preparation
+, 
+Trial & Error
+, 
+Execution
+ and 
+Negotiation
+.With your term sheet ink dry and the fundraising end in sight we’ve got just one more lesson to share: it’s not over until there’s cash in the bank. While it sounds obvious now, it’s something that is typically forgotten after the fatigue of negotiation has set in.
+To be clear, the worst is behind you, and many founders are struck by the juxtaposition that this final stage has compared to the others. You won’t have more negotiations, and the hard sales push is largely over. Broadly speaking, allocation is both frustrating and largely ignored in most fundraising coverage because it’s kind of boring too. For the uninitiated, this final stage is the time to ensure all loose ends are tied up. T’s are crossed, I’s are dotted and every other excruciating detail is reviewed in triplicate. Every deal will vary a bit, but for the most part that looks like this:
+Due Diligence (DD):
+ an investor’s audit of the business BEFORE finalizing the deal
+Investor Allocation:
+ deciding how much each investor will be able to invest in this round
+Legals:
+ the back and forth between lawyers (yours and investors’) to ensure all documents are correct
+Cash Deposit:
+ when investors actually wire you money
+This can be taxing on your entire team (not just founders) and communicating with all your investors can feel like herding cats. Worst of all, you’ll need to start dealing with lawyers. Nevertheless, having a signed lead is a huge milestone, and you can safely take a sigh of relief. At this point this is your round to lose. There are a few things that you MUST do to avoid a falling out but for the most part this is a time to focus on optimizing your company for the future. Here are a few things to consider in your final days of fundraising.
+Allocation: The Home Stretch
+It’s not over until there’s cash in the bank:
+ I’ve said it twice because it’s that important. The final stage of due diligence and legals can take a while (4–8 weeks!). It’s in that time that you run the risk of buyer’s remorse, i.e. investors pulling their support. No investor wants to pull a term sheet or previous commitment, and doing so can hurt their reputation, but let’s be clear, it’ll hurt you more than it’ll hurt them. Cold feet, backing a competitor or unforeseen financial challenges, the results are all the same: negative signaling and serious damage to your raise. While rare, this isn’t unheard of. In our fifth cohort 
+Accelerated Dynamics
+ had their co-lead pull their support after having second thoughts about the risks of investing in a seed-stage deal. Despite the efforts of the management team and EF, we weren’t able to salvage that relationship, and their fundraising was set back several weeks (it all worked out in the end). That particular case was a result of bringing on investors that weren’t accustomed to venture, but deals have fallen through for less.
+“If there’s a chance for something to go wrong it likely will, so always have Plan B.” — Mantas Gribulis (CEO of 
+Accelerated Dynamics
+)
+It’s impossible to over-communicate: 
+The worst thing you can do is leave a non-lead investor in the dark. Just because they’re not running DD doesn’t mean they can’t have concerns and get cold feet. Every investor wants to feel like they found a diamond in the rough and the best way to do that is let them know how fast you’re moving. I’m a big fan of doing quick phone calls with investors to make sure they feel heard. You’ll provide more information this way, and it builds a much stronger relationship for the future. At a minimum you should be sending investor update emails on a weekly basis until the round is done. The better primed they are, the faster they’ll sign final docs and get you the cash you need.
+Respect the due diligence process: 
+A lot of founders complain about DD and view it as an unnecessary burden. Your frustration is warranted, but understand that this process isn’t to abuse power or establish dominance. As founders you will have 1000% more information on your company than any investor will before offering a term sheet. In the public markets there’s a wealth of data available every quarter, but in venture, things can be pretty opaque. DD is a necessary part of the investment process in their attempt to correct information asymmetry. Remember that most VCs are investing other people’s money, so diving into the details is simply living up to their fiduciary obligations. Most DD falls into Technical or Commercial assessment (see also 
+HBR’s take
+) where they confirm what you’ve told them. Deals can fall through at this stage, but if you’ve run an honest fundraise, then this shouldn’t be a concern. A lot of this will be in-depth interviews or reviewing financial models/contracts/IP filings/etc., all of which is pretty straightforward. One caveat to mention relates to when DD involves external parties. Many investors will want to interview existing clients or reference check with previous professors/investors (see 
+auxiliary team
+). Out of respect to those valuable relationships, you should try your best to limit their exposure if possible. One of the best ways to do this is to have your cultivated lead engage with other investors and represent them in DD so they all feel their interests and concerns are being addressed.
+Allocate for value: 
+Venture investing is all about behavioral finance and that behavior is FOMO. Co-investors come out of the woodwork once a lead has committed. An important part of this last stage is figuring out how to best construct your cap table for future growth. Over the past several weeks/months you’ve had to convince investors why they should select you. Now that dynamic flips. Most deals will have the lead investor take 50% of the round, and the remaining room can be allocated to any combination of VCs, Angels and corporate venture arms. Early in a startup’s life, it’s usually better to have a higher number of investors to get more smart minds around the table. With that said, institutional money may have minimum investment requirements to make an investment worth their time, so you’ll need to find a balance. This is a very subjective task, but focus on which investors provide you with the complementary skills/connections that you lack as a management team. If you run into a situation where you have more investor demand than room in your round, you can always raise more and take the extra dilution, but that should be reserved for extraordinary circumstances.
+Be stingy with advisor shares: 
+In case you’re unfamiliar, advisor shares are equity grants that a management team provides to experienced individuals for their strategic advice or connections. Strategic advisors can provide a lot of value to your company if they’re truly top notch. In addition to real world experience, many can provide immediate validation by virtue of their own reputation. However, your equity means real value in the future, so that advice can become expensive over the long term. Many founders struggle with this topic in the late stages of fundraising, so here are some general guidelines:
+Direct investment > advisor shares, because you get all the value at a much lower cost (i.e. you get cash). Advisors clearly will want the free shares, but if you can get them to put up a little cash they’ll have some skin in the game.
+0.25% — 0.5% for advisor or 0.5% — 1% for a non-exec director in exchange for one full day of work per month. The range will depend on the caliber of the advisor and the time they provide.
+Make your agreement clear and objective. Be specific about your expectations in an advisor. State how much time you’ll expect. Define outcomes that you hope to accomplish. You both should understand what the price for that equity is.
+Vest those shares on the same schedule as your own. It aligns interests for the long term and ensures consistent support over time.
+Have a break clause if things don’t work out between you two. Just like an employee, you need to surround yourself with the best and remove those who aren’t.
+Get a good lawyer: 
+Not a very novel concept here, but critical nonetheless. A lot of the time drain in this stage comes from the back and forth between legal representation. You really want to make sure that the work being done on your behalf is top notch because a small error now can be expensive in the future. Only work with lawyers that have experience in early stage investment contracts. They’ll be more efficient at going through the legalese and can advise on what is industry standard or not.Once cash is in the bank, you can get back to being a founder again. That will probably sound like a welcome vacation, but I’ve known a few founders to find themselves emotionally bored with business as usual after surviving the fundraising roller coaster. If this sounds like you, then you’re in luck. You get to do all this again in 12–18 months! Fundraising is no easy task and considered a necessary evil for many. While it’s fair to hate the process, remember this does make you a better CEO and your business will be stronger for it. Now have a celebratory beer, thank your team for their support, and get back to work building the vision you just sold your investors on.
+If you’d like to start from the beginning of this fundraising series please click 
+here
+. Special thanks to 
+Savitri Tan
+ for helping me write this post.

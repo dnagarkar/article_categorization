@@ -1,0 +1,54 @@
+Seed Fundraising — How to Close the Lead Investor
+One of the hardest parts of raising a seed round is finding the lead investor — a VC fund that will take at least ⅓ of your round. The problem gets even tougher as some investors want to wait for a lead before committing themselves. Here’s how to close the lead investor for your seed round:
+Allow Time to Build a Relationship
+Why
+ — Most VCs like to the 
+know
+ the founders of the company they’re investing in. This makes sense given it’s a potential 10 year commitment if the company does well. It’s very rare for a VC to invest in a startup they met within 2 weeks, even if those stories are frequently discussed in the press.
+What to do 
+— Meet with 3 seed stage VCs at least 1 quarter before you’re planning to raise. Ask these VCs for feedback on the milestones your startup would need to hit for them to be interested. This starts your relationship with the VC before you need their money and you can use their feedback to help set your company’s goals.
+Backup Plan 
+— If you have to meet a VC for the first time while you’re raising, you should budget at least 4 weeks for the process. During that month you’ll need to spend a lot of time with them to ensure you like working together.
+Raise from Others First
+Why
+ — If your round is filling up, there’s a chance the potential lead VC may miss out. Raise enough and you won’t need a lead at all. VCs love a company that doesn’t need money and are less interested in those who are desperate.
+What to do 
+— In general, raise $100k-$250k, from smaller sources before trying to close your lead VC. You can encourage smaller investors to join the round early by 
+highlighting the limited space available
+, e.g. you can say “We expect a lead investor will take the rest of the round”. Be sure to talk to all kinds of investors, crowdfunding and venture debt interest can drive VCs to commit.
+Backup Plan
+ — If a smaller investor seems interested but won’t close, you can offer a slightly lower price for the first few yeses.
+Vigilance in Diligence
+Why
+ — VC attention is limited, if they have to wait for an answer to their questions, they may find another deal that is moving faster. Often VCs lose interest because of partial responses, e.g. you sent the deck and projections but not your customer churn data. In addition, VCs love investing in founders who know their own business well, this is your chance to demonstrate that, while testing if you like working with the investor.
+What to do
+ — Have common diligence items ready in advance such as: projections, hiring plans, contracts and demos. Once a VC is interested, ask what they specifically need to make their decision. Provide the responses within 24 hours and make any data’s conclusions explicit — don’t make them to hunt around for answers. Quick turnarounds on requests should be you and your team’s top priority.
+Backup Plan 
+— If you genuinely don’t have enough time to provide timely responses, delegate the process to another team member. However, being outside the diligence process can be dangerous; in-person meetings can go badly if you don’t have a strong grasp of the numbers.Closing a lead is an understandably daunting part of seed fundraising. If you plan in advance and apply the right process, you can dramatically increase your chances of finding the right lead investor for your seed round.This article is part of a series on Seed Fundraising:
+1. 
+How to Build a Deck
+2. 
+VCs vs Seed Funds vs Angels
+3. 
+How to get a Meeting
+4. 
+How to get Early Momentum
+5. 
+How to Handle an Angel Investor Meeting
+6. 
+How to Close the Lead Investor
+7. 
+When to Raise Money
+Thanks to Kaego Rust and David Smooke for reading drafts of this.Hacker Noon
+ is how hackers start their afternoons. We’re a part of the 
+@AMI
+ family. We are now 
+accepting submissions
+ and happy to 
+discuss advertising & sponsorship
+ opportunities.
+If you enjoyed this story, we recommend reading our 
+latest tech stories
+ and 
+trending tech stories
+. Until next time, don’t take the realities of the world for granted!

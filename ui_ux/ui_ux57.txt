@@ -1,0 +1,211 @@
+Getting started with UI motion design
+How workflow can change the way you designOur work at 
+This Also
+ mostly falls into two categories: 
+product design
+ and 
+product vision
+. For our product design projects, we work on existing products or platforms and design for near-term launches. We share detailed designs and scrappy prototypes early and often with our client to get the best product to the end consumer.
+Product vision work, on the other hand, explores what a product, or a platform, could look like in two to five years. The details are less important than presenting a compelling vision of the future. The final audience for this type of work is often an executive with limited time but the ability to make strategic decisions that will allow product teams to pursue innovative work.
+When tackling these types of complex products, a motion design can be a great tool to organize large teams around core concepts. We’ve found that being faster and more efficient with our tools has freed us to solve problems holistically. In this tutorial, I’ll share a little about how we’ve sped up our workflow to make motion an integral part of our design process. Over time, I’ve even found that I’ll use After Effects as the first tool on a project, since it can be one of the fastest ways to sketch out the structure of a product.
+There’s no shortage of great motion design and After Effects resources out there, and I’ll be sharing my favorites here (and in this handy 
+link pack
+). However, I found one of the challenges in developing a UI motion skill set is building a workflow and toolset that will have you working and iterating faster.
+This is not a how-to, but rather a blueprint of my favorite techniques, tools, and tutorials to help you develop your own practice. Some familiarity with After Effects is helpful, but I’ll also point you to resources help you to get started from scratch.
+Setting up your Photoshop File
+Organize your file before moving into After Effects
+If I’m just producing quick motion concepts, then I’ll sketch the UI using 
+solids and shapes
+ in After Effects. But for more polished designs, I always begin in Photoshop. It’s the quickest, most direct way to get a design animated quickly. If you’re primarily a Sketch user, 
+there is workaround involving Illustrator
+, but I’ll be focusing on Photoshop here.
+There are two simple but important things to know when setting up your Photoshop file:
+A layer or smart object in Photoshop becomes a layer in After Effects
+A group of layers or smart objects in Photoshop becomes a 
+composition
+ of layers in After Effects
+To make your After Effects timeline manageable, you’ll want to have as few layers and compositions as feasibly possible. To do this, you’ll need to start envisioning what elements require motion. Consider the following as you organize:
+Do I need to animate this component? 
+For a static component like a phone’s status bar, consider flattening all the UI elements into a single layer.
+Do I need to animate elements within this component?
+ Say you have a list of items. You may not only want to animate that list, but also animate each item in the list. In this case, I would create a group where each list item is a layer.
+Can I simplify this element? 
+A common technique is to use clipping masks and shape layers to crop images. Because this would create two layers in After Effects, combine the layers into a single smart object in Photoshop before importing.
+Top: Layers panel in Photoshop, Bottom: Timeline panel in After Effects after importing. The icon next to [Message List] indicates the layer is a composition.
+This is a tedious process with no concrete rules, but with enough experience you’ll learn how to quickly and efficiently organize your layers and groups for your own needs.
+Tip
+: Add a few empty layers to your Photoshop file before importing. While some changes to Photoshop files will appear in After Effects, there are limitations. The best way to add a new element is to add it to an existing, empty layer in your Photoshop file.
+Importing into After Effects
+Keep an organized folder and project structure
+When you import a Photoshop file into After Effects you’ll see the following:
+Always select 
+Composition — Retain Layer Sizes
+ and 
+Editable Layer Styles
+. This imports your file as a composition and includes access to any layer styles you’ve selected in Photoshop.
+Here, organization is key. After Effects does not play nice with missing files, and you won’t want to spend precious time relinking files. To save yourself a headache:
+Create a single folder for your entire project
+. Save your PSDs in a dedicated folder, such as 
+_PSD
+. When you create an After Effects project, save your project in that folder as well. You can create other folders other asset types like 
+_Audio
+. I use a “_” before my asset folders to bump them to the top of my finder windows above my After Effects project file (AEP) but follow any organization and naming conventions you normally do.
+Keep your Project panel in After Effects organized
+. As soon as I start importing, I start organizing. Create a 
+_Layers
+ folder and add your folder of Photoshop layers — you’ll rarely need to refer to this, mainly just for reloading or relinking of files. I move my imported compositions into a _
+Comps 
+folder.
+Lastly, you’ll want to adjust your Composition Settings for your purposes. When working purely with digital assets, and no video, I set the composition as follows:
+Generally, we deliver video at 1080p. Setting the Frame Rate to 
+60 FPS 
+provides a smooth animation and selecting 
+Square Pixels
+ ensures our Photoshop files appear 1:1 in After Effects.
+Organizing your workspace
+The essential panels and plugins for UI motion
+Because After Effects was originally developed for video post-production, there are hundreds more features available than you will ever need. Here are the default windows I keep open. Once you set up your workspace, 
+save it
+ so you can always return to your default.Plugins
+There are many plugins and scripts out there to accelerate your motion design and 
+AEscripts.com
+ is a great resource. Here are a few plugins I’ve found essential to my process:
+Ease and Wizz
+: For custom animation curves, you’ll want to 
+dig into the graph editor
+. But when roughly sketching motion for proofs of concept, you can rely on stock curves. This plugin allows you to add curves to layers in one click. 
+Here’s a short video to see all the curves in action.
+Motion v2
+: This plugin is a powerhouse. The features I turn to most often are the 
+speed
+ and 
+anchor
+ tools. The creator has also provided an 
+extensive plugin tutorial
+.
+pt_ShiftLayers
+: This provides quick way to stagger and shift layers on your timeline.
+pt_CropPrecomps
+: This is a more advanced concept, but when you import a Photoshop file with groups, the contents of the layers within the group will appear in After Effects on a canvas the size of the original file. This plugin crops the excess empty pixels for better control over your layers. 
+Here’s a handy video explainer
+.
+GifGun
+: One-click to create animated GIFs. While you won’t get a great render, I’ve found it very useful to share quick motion concepts with my team on Slack.
+Tip:
+ To be sure your plugins will work, open Preferences > General and make sure the box next to 
+Allow Scripts to Write Files and Access Network
+ is checked.
+Shortcuts
+Like any software program, mastering shortcuts will improve your speed and workflow. After Effects is a very tedious program to use with a mouse — you’re constantly twirling down properties, moving the playhead, adding keyframes, and so on. 
+Here’s a selection of helpful shortcuts to get started.
+Animating the UI
+Tutorials, resources, and tips
+As I mentioned before, there’s no shortage of great tutorials and resources out there. Here are just a few of my favorites to get you started:
+UX in Motion
+: 
+Issara Willenskomer
+ has written and produced the most content and tutorials specifically focused on UI animation in After Effects. From best practices to the nitty gritty of animating, he’s covered it all and is an indispensable resource to the community. In addition to his courses, his blog has a number of free tutorials. 
+If you’ve never opened After Effects, 
+his starter series
+ is a great place to start.
+Material Motion
+: UI motion design isn’t just about the tools, but also the principles and rules that govern your motion system. While specific to Material Design, the Material Motion guide provides an interesting framework to start thinking about how to approach your motion design.
+Motion and Meaning
+: A podcast about motion for digital designers brought to you by Val Head and Cennydd Bowles. 
+Check out this one on Animation and Accessibility
+.
+Transitional Interfaces
+: Pasquale D’Silva is an animator to know, and this is a great overview of the functional use of animation. He later 
+expanded it into this essential talk
+.
+Getting from A to B
+: A thorough discussion on 
+interpolation
+ from Marcus Eckert.
+Mt. Mograph
+: Matt Jylkka, the creator of Motion v2, has a great collection of After Effects resources. While the tutorials are not specific to interfaces, I’ve picked up many techniques and applied them to my own work.
+ECAbrams
+: Similarly, Evan Abrams provides a great selection of After Effects tutorials, including some more advanced concepts.
+Top 5 After Effects Expressions
+: I haven’t touched much on expressions here, but as you develop your skills they’re an essential way to accelerate your workflow. 
+Here’s my own quick reference of expressions
+ I find myself returning to often.
+Start with navigation
+Approach UI animation just like you’d approach UI design: think about the structure and flow of the product before diving into the details. While the specific animation techniques I use vary widely from project to project, I always start by roughly stringing together the core screens.
+The key here is to reduce dependencies. Say you’re animating a mobile app where you swipe from screen to screen. You may want to change the timing or order of your screens later without impacting the UI animation of each screen.
+To do so, make each screen a separate composition. There are three ways to do this: 1) import each screen as a separate Photoshop file, 2) create a group for each screen in your Photoshop file, or 3) 
+precompose
+ your layers directly in After Effects.
+Then, by arranging the screens side-by-side and 
+parenting each one to the first screen
+, you can animate the screens together by only adding two keyframes.
+Then, animate the details
+Once I have a good handle on the flow, I’ll start animating the details. Here are a few suggestions and resources for tackling this part of the process:
+Err on the side of less is more.
+ Remember, 
+your UI isn’t a Disney movie
+. 
+Dribbble
+, while a great source of inspiration, also requires a critical eye as many of the gifs are overdesigned and overanimated. Refer to 
+5 mistakes to avoid when designing microinteractions
+ for more on this.
+Keep things slow and steady.
+ The longer your work on a piece of animation, the slower the animation will feel to you — but it’s just your brain tricking you. I’ve often found myself speeding up an animation, only to show it someone who says it feels way too fast. It’s best to keep it a touch slower, especially for UI walkthroughs that will be presented to an audience unfamiliar with the work.
+Think outside the timeline. 
+Not everything need be keyframes and curves, and there’s often multiple ways to approach an animation. When animating a desktop dashboard that required dozens of constantly updating activity bars, I knew I didn’t wanted to manually animate each bar over the course of 30 seconds. I tried a few things, like 
+expressions and Slider Controls
+, but the fastest way to create all of these bars was to use the 
+Audio Spectrum effect
+ and play with the settings until I got a desired effect.
+Tip:
+ In you feel like After Effects is being a bit sluggish try this: Go to 
+Preferences > Media & Disk Cache
+ and select 
+Empty Disk Cache…
+ You can also try allocating more space to your cache if you have space available.
+Exporting
+Rendering and sharing your drafts and final pieces
+Like animating, there are many different approaches to rendering and exporting your work, and a lot of opinions on the “best” way to do so. You’ll need to consider your desired quality, output file type, time you have to render, and so on. 
+Here’s a high-level overview of how the basics of exporting.
+Quick Previews
+As you work in After Effects, you can preview your animation by using the shortcut designated in the 
+Preview
+ panel (often the Spacebar). However, I usually find myself wanting to get out of the After Effects program to watch my work and to share with my team.
+As I mentioned above, I like using 
+GifGun
+ to quickly share rough concepts and ideas. Sometimes motion design is an early part of our process — while working on a TV interface, part of our team worked in Photoshop to develop visual design, while I worked in After Effects to explore navigation concepts. Sharing gifs in Slack accelerated our team’s workflow and ideation.
+If I want to share QuickTime file but not spend a lot of time rendering, I can render at a lesser quality by adding my composition to the Render Queue, selecting 
+Render Settings
+ and choosing a smaller resolution.
+Final Renders
+Now, if you’ve ever played around in After Effects and exported a QuickTime file, you may have run into an issue where QuickTime has to convert the file, a process that consumes precious time. To solve this problem, you need to export the video using the H.264 codec.
+To do so, add your composition to the 
+Render Queue
+, click the blue link next to 
+Output Module
+. Be sure 
+Quicktime
+ is selected in the 
+Format
+ dropdown and then select 
+Format Options
+. From the 
+Video Codec
+ dropdown, select 
+H.264
+. After selecting OK twice, you’ll notice the 
+Output Module
+ now says 
+Custom: QuickTime
+. However, this will only apply to this render. To apply to all your renders in the future, you’ll want to create a custom Output Module Template. This isn’t a straightforward process, so 
+here’s a good overview tutorial
+.
+Once you get a handle on creating your own templates, however, you’ll be able to streamline your exporting process and spend less time in messing with the settings.
+Tip:
+ If you’re working on very complicated, long, or 3D-heavy animations and have access to multiple machines, you may want to consider 
+network rendering
+.These basic workflow principles will help you work more quickly and efficiently in After Effects. With enough fluency in the tools and methods, motion design can become a key part of your design process. Not only will you be able to produce polished, slick videos, but you’ll also have another tool at your disposal to tackle the challenges of UI design.
+Here’s a 
+link pack
+ of all the resources mentioned here.
+Got a favorite AE tutorial, resource, or tip? Share it in the comments!

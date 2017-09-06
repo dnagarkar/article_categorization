@@ -1,0 +1,52 @@
+Will UI Designers Be Unemployed Soon?
+2015 is probably the best time in history to be a UI Designer, but if you are one — It’s probably time for you to start thinking of your next steps.
+When the first iPhone came out in 2007, the demand for UI designers skyrocketed. Every team needed someone to design the hottest skeuomorphic apps. Plenty of conversations probably revolved around creating a realistic wooden bookshelf to make a certain app look just like real furniture.
+But as years passed and the world grew flatter and simpler, it became very clear — all the designer needs to do is to follow the rules. And the rules are very simple:
+Live by the 
+KISS principle
+Stick to the brand guidelines
+Make sure not to screw up the UX
+Got all of these right? Great job! You can work as a UI designer in a top tech company in the Valley, and earn plenty of money.
+But wait, just one thing… 
+If these are the only things that you do, why do we need you, actually?
+ I mean, someone already does the UX for the entire product, and we have all the components for any app ready in our design team’s “components” library. We just need to replace a few icons (we’ll take them from the icon set) and button texts and we’re good to go.
+Well, I’ll tell you my perspective as a UI designer:
+You better start thinking about new directions, or you’ll lose your job.
+And by new directions, I don’t mean change the rounded button to a squared one, because squared buttons were already designed millions of times by other designers. Yes, even with your original purplish-bluish brand color. There are other things you can do in order to stay relevant.
+The world is changing.
+We’re seeing more and more products in the categories of Internet of Things, Virtual Reality, Augmented Reality, Wearables and what else. Every new product is obviously a new job opportunity for developers, but also designers. Not necessarily UI Designers.
+What you need to think about it, is how your current skills can benefit them, and which skills are you missing to REALLY benefit them. Benefit them to the way of 
+“holy crap we need you, desperately, and we’ll pay you whatever you want”
+. After all, they probably just 
+raised $542M from Google and others
+, and they have to deliver amazing things or they’ll need to face some angry investors pretty soon.
+So let’s move to the good news: 
+If you already understand UI Design, it will be easier for you to sharpen your skillset.
+ Chances are you were already working with many experts in design subdisciplines and you already know what they do.
+So if you want to keep your UI Design job even after the apocalypse I’m talking about, you should start rethinking your direction.
+1. User Experience
+As a UI Designer, 
+you’re already in-charge of the User Experience
+ whether you like it or not, So you might as well be good at this. Every company needs someone that will understand the needs of the user and translate it into meaningful product insights. 
+A UX expert that comes from the design world is a golden asset.
+2. Interaction Design
+The way we interact with the computer was pretty standard until now but many companies are trying to change it, many times succeeding. Think about interactions in the different touch screens, wearables, VR Glasses and even the web. Working as an interaction designer in the next few years means you have an huge opportunity to 
+change the way people interact with technology.
+3. Software Development
+The world doesn’t need another “Should Designer Code?” article, but i’ll say this: 
+If you can code — It’s amazing
+, you can not only visualize your ideas, but also build them completely by yourself. You can talk with designers and coders in their native language, and become a huge asset for every company.
+4. Illustration
+As years go by I notice that the world’s best design teams, such as Mailchimp, Google and Facebook, are putting more and more focus on illustrations. 
+Illustrations are an amazing way for a brand to support itself with strong, visual messages. 
+Branding is not something that’s about to fade away.
+5. 3D Design
+I tried the Oculus Rift a few times. Everytime I did, I laughed, I yelled, I even nearly cried. It makes me believe both Virtual and Augmented Reality will be very big in the next few years. Companies are looking to exist there, which means they need a team that can design virtual worlds. If you have a strong visual perception, you can 
+get into 3D Design and be the god of the virtual world
+. Think about millions of people living inside whatever you design.Each one of the things I mentioned deserves its own article by itself. Obviously, you don’t need all of them, but if none of these interest you in any way, you should start thinking about a new direction for your career. Maybe consider switching to home interior or something. Because people will probably keep building homes even 10 years from now, but I’m not sure many people will still focus so much about the looks of the interface.
+So the problems we’re used to solve today become much easier to solve, yet still — new problems arise. They’re much bigger, and require some really talented creative folks to take care of them.
+You can be these creative folks.Published in
+ 
+#SWLH
+ (
+Startups, Wanderlust, and Life Hacking)

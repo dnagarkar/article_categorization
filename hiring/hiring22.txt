@@ -1,0 +1,171 @@
+Tech Hiring Has Always Been Broken. Here’s How I Survived it for Decades.Sahat Yalkabov recently ranted
+ about how broken tech hiring is driving him away from coding interviews. He echoed many of my own frustrations about both sides of the process, but more importantly, he shined a light on the fact that poor hiring practices aren’t simply bad for the company doing the hiring, but the whole community.
+How is Hiring Broken?
+Interviews are too random and arbitrary, and fail to tell you what you need to know about the candidate.
+Companies pass on qualified candidates who would have served them very well, which can cause them to extend their search for months, and cost tens of thousands of dollars.
+Junior developers frequently have a hard time getting a foothold in the industry.
+Your company may be overpaying for too many senior developers, and not hiring enough junior developers.
+Candidates get frustrated and leave the industry.
+Companies have fewer good candidates to choose from.
+These problems are all exascerbated by the typical whiteboard interview.
+Whiteboards are for Drawing, Not Coding
+There are several problems with tech hiring. Ironically, one of the biggest problems with the interview process is that the tech industry has been stuck for years using a very low-tech tool for code interviews: a whiteboard.
+I’ve written about this before, but it’s worth a brief recap of the problems:
+People don’t think or code linearly, from top to bottom, in neat lines
+. They put together blocks, frequently cut and paste, etc… On a whiteboard, that requires erasing, and that looks like a mistake. Of course, that makes the interviewee nervous, and it sends false signals to interviewers.
+People are strongly biased by visual cues
+. A candidate’s handwriting tells you absolutely nothing useful about whether or not they can code, but interviewers will interpret neatness, slanting of lines, and whether or not writing fits inside the confines of the available space to mean things that they don’t mean — even if they consciously try not to. There are even articles and manuals on interviewing that train people to look for meaning where there is none.
+Lots of people who perform well under normal circumstances bomb under the pressure of a whiteboard interview
+. Normally, you have access to Google and a keyboard. Nobody is timing and micro-analyzing your performance on an algorithm. In a whiteboard interview, you’re in unfamiliar territory, and essentially handicapped — deprived of all the resources you’d normally have on the job.
+Watching error feedback and making corrections is a critical skill
+. Whiteboards don’t alert you to syntax errors — everybody makes them, but interviewers tend to forget that when they’re looking for reasons to fail candidates. With running code, developers can spot and correct such problems quickly. Everybody makes mistakes — give candidates a chance to find and fix them.
+It is useful to know how a candidate will perform under pressure, but a job interview situation is already pressure. All you’re doing with a whiteboard is blinding yourself to the candidate’s ability to do the real job you’re trying to hire for.
+In short, unless you’re hiring somebody to solve algorithm problems on a whiteboard, don’t use a whiteboard to do it. All you’re going to do is introduce a lot of unfair bias and arbitrary limitations that the candidate will never face on the real job.
+Using a whiteboard to interview coders is like rolling a pair of dice and passing or failing the candidate based on the number it lands on.
+How to Get a Job
+Some quick advice for 
+Sahat Yalkabov
+, and anybody else looking for a coding job. 
+My agent
+ always negotiates with companies in advance and lets them know that I don’t do whiteboard interviews, but that doesn’t always work.
+After going through that process with a company who shall remain nameless, the very first interviewer tried to give me a whiteboard quiz. Before he even got his question out, I apologized and let him know I didn’t want to waste his time. We left without getting through a single question — and I’m very happy with the way that turned out. A company that doesn’t know how to recruit candidates effectively is not a company I want to work for.
+Always remember: It’s a candidate’s market. If you can code your way out of a paper bag, there are 200,000 other jobs waiting for you to apply. 
+You have all the leverage by default.
+It’s time hiring companies started acting like it.
+Please don’t let people put you through unnecessary BS.
+Before you schedule your first interview, tell the company 
+in advance
+ (feel free to copy and paste into an email):
+Thank you for your interest in me. This is an exciting opportunity! I think you’ll agree I’m a great fit for this position. I have relevant experience from <company, project> where I did <accomplishment>. I can do similar things for your team.
+A couple of points, in the interest of saving all of us time:
+1. I’m happy to let you watch me code, but I don’t code on whiteboards for job interviews. If I’m asked, I’ll use my laptop, instead.
+2. I haven’t done a CS algorithm refresher <in years | ever — I’m self taught>. If the position is heavy on any particular algorithms, I’m happy to brush up. Let me know what to study in advance so I can come prepared.
+If those points are OK with you, I’m really excited to arrange an interview. I clear a full day this week on <day 1, day 2, day 3>.
+Make yourself clear and stand your ground.
+ If the company still puts you in front of a whiteboard and delivers the CS algorithm lottery, politely pull out your laptop (
+always bring your own laptop
+) and offer to solve it that way. If it’s an algorithm you’re not familiar with, ask if it’s OK for you to Google it.
+If they say no, tell them, “normally I’d Google for common solutions before wasting a lot of company time on something like this, but if you want to pair on this with me and answer some clarifying questions, maybe we can figure it out together.”
+If they’re not willing to budge on the whiteboard or pair with you and help you reach a solution, that might be a great time to politely decline the job and excuse yourself before wasting any more of your time or theirs. 
+Bullet dodged.
+Remember:
+You’re not the only one being interviewed at a job interview. They need to impress you, as well.
+You want to know if this is the kind of company you want to work for. If their interview process is archaic and rigid, and your potential coworkers are more interested in stumping you and feeling superior than experiencing what it’s like to collaborate with you on a problem, that is a good signal that you may not be happy there.
+If we all band together, we can train companies to get better at working with candidates.
+How to Hire
+Finding candidates can be a challenge. If you’re hiring senior developers, I recommend reaching out to an agent instead of a recruiter. Agents:
+Are better at listening to your needs.
+Refer better candidates. All reputable agents work with the best talent, and 
+pre-screen their clients
+ with the best tech advisors in the business.
+Always refer hot prospects — never random people who may or may not be genuinely interested in a new job.
+Don’t charge the hiring company.
+See 
+“The Recruiter Plague: How Recruiters Have Broken Tech Hiring.”
+If you’re hiring junior developers, consider reaching out to coding schools and bootcamps. They’re always eager to help their alumni find work.
+Let’s talk about how you can improve at hiring candidates for your company. I have made all the mistakes myself. I’ve been on both sides of whiteboard interviews.
+Over the course of many years, I’ve adjusted the way that I hire, and I’m getting much better results today. I look for different things now.
+Early in my career, I did the CS questions on a whiteboard thing. Back then, everybody’s attitude seemed to be that language understanding wasn’t the important part. If the candidate had a good grasp of abstraction and algorithms, and could write them out in pseudocode, we could teach language syntax in a few days.
+As I moved up in the world and started hiring for more advanced roles such as team leads, startup CTOs and architects, that strategy fell apart. The thinking is true, but 
+only for junior developers coloring inside the lines
+.
+Senior roles require some specialization and mastery. You can be a senior polyglot, but your most valuable skills are your specializations.
+Hiring Junior and Mid-Level Developers
+I used to have a list of JavaScript stumpers I’d pull out, testing things like function hoisting, async timing tricks, variable scopes, and so on. The problem with those questions is that they cover stuff that junior developers can be quickly taught. A quick pair programming challenge is a better test for junior developers than any question about the language.
+Hiring junior developers isn’t about what they know now: it’s about their ability and eagerness to learn new things and grow into the role. I would have a totally different set of questions for junior devs:
+How long have you been coding?
+What have you learned and accomplished in that time?
+How did you get interested in programming?
+Do you have some current code samples I can look at?
+What are you doing to learn?
+What areas and technologies are you particularly excited about? Front end? Design work? Node? React?
+Are you interested in finding a mentor?
+Here are 
+13 tips for people learning to code
+.
+Hiring Senior Developers
+If you’re hiring a senior-level developer to work on a particular language stack and lay down architectural foundations, specialization and a deep understanding of that language will really go a long way. It takes at least a year — usually two or three — to get good enough at a new language to shape the architecture of an app well.
+I have 
+a list of questions every senior JavaScript developer should know
+. Those questions focus on the foundations that solid architectures are built on top of. If the candidate can answer those, chances are very good that they understand all the gotchas. Questions for senior developers will vary depending on the particular language stack, but they should concentrate on the very broad foundations of the language, including the fundamental programming paradigms possible in that language, and how they’re best applied to build flexible, extensible code.
+Seniors should have broad knowledge, the ability to pick up just about any language quickly, along with deep specializations that align with your needs. If the specializations don’t align with you, you’ll end up over-paying for their lesser developed broad skills.
+The One Question You Should Ask Everyone
+What you really need to know about the candidate won’t be found anywhere in 
+“Cracking the Coding Interview”
+.
+I think it’s a disgrace to the industry that books like that even exist. Do you want to know if the candidate has recently studied algorithms, or do you want to know if they can code?
+What I want to know is “does this person love to code?”
+You want to find out if a developer is passionate about coding in general? Try asking this:
+“What is the project you’re most proud of?”
+It can be something they did for an employer, or something they did on their own time… what you’re looking for is the spark in their eyes. How excited are they about it? Do they get more animated when they talk about it?
+Bonus: If they get excited while they’re explaining something to you, they will enjoy the interview more, and they’ll be more likely to say yes to your offer.
+Want to do the opposite and totally tank the interview? Go ahead and play the algorithm lottery.
+The Algorithm Lottery
+Asking random algorithm questions is equivalent to running an algorithm lottery. Which algorithms developers have memorized varies a great deal, and most of the algorithms you learned in computer science study get used very little on the job.
+Some of the best, most experienced, most productive developers would fail the algorithm lottery. They’ve been out of school for years. It may have been a decade since they last saw a merge sort. I know you spent a fortune on that degree. 
+I feel your pain
+, but please don’t take it out on your job candidates. You’re hurting your company as much as the candidates you torture.
+Most of the algorithms developers use on a day-to-day basis are built in
+ to the language or available in common libraries. Developers will get really good at commonly used idioms, which vary depending on domain specialties.
+Why not ask a few questions about those common domain idioms? Most development jobs today are front-end developer positions. If you’re hiring for front-end, why not ask the developer to hit the Instagram API and display images with a given hashtag in a responsive grid?
+If you’re looking for a junior or mid-level developer, don’t fail them if you need to help them out. Just hire them as a junior or mid-level developer and pay them accordingly with the understanding that they are going to 
+learn on the job.
+If you’re hiring your first developer, you should obviously look for a more senior developer who can help you build and mentor a strong core team.
+Don’t Touch the Whiteboard
+The best interview experience I have had in my entire career was for my very first programming job. The boss was giving me the tour and got called away unexpectedly. When he came back, I was helping developers on a real project. He hired me on the spot.
+If more interview processes worked like that, I think the world would be a much better place.
+The best way to prove you can code is to code.
+You want to know if a candidate can code? Ask them to code. For real. On a computer. Check out online pair programming environments like 
+CoderPad
+, designed for this purpose.
+Use a computer
+, and (optionally) a projector. Let the candidate use their own computer, if they have one with them. Many will bring their own laptops. If you’re doing the interview remotely, you’re already ahead of the game. I highly recommend remote working and remote interviews.
+Let them use Google
+ and don’t dock them for it, even if they’re looking up something that you know easily off the top of your head — or the exact solution to the problem you’ve asked them to solve — yes, really. If I had to implement a well-known algorithm in real life, the first thing I’d do is Google the algorithm, and you would, too, if you hadn’t used it in years (or ever).
+If they know how to search and find viable solutions quickly, that tells you something useful. Searching for solutions is a valuable skill that all software developers need.
+Keep the problem dead simple.
+ During an interview, the point of asking the candidate to code is just to see with your own eyes that they know how to code — not to try to understand the complete depth and breadth of the candidate’s knowledge. When I say “dead simple”, I mean dead simple. I’ve seen intelligent, experienced people choke on FizzBuzz under the pressure of an interview. Keep the barrier low.
+Here’s an idea: try reducing some common patterns in your own codebase to a very simple problem, then pair with the candidate (let them drive). Answer clarifying questions.
+Watch the code run
+. Different developers will come up with different solutions to problems. Many times, I’ve seen interviewers looking for a particular answer, and when they get a different one from the interviewee, they frequently think the interviewee is wrong, even when the solution is valid. On a computer, you can watch the code run, and prove whether or not it meets the requirements — and even prove which solution is more performant, which can lead to productive discussions about why one solution might be better than another, and what might make you chose one over the other.
+Speaking of watching the code run, if you take a few minutes to do some prep before the interview, you could set up a CodePen with some unit tests and ask the candidate to make the tests pass. See “keep the problem dead simple” above. Don’t try to trick them.
+Here’s an example pen. Feel free to steal it:
+A Culture of Learning
+We as an industry are way too hard on junior developers, and that’s costing your team money. A fresh bootcamp or university graduate needs to absorb their first year of experience with the frequent help of a guide — but too often, they’re thrown in the deep end, and shamed into feeling like they can’t ask too many questions.
+I’m a huge proponent of mentorship and pair programming for junior developers. All of your senior developers should spend a lot of time mentoring other developers, answering lots of questions, and doing lots of code reviews.
+Of course you’ll need the raw firepower of your senior devs to lay down some critical architecture, or write a core library that the juniors will use, but your senior developers shouldn’t be expected to have superhero ticket velocities. Instead, they are the leaders and guides, and their primary role should be to ensure that the rest of the team is always on track, and that no junior or mid level devs get stuck on anything for more than a few minutes.
+Give them plenty of time to make sure the rest of your team is productive.
+Always remember:
+The best way to be a 10x developer is to help 5 other developers be 2x developers.
+Conclusion
+It’s time for an attitude adjustment in tech hiring.
+Instead of looking for reasons to reject candidates, we need to look for reasons to hire them.
+Do they have a passion for learning?
+A proven ability to code?
+Do they believe in your company values?
+Are they interested in what you do?
+Could they hit the ground running on your team? If not, would they learn quickly and enthusiastically?
+If the answers to these questions are yes, hire them.Train Your Team with Lifetime Access
+to EricElliottJS.comEric Elliott
+ is the author of 
+“Programming JavaScript Applications”
+ (O’Reilly), and 
+“Learn JavaScript with Eric Elliott”
+. He has contributed to software experiences for 
+Adobe Systems
+, 
+Zumba Fitness
+, 
+The Wall Street Journal
+, 
+ESPN
+, 
+BBC
+, and top recording artists including 
+Usher
+, 
+Frank Ocean
+, 
+Metallica
+, and many more.
+He spends most of his time in the San Francisco Bay Area with the most beautiful woman in the world.

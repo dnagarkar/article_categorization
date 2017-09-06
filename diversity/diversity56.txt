@@ -1,0 +1,109 @@
+Silicon Valley’s Diversity Problem is Not a Myth
+Most of Silicon Valley agrees that lack of diversity is a problem, and overwhelming evidence shows that bias plays a role. However, some people have failed to be convinced by this evidence. Disagreement is healthy and important, but in order for it to be helpful, it requires people to make informed, thoughtful arguments. A recent Fox Business post by Steve Tobak, “
+Silicon Valley’s Diversity Myth
+,” provides a good example of a poor quality argument. A similar article appeared in Forbes earlier this year (although it was quickly taken down). There are basic standards that arguments (on this topic or any other) should meet in order to be productive, and certainly in order to be published in a mainstream outlet. The following are specific suggestions based on Tobak’s post.
+1. Personal opinions and experiences do not carry the same weight as decades of research
+Despite the fact that decades of research exist on barriers to diversity in the workplace and potential solutions, rather than citing this research, Tobak asserts that his personal experiences make him as qualified as anyone to objectively assess whether diversity is a problem in Silicon Valley.
+“having spent decades working in the tech industry with hundreds of startups, public companies, executives, entrepreneurs and VCs, I’m probably as qualified as anyone to take an objective look at what’s really happening here.”
+Tobak is not “as qualified as anyone” to take an objective look at what’s happening regarding diversity in the tech industry. Data collected in the tech industry and decades of research on the factors that contribute to a lack of diversity in the workplace and potential solutions — including research on implicit bias (for a review, see 
+Jost et al., 2009
+), belonging (
+Cheryan, 2012
+; 
+Cheryan, Plaut, Davies, & Steele, 2009
+; 
+Walton, Logel, Peach, Spencer, & Zanna, 2015
+), and the consequences of a culture focused on brilliance (
+Emerson & Murphy, 2015
+; 
+Leslie, Cimpian, Meyer, & Freeland, 2015
+) — can help people understand what’s really happening. As an educated person, Tobak is of course qualified to take an objective look at the data and reflect on it. That is not what he did in his article.
+2. Being a member of a majority group doesn’t disqualify you from contributing to the discussion on diversity, but failing to make an informed argument should
+Tobak believes that people may think he is not impartial because he is a man.
+“And while I’m sure the cynics will say that my anatomy precludes me from being impartial on the subject, I trust that fair-minded folks will at least hear me out. And for those with an axe to grind on this issue, try not to snap to judgment or quote me out of context with sensational headlines … the way you did to Moritz.”
+His gender does not preclude him from being impartial on the subject. In fact, many researchers in this field are men, including one of the leading researchers on implicit bias, 
+Dr. Tony Greenwald
+. It is the failure to objectively argue for his position using data that makes it impossible to take his post seriously. His arguments are inconsistent with reality, and he did not do even the slightest bit of homework to find out if his hypotheses were true. Rather than successfully arguing for his opinion, he simply laid out his own hypotheses, hypotheses which decades of research already contradict.
+3. It is problematic to fail to do research on hypotheses and then present them as facts
+Tobak makes a number of claims that contradict the data. He asserts:
+“From a moral, logical and experiential standpoint, it’s clear to me that Silicon Valley’s breakout success is to a great extent due to a colorblind, gender-blind, everything-blind culture of meritocracy that covets capability and values performance above all else.”
+So, what does the data actually say? Is Silicon Valley’s success, to a great extent, “due to a colorblind, gender-blind, everything-blind culture of meritocracy that covets capability and values performance above all else”? What would an argument look like that is supported by research, rather than feelings and one person’s experiences?
+The data show that Silicon Valley is not a meritocracy. Research shows that people hold implicit associations between certain groups and certain traits. These associations are based on stereotypes, and even when people are not explicitly racist or sexist, they affect decision-making (
+Greenwald & Banaji, 1995
+). For example, research shows that the exact same resume needs to be sent out to 50% more companies when that resume has a prototypically African-American-sounding name compared to when that exact same resume has a prototypically white-sounding name (
+Bertrand & Mullainathan, 2002
+). Similar bias exists with gender (
+Moss-Racusin et al., 2012
+). Bias exists once people enter the workplace as well. Research conducted in the tech industry specifically shows that women are interrupted more than men in meetings by both men and women (
+Snyder, 2014
+; for academic research on women speaking up, see
+ Brescoll, 2011
+) and receive significantly more personality criticism on performance reviews (
+Snyder, 2014
+). When women and underrepresented minorities are held to higher standards in interviews and in promotion decisions, that is evidence that bias exists.
+Not only is Silicon Valley not a meritocracy, but the view that it is might actually exacerbate the problem. Research shows that when a company is presented as meritocratic, managers’ decisions are more likely to be influenced by bias (
+Castilla & Benard, 2010
+). And people who believe that they are not biased are the most likely to have unconscious bias affect their decision-making (
+Uhlmann & Cohen, 2005
+). When we believe our decisions aren’t affected by bias, we are less likely to correct for bias. So, it’s likely that the culture of “meritocracy” in Silicon Valley is actually making things worse.
+He also suggests that good tech industry leaders will not focus on diversity because it will limit their critical competitive advantage.
+“And the tech industry’s leaders — at least the good ones — will not compromise their principles or standards in the face of increasing militant attacks intended to neuter that critical competitive advantage by the politically correct diversity crowd.”
+Many tech industry leaders are actively seeking to add diversity to their companies because they are compelled by the data that diversity will 
+give them
+ a competitive advantage. Research shows that diverse teams are more creative (
+McLeod, Lobel, & Cox, 1996
+), enhance the intelligence of individual members of a team (
+Sommers, 2006
+), and perform better financially (
+Dezso & Ross, 2012
+; 
+Richard, McMillan, Chadwick, & Dwyer, 2003
+). Companies like Google, Intel, Pinterest, Airbnb, and many many more, are actively working to add diversity to their companies.
+4. Anecdotes should not be used to make broad generalizations
+Relying on anecdotes to disprove research is a common theme in poor quality arguments. In this particular article, instead of relying on the decades of data showing that discrimination and bias undoubtedly exist in the workplace, Tobak uses anecdotes to make broad generalizations.
+“Let’s try to look at that logically, if just for a moment.
+Does it make any sense whatsoever to think that Apple’s Tim Cook, who is openly gay, Facebook’s Mark Zuckerberg and Sheryl Sandberg, who wrote “Lean In,” and Google’s Larry Page, who hired and promoted Susan Wojcicki (CEO of YouTube) and Marissa Mayer (former Google VP and now CEO of Yahoo), are running institutionally biased and sexist company cultures? Don’t be silly.”
+Research shows that bias is based on societal stereotypes, not on whether a particular person is a member of a stereotyped group. Members of underrepresented groups are also prone to unconscious bias, even against members of their own groups. This can be counterintuitive to people unfamiliar with this area of research, but it’s a clear and well-established fact (learn more at 
+implicit.harvard.edu
+). So yes, it makes complete sense that these leaders would run companies that are affected by bias and sexism.
+Tobak is also relying on exceptions to the rule, by implying that because these leaders have succeeded, institutional barriers don’t exist. Of course, one person succeeding from a group does not mean that that group is free from experiencing bias. The result of bias is that, 
+on average
+, one group experiences worse outcomes than another group. It is deeply flawed reasoning to think that the success of few means that discrimination and bias don’t exist.
+5. Making spurious and irrelevant claims is irresponsible
+Tobak insults his readers’ intelligence by making spurious claims. He asks:
+“Does it make any sense to suggest that the entire tech sector and the venture capitalists that fund them are all biased and sexist? If so, that would have to be the irony to top all ironies. In case anyone’s a little foggy on the geography of the region, Silicon Valley is part of the San Francisco Bay Area, perhaps the most liberal metropolis in America.
+If Silicon Valley leaned any further to the left, it would plunge into the Pacific Ocean.”
+Of course it makes sense. Both liberals and conservatives can be racist or sexist. Additionally, even people who have the best intentions — who are not explicitly racist or sexist — can hold biased stereotypes. Because we are human, we are aware of stereotypes that exist about certain groups. When unconscious bias affects decision-making in the workplace, it is because of implicit associations we have developed, not because we are 
+trying
+ to be racist or sexist.
+Tobak also claims that because antidiscrimination laws exist, there must not be bias.
+“Besides, antidiscrimination laws have been on the books for six decades, now — longer than most of us have been alive. Does it really make any sense to believe that Apple, Google, Facebook, and venture capital firms like Sequoia and Kleiner Perkins risk negative press, public backlash, and litigation by discriminating? Of course not. That’s ludicrous on its face.”
+Despite these laws being on the book for decades, discrimination still exists. We also have decades-old laws outlawing crimes, but of course people still commit them. Additionally, because research shows that much of our bias is unconscious, people often don’t realize that their decisions are affected by bias. Most people have good intentions, and some may be actively working to mitigate bias in decision making. But, unfortunately, bias still comes into play.
+6. Good writing should tell a complete story
+Tobak does make one point that is partially true.
+“Or maybe, just maybe, this overwhelmingly consistent data really is the result of a supply or pipeline problem — that the hiring pool is very small because there are far fewer women than men in STEM (Science, Technology, Engineering, or Math) fields — as Moritz suggested. Nah, that would be too logical, too obvious … and not nearly as controversial.”
+It’s true that there are fewer women in STEM than men. However, people from underrepresented backgrounds are better represented in STEM programs than they are in technology companies. For example, while 4.5% of bachelor’s degrees in computer science or computer engineering are African American and 6.5% are Hispanic, at many Silicon Valley companies, only 2–3% of technology workers are people of color (for more, see this 
+USA Today article
+). If the problem were simply in the educational pipeline, people would be represented at an equal rate in companies as they are in the programs from which these companies hire.
+The six qualities above are common in poor arguments. It is important to correct the flawed assertions of Tobak in this particular case, and in general, we should all hold ourselves and others to higher standards of evidence when making an argument.
+References
+Bertrand, M. & Mullainathan, S. (2002). Are Emily and Greg more employable than Lakisha and Jamal? A field experiment on labor market discrimination. The American Economic Review, 94, 991–1013.
+Brescoll, V. L. (2011). Who takes the floor and why: Gender, power, and volubility in organizations. Administrative Science Quarterly, 56, 622–641.
+Castilla, E. J., & Benard, S. (2010). The paradox of meritocracy in organizations. Administrative Science Quarterly, 55, 543–576.
+Cheryan, S. (2012). Understanding the paradox in math-related fields: Why do some gender gaps remain while others do not? Sex Roles, 66, 184–190.
+Cheryan, S., Plaut, V. C., Davies, P. G., & Steele, C. M. (2009). Ambient belonging: how stereotypical cues impact gender participation in computer science. Journal of Personality and Social Psychology, 97, 1045.
+Dezso, C. L, & Ross, D. G. (2012). Does female representation in top management improve firm performance? A panel data investigation. Strategic Management Journal, 33, 1072–1080.
+Emerson, K. T., & Murphy, M. C. (2015). A company I can trust? Organizational lay theories moderate stereotype threat for women. Personality and Social Psychology Bulletin, 41, 295–307.
+Greenwald, A. G., & Banaji, M. R. (1995). Implicit social cognition: Attitudes, self-esteem, and stereotypes. Psychological Review, 102, 4–27.
+Jost, J. T., Rudman, L. A., Blair, I. V., Carney, D. R., Dasgupta, N., Glaser, J., & Hardin, C. D. (2009). The existence of implicit bias is beyond reasonable doubt: A refutation of ideological and methodological objections and executive summary of ten studies that no manager should ignore. Research in Organizational Behavior, 29, 39–69.
+Leslie, S. J., Cimpian, A., Meyer, M., & Freeland, E. (2015). Expectations of brilliance underlie gender distributions across academic disciplines. Science, 347, 262–265.
+McLeod, P. L., Lobel, S. A., & Cox, T. H. (1996). Ethnic diversity and creativity in small groups. Small Group Research, 27, 248–264.
+Moss-Racusin, C. A., Dovidio, J. F., Brescoll, V. L., Graham, M. J., & Handelsman, J. (2012). Science faculty’s subtle gender biases favor male students. Proceedings of the National Academy of Sciences of the United States of America, 109, 16474–16479.
+Richard, O., McMillan, A., Chadwick, K., & Dwyer, S. (2003). Employing an innovation strategy in racially diverse workforces: Effects on firm performance. Group & Organization Management, 28, 107–126.
+Snyder, K. (2014, July 23). How to get ahead as a woman in tech: Interrupt men. Slate, Retrieved from: 
+http://www.slate.com/blogs/lexicon_valley/2014/07/23/study_men_interrupt_women_more_in_tech_workplaces_but_high_ranking_women.html
+Snyder, K. (2014, August 26). The abrasiveness trap: High-achieving men and women are described differently in reviews. Fortune, Retrieved from: 
+http://fortune.com/2014/08/26/performance-review-gender-bias/
+Sommers, S. R. (2006). On racial diversity and group decision making: Identifying multiple effects of racial composition on jury deliberations. Journal of Personality and Social Psychology, 90, 597.
+Uhlmann, E. L., & Cohen, G. L. (2005). Constructed criteria: Redefining merit to justify discrimination. Psychological Science, 16, 474–480.
+Walton, G. M., Logel, C., Peach, J. M., Spencer, S. J., & Zanna, M. P. (2015). Two brief interventions to mitigate a “chilly climate” transform women’s experience, relationships, and achievement in engineering. Journal of Educational Psychology, 107, 468.

@@ -1,0 +1,112 @@
+Some Notes on Hiring and Being Hired in the Tech Industry
+One of the most painful parts of interviewing at tech companies that I’ve experienced is how common it is for teams to not know what they’re looking for. Hiring is very far from being a solved problem in the tech industry, it seems.
+I’ll admit that to have some level of disagreement amongst teams about open roles and responsibilities is healthy (yes, dissent!), but if I’m telling hard truths (a thing I do), I’d say that what I’ve experienced while searching for full-time employment, with the exception of just a few teams, was surprisingly not so great.
+Based on my experience over the past several months, I’ve come up with a few ways for companies to improve their hiring processes…How companies can be a little more kind to candidates:
+Have a clear understanding of, and a consensus around, the skill-set you’re looking for.
+I will say that the best way, in my opinion, to respect the time, and subsequently the stability, of your candidates is to start with a clear idea of what you’re looking for. There should be a clear consensus about the role you’re hiring for, as well as regarding the skill-set needed to succeed in that role. Check these things off your list before you begin your search for the perfect candidate.
+Develop an efficient hiring process and be responsive and communicative.
+Consider that when you leave a candidate hanging (double your concern here if you’re looking to hire a diverse team) some people 
+literally
+ can’t afford to be left out of the loop. If you want your hiring process to be truly inclusive, you need to accommodate people with different backgrounds, socio-economic classes, as well as people with families, disabilities, and health conditions. And a lot of being accommodating means keeping an open line of communication with candidates and being candid about timing and decision-making processes.
+Don’t make your candidates pay for expenses out-of-pocket.
+Yes, time is money. But so is… money. As someone who has experience booking travel accommodations for others, I 
+know 
+that it’s possible to pre-pay almost all travel and lodging expenses. If you’re flying someone out to interview with your team, try not to unknowingly force your candidates to front 
+any
+ money for their accommodations. Or, at the very least, come up with an easy and efficient way to reimburse candidates for the cash they dish out to interview with your company.
+It’s also important to 
+communicate
+ these things before a candidate comes to interview, so they can plan and/or budget for their trip.
+Transparency is 
+everything
+.
+Sure, there are legal boundaries around telling a candidate why you can or can’t hire them. But increasing the transparency around, let’s say, whether you’re interviewing other candidates for the position, what you’re looking for in a potential hire, and/or 
+when
+ you’re looking to make a decision will all help set better expectations with the people you interview and avoid resentment or bad blood between you.
+Beyond merely being 
+kind
+ to candidates, another important thing to address with your team is how bias affects your hiring process. There’s a growing body of research dedicated to deconstructing unconscious bias in the workplace, all of which is worth examining closely before you start filling out your pipeline. 
+In fact, if you’re a hiring manager, I would go as far as to say it’s your responsibility to build a hiring process that is fair and balanced with consideration to unconscious bias.
+ You can start with this talk 
+“Unconscious Bias at Work”
+ by Ken Norton.
+Now, for interviewees looking for something new, here’s a few things to consider before you start the sometimes long and arduous journey to your next big thing…How candidates can ease the search:
+I recently got to sit down with 
+a friend and someone I consider a mentor
+ to chat about life and what was next for me. When I told her I was starting to interview with a handful of companies that had reached out to me, she recommended I take a step back and consider what I wanted out of my next job. “You want to be on the offensive” she told me.
+I actually hadn’t considered this. Maybe I wasn’t having very much luck because I’d only gone after things that had fallen into my lap or into my inbox and I hadn’t been aggressive or 
+intentional
+ enough with my search.
+She advised me to sit down and think about not only the size of the company I wanted to join, but what kind of problem I wanted to solve, and where I wanted this job to take me.
+“Think of it as being an investor in the next company you join, because you totally are one. You’re investing your time, your energy, and your talent.”
+This was probably the most formative piece of advice I received during my hunt and going forward, I made a list of requirements that my next job had to fulfill for it to be worth me investing in:
+I want to work at:
+ A medium-sized, fairly established company (post series-B) or a small, focused team at a startup.
+I want to work on: 
+A
+ 
+problem or product that hasn’t yet been solved or where I can touch a bunch of different aspects of experience design, across multiple platforms.
+I want to work with: 
+A diverse team where women are hired into leadership positions.
+I want to work toward
+: A design management role.
+One of my biggest concerns while interviewing was that I would make the wrong choice and either wind up in a position where I’d be hired to defend a company’s culture or working in an unhealthy environment (again). Sitting down and defining the things that mattered the most to me made the decision to join a new team a 
+bazillion
+ times easier.
+Give in to the process
+Waiting to hear back from a company, especially if they’ve gone silent, is probably one of the worst parts of interviewing. Or at least it was for me.
+After a few panicked messages to 
+a friend
+ while waiting to hear back, he replied to me with this helpful note:
+“The key is to know that the process itself is meaningful work.”
+Try to keep this in mind when you throw yourself into interviewing.
+Don’t waste your time wondering.
+Throughout this process I found myself reflecting on my interviews and trying to guess what I did right and wrong and whether or not I could have done things differently. And the truth is, I really didn’t have the time to.
+Interviewing is a huge investment of your time and if you’re like me and you have very little cushion to work with, sometimes you just gotta keep it moving.
+A small note on self-care: Try to remember to be kind to yourself. The world may not always know when you deserve a break, but you do.
+If you’re lucky, you’ll make some friends along the way.
+I’m so, so thankful to the team I contracted with last who were super supportive and understanding about me taking time to interview and to take care of myself.
+Shout out to 
+PJ McCormick
+ & the Browse UX Team @ Amazon for their patience, support, and for providing a positive work environment for me during some pretty big life changes.
+OK, so who’s hiring?
+Here’s few teams whose rad-ness I can personally vouch for:
+Chain
+18F
+Etsy
+Slack
+Pivotal
+Mode Analytics
+And I also tweeted to ask if anyone who follows me is hiring 
+and
+ wanted some help getting the word out. Here’s a compiled list of companies from people who replied to my tweet:
+Weebly
+Big Viking Games
+Amazon
+MicroEdge
+Marvel
+Khan Academy
+AeroFS
+WillowTree
+Stack Exchange
+Massdrop
+nclud
+Nylas
+iStrategyLabs
+Jukely
+Canonical
+Axiom Zen
+Emma
+Microsoft Edge Dev
+Indiegogo
+VSCO
+Chartboost
+Mattermark
+Loungebuddy
+Soundcloud
+Digital Ocean
+Vimeo
+Venmo
+The Working Group
+Pinterest
+Happy hunting, Internetters!

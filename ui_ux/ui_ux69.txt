@@ -1,0 +1,75 @@
+New to UX Design? Feeling Overwhelmed?
+Here’s some helpDid you read that Sidebar article about UX Writing?
+Did you see the new augmented reality software that Apple created?
+Have you seen Android’s new design pattern?
+Did you see the latest Google I/O talks?
+Have you read ‘Hooked’ ?
+You been on Dribbble lately?
+Did you complete that online UI course with Design Labs?
+Did you see the latest intercom podcast with Julio Zhuo?
+Have you joined The Designership’s Slack room, it’s such a great resource for designers?
+Did you see the latest interview article with Interface Lovers?
+How is your side project going?
+Are you going to the meet up tonight?
+Have you finished your portfolio?
+Did you write that Medium article you were talking about doing?
+Did you see that new prototyping tool that just came out?
+arghhh…
+…there’s a lot to keep up with isn’t there?
+Feels a bit overwhelming?
+You’re not alone
+ 🤓Feeling overwhelmed is normal
+It can be overwhelming when you start in UX design. There’s so much to learn, so much new stuff to keep up with. Things move fast, there’s new information and new tools all the time. I tried to get my head around everything for a while, but it was too much. The more I tried to do the more I struggled, my brain got foggy.
+Larry Kim
+ wrote a great 
+article
+ on 
+‘How multitasking is killing your brain’
+Multitasking has also been found to increase production of cortisol, the stress hormone. Having our brain constantly shift gears pumps up stress and tires us out, leaving us feeling mentally exhausted.
+(Larry Kim)Find your focus with chunking
+Stress and anxiety comes from a feeling that we have an impossible number of things to do. Don’t worry too much about keeping up with everything. Find the areas you like to focus on, and have a daily routine of keeping up with those areas.
+Chunking
+ is the grouping together of those focus areas into well-sized pieces. By doing this your mind will relax, and you’ll position yourself well to complete your goals.
+I had a period of focusing on Android and its material design patterns. I then studied user interface design as I wanted to improve in that area. From there I focused more on the UX process. Currently, I’m pushing myself into the world of UX/content writing.
+Chunking things relaxes the mindStart capturing what you want to do
+To start the chunking process, you need to start 
+capturing. 
+This is the process of getting all the ideas in your head noted down. This could be on paper, computer, phone or whatever suits.
+Note down everything you want to do this week. This could be reading design articles, going to a meet-up, learning more about Sketch or reading a few chapters of a design book.
+Important tip:
+ Most people can only focus on a limited number of things at one time. Focus on 2–3 areas to get started, remember these are learnings out of work time so keep it manageable.
+Get you goals out of your head and noted downFind the commonalities
+You’ve captured all your things you want to achieve, now you need to look for 
+commonalities. 
+What items relate to reading, or studying, or learning design tools, etc.? Group these together and you have the areas you want to work on.
+Once you’ve chunked your tasks together, it’s easier to see what you need to do for the week. When you focus on the bigger picture your goals are much easier to digest. You’ll start to feel more inspired when you have control of them.
+When we change our focus we change our lifeHow to get the chunks done
+There are many ways you can get your chunks done, here are few technique’s I use.
+Make More Time Technique- 
+This is not an official technique but it’s one I use first. It allows me to set out how many hours per week I have to do design related learning. It involves making more time in your day by sacrificing something.
+You have your chunks, you know how many hours you can use for the week. Now you can work out how you’ll use these hours:
+Most Important Tasks Technique- 
+This prioritises the chunks from the most to least important, you then work through them in that order.
+Do It Until It’s Done Technique- 
+This is when you take a chunk and work through it all until it’s done. I use this technique for articles I write on Medium.
+The Pomodoro Technique
+- 
+This is a way of time boxing developed by Francesco Cirillo in the late 1980’s. The technique uses a timer to break down chunks into intervals. These intervals are around 25 minutes in length. I use this method to read articles on design each morning.Create a habit
+If you want to learn design without feeling overwhelmed you need to break things down. Once you do this you’ll be motivated to learn with less distraction. The next step is to 
+create a habit
+, this is when change happens. Getting through manageable chunks on a daily basis gets you a long way.
+Take your time, take a step back, collect your thoughts and organise them. Get tough on yourself and make time, create a habit.
+Tip:
+ Don’t worry about what other designers are doing. It only really matters what you’re doing to learn, so focus on your stuff.
+Motivation gets you going and habit gets you there.
+(Zig Ziglar)How do you manage your time?
+How do you keep up with everything that’s going on in the world of design? Would love to hear your ideas on how UX Designers can manage their daily learnings.If you enjoyed this, have a read of my other UX articles:
+New to UX Design? Feeling Overwhelmed?
+Writing for the Web: How To Be Well Prepared With This Great Checklist
+UX Writing: How to do it like Google with this powerful checklist
+UX Design For Your Life
+24 Ways to Look Like an Awesome UX Designer
+51 Research Terms You Need to Know as a UX Designer
+53 Tech Terms You Need to Know as a UX Designer
+How to become a UX Designer at 40 with no digital or design experienceWorth reading?
+Please click the 💚️ below and leave a comment to help others find it. Thanks for reading.

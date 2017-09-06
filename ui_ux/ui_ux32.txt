@@ -1,0 +1,30 @@
+Motion Design is the Future of UIHave you been noticing the words ‘motion design’ popping up around the design world? Companies big and small are starting to hire designers specifically with this title. Google recently gave a talk at its 
+I/O conference
+, outlining the motion language that will be standardized across Google’s product line.
+So what is all the fuss about? And why does it matter? 
+Motion tells stories.
+ Everything in an app is a sequence, and motion is your guide. For every button clicked and screen transition, there is a story that follows. For example, lets look at how animation can help when creating and deleting items.
+Deleting an item is a dramatic and a destructive action, so make it respond appropriately. Don’t just make the item disappear with a binary action. Throw it off the screen or send it back into the depths of your phone to become digital dust.
+Creating a new item should be just as lively, you have after all, just willed it into existence. Make it pop or bounce onto the screen. But don’t go overboard, its the subtle and thoughtful animations that are the most effective.
+So is motion design all about making things bounce around on the screen? Far from it. Not only is motion becoming increasingly important to interface design, it’s starting to drive the entire UI. Can you imagine Facebook designers presenting their iOS Paper app as a static layout? It would look pretty lame. It’s not until you see all the components in motion that the interface even makes sense. The animation is the UI.
+Reinforcing Spacial Relations
+Each screen within an app needs a home, somewhere it can live so a user can call on it at any time. If a screen slides in from the left, then dismisses toward the bottom of your screen, do you get it back from the bottom? Did it delete? Take the example below of Casts, an iOS podcast app. The structure on the left brings the “Now Playing” page up from the bottom, then sends it flying toward you when dismissing, only to pop-up again from the bottom of the screen.
+Quite confusing, right? Now compare this to the new motion language that was introduced in their app a couple weeks ago. By keeping the entrance/exit animations consistent, we know exactly where the page lives and can easily find it when needed.
+Motion Confirming Actions
+Motion will also reinforce the actions a user is preforming. When deleting an object, it can blur and fly back in z space, signaling its now removed from the app. Actions like sending an email can slide the completed message off the top of the screen to reinforce the ‘sending’ action.
+Password animations can be greatly enhanced with some animation. If a password is entered, a simple ‘nod’ animation can be introduced upon completion. Whereas a horizontal shake can be used when denying a password. These gestures are so recognizable they’ve become the primary feedback to confirm your action. The ‘incorrect password’ prompt becomes the support for the animation. In some cases, we could even ditch the text completely, relying on our animations to provide user feedback.
+Hiding Perceived Latency
+Need to load some assets without your user noticing? You can easily mask short bits of delay, also referred to as latency, with playful animations. When loading an audio file across the internet, there will always be a bit of a delay until the stream kicks in.
+Instead of your play icon going straight to a loading sequence after a selection, create a simple animation that transitions into your pause icon. If the file loads within this time, the user won’t perceive a delay in loading the file. The animation momentarily distracts the user while the backend is working. Any way you can avoid showing a loading status will make your app appear much faster.
+The same loading animation style shown loading instantly, a short load, and long load. The middle animation gives us three quarters of a second to load our assets while barely getting into the ‘loading’ animation.
+Creating a Motion Language
+Creating a motion language for your application will reinforce your brand and give it personality. Is it bouncy and fun? Secure and heavy? Smooth and professional? The animation will compliment your design and brand identity. Don’t fall into the trap of having your app feel the same as every other out-of-the-box design.
+Be sure to keep these ideas in mind when crafting your next interface. Motion design is a powerful tool to keep your users oriented in your app. It can work wonders on monotonous tasks, like entering a password or scrolling through lists. How often do you unlock your iPhone or scroll through text messages just to play with the animation? You may not even be aware you’re doing it. Users now expect fluid interfaces that respond to touch. Your designs come alive when they respond to touch and deep connections are made when they respond in delightful ways.
+Next Steps
+Ready to learn how to create these beautiful animations? Check out my blog and Motion Design course at 
+The Kinetic UI
+. And visit 
+App Animation
+s for a gallery of beautiful iOS animations.
+-
+This article was written by Craig, a UI & Motion Designer, formerly on the Human Interface team at Apple. Now teaching others how to artfully blend UI and animation.

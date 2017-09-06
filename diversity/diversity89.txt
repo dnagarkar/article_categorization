@@ -1,0 +1,19 @@
+LinkedIn: A Lesson in Why Diversity Efforts Can’t Be Siloed
+Over the past year, a number of technology companies have decided to 
+hire leaders 
+to manage their diversity and inclusion efforts. I’ve generally believed this is a good thing — without people whose job it is to identify the factors limiting inclusiveness; design strategies, tools, and programs to address those factors; and partner with employees cross-functionally to support in the execution of strategies, diversity and inclusion typically falls to the bottom of a long list of priorities. When someone is in charge, it’s more likely that employees will be held accountable, and we know that 
+accountability is key
+.
+Part of what companies should hope to accomplish by having dedicated staff focused on diversity and inclusion is a positive impact on their products. This week, LinkedIn launched
+ a new tool
+ aimed at helping companies identify “rockstar” employees, and hire “copies” of their current workforce. For anyone who knows anything about diversity and inclusion, this language is anathema. When the word rockstar, for example, 
+appears in a job description
+, women are less likely to apply. As the CEO of 
+Gainsight
+ Nick Mehta explained to me, the word “perpetuates the thinking that some people are just inherently superior to others.”
+Perhaps worse than the term rockstar is the encouragement of companies to hire “copies” of current employees. At Paradigm, when we work with companies we actively encourage them to 
+avoid
+ hiring “copies” of their current employees. We push them to move away from saying things like “we need to hire another so-and-so,” and to recognize that creating a great company is about building the best teams, not just hiring the best individuals. As a wealth of research has shown, the strongest teams are made up of 
+people who are different
+ from one another.
+The development of this product, and the words used to describe it, reflect a complete lack of awareness on LinkedIn’s part about best practices for building diverse and inclusive organizations. This is particularly disappointing given that the company has a Director of Global Inclusion, a Diversity Recruiting Lead, and external experts that it consults on this subject. LinkedIn’s release of this product highlights the problem with diversity and inclusion efforts being siloed. As long as these efforts don’t interact with the design and development of products, we can expect to see more companies build tools that undercut the work so many people and organizations are doing to make this industry a more welcoming and inclusive place.

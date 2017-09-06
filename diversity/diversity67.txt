@@ -1,0 +1,33 @@
+How Do People Really Feel About Diversity in Tech?
+Diversity has been a hot button topic in the tech community over the past few years. There is a certain awkwardness and fear in talking honestly and openly about gender, race, class, and faith—and this, of course, isn’t a reality confined to the tech community. It’s a sensitive topic because the roots of diversity (or lack thereof) and inequity are so complex. There are no easy and fast solutions to challenges like unconscious bias, tokenism, and workforce equality.
+But, it’s important to have candid conversations about the overarching topic of diversity, which runs much deeper than gender or skin color. The more we talk about it, the more we bring perspective and transparency to a topic that so desperately needs to be not only addressed, but substantially improved.
+The seven podcast conversations below give us a starting point—for awareness, competence, and ultimately, diversity resolution.1. Product Hunt Maker Stories: Tracy Chou
+Tracy Chou, a star software engineer at Pinterest, sat down with Product Hunt to talk about her experience as both a woman and Asian in tech, how she evaluates who she spends her time with (and why), and what she thinks about having a social impact beyond tech. Tracy’s passion for 
+improving diversity transparency
+ and exposing the (often uncomfortable) 
+realities of being an Asian woman
+ in tech shines through in this podcast episode.2. The Kara Swisher Interview: President Barack Obama
+Uh, 
+Kara Swisher
+ is a boss. And her boss-ness comes through in this classic interview with President Barack Obama. The two cover diversity in tech hiring, as well as a variety of other topics including: cyber warfare, the White House’s relationship with Silicon Valley, and (of course) Obama’s favorite gadgets. You can watch the video 
+here
+.3. Two Black Nerds Podcast
+The hosts of TBN, 
+I. Romeo Kwihangana
+ and 
+Iheanyi Ekechukwu
+, share their thoughts and opinions on the state of diversity in tech in this podcast episode. They cover college diversity, female representation and talent in the tech industry, and the founders that never get talked about. The value in this conversation is listening to two friends engage honestly about topics that often don’t get covered by many other podcasts or media outlets.4. Diversity in Venture Capital with Christine Tsai
+In this episode of The Full Rachet with host Nick Moran, you’ll hear from Christine Tsai from 
+500 Startups
+. They cover: 
+The Information’s Future List
+ study, Christine’s advice for firms that are underperforming on the list, and overall diversity trends in venture capital. It’s a great conversation related to a specific segment of diversity in tech: investors.5. The Elephant in the Valley
+Former Kleiner Perkins Caufield & Byers partner Trae Vassallo and former Yahoo exec Michele Madansky sit down with Kara Swisher to talk about “
+The Elephant in the Valley
+,” their new report on gender bias and harassment in tech. The report examines the different facets of sexism through both data and anecdotes from hundreds of women.6. Gimlet Media’s Diversity Report
+Gimlet CEO Alex Blumberg leads a brutally honest conversation about diversity. This podcast covers unconscious bias, targeting vs. tokenism, race, gender, faith, and more.
+Product Hunt’s Ryan Hoover sums this podcast episode up nicely: “I applaud Alex for publishing an episode on diversity, because it’s such a sensitive topic. know many white males are especially nervous to participate in the conversation, afraid to accidentally offend someone. I’ve seen white men criticized in public when speaking on the subject, even though their intentions are authentic and pro diversity.”7. ReplyAll: Raising the Bar
+This is a fascinating deep dive into the complexities of the diversity problem in tech. You’ll hear from several people on their personal experiences as minorities in Silicon Valley—and how one founder is asking a new set of interview questions to build a more diverse, highly talented team.
+UI/UX Lead Designer Alex Romero says, “I can personally relate with this episode. As an Hispanic product designer, my path has been very different than my colleagues, such as having parents that do not speak much English. This has been a strength because I am emphatic to the millions of immigrants who use phone apps like WhatsApp but are ignored by hundreds of apps that fail to add a ‘choose your language’ setting. Many of these problems are simple to solve, but are never addressed. I’m glad to see minorities represented alongside women in these conversations about diversity in the workplace.”Looking for more apps, podcasts, and books that further explore the topic of diversity in tech and beyond? Check out the full collection 
+on Product Hunt
+:

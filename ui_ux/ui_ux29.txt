@@ -1,0 +1,154 @@
+The Future of Conversational UI Belongs to Hybrid Interfaces
+2016 is the year of everything conversational. Messaging apps are taking over the world and app store rankings with incredible retention and engagement rates. Every community, marketplace, on-demand service, dating app, social game or e-commerce product has or will soon have messaging as part of the experience to drive retention, engagement and transaction volume.
+With all this activity there has been a lot of discussion around conversational UI and how the pattern of communicating with people and computers is blending in messaging or voice interaction with simple commands, and simple, mostly textual responses, occasionally paired with a photo. As much as I like text and photos, there is a much broader, unexplored potential in blending conversational interfaces with rich graphical UI elements.
+There’s an amusing irony to this, because 1986, 1996, 2006 were also the years of everything conversational. To learn where conversational UI should go in the future, we should draw from this rich history.
+The command-line aka the original conversational interface
+It seems to me we might have seen this before. The 
+command line
+ was the original conversational interface. You’d input a textual command, hit enter, the computer would execute the command and print the answer. Both inputs and outputs were textual. Sometimes things would get really wild and you’d get a table or an 
+ASCII image
+ rendered from different symbols. A very creative use of the text medium, but still fundamentally text.
+Linux command line
+If you think about it, it is very much like a conversation back and forth, with the person telling the computer what to do, the computer doing it, and coming back with a result or an additional question that required an answer to complete a task.
+One of the big downsides of the command line approach was that you actually had to either know what to input or had to ask the computer for options. Remembering all these commands was a bit too much to ask from most people, and it made using a computer less accessible.
+Even in these early days messaging applications existed as humans didn’t only want to converse with a machine, but also with other humans. The interaction was limited to text.
+Graphical user interfaces
+The smart people at 
+Xerox’s PARC
+ division, a company that was in the business of photocopiers, came up with a series of user interface paradigms that completely changed the game, enabling users that didn’t know all the commands and didn’t want to spend hours asking their computers for help to just point a thing on their display (a cursor) to a visual representation of a familiar object.Those objects resembled things people were familiar with from the real world — folders, buttons, trash cans. Aside from the familiar visual methapors they introduced new ones, like windows, dialogs, desktops and more. These objects allowed the user to converse with the computer, and the computer to converse with the user visually, not textually, through pointing and clicking directly on the desired action.
+Messaging as conversational UI
+Textual input became mostly used for entering a URL or typing up a document or email, not as the main way to interact with a computer. It did however stay the main way to interact with other humans using computers via IRC and waves of instant messaging applications.
+IRC
+ was the original 
+Slack
+. Obviously barebones and less productized, but IRC introduced many of the concepts that are being popularized again today. IRC already supported bots, massive group chat quizzes, polls and other types of conversational applications that ops would enable for their channels.
+Trivia IRC bot
+Instant messaging applications were more visual in nature and through time started supporting richer media for conversations such as emoticons, photos, video and mini applications like games or quizzes. The first wave of these apps including ICQ, AIM, MSN and Yahoo! messenger were popular at the end of the 90’s.
+Tic-tac-toe in MSN messenger
+With the advent of mobile communication and computing devices with screen size constraints, a rethinking of the rich graphical interface used on desktop was needed. Early mobile devices had only a few lines of black and white textual interface.
+Short Message Service (SMS) was one of the few applications available on mobile devices since 1994. SMS was text only and limited to 160 characters. It supported both person-to-person and computer-to-person messaging from the beginning. SMS had a few properties that IRC and desktop messengers lacked. It was always on, and it enabled notifications at any time. Basic conversational services emerged, like checking your balance with a textual command. The usage of SMS was pushed forward with text-based games, horoscopes and other entertainment content on one end, and more serious applications like weather or stock reports on the other. These applications were mainly provided by carriers or a few companies that were close to them. Unlike IRC or IM based conversational applications SMS had built-in billing, making it possible to create real businesses on top of the platform. Eventually, over-the-top providers like 
+Nexmo
+ and many others made it easy for any developer to build applications taking advantage of SMS as a global platform. The constraints and platform access made SMS a good starting option for experiments with mobile conversational interfaces, bots, and smart assistants. Being textual only, SMS-based applications are not far from a command line experience.
+SMS bot interface powered by 
+Assist
+With the rise of smartphones we’ve started seeing more and more over-the-top (OTT) applications that mimic SMS’s core value proposition. Messaging applications are at the top of mobile usage charts due to a high number of notifications the user is exposed to. Since these messaging applications work over IP and not via the carriers’ signaling network there are basically no limitations on what type of content can be sent in messages. We’ve seen applications expand message types with rich media like photos, voice messages, videos, stickers, GIFs. Asian messengers like WeChat and Line expanded these rich media messages in mini applications a concept that is being westernized by Facebook with Messenger. Each message is a self-contained application that can render either text or a richer UI.
+Over-the-top messaging applications are slowly opening up APIs for integrating services, pretty much mimicking the evolution on SMS. There are hundreds of bots for 
+Telegram
+, 
+Slack
+ and 
+kik
+.
+🔑 
+KhaledBot for Slack
+ 🔑
+Despite that, most of these bots are text-based as application environments, and don’t allow richer mini apps as part of the messaging experience yet. Still very much a command line-like experience, with the addition of some rich content.
+Unlike SMS, which was an application embedded in the operating system, where all SMS-driven products live, in-app messaging is part of many products. Anything from messengers, social communities, marketplaces, on-demand services, dating apps, games and enterprise tools include some form of messaging experience that is tailored for the context and audience of the application. Traditionally these applications had a sub-par messaging experience compared to OTT messaging applications, as it was not the sole focus on the business. That is changing quickly, as services like what we are building at Layer power messaging in more and more applications, not only bringing the same opportunities traditionally reserved for messaging apps to every product, but most importantly expanding what is possible.
+Each message becomes an atomic application
+Below are some examples of a blended interface, bringing the best of the command line and GUI paradigms together. We’ll see more of these in 2016 and beyond, since this blending brings together the best of both words — notifications and quick input from the conversational side, along with a rich and intuitive experience from the GUI side.
+Each message is an atomic application
+Each message has the potential to be a mini application. It might be just an application that displays text, a photo, or alternatively presents an interface for something more complex in the constrained environment of a message cell. There is an unlimited set of opportunities to create bite size applications like a photo carousel, media players, mini games, inventory items, in-messaging payments, and many others.Since developers can focus on the experience and not just infrastructure building, leveraging mini applications that are part of the messaging experience will become standard. We’re seeing this trend in conversational commerce, where companies like 
+Operator
+ are leading the way, designing rich experiences their clients can interact with directly, not by replying simply with text, differentiating themselves from the horizontal messaging experiences in traditional messaging apps.Bots (NLP, AI and all the other good stuff)
+You might have noticed that some of the examples above include messages that are not necessairly composed or sent by humans. In fact as messages become mini applications it makes more and more sense to include bots in the conversation. Having mini applications in each message is especially convenient in conversational commerce and applications that drive workflows. The outgoing message is the input request, and the incoming message contains not only the answer, but a full application that addresses the request. For example, asking a conversational commerce app “Do you have any Onitsuka Tigers?” can return a textual list of items and perhaps photos, or it can return a rich card with a carousel to scroll through results, with a buy button on each result that immediately triggers a payment flow. A rich media card is fairly time-consuming for a human to compose, but it should be fairly easy to compose for a bot that understands the context of what has been asked for. Without the capability of blending conversational UI and rich, graphical UI, bot experiences won’t fullfill their potential.
+A word on voice
+As demonstrated by Apple with Siri and Amazon with Alexa/Echo, voice can be a very powerful input/output mechanism for a conversational interface with a computer. Combined with a rich graphical feedback loop it can become even more powerful. Smart watches with a voice input and visual output as responses are early explorations in that field. I’m sure that we’ll see more of that in the future.About
+I’m the co-founder of 
+Layer
+. Layer powers messaging in over 500 applications including 
+Trunk Club
+, 
+GoButler
+, 
+Hinge
+ and many others. I’ve been designing, and building communications products, and companies since 2006. Follow me on 
+Twitter
+.
+Special thanks to 
+Erc
+ for helping out with the graphics and to 
+Chad
+, 
+Christian
+, 
+Jonathan
+, 
+Shane
+, 
+Rok
+, 
+Alexander
+ and 
+Dom
+ for reviewing early drafts of this post.Further reading
+There’s a chat for that:
+Apple’s biggest platform opportunity yet
+Imagining MessageKit: Apple’s path to turning iMessage into a platform
+medium.com
+2016 will be the year of conversational commerce
+Nearly a year ago today, I wrote a post inventorying the forebears to what I believe has become the dominant trend of…
+medium.com
+Conversational commerce
+When the point of sale comes to the messaging channel
+medium.com
+Messaging and mobile platforms
+Old: all software expands until it includes messaging New: all messaging expands until it includes software - Benedict…
+ben-evans.com
+No UI is the New UI
+On the rise of UI-less apps and why you should
+care about them as a designer.
+medium.com
+The Future of UI Design? Old-School Text Messages
+If you want a glimpse of how we'll interact with computers in the future, watch Justin Kan use his iPhone. Then you'll…
+www.wired.com
+Human + A.I. = Your Digital Future
+In the new film Ex Machina , a reclusive billionaire invents a robotic artificial intelligence. To test whether his…
+www.nirandfar.com
+Interconnected
+When trumpets were mellow And every gal only had one fellow No need to remember when 'Cause everything old is new again…
+interconnected.org
+Interconnected
+ICYMI, last week I dropped a ton of links + speculation on text messaging as user interface... Read it here…
+interconnected.org
+Futures of text
+When the weather is bad I take a bus to work. I'm forever grateful to the person at the bus stop who informed me that…
+whoo.ps
+App unbundling, search and discovery
+"There's only two ways I know of to make money: bundling and unbundling." -Jim Barksdale There's been a pretty clear…
+ben-evans.com
+The bots are coming:​ Conversational UI and introducing the Skyscanner Telegram Bot | Code Voyagers
+The bots are coming:​ Conversational UI and introducing the Skyscanner Telegram Bot What's the theme running across…
+codevoyagers.com
+Our friends, the bots?
+In the past, the bots I've made have primarily been a tool for exploring systems and culture. I feed the bot data or…
+nytlabs.com
+Battle of the IVR Designs: Conversational Versus Phone Trees
+Customers who call a contact center are often required to navigate an IVR phone tree with myriad menus before being…
+www.speechtechmag.com
+Beyond the GUI: It's Time for a Conversational User Interface
+The GUI has served us well for a long time, but it's beginning to fray around the edges. We're now grappling with an…
+www.wired.com
+We're on the Brink of a Revolution in Crazy-Smart Digital Assistants
+Here's a quick story you've probably heard before, followed by one you probably haven't. In 1979 a young Steve Jobs…
+www.wired.com
+The Future of UI Design? Old-School Text Messages
+If you want a glimpse of how we'll interact with computers in the future, watch Justin Kan use his iPhone. Then you'll…
+www.wired.com
+Design is a conversation - Inside Intercom
+It's often said design is a dialogue between designer and user. We talk to users about what they want and need. We…
+blog.intercom.io
+Spurious Thoughts on the Design of Conversational UIs
+In recent years - and especially in the last few months - this curious notion about "conversational UIs" (CUIs) has…
+sean.voisen.org
+The Next Phase Of UX: Designing Chatbot Personalities
+You may have heard that "conversational interfaces" are the new hotness in digital product design. Why open and close a…
+www.fastcodesign.com
+How to Think About Bots
+Written by Samuel Woolley, danah boyd, Meredith Broussard, Madeleine Elish, Lainna Fader, Tim Hwang, Alexis Lloyd, Gilad…
+motherboard.vice.com
+Bots are here, they're learning - and in 2016, they might eat the web
+As 2016 dawns, there's a sense in Silicon Valley that the decades-old fantasy of a true digital assistant is due to…
+www.theverge.com
+Hello, computer: conversational interfaces
+I wanted to write about the idea of designing technology where the interface is based around a conversational…
+mathewsanders.com

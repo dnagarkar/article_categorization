@@ -1,0 +1,58 @@
+The Perfect UX/UI Design Tool: 13 Things Designers Need Most.
+For many years, Photoshop was an ultimate go-to tool for designing digital interfaces. From simple web pages up to complex native apps.
+I say was because a designer’s most used software tends to become outdated. I’ve realised this after trying Photoshop’s rising competitors — Sketch 3 and Affinity Designer. Frankly speaking, it was probably the first time I’d worked with different software, other than Adobe on UI design. I must say it was a very refreshing experience.
+Different Perspective
+I’ve tried a different perspective. Another approach to UI design workflow and I liked it. It was Sketch that changed the way I look at my process. Because it’s intended to work as an interface design tool, its core logic is way different than with PS.
+Trying other design apps like Sketch or Affinity designer changed my approach towards the design process.
+It embraces focusing on the design as… how could I explain this, on the product perhaps? For me, its workflow is much closer to the way software/websites are developed. It won’t let you treat your design as painting on a canvas of some sort.
+Tools Affect Our Process
+This experience results in this story: I realised how much the software we’re using influences our workflow logic. Right now we’re at a very exciting moment. Photoshop is getting old. It’s slow, its core code is heavily outdated and after all it was made as a photo editor and not an interface design tool. Ps, our former champion became lazy and got fat. At the same time rebels appeared but none of them are perfect.
+We’re in the forefront of the biggest change on the UI design tools market since Fireworks. It’ll go one way or another. Adobe will release the killing design soft, written from the ground, or its competitors will take the market for themselves.
+The Perfect App
+Let’s stop for a minute and think — What would The Perfect UI design software look like? What toolset would suit the needs of designers perfectly and make our workflows more efficient? Would it even revolutionize the way we’re designing interfaces? You can find my 14 must-haves below:
+1. Performance
+One of the biggest problems with Photoshop is its greediness. PS eats your computer memory like a monster and nonetheless — works slowly. I recently found it difficult to work with one website design on MBP retina from 2014 with 8GBs of RAM.
+Adobe Photoshop consumes about twice as much memory as Affinity Designer.
+It’s obvious that making software that’s faster and lighter is possible. Both Affinity Designer and Sketch beats Adobe flagship on his head.2. Stability
+No one likes when a few hours of hard work is wasted when software crashes (and you’ve forgotten to save whilst ‘in the zone’). It’s a real problem with today’s design software.
+I don’t think any of the most popular solutions work well enough.
+Affinity has its childhood problems and crashes a lot, especially when using the transparency tool. Photoshop is as stable as a rope bridge. I haven’t worked in Sketch for some time, so I can’t tell how it looks today, but I recall some frustrating crashes.3. UI Focused Interface
+Sketch is the winner here. Photoshop wasn’t meant as a UI design tool at all. It’s photo editor in its core after all (regardless many additions here and there). Adobe introduced a beta version of UI design workspace in PS but come on. First of all they cut way too many functionalities. Secondly, it looks to me like Winamp skin. We need truly dedicated software.
+Meanwhile, Affinity looks a little better than Photoshop in this field but lacks any measurement tools. You can’t tell the distance between objects or scale an object by demanded percent value.
+Sketch is almost perfect. Almost because it has almost every single feature needed, but it’s interface could be designed to be more usable.4. Vector Based Workflow
+For me, it’s a must have in today’s world. We’re designing for many devices, for many screen resolutions. Ability to easily rescale our work is a must have. Fortunately, software developers tend to think in the same way.
+Every single app I’ve mentioned allow the creation of vector based designs. My favourite here is Affinity with its non-destructive booleans. The least comfortable to use is Sketch. It has limited capabilities.5. Basic Toolset for Working with Raster Layers
+Affinity Designer has various working modes (personas): Design, Raster tools and Slice (export)
+You’ll need this from time to time. To adjust photo colours or to make some changes to raster graphics you use without leaving the app. Photoshop capabilities here are almost limitless.
+Affinity has an efficient set of tools for most tasks. Besides this, there’s also a sister app from Serif: Affinity Photo, which works great with Designer.
+Unfortunately, Sketch is really bad in this field. It’s almost impossible to perform any raster-based tasks in it. You may say it has its cons — It forces you to think carefully before putting something into your design. Sometimes you need to make some changes on the go. Sketch is a clear loser here.6. Non-Destructive Pixel Layers Scaling
+This is my greatest problem with Photoshop. When you scale pixel layer down it becomes compressed and looses quality. Unless you convert it to a smart object first. But smart objects are heavy, slow down your work and for me, they’re made for different tasks.
+It’s my great problem with Photoshop. When you scale pixel layer down it’ becomes compressed and looses quality.
+They’re great when you design a button etc. You’re creating an object with a button design then copying it wherever you need creating instances. When you change the button colour, it changes everywhere. Great! But why make additional smarts just not to lose image quality when scaling?
+Affinity is great here. You can scale an image ten times and it preserves start quality. It’s awesome. I was amazed when I discovered it. Then the thought came, that it should be obvious… thanks, Adobe, I felt like a stone-age relic because of PS’s take on that.7. Real Time Pixel PreviewOne of the greatest things about Affinity? It renders your design in vectors (shapes, typefaces) and gives you the possibility to preview it in pixels in real time. It has retina pixel mode! Great! None of the competitors even come close.8. Advanced Grids
+The case? for me every single design should be grid based.
+Grid is a crucial component for structuring layout. It helps you find the balance between all design elements.
+Besides that, they can enhance UX by creating predictable patterns for users to follow. Yes, they’re crucial.
+I’d like to have a simple tool for generating grids. One that will calculate and distribute them based on my inputs. I’d also love support for grid breakpoints, something no one supports today.9. Handy Measurement Tools
+Just watch how it works in Sketch. I’d like to see it everywhere!10. Great Typography Capabilities
+I’ve recently written an article about typography rules for beginners. You can find it 
+here
+. Though I’ve outlined only the basics, none of the most modern UI design tools support all functions needed. No options of custom word spacing, hanging punctuation and so on.
+Today, there’s no UI centered design software that supports basic typography concepts like custom word spacing or hanging punctuation. If CSS supports something, design app should too!11. ArtboardsArtboards allow you to create fixed frames on the open canvas. If you’re creating a responsive web design or a mobile app for different devices, you may want to turn each screen size into an Artboard. They’re great. Artboards allow you also to use smart objects or symbols across the design. All the screens in one file. Very convenient! Today, only Affinity Designer isn’t able to pull them off, I hope this will change soon.12. Various Export Options
+Various export options in Affinity Designer (PSD included!)
+New apps coming to the market means greater segmentation. Not everyone will be using the same product and different teams have different workflows. In one, the designer will send PSD files to the developer, in the other, the designer will produce a pack of assets for the developer. That means that great software has to export designers to work in different formats.
+I like what Affinity is doing. It allows you to import PSD files (pretty well!) and export your Affinity made designs to PSD too! It’s great. PSD format is a standard after all and it’ll stay that way for a while.13. Ability to Export CSS Values
+The last thing is very simple. In both Photoshop and Sketch you can just right-click on the object and copy its CSS properties. It’s that easy. Affinity Designer lacks this function and it needs to catch up with it very soon!The Apple Music redesign was made completely in Affinity Designer. Watch the project and download the source files from my 
+Behance
+.What about you?
+There is no perfect solution available for designers today. Although perspectives are promising. Above I’ve presented my vision. Things that are crucial for me to work smoothly and efficiently. I’m really curious, what would you like to see in The Perfect UI design tool? What functionalities would make you a better designer?Thank you for reading,
+Tom
+ is a Founder and Creative Lead at 
+Hologram
+ , a Senior Web Designer at 
+GOG.com
+, and a teacher at 
+Envato Tuts+Do you like my story?
+ Share or recommend it please
+, I’ll be very grateful!Want to get exclusive updates on my stories and recommendations?
+Join my personal mailing list!

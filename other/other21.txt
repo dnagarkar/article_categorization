@@ -1,0 +1,95 @@
+13 Essential Tips for Protecting Privacy on Android
+Must-have options and advanced methods to keep your personal data safeAndroid is designed as a secure and customizable platform. However, when you connect to the internet, you can no longer be sure in the complete security of your device. As smartphones have become the digital hubs of our interests, activities and connections and a portal to our identity, we need to safeguard privacy and protect data from fraudsters and unscrupulous companies.
+Losing a device or control over a device means more than losing any other property — think about the conversations, photos, passwords and scans of documents you store on your phone. All this data is traceable and can be exposed to third parties if you don’t employ a variety of methods for protecting it. Bear in mind that 200,000 devices are lost, stolen or damaged daily. And there are more things you could do to secure your phone or tablet than just adding a PIN lock.
+Here we run through 13 methods you can use to keep your data on Android secure: from managing app permissions to tracking down your phone and wiping your data remotely.
+1.
+ 
+Set a PIN, password, or pattern
+You can set a screen lock with a PIN, a password, or a pattern. Then you will need to unlock the device every time you wish to turn it on. On most devices, head to Settings > Security > Screen lock.
+This is the necessary minimum level of security recommended to everyone.
+However, a survey in early 2016 showed that 
+34% of all Android users
+ don’t use even lock screen, while some devices even offer to use fingerprint or eye scanner lock to protect data.
+By the way, you can put contact information on your lock screen for the case you forget your device somewhere in the underground or in a café. It can be your email address or your social media account. To do this, tap Settings > Security > Owner info.
+2.
+ 
+Encrypt your phone
+Encryption
+ keeps your data safe. If your device is not encrypted by default, make it encrypted right now: tap Settings > Security > Encrypt phone. After you do it, the data on your phone will become readable only after you unlock the device. Unlocking decrypts the data. If third parties somehow gain access to your device, they won’t get access to data unless they know the unlock code or pattern. Protect your messages, notes, email, contacts, data stored in Google Drive, photos, videos and everything else you would prefer to keep secret.
+3.
+ 
+Download apps only from trusted sources
+You can acquire Android apps through Google Play and Amazon Appstore, or you can download APK files from websites, which is risky. Use only authorized and trusted sources to download apps, because there every app is reviewed before publishing.
+Check the ratings and look through reviews before making a decision to download an app, and examine the app’s privacy policy to know what data on your phone it will have access to if you download it. Some apps can grab personal data, even if they seem cute like Meitu, and even harm your device.
+It’s useful to have PlayProtect installed, as before you download apps from other sources than Play Store, Play Protect analyzes their safety, if you see a warning after such an app is scanned — you’d better not install it. If you suspect that an app you’ve installed is unsafe, 
+uninstall it
+.
+4.
+ 
+Get updated regularly
+Both your operating system and the apps you use require updates that provide new features and security patches. If you don’t update to get the latest versions of everything, you remain vulnerable and you can hardly blame you providers — they’ve done their best, it’s you who shouldn’t stay behind.
+5.
+ 
+Manage permissions
+Whether you are installing an app or downloading an update, an app may require certain permissions to function properly and offer the maximum features. Not all of them are necessary for perfect app performance. Make sure to check which permissions you give and which you do not in order to protect privacy.
+To manage the features your apps have permissions for, tap Settings > Apps > the gear icon > App Permissions. The permissions should make sense and correspond to what you need from this app. Here is a classic example with flash-light apps requesting access to USB, WiFi, and Google services.
+6.
+ 
+Hide your passwords
+On Android, you can make all passwords either visible or invisible. Visible passwords are easier to enter but this feature creates a security risk when you enter a password in a public place where random strangers can see them over your shoulder. To hide your passwords, tap Settings > Security > Uncheck Make passwords visible.
+7.
+ 
+Hide private notifications
+Some apps, like WhatsApp, allow hiding the content of the notifications they show on your lock screen, other, like 
+VIPole
+, hide your private content by default. On Android, you can centrally stop all apps from showing notification content on the lock screen. Head to Settings > Sound & notification > Notification > Don’t show notifications at all.
+8.
+ 
+Use encrypted messengers
+Whether your device is encrypted by default or not — the data you share in messaging apps can be still transferred and stored insecurely. To keep your conversations private, use the messengers with end-to-end encryption that provide encryption on devices and on the server. 
+Popular messaging services
+ use only server-based encryption, in this case, the service provider and law enforcement agencies whenever they need to request it can get access to the messages and the files of the users.
+Here is a 
+secure messaging scorecard
+ to choose the service that would fit your needs. The features secure messengers offer today include not just simple texting, but also voice and video calls and encrypted conference calls.
+In most cases, access to device means anyone can read your messages in messages. VIPole offers a whole different approach to privacy: you need to unlock it every time you need it. On VIPole for Android, you can additionally protect your data by setting instant lock. On the phone, tap on the ellipsis at the bottom right > main menu, on tablets — tap on the menu, then select the preferable mode and time for locking.
+9.
+ 
+Backup your data regularly
+Storing all your precious data in a single place is insecure and unwise. It’s like keeping all your money or all your keys always together. A backup is a must-have. In case your device gets in the wrong hands and you remove your data remotely, you lose everything at once — unless you have a backup. With a backup, you can restore your phone or tablet to its original state. You can use a cloud service (Amazon Cloud Drive, Box, One Drive and other) or your own computer to store your data.
+If you prefer cloud services, better choose two independent services and don’t forget to encrypt your data. Cloud services keep contacts, photos, videos and documents safe and reachable if you lose access to your device.
+10.
+ 
+Use two-factor authentication
+This is one of the basic options to use whenever possible to ensure user account security. This method requires using something you know and something you have to authorize. As usual, after a password you need to enter a one-time code sent to your phone via a text message. Even if an attacker has somehow gained your password, without access to your phone it’s useless, which lowers the attractiveness of your data for malevolent people. To set 2-step verification, go to 
+Google settings
+ and follow the instructions.
+You might be interested to learn more about 
+two-step verification
+.
+11.
+ 
+Create multiple user account
+If you share your Android phone or tablet with anyone, including family members, colleagues and friends, using multiple user would protect privacy. Create an additional account for people who need to use your device from time to time. To do this, go to Settings > Users > Add User. When other people are using your device, you may provide access to only the data and apps you are willing to allow them to see.
+12.
+ 
+Use VPN
+We’ve spoken about the methods of protecting data that is stored on your device, but your data can be as well intercepted while you are browsing online. Even if you generally avoid using public Wi-Fi, don’t forget to log out after your online transactions are proceeded when you are authorized in any online service. Consider employing VPN, especially when using a public hotspot. A Virtual Private Network will route your traffic through a remote server or several servers to cover your IP address. VPN can also give you access to resources that may be prohibited in certain countries. Today, VPN is as easy to use as a social media app. There are free and paid options, if you pay — you get more features and faster browsing speed.
+How to 
+choose the best VPN service.
+To protect your connection on Android, go to Settings > More > Wireless Connections and Networks > VPN > Always-on VPN.
+13.
+ 
+Have an accident response plan
+If despite all precautions something bad happens, you can still be ready for it. First, you should start tracking your phone with 
+Find My Device
+, a free app from Google Play. If you happen to lose your phone, this app can find it, lock it and even erase data remotely. You can do this if location services on your device are turned on. You can access Find My Device from a web browser, signing into a Google account. You may also consider 
+3CX Mobile Device Manager
+, it’s free and easy to use as well. If you suspect that your Gmail Account might be compromised, 
+follow these instructions
+ to restore access to it.
+To wrap it all up
+Using these simple data protection methods together, you would build a strong fortress within your Android phone or tablet to protect your privacy in almost any occasion. Avoid untrusted networks, keep an eye on updates, control the permissions for the apps you use, store your passwords and other sensitive data encrypted, use secure messengers — well, it’s easy once you start protecting your safety.
+Even if you use only a few of the named options, this will be a big step for safeguarding your mobile privacy.VIPole offers end-to-end encrypted messaging and collaboration solutions for teams and enterprises dealing with commercially or personally sensitive information, and individuals wishing to protect themselves from hackers, identity thieves and malware.
+More at 
+www.vipole.com

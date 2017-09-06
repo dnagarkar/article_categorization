@@ -1,0 +1,73 @@
+Marketers: do your part to advance diversity in tech
+While venture capitalists, journalists, and socially conscious technocrats tweetstorm about the need for more women and people of color in tech — marketers have the ability to create that reality, today.T
+here’s no way that Silicon Valley will be able to solve its 
+workforce diversity problem
+ if startups can’t even get their marketing materials right. Every photo of a user in an app screenshot is an opportunity to be welcoming. Every actor cast in product photography is a chance to be inclusive.
+And yet, if you look at landing pages and product videos featuring humans you’d believe that primarily straight, white people use technology. This has to change, and it’s up to marketers to do it.
+When I joined 
+Stride
+ a couple of months ago to help launch the company, I made a commitment to myself and the team: we’d be part of the solution instead of the problem. We would help raise the bar by insisting that women and people of color be visible on our home page and in 
+our product video
+. Why? Because we want to project the kind of world we want to live in: a world where professionals and decision-makers can be any gender or color.
+Salesforce CEO 
+Marc Benioff declared that he’d hire more women
+ at Dreamforce’s 2015 Women’s Leadership Summit, and with 
+81% of leadership positions filled by men
+ they clearly have a lot of work to do. And yet, how does their home page portray success? Yep, a white dude.As part of my research for Stride I looked at hundreds of web sites and watched dozens of product videos. What baffled me was seeing genuinely smart teams spend big money to use white hands, over and over. The good news is companies can change. Apple is now featuring a black female hand for the iPhone 6s in its 
+press materials
+.
+I also paid close attention to how minorities were portrayed when they were visible. Too often they were cast as extras — or worse yet — as service providers rather than consumers. They were invited to work for white people as valets, drivers, and cleaners.T
+oo few designers and marketers seem conscious of how important it is to provide visuals of diversity. Not only does this alienate potential customers, but it sends an unconscious message that power and privilege aren’t evenly distributed through technology. What a waste of talent and resources to only focus on a subset of the market! This is even more inexcusable when resources like 
+Color Stock
+ and 
+Black Stock
+ exist to combat this very problem.
+Earlier this year Google, Facebook, and Twitter 
+released their employee demographic data
+ showing that only 1.8% of the companies’ combined 41,000 employees (that’s a mere 758 people) are black. These companies — and more broadly, the tech industry — are creating vast amounts of wealth and power. The people employed at technology companies today are literally shaping the future, but with a predominately white and male workforce. Suddenly the future is starting to look a lot like the past.
+With big tech companies facing mounting pressure to diversify their workforces, the disclosure of their employee demographic data reveals that little progress has been made.
+You’d be forgiven for confusing this scene, with one from Mad Men:
+Designer tool Wake.io’s 
+product video
+ features an office full of white people
+Like racism in America, the problem of diversity in tech is systemic in nature.
+Y
+ou can trace it throughout the entire lifecycle of a company from how founders get funded all the way though to 
+unconscious biases in hiring practices
+ where women and people of color don’t make the cut because they “aren’t a culture fit”.
+While it’s important to keep increasing the pipeline of qualified candidates through more STEM education, the problem is much more insidious. The 
+U.S. Census Bureau 
+shows that even when men and women have equal qualifications, twice as many men end up with STEM jobs. Another depressing tidbit: a 
+USA Today study 
+shows that top universities graduate black and Hispanic computer science students at twice the rate that top tech companies hire them.
+While systemic change needs to happen, we can’t afford to wait. Marketers can take action today by committing to creating a sense of belonging by showcasing a diverse range of users. Companies whose products are geared toward tech workers should be especially mindful. Show black women as coders, Hispanic men as product managers, and American Indians as CEOs. By portraying a better future, you will help create it.
+Marketers, here’s how you can be more inclusive:
+Learn about and uncover your unconscious biases. Watch 
+this training video produced by Google
+ and 
+take this implicit association test
+.
+Move beyond 
+John Appleseed
+ as the default user. Add in diverse imagery including non-traditional family structures to your social posts, videos, and landing pages.
+Reconsider the word choice in your company and job descriptions. For instance, women are 
+less likely to apply
+ to “male-sounding” postings where words like “assertive” and “determined” are used.
+Use a marketing meeting format that solicits feedback from everyone in the room. A simple way to do that is to use the round robin technique where one at a time, each person submits ideas and reactions. No response or interruption is allowed. Once the first participant is finished contributing, the participant sitting directly to his or her right contributes an additional point, idea, or thought — that way everyone gets heard.
+Openly share your company’s values. Burger King did this with their rainbow-colored wrapper in support of the U.S. Supreme Court’s decision on gay marriage.
+The Proud Whopper celebrates #LoveWins
+Push management to collect and open source employee demographic data so it can be added to the 
+Open Diversity Data
+ project.
+Ensure your user research collects feedback from a wider potential user base to get a sense for how your branding resonates (or doesn’t) with different groups of people.
+Participate in platforms like 
+Glassbreakers
+, a mentorship program for women.
+Use ad targeting and segmenting to provide appropriate multicultural messaging to potential users and candidates. It signals you truly value them.
+Set clear diversity goals for recruiting new team members. Your recruitment process needs to change — if you keep using the same techniques you’ll get the same results. Use a hiring platform like 
+Unitive
+ that helps you read resumes more objectively or sponsor highly qualified but underrepresented talent coming from programs like 
+General Assembly’s Opportunity Fund
+.
+These and other tactics can help make the technology advances we’re all working on to enfranchise the largest number of people — regardless of race, creed, or ethnicity.What steps are you taking in your marketing efforts? Let me know by writing a response on Medium or tweeting with #DiversityInMarketing
+If you enjoyed this and think others will too, please press the green “Recommend” heart or share it

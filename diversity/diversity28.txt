@@ -1,0 +1,75 @@
+I’m An Ex-Google Woman Tech Leader And I’m Sick Of Our Approach To Diversity!
+We must stop fucking it up for the amazing women in tech!
+I ran cross-functional engineering projects managing 20–30 men (engineers mostly) at Google. Most of the time, I was the only woman. Men who reported to me liked and respected me. Men who managed me liked and respected me.
+Before you get all worked up about what I say here, I’ve had my exposure to gender biases, subliminal and deliberate, and I wrote some thoughts on 
+Balancing Brains, Beauty, Boobs & Booty
+ for fellow women in tech. Go read that to set your state of mind if you have to.
+This post is to highlight how sick I am about our approach to diversity and what we could do instead to dramatically improve the situation.In the copious hiring I did at Google, 97% of the people I hired were men. I wrote reams of appeals to the hiring committee to make cases for cross-functional candidates who would be great assets to Google, even though a (typically) male dominated software engineering interview crew did not find these candidates up to snuff. I had a 90+% success rate changing the hiring decision for these candidates. Almost every one of these hires made an amazing difference to the company. 98+% of these candidates were men.
+It’s not like I wasn’t trying to hire women. But I was working with a candidate pool composed of 90% men. 
+Try software engineers with experience in sensors, wireless and hardware stacks before angrily correcting my stats there. 
+There was no way I was going to come out of that with a larger percentage of women hires than I did.I left Google to build 
+UrbanAMA
+. As a woman entrepreneur, I wanted to build a company that had a diverse team. I’m ashamed to admit that I’ve failed miserably so far.
+We try hard, but again find ourselves with a 98% male candidate pool. 
+You should know that we are an early stage startup that cannot afford market salaries.
+ Despite that, we paid premium salaries to bring a few women who did well in our interviews. But, they lacked the energy to put us into overdrive. Worse, they were starting to drain the energy from the rest of the team. Eventually, we had to do the right thing for the company and let them go. I’m now back to being the only woman on the (tech) team.
+That said, I’m proud to say that our freelance journalists on UrbanAMA are predominantly women and are kicking butt on the AMAs they are hosting. 
+You should really check it out
+ if you haven’t — they’ll blow your mind too!
+But on the point of diversity in tech within the company, it’s a miserable state of failure so far. And that’s not because we didn’t try.I’m a mother of two kids — a 7 year old boy and a 9 year old girl. They both generally have a reasonably good grasp of math and logic. You could say 
+they are biologically meant to be fluent in math and analytics
+ (with a mom that scored an 800 in GRE analytics and a dad that scored an 800 in GRE quants, anything else would be unexplainable).
+This summer, we got into beginner Python. The boy can’t stop taking on problems while the girl has declared that she hates it. She’s very ready to take on Photoshop and create filters and stickers for UrbanAMA though!
+Case in point: Sometimes, girls do gravitate more towards creative rather than logic problems, either naturally or due to the environment around them. I’m doing my part to start encouraging my own kids early. We need more of it.
+Confession: I have told my daughter it isn’t optional to learn coding and that she must stick with it until she’s good at it and then she can choose not to do it (parenting advisors, stop rolling your eyes now!).After diversity attempts at large companies and my own startup and the attempts to start tech early with my own children, I can tell you that our obsession with diversity and attempts to solve it are only fucking it up for the actual women in tech out there!
+What do I mean by this?
+We get upset about the state of gender diversity in tech
+We make a pact to hire more women
+The pool has (a lot) more men than women
+After some rounds of low to no success, we start to compromise and hire women just because we have to
+These women show up at work and perform not as great as we want them to
+It reinforces to the male population that was already peeved by the diversity push that women aren’t that good at tech after all
+They generalize that observation on the entire women in tech community
+Sooner or later, some such opinions get out there
+The feminists amongst us go crazy
+The diversity advocates are caught in a frenzy and make a pact to hire more women (again)
+This loops. Infinitely.
+In the name of diversity, when we fill quotas to check boxes, we fuck it up for the genuinely amazing women in tech.
+And this makes me sick.Before you label me a traitor, let me tell you what I am in fact 100% supportive of fighting against.
+Wage and income inequality
+Subliminal biases against women in tech. 
+This covers a wide spectrum of things (from the 
+“you are a woman, you must not be an engineer”
+ to 
+“you are a woman and hence biologically predisposed to being an inferior engineer”
+ attitudes)
+Sexual harassment
+Exclusion of women and boys clubs
+What I’m 
+not 
+supportive of is to try and close the gap in diversity from an inherently male dominated pipeline (of job applicants and engineering grads out of college). Because that is 
+the 
+thing that fucks it up for the rest of us.So, instead, what do we do?
+To solve diversity, we must start at the source of the problem — encouraging women to pursue engineering in college!
+As part of my UrbanAMA journey, I’ve worked with many young women in high school and college, encouraging them towards pursuing computer science and getting a tech degree. Many of them have opened up about the hostile environments they face even in progressive schools such as UC Berkeley and have thanked me for the support and encouragement. Now 
+that
+ is where we 
+must
+ bring change.
+If we increase the inflow of women into tech education, we 
+will
+ automatically increase diversity in hiring.
+To the amazing women already in tech, I beg you to expend your energy motivating and mentoring young women at the crucial stages of making decisions about a tech education.
+Feminist outbursts are driving even the most genuine of men away from us. Some men do want to understand, support and grow the women in tech community. But when we kick and scream about diversity without solving the root of the problem, we are alienating everybody, even the ones that want to help.
+Educate men that want to help and ignore those that don’t to see a massively different respect for women in tech.I get it. You code. Maybe better than the average guy that works with you. And when you don’t get recognized, it’s frustrating.
+But get upset for the right reasons. And work on the right solutions.
+Sometimes, not giving misogynists the pleasure of having evoked a response is in fact the right punch.
+Go out and talk to freshmen and sophomore women about why they should pursue a career in tech.
+Start a mentoring program.
+If you are a manager, make sure women who work for you are properly treated and recognized.
+Educate men and women about how to detect and correct subliminal biases.
+Find men who are willing to educate other men about this to make the message more effective.
+Truly contribute to making the future amazing for women in tech!If you came this far, please hit that heart below so we can spread the message to others too!If you enjoyed this story, please recommend and share to help others find it! Feel free to leave a comment below.
+The Mission publishes stories, videos, and podcasts that make smart people smarter. You can subscribe to get them 
+here
+.

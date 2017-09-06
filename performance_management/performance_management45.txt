@@ -1,0 +1,55 @@
+City of Boise: KABOOM!! Blowing up a performance appraisal process
+The City of Boise uses Design Sprint to create new frameworkI recently had an epic experience at work when I ran my first design sprint with a team of nine super smart employees. Learning of 
+Jake Knapp
+’s book timed perfectly with our organization’s desire to blow up our traditional performance appraisal process and tools and create an experience that would be meaningful to employees.
+A new framework
+Because employees from the 
+City of Boise
+ had given lots of feedback in surveys and several facilitated discussions, we clearly received the message that our traditional performance appraisal process was not as effective as we hoped. Our team pretty quickly identified the goal of our Sprint; “Create a framework that engages and empowers employees and connects the work they do to the City’s vision, mission, and values.” Later in the week we did a “note and vote” and called our new framework Connect Boise.
+At its heart, Connect Boise is not a performance appraisal. In fact, when Connect Boise rolls out Citywide, the City will no longer have performance appraisals — how’s that for blowing up our system?
+Rather, Connect Boise is a framework that encourages important discussions between a supervisor and an employee. It helps employees take the reins of their career to outline and achieve professional and related personal goals. It connects employees across departments, divisions and teams. It encourages employees to give regular feedback to each other, to a supervisor, and to receive continual feedback. When fully developed, it will provide opportunities for growth and development, Connect Boise is meant to empower and engage employees and connect them to the City’s vision, mission, and values.
+The map created on Monday
+Out of the entire week, the map was the biggest lift for us. This was a critical step, however, as it was an integral building block for the rest of the week. It has also become a major building block for the work going on after the Sprint.
+The Team
+Our Sprint team included nine employees from throughout the City. We admiringly called the team “The Magnificent 9.” Sorry Sprint authors, we know that you suggested a team of 7, but 9 helped us achieve some goals.
+We wanted an eclectic group –employees who work in the field, employees with management responsibility, employees with both short and long tenure, and 
+ultimately, employees bent on creativity and positive change.We’ll introduce you
+· Ken
+ — supervises field crews in our parks department.
+· Biff 
+— senior manager in our finance department.
+· Stephanie
+ — investigation specialist in our police department.
+· Kelcey 
+— our DECIDER and guru of organizational development.
+·
+ Richard 
+— craft worker at the City’s water renewal facility.
+· Marnie
+ — software developer from our IT department.
+· Shannon
+ — operational manager in our planning department.
+· Jennifer
+ — crime scene investigator and supervisor in our police department.
+· Lindsay
+ — Library branch manager.Building a Prototype
+Our prototype involved a blend of experiences and software. Because the subject of our Sprint was building a check-in process between supervisors and employees we prototyped what that check-in could look like.
+Additionally, because we wanted a place for these check-ins, goals, needs, talents, and other information to be housed, we built a wireframe in PowerPoint to show our customers how potential software could support our new framework.
+When our six employee customers came in on Friday we prototyped the experience we hope they have with their supervisors and showed them our software facade.
+What we learned
+Friday was an exciting day. We watched insightful reactions from our employees. They helped us define what an authentic conversation should look like with a supervisor, what skills they want their supervisors to possess, and what software elements were helpful or clunky.
+Modifications to the process?
+The main modification we made was we added a tactic from interest based negotiation methodology — which is the identification of the “interests” important to a successful project.
+What worked? What didn’t?
+Actually, as outlined in the book, the process worked. Creating the map took longer than expected, but fit well within Monday’s work. The lightning demos were enjoyable, but we’re not sure how effective they were — however, the book outlined that this may be the case. Overall, we are now 
+huge believers in the Sprint process 
+and are scheduling a Sprint with our leadership team on a different topic.
+What’s next?
+Human resources and IT are currently working to incorporate the feedback from the interviews and getting the software prototype ready for go-live. The real work, however, will be a huge push to help inform and support supervisors and employees to foster working relationships across the City where the above goal is realized. In September, 30 supervisors and their teams from throughout the City will be selected to pilot Connect Boise. The new framework will be rolled out to all employees next year.
+We are also going to run a three-day Sprint as a follow-up
+. Our current performance appraisal system has a connecting performance pay component. During the three-day Sprint we will create a prototype of how employees will be paid under our new framework.
+Will we sprint again?
+Oh yeah! Sprints are part of our present and future.If you have any questions or suggestions for us, we would be happy to chat about our experience. Please contact me at 
+smiller@cityofboise.org
+ or find me on 
+Linked In

@@ -1,0 +1,17 @@
+Uber’s Dominant Fundraising Strategy
+Simon Rothman at Greylock 
+published a great case study
+ today dissecting why Uber has “won” over Lyft and Sidecar over the last 6 years. His post breaks down Uber’s strategy to take advantage of a unique fundraising environment with easy access to capital to buy marketplace liquidity:
+Uber is the canonical example of using money as a performance enhancing drug during the steroid era. Let’s start with the record breaking facts. Uber raised $9 billion in equity and another $1.6 billion in debt over 15 rounds in a 6 year period. That is unprecedented for a private company. 
+ 
+So what did Uber do with all its money? The strategy wasn’t buying growth, speed or liquidity. Uber’s strategy was to buy all-of-the-above. At small dollars using money is a financial decision. At Uber’s big dollars using money is a strategic decision. The company’s use of money as performance enhancing drug was beautifully aggressive. It was offensive and defensive at the same time.
+From: 
+Why Uber Won
+Someone on HackerNews
+ pointed out that a good theory has to explain not only why Uber succeeded but also why Lyft has not (to the same degree). I took one of Simon’s points to be that Uber had way more access to capital, raising nearly $10B over all time compared to $2B for Lyft. I was curious to see how that distributed over time so I pulled fundraising numbers from Crunchbase and laid it out over a chart:
+Source: 
+Google Doc
+.
+Uber has been better capitalized than Lyft every step of the way and particularly in the last two years. Simon describes Uber’s strategy of using its capital to subsidize driver earnings and rider fares to get a flywheel effect going. If we assume Uber’s access to funding was approximate to its growth, you can see the flywheel effect take over after Uber raised it’s first $1B+ round from Fidelity in June 2014. Uber would end up raising another $4.4B within the next year, while Lyft would raise $680M in the same time.
+So while the flywheel effect and buying marketplace liquidity were a key strategy for Uber, another part of “why Uber won” is pretty simple: they had way more money. In addition to a smart growth strategy, s
+killful and timely fundraising has also been a competitive advantage for Uber.

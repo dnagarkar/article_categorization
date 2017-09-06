@@ -1,0 +1,40 @@
+Lazy code: simple multilingual websites
+Can the “lang” CSS selector and HTML attribute can help in developing a trivial, static, multilingual website?
+I am (terribly) lazy, and when at work we needed to rewrite our 
+home page
+ and make it multi lingual, rather than going down the CMS (or multiple pages) route, I asked myself if I could find a trivial way to achieve that.
+The reasons were multiple including, besides my laziness, the fact that our web designer has quite limited experience with dynamic content, CMSes, templating engines, … (but he is pretty darn good with HTML and CSS).
+As a starting point, I wanted to have one 
+single
+ document including all the content (I really hate copy-and-paste), henceforth:
+<html lang="en-US">
+  <head>
+    <title>Relocately.com</title>
+  </head>
+  <body>
+    <p lang="en-US">Welcome to Relocately</p>
+    <p lang="de-DE">Herzlich Willkommen bei Relocately</p>
+  </body>
+</html>
+Our designer can do that (zero work for me), but we definitely want to show only one language at a time, and so I thought that some CSS like this might help:
+html:lang(en) :not(:lang(en)) {
+  display: none;
+}
+html:lang(de) :not(:lang(de)) {
+  display: none;
+}
+Or, in 
+plainspeak 
+“please hide any element who declares a language different from the one declared in the root 
+html
+ element”.
+Selection of the language is also trivial with a little bit of JavaScript (apologies for the 
+jQuery
+ syntax):
+<a onclick="$('html').attr('lang', 'en-US')">English</a>
+<a onclick="$('html').attr('lang', 'de-DE')">Deutsch</a>
+And voila, in a handful of line, I have my wonderfully trivial, multilingual static home page (with zero developer effort).
+That said, as I searched around to see if anyone else was doing the same, nothing came up, so I wonder: 
+what am I doing wrong
+?
+Comments? Ideas? Insults?

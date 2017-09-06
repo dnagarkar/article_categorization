@@ -1,0 +1,105 @@
+10 Questions You’ll Be Asked in a UX Interview
+Notes from a young designerI just landed my first full-time role as a UX designer and officially closed my job search. After more than 40 coffee dates, phone calls, design presentations and one-on-one interviews, I’ve come up with this list of 10 UX questions that I found crucial in my search. As a young designer breaking into the field, the world of design interviewing was foreign to me. I hope this can help others in the interview process and be a prompt to advance personal design perspectives.
+The Questions (and notes):
+1. How do you define UX/design?
+Focus on crafting a unique and specific definition that sheds light on who you are as a designer. Use this also as an opportunity to 
+tell a story
+ that provides context for your design perspective. However you define UX, make this a chance to add something personal.
+I focused my definition around empathy and the importance of understanding the people I’m designing for. It allowed me to touch on my background in psychology, allude to past experiences I had doing anthropological research, and brought to light the importance of designing human-centered experiences.
+2. What is your design process?
+Everyone has a different design process (and that’s okay). What will matter is your ability to describe your process and explain the rationale behind your approach. It’s a good idea to have a standard ‘go-to’ process in mind, yet it’s important to acknowledge your 
+design context
+. Different UX situations inevitably call for different UX processes. It’s a strength to understand your environment and determine a process that’s best fits for your situation.
+Ask your interviewer for specifics. Respond to a particular design problem the company is facing or talk about a process you have used in a particular situation.
+Through all my processes, my one constant is to 
+ask the right questions 
+before designing. It frames the way I approach a problem and guides me toward the appropriate UX strategy and tools going forward.
+3. What are some apps or websites that you love?
+When thinking about this question, consider your audience and have a range of apps/websites that can demonstrate a diversity of aspects you find important to design. When I was interviewing, I chose 
+SquareCash
+, 
+Lyft
+, and 
+Meetup.com
+ — all experiences I loved for different reasons.
+SquareCash represented 
+simplicity
+ in design. It made money transactions painless and solved a problem I didn’t realize I had. Lyft represented a peer-to-peer service that was 
+trust-worthy
+ and 
+delightful
+ and leveraged local communities to foster sharing in my hometown (San Francisco) and beyond. Meetup.com represented a platform for 
+community at scale
+ and had provided a tribe for me no matter where I was in the world.
+While touching on UI elements, try to paint a picture of your values as a designer. By choosing apps/websites that highlight your interests and elegantly solve your pains, you’ll make a memorable impression.
+4. How do you work with engineers/Product Managers/other designers?
+The ability to empathize and
+ understand the
+ 
+motivation 
+of those you work with is crucial. Engineers, PMs, and other designers all come with their own particular needs and goals and if you can demonstrate your sensitivity to them, you’ll be well received.
+Engineers:
+ I’ve found that providing especially close attention to interaction design and accounting for edge cases is important. Engineers are responsible for building the product — making sure that your interactions function properly for all use cases will save your engineer friends time and frustration. Also, try to speak their language — learn how to code. Being confident in HTML, CSS, and JavaScript is a great start.
+PMs:
+ I emphasize communication, storytelling, and tradeoffs. PMs manage deadlines, appeal to admins and keep projects running smoothly. Make sure you and your PM are sync’d. Being able to tell a powerful story about your design will also help to make their job easier when trying to persuade other stakeholders.
+Designers: 
+Show, don’t tell. Focus your attention toward the design problem instead of individual design preferences. Working with other designers is an incredible opportunity for collaboration and can push you to better work. When working with other designers, sometimes I like to practice 
+pair design
+ — it’s a great way to develop shared ownership over the work and push your individual design limits.
+5. Who in the industry do you follow and read?
+Don’t fudge this question! Find some members of the design community now that you admire and start reading — there are a lot of incredible designers out there to source inspiration. If you don’t have a list, check out LinkedIn, Medium, Twitter or design blogs to get started. If you’re feeling brave, reach out to members in the community and begin to cultivate a relationship. It’s remarkable how friendly people in the design circle can be.
+Julie Zhuo
+ (Facebook), 
+Daniel Burka
+ (Google Ventures), 
+Bo Ren
+ 
+(Facebook), 
+Ximena Vengoechea
+ 
+(LinkedIn), and 
+Frank Yoo
+ (Lyft) are a few members of the community that I look up to, follow, and read.
+6. What is the most interesting project you have worked on?
+Use this as a chance to tell a story — and follow a typical story arc: background, opportunity, process, adversity along the way, triumphs, and outcome. Talk about 
+what
+ you did on the project but 
+focus most on 
+why
+ 
+this particular project was so interesting for you. Did it have to do with the people, circumstance, opportunity, or something else?
+As a young designer, I like to talk about my first foray in design: Creating the user experience for a 
+co-living space in Tokyo
+. This project was meaningful to me because it was my introduction to UX and trial by fire as a designer. I practiced UX principles in a physical space, was challenged with designing in a foreign context (Tokyo), and I was able to find success in ambiguity and uncertainty — when I started I really didn’t know what I was doing. Designing in a physical space provided a laboratory for me to observe, test and iterate in real time and built a foundation for how I now approach design problems in a digital context.
+7. Do you prefer to work alone or with a team?
+Having 
+self-awareness
+ of how you work and demonstrating 
+flexibility
+ is key. Consider the company you’re interviewing with — the size, what you know about the culture, and how you might fit into work dynamics. Also be true to yourself. The interviewer will be looking for how you play with others and determine if you’re a good culture fit.
+When thinking about this question, I sometimes draw a graph mapping out my energy levels throughout the day. I’ve discovered I like ‘heads-down’ time in the morning, collaborative time after lunch, (snacks throughout the day) and time to consume content and find inspiration in the late afternoons. I try to balance my own patterns while being aware of others and the dynamics around me.
+8. Tell me about an assignment that was too difficult. How did you handle the situation?
+Working at a fast-paced startup, you’ll inevitably be thrown assignments or tasks that you won’t initially know how to approach (If this doesn’t happen, you might not be really working at a startup). Think about a time you took on a difficult task head first and 
+struggled through ambiguity
+ to eventually arrive at some conclusion. It doesn’t have to necessarily be a triumphant story as long as you show your willingness to explore, test, (fail), and iterate and demonstrate a commitment to learn and adapt going forward.
+One example that comes to mind is the first time I conducted (guerrilla) user interviews. I found myself clueless with a script in my hand, an iPhone camera, and 7 strangers to find and interview on the street. I failed pretty hard at first — approaching people on the go, waiting too long to make an introduction (awkward…) and rushing my questions. I studied my footage, observed patterns of when people could most likely be approached (lunch in the park), and upped my confidence with the support of a friend designer and tried again. This time, a little bit better.
+9. Why do you want to work at [company x]?
+I like to talk about the company from a 
+design perspective. 
+Focus on mentorship, design culture, co-workers and the type of design challenges the company is currently facing. Make it personal and demonstrate a vision. Being able to talk about how the company melds with your past and how it will elevate you to where you want to be in your future shows a clear understanding of what you want and how to get it.
+When I was applying for full-time jobs, I had just left a contract gig where I was the sole designer. I knew that I was looking for something different — a place where I could be mentored, level up in a thriving design culture, and solve problems at scale. I found companies that fit my focus and demonstrated how I was aligned with the team.
+10. Why should I hire you?
+For young designers, this can feel like the toughest question to answer. Without a lot of design experience, what you 
+can 
+offer is your hustle and a proven willingness to learn. Emphasize it. And don’t just talk about it —show it. Point to personal projects, blog posts, and other forms of commitment to design that you’ve taken.
+As a young designer, you’ve taken an enormous leap into a new career. Talk about this experience and share the strides you’ve taken to get to where you are now and where you want to be. You have enormous potential — 
+be confident as you go
+.Thoughts on UX interviewing? I’d love to hear from you! Find me at 
+@icschoen
+.Follow us at 
+@SalesforceUX
+.
+Want to work with us? Contact 
+uxcareers@salesforce.com
+Check out the 
+Salesforce Lightning Design System

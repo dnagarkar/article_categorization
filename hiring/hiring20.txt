@@ -1,0 +1,140 @@
+Why Hiring is So Hard in Tech
+Talent Shortage
+Skills gap: By 2020, there will be more than one million unfilled programming jobs. We need better tech education.
+Recruiting Costs
+Recruiters charge 20% — 25% of the recruit’s annual salary. Startups quickly hire in-house recruiters in an effort to save money.
+Other ways to attract direct referrals:
+Maintain a company tech blog
+Encourage employees to speak at events
+Encourage employees to be active at meetups
+Set aside time every week to contribute to the open source community
+The Compensation Race
+Due to talent shortage, tech salaries have grown quickly. Great for coders, but for startups, this cuts both ways. To attract new talent, we pay more money, but the growing trend in salary increases means that it’s easy for your competition to poach your best talent — just wait a year for the market to change enough & make an offer too good to refuse.It’s easy for your competition to
+poach your best talent.This problem is easy to spot on 
+many coder resumes:
+ Quick jumps from one job to the next with ever-more-impressive company names and job titles.
+Interviewing
+These don’t work:
+Puzzles and riddles
+Whiteboard code tests
+Big O notation quizzes
+Detailed quizzes about the mystery corners of the language
+These work great (in order of value):
+Pair program with candidate on an actual issue from your ticket queue (let the candidate drive)
+Code samples / OSS contributions
+PAID Sample project assignment (err on the side of paying fairly — say $100+/hour for estimated completion time — if the problem should require 2 hours to complete, offer $200)
+Review past work / portfolio
+Read candidate blog, publications, watch candidate talks
+Ask candidate for input on a real problem you’re currently working on
+Ask specific questions about software problems and solutions from candidate’s resume
+Startups are miserable at interviewing candidates. To assess skills, founders rely on their existing engineers, but 
+most engineers are terrible at interviewing candidates.
+Instead of assessing a candidate’s abilities, engineers often pick stock puzzles (puzzle performance has zero correlation with job performance), whiteboard coding demonstrations (nobody codes on a whiteboard on the job), or CS101 algorithm tests (experienced devs forgot the useless crap they learned in CS101 years ago so they could remember all the algorithms and design patterns they actually use in real-life).
+None of those strategies work. They only make the interviewer feel superior, while the candidate struggles because none of those skills get practiced on the job. If a candidate aces those interviews, beware: They’re either fresh out of school with little job experienced, or they spent their time studying for coding interviews instead of actually coding and learning the real skills that are needed to write real apps.
+I kid you not, there are books dedicated to acing these useless interviews, and 
+mediocre coders
+ who 
+lack proven skills
+ buy them so they’ll get hired in spite of their lack of visible coding talent.Want to land a job at a company
+that sucks at hiring?
+There’s a book for that.How do you identify good coders?
+Pre-Interview:
+Look at their 
+portfolio
+ and 
+accomplishments
+Look at their 
+GitHub profile
+Look at their 
+StackOverflow profile
+Glance at their 
+resume
+ (distant last place)
+Resume Assessment
+The best resumes are just a way to aggregate an overview and evidence of things the candidate 
+actually produced.
+Great candidates
+ highlight 
+accomplishments & products
+ they built.
+ Mediocre candidates 
+list a bunch of 
+skill buzzwords
+ with 
+no supporting evidence.
+Great candidates:
+Show, don’t tell
+Stress 
+accomplishments & products
+ over 
+buzzwords
+Link 
+to
+ GitHub
+ profile URL for 
+sample code
+Link
+ to 
+portfolios
+ or apps they contributed to
+Link 
+to
+ StackOverflow
+ profile URL
+Link
+ to 
+Conference talks, blogs,
+ or 
+publications
+Designers link
+ to 
+Behance
+ or 
+Dribbble
+ profiles
+See a pattern here? The best resumes are really a one paragraph summary of accomplishments and a collection of 
+links offering proof.
+Job history
+ is still important, but like the link collection, 
+descriptions
+ of those jobs should 
+offer evidence
+ to support the summary of accomplishments.
+Poor candidates:
+Note: These are just red flags. You shouldn’t dismiss a potential candidate over this stuff. Some people are great developers, but terrible resume writers.
+Stress 
+skill buzzwords
+ over 
+accomplishments and evidence
+No portfolio URL, 
+blog links, or links to products they contributed to
+Don’t provide details
+ of accomplishments and problems solved in previous jobs
+While we’re at it, most companies are also terrible at 
+evaluating employee developer performance
+, but that’s another story.Want to beef up your resume?
+Lifetime Access to
+Learn JavaScript JavaScript
+with Eric ElliottEric Elliott
+ is the author of 
+“Programming JavaScript Applications”
+ (O’Reilly), host of the documentary film-in-production, 
+“Programming Literacy”
+. He has contributed to software experiences for 
+Adobe Systems
+, 
+Zumba Fitness
+, 
+The Wall Street Journal
+, 
+ESPN
+, 
+BBC
+, and top recording artists including 
+Usher
+, 
+Frank Ocean
+, 
+Metallica
+, and many more.
+He spends most of his time in the San Francisco Bay Area with the most beautiful woman in the world.

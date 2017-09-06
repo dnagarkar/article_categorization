@@ -1,0 +1,20 @@
+Fundraising Round Expectations — A Graphical Explanation
+A lot of startups are confused about the expectations investors have at different stages of the fundraising process, and therefore make mistakes aligning their fundraising efforts and business progress. When working with 
+Techstars
+ companies, I like to use this basic graph to show how capital needs and execution should align.
+How to think about fundraising expectations by round
+Obviously you want to be on the “Good” or “Great” paths. Both of which should relatively easily attract the right stage of investment at the right time — as long as the market is big and compelling and the team remains strong and effective. You’ll also likely have leverage and be able to get good investors and terms for each financing round. Being below the slope of the “Good” curve is a dangerous place to be. Not only are you behind but you’re likely to lose leverage with your existing investors and new investors will be hard to attract.
+How to think about the X (Stage) and Y (Progress) axes
+The X axis represents the standard fundraising stages. The more interesting axis is the Y axis which represents the progress you are making as a company throughout your fundraising journey. The milestones I’ve included are where most investors expect you to be to raise that round of financing. If you are early on your journey and haven’t raised money yet, the milestones I list are a good goal to shoot for. If you have raised money, you should talk with your investors about what they would like to see on your Y axis to make subsequent fundraising rounds easy — knowing that the milestones for your company may be different depending on your market, team or another variable.
+How to make sure you are on the “Good” or “Great” path
+Be measured and disciplined in your pursuit of capital. Make sure you accomplish the milestones needed for the next raise before you need the capital. Your goal is to get ahead and be on the “Great” curve.
+Raise less money and slower than you may want. Raising capital is a powerful catalyst and milestone for a company and can seem like a silver bullet but when you get ahead of yourself you begin to set unrealistic expectations of accomplishment and ultimately end up behind.
+Spend your capital wisely. Keep your burn low and execute.
+Know where you are. Be sober about the data your startup is churning off and make sure you understand where you are in the startup process and don’t get ahead of yourself.
+Check in with your stakeholders. Be open and candid with your existing investors about where you think you are on the chart and understand their expectations of the slope of your curve and where you are today.
+How to get off the “Bad” path
+Knuckle down and execute. You’re going to need to do more with less and go fast. Your goal is to catch back up and pull up the slope of your curve.
+Become incredibly capital efficient. Your goal is to not need new capital until you change your trajectory. This may mean changing the size of your team, dropping salaries, and slowing down non-customer related growth.
+Explore if you are in bad soil. Maybe you are approaching the wrong customer, maybe your product isn’t solving their problem, maybe you don’t understand their problem, maybe your positioning and message isn’t resonating. Start testing variables to see if you can find better soil.
+Extend your runway. If it becomes desperate yet you still deeply believe you are onto something, you can try to raise more capital from existing investors or try to attract new investors to extend your runway and give you time to bend your curve. This will be hard, distracting and costly.
+I hope this model is helpful in thinking about aligning investor expectations and your startup’s progress. To put it into practice, create the graph for your company. Start by figuring out your Y axis (your best guess at least), determine where you are, look at your slope and then keep checking in as you move forward.

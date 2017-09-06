@@ -1,0 +1,75 @@
+173 rejections while fundraising and we were considered successful
+If you are raising money, be ready to hear “no” a lot
+If you like this article, check out another by Robbie:
+Despite What You’ve Heard, Running a Startup is Not That HardAny experienced entrepreneur will tell you that raising money is one of the least fun, least glamorous parts of the job. It’s stressful. It’s uncertain. It can be depressing.
+It is easy to feed off the media’s 
+survivorship bias
+ and think everyone else has a much easier time because you hear only about the success stories. Even with companies that raise big rounds, most of the gory details of how those rounds came together are not shared. It’s similar to overnight success stories (
+which were ten years in the making
+.) You rarely hear about the struggle, only the success.
+Companies do their part to facilitate that perception. Why would you want to damage your external reputation by saying you almost went out of business before finding a lead investor? It’s much better to let the story persist that you were so popular that raising money was easy.
+Take my company, 
+Automated Insights
+, as an example. We raised $10.8 million over three rounds before getting acquired shortly after our Series B closed. We were covered extensively as an early example of an AI company and considered one of the success stories in the Raleigh-Durham area. But outside of our seed round, the fundraising was by no means “easy.” I was never concerned about going out of business, but it required dozens and dozens of conversations with investors. As I look back in our fundraising spreadsheets, 
+I can count over 175 firms or individuals that turned us down.
+Often I’ll talk to first-time entrepreneurs that get frustrated after hearing their first five rejections. They think they are failing — that they won’t be able to raise the money they need. It is with mixed emotions that I tell them that they need an order of magnitude more rejections before they can consider their fundraising efforts unsuccessful. A dozen rejections are barely scratching the surface!
+If you are not ready to be rejected at least 50 times when raising a round, you shouldn’t even try.
+It may happen sooner. For many it does. My $1.3 million seed round was very easy. But in a lot of cases, it will take longer and be harder to raise the money you want to raise.
+Fundraising is a project and you are the project manager
+The first step before starting a fundraising process is to create a spreadsheet of target investors. Raising a round can take several months, and you’ll have many conversations going on at once. You may even have multiple people helping you or working with you through the process. Staying on top of where conversations are at is critical.
+In fact, it’s best to treat the fundraising process with the same rigor that you would the development of a new product or service. Many times I see entrepreneurs treat the fundraising process haphazardly — with no clear approach. When the going gets tough, and you start to run out of options, you’ll be happy that you did the work to track each interaction along the way.
+Another benefit of documenting the status of your fundraising process is it serves as the initial contact list for your next round. Why did a particular firm turn you down? Who did you speak to? Did you get a good vibe from the partners? I don’t have the best memory, and I definitely can’t remember the details of the 60–70 conversations I had about raising the previous round. Having it documented can be a lifesaver.
+I’m not suggesting anything too crazy. A simple spreadsheet can be sufficient. A spreadsheet may be the best option for a project like this that you only need to reference every year or two. You could use a different project management tool, but what are the odds you’ll be using it in 18 months when you raise your next round?
+Here are the columns we used in our tracking spreadsheets:
+Potential Investor
+ — name of the firm or angel investor.
+Contacts
+ — list of person(s) you know at the firm or that you can get an intro to.
+1st Meeting Date 
+— this is helpful so you can keep tabs how quickly things are progressing.
+Phase (pulldown) 
+— we used “To be qualified”, “Initial discussions”, “Diligence”, “Discussing terms”, “Committed”, and “Pass” as the values, but you can customize this as necessary.
+Priority Level (1–4) 
+— indication of how important the investor is to us.
+Interest Level (1–4) 
+— indication of how interested the investor seems to be.
+Indicated Amount ($K)
+ — how much the investor has talked about investing.
+Diligence Requests 
+— the outstanding diligence requests.
+Full Partners Meeting
+ — date of the full partners meeting.
+Next Action
+ — the next action to move forward.
+Type (pulldown)
+ — “Traditional VC”, “Angel”, “Strategic Investor”, “Private Equity”, etc.
+Comments 
+— details of the interactions, feedback, and any queues on deal structure.
+You can go crazy with more columns. My suggestion is to use whatever you can keep track of consistently. If you don’t maintain a particular column, it will be less than valuable — it could be detrimental because it’s not consistent.
+Fundraising is unpredictable
+One of the challenges with fundraising process is that you never know when you’ll find the investor that will give you money. It could be the second person you talk to or the 99th person. With my seed round, I got lucky. I don’t remember exactly how many people I talked to (because I wasn’t using a tracking spreadsheet yet!), but it was less than ten before I found the firm that would lead my round. It seemed so easy!
+Now you might get lucky as I did with my first round and only talk to a dozen people. That’s awesome. It happens. But don’t count on it. You need to plan on it taking at least 2–3 months and as long as 6–8 months to raise a round. It could require 20–30–50 or more conversations.
+The other challenge with fundraising is dealing with the unpredictable beasts known as investors. Rejections don’t all come in the same form. You may never hear back from an investor you reach out too — turns out to be a common form of “no.” In other cases you’ll get a response that sounds like it could be positive, but it is actually “no.” As many as half of my 175 rejections were just non-responses. They weren’t explicit “no” but the more insidious non-response. Did they get my email? Did it go into their SPAM folder? Why haven’t they responded?
+There are so many ways an investor can tell you know, that I wrote a whole post on that topic:
+15+ Ways a Venture Capitalist Says “No”
+If you like this article, check out another by Robbie: 
+The Rise of the “Retro Human” Business
+unsupervisedmethods.com
+The quick version of my “15 ways a VC says no” post is that until you get a term sheet, or even better, the check clears, consider it a “no.” That doesn’t mean you shouldn’t keep working on them. I’ve turned some rejections into commitments in later rounds. Just be mindful that a “no” comes in many forms while a yes comes in one — cash in the bank.
+Start the fundraising process before you need money
+Earlier, I said the first step in the fundraising process is to create a tracking spreadsheet. That’s not exactly right. The first step is actually to start conversations with potential investors long before you start fundraising.
+Startup investing is a relationship game. With the thousands of other companies out there raising money, why should an investor put their money with you? The more you can build a relationship with potential investors, the better shot you’ll have at convincing them to give you money. It’s no mistake that many VCs say “team” is the most important consideration when evaluating a company. Do they think the team can deliver on its promises? By starting conversations early, you can let the potential investor know what you are about and what you plan to accomplish before fundraising. Then when you meet with them again when you start the process, you can show them that you delivered. This helps them “derisk” their investment.
+Priming the pump by meeting with investors early is the single best thing you can do to improve your chances of getting funded. Very few, if any, of the non-responses I received from my 175 rejections were from investors I had primed the pump with. Plus, if you talk to investors when you don’t need the money, you’ll already set yourself apart. The vast majority of meetings investors have with entrepreneurs are fundraising pitches. By getting to know investors early in the process, you have a decent chance of needing only 50 or 75 rejections to raise all the funds you require instead of the 175 I had to endure.
+Additional Reading
+How This Entrepreneur Went From Getting Rejected by 200 Investors to Getting Funded in 56 Days
+Every entrepreneur hates raising money. Raising money is like being stuck in the Lincoln Tunnel on a weeknight just…
+www.inc.com
+How Pandora Survived More Than 300 VC Rejections And Running Out Of Money
+Most entrepreneurs pay lip-service to "tenacity," but few have any idea what it really means. Pandora's Tim Westergren…
+www.businessinsider.com
+Investors rejected this guy's company 70 times - now it's reportedly worth more than $1 billion
+There's been a lot of talk around the cooling VC funding environment in recent months, but Adaptive Insights founder…
+www.businessinsider.com
+The start-up rejected by investors 45 times in a row - BBC News
+Nick Hungerford knows a few things about dealing with rejection. In 2010, the 34-year-old Englishman was going to…
+www.bbc.comIf you like this post, give it a ❤️ below so others may see it. Thank you!

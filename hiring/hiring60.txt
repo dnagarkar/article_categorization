@@ -1,0 +1,320 @@
+The State of Tech Hiring in 2017
+25 charts that reveal the trends, practices, and perspectives of 200+ recruiters, hiring managers, and technology workers
+In the past few years, we’ve seen a lot of people speak up about the problems they see in tech hiring, from 
+resumes
+ to 
+recruiters
+ to 
+whiteboard problem-solving
+. Employers and candidates alike often express frustration with the current process and call for change.
+But do we even have a good understanding of what the current process is, exactly?
+While there’s been some great data coming out of organizations like 
+interviewing.io
+ and 
+Triplebyte
+, I’ve never seen anyone do a comprehensive review of how our industry hires as a whole.
+Earlier this year, some friends and I put together a survey called 
+The State of Tech Hiring
+. The goal of the survey was to capture a holistic view into the current practices and attitudes of the tech job market.
+In this post, I’d like to share our data and key findings. I hope this study invites discussion about what the current tech job market is like, how employers and candidates experience the hiring process today, and what kind of changes we might want to make going forward.
+Key Findings
+In June 2017, 50 tech employers (hiring managers & recruiters) and 161 tech workers (engineers, designers, product managers, and data scientists) took our survey.
+ 
+We refer to these two groups as “hiring managers” and “candidates” throughout the study.
+Job mobility:
+ 77% of candidates either made a job change in 2016 or thought seriously about it
+Key skills: 
+Machine Learning, Scalability, and Design Thinking are rated by both hiring managers and candidates as some of the most valuable skills in the tech job market today
+Prep time: 
+Nearly half of candidates spend more than 10 hours preparing and interviewing per company—and one third of that “high prep” group spent more than 25 hours
+Take-home assignments: 
+68% of candidates have encountered take-home assignments when applying for jobs and 51% of hiring managers use them to assess candidates, but both sides have concerns with the demands it places on applicants
+Coding tests:
+ Both hiring managers and candidates considered coding tests the least valuable/useful pre-onsite hiring practice for determining “a good fit between the candidate and the role”
+Brain teasers & puzzles: 
+While only 14% of hiring managers use brain teasers or puzzles in their onsite interviews, 55% of candidates have encountered them the last time they interviewed for a job
+Technical ability: 
+According to both hiring managers and tech workers, not passing the technical bar is the #1 reason for why candidates don’t get a job offer
+Top challenges:
+ Sourcing enough applicants is by far the most-frequently citied challenge selected hiring managers (52%), while candidates struggle most with getting through the initial resume screen (34%) and discovering relevant opportunities (30%)
+Survey Demographics
+For a detailed account of survey methodology and demographics, we’ve published a much more detailed account in 
+a response at the end of the write up
+.
+Gender: Significantly more men than women.
+ Hiring managers and recruiters were 78% men, 20% women, and 2% non-binary. Candidates were slightly more equitable at 59% men, 40% women, and 1% non-binary.
+Discipline: Majority of responses hail from engineering, but with some design and product representation.
+ More than half of both hiring managers (64%) and candidates (56%) were in engineering with design in second (16% hiring managers / 25% candidates), followed by product management (12% / 12%), and finally data science (4% / 6%).
+Note: these results combine the hiring practices of engineering, design, product management, and data science disciplines. If there is interest (and I have the bandwidth), I may publish a follow-up to this write-up examining those distinctions.
+Location: US-centric results, with more representation from NYC (~30%) than SF Bay Area (~15%) among both hiring managers and candidates.
+ Candidates had a slightly less US-bias than hiring managers, with more than one quarter of candidates based internationally, primarily in Canada and Western Europe. 
+This NYC bias is due largely to the study author (me) being based in New York and not a reflection of tech employment generally.
+Firm size and industry: Respondents hailed from small and medium-sized firms largely in technology, 
+with 101–1000 employees representing around 40% of both hiring managers and candidates. About a quarter of respondents were from 1,000+ person organizations. 63% of hiring managers identified their firm as being in technology, while 48% of candidates said the same.
+Does the Tech Job Market Favor Candidates or Employers?
+Most markets tends to favor either supply (tech workers) or demand (employers/companies). Based on the responses from both hiring managers and candidates, it appears that both agree that talented tech workers have the upper hand in today’s tech job market over great companies.
+It’s tough for companies to hire. 
+69% of hiring mangers and 57% of candidates agreed or strongly agreed to the statement: “It is difficult for great companies to hire talented tech workers.”
+Strong candidates have it easier. 
+Meanwhile, only 12% of hiring managers and 36% of candidates agreed or strongly agreed to the statement: “It is difficult for talented tech workers to land a great job.”
+Source: 
+stateoftechhiring.com
+Source: 
+stateoftechhiring.com
+It’s interesting to note that each side is biased in a “grass is greener” attitude. Tech workers agree that talented candidates have an upper hand, but not as much as employers do. Meanwhile, employers feel like they have it harder than candidates perceive.
+Are Companies Hiring More in 2017 Than Last Year?
+It is all well and good for talented tech candidates to know they are in demand, but a question that all candidates probably care about is whether there are growing opportunities in tech. Are companies hiring more this year than in 2016?
+The short answer is: most are, but not all of them.
+Most people expect stronger job growth this year. 
+When asked to respond to the statement “My company will hire more in 2017 vs 2016”, 52% of hiring managers and 51% of candidates said they agreed or strongly agreed.
+On the other side, about 30% from each category disagreed or strongly disagreed that their company would hire more in 2017.
+Source: 
+stateoftechhiring.com
+This suggests that, assuming we believe candidates and hiring managers have a decent grasp of their companies’ intentions, about half of tech employers are actively expanding at a rate higher than in 2016, a healthy sign of a good job market.
+A related question that also gets at the signs of a good job market is how people feel about their own personal job prospects. Here we see a small difference between hiring managers and candidates.
+People are feeling good about their career. 
+When asked to respond to the statement “I am more optimistic about my job prospects today in 2017 than last year”, 60% of hiring managers and 53% of candidates agreed or strongly agreed.
+Only 10% of hiring managers and 16% of candidates disagreed or strongly disagreed.
+Source: 
+stateoftechhiring.com
+One theory here is that hiring managers tend to have more seniority and a better understanding of how companies make hiring decisions, and so feel more confident about future career opportunities. But overall, it seems that both hiring managers and candidates feel that companies are hiring more and see opportunities for themselves.
+What Are the Most Valuable Skills and Technologies in 2017?
+Tech is a rapidly evolving field and one of the most exciting and challenging things about it is that to remain successful, we always have to be learning about technologies and acquiring new skills.
+Hiring managers cited Scalability, Machine Learning, Design Thinking, and Lean / Agile methodologies as the most valuable skills and technologies.
+Candidates responded with Machine Learning, Design Thinking, Artificial Intelligence, and Scalability as the most valuable skills and technologies.
+“Hot technologies” like virtual reality and blockchain were both close to the bottom of both groups’ lists. Chatbots / natural language processing (NLP) was in the bottom half.
+Source: 
+stateoftechhiring.com
+Source: 
+stateoftechhiring.com
+Note that this chart shows what respondents checked off from a list of skills and technologies. This list was compiled by myself, coupled with suggestions from a handful of tech colleagues. In retrospect, this list was not as comprehensive as it could have been—for instance, security/infosec was not on the list, though it garnered enough write-in responses to appear in the chart.
+Some respondents chafed at the idea of checking items off a list and one candidate said this in response:
+Being a solid programmer that never [forgets to] stop to evolve, reflect and make mistakes to become an even better programmer. These buzzwords above are just that, buzzwords and they’re hurting the industry by producing “Expert-beginners” or causing stress due to impossible requirements
+That’s not an unfair critique of the fact of this survey, and of the broader industry trend where some recruiters and certain job descriptions that rely on long list of technologies that are “required” for a particular position.
+How Frequently Do People Change Jobs in Tech?
+One of the things people often say about tech is that there is high turnover and people change jobs quickly. The data we collected found some truth to that thought.
+Our survey found that in 2016, 
+51% of candidates had changed jobs and another 26% did not make a move but seriously considered it
+. (If this sounds high, consider that 
+an ADP study
+ of 5,000 workers found that 2/3 were actively looking or open to a new job.)
+In the first half of 2017, another 23% of people had made a job change and 48% were actively considering a switch.
+Source: 
+stateoftechhiring.com
+Source: 
+stateoftechhiring.com
+This data suggests that a significant percentage of the tech workforce turns over every year, with most of those moves being positive ones. About 16% of people who switched jobs in 2016 and 4% of those who switched in 2017 regretted making the move.
+And even of those who aren’t leaving, many are seriously considering a change. This is another sign of a strong job market—candidates feeling comfortable making a move to a new company, where they perceive more growth and opportunity.
+How Do Candidates Prepare for Job Interviews?
+Given the high-stakes nature of applying for a job, it would make sense that candidates invest time in preparing themselves to succeed during their job search. We asked candidates to tell us about their preparation strategies.
+The most common strategy by a significant margin was to familiarize themselves with the company’s history and products, followed by seeking to understand that companies hiring process.
+ This suggests that candidates see interviewing as not just a general activity, but one that needs to be tailored for the firm.
+The third most common activity was to organize past projects or put together a portfolio
+. Given what we see about common hiring processes (below), this suggests candidates are aware that they will likely be asked to present their work and/or discuss previous projects in the hiring process.
+More in-depth preparation is less common.
+ Studying up on technical topics, working on practice questions, and doing a practice interview were lower on the list, perhaps because they take a lot of time and effort.
+A handful of candidates explicitly said that they do no preparation
+, some saying they were simply confident in their skills, while others believing that if they were not already prepared to succeed in the interview, they were unlikely to be a good fit for the role anyway.
+Source: 
+stateoftechhiring.com
+What Are the Most Common Hiring Practices?
+One of the most fascinating aspects of hiring is just the wide range of steps and practices that organizations use to evaluate candidates (and for candidates to get to know potential employers).
+These practices can be typically broken down into two groups: pre-onsite and onsite. Pre-onsite practices cover the beginning of the hiring process, from application to initial screening. Onsite practices cover the activities that take place when a candidate comes to the employer’s office (or dials in on video if remote), often for a series of interviews with different people at the firm.
+How do hiring managers evaluate candidates before the onsite interview?
+Companies tend to use a variety of techniques to evaluate candidates prior to the onsite interviews, and we will compare the experiences of candidates and hiring managers. Since candidates tend to interview at multiple locations, they may have a broader knowledge of hiring practices, while hiring managers might have a better idea of the “ideal approach”, which may or may not be consistently implemented across all teams and every hire.
+Hiring managers and candidates were asked to think about either the last time they were hiring for a specific position, or the last time they were interviewing for a job, and asked to answer if they encountered the following practices always, sometimes, never, or not sure.
+Resume review
+Screening the candidate over a phone call
+Reviewing side projects / Github repo / open source contributions
+Portfolio review
+Having the candidate complete a take-home assignment
+Doing a pair programming / screen share session
+Assigning an online coding test
+Here’s what we found:
+Resumes and phone screens reign supreme
+—Unsurprisingly, reviewing resumes and phone screens are far and away the most common pre-onsite hiring practices, with above 90% rates of always or sometimes for both practices.
+Following those, we found that
+ hiring managers are most likely to look at a candidate’s side projects / Github repository and open source contributions (75%)
+, review their portfolio (56%), and sending a take-home assignment (51%).
+Candidates were mostly like to encounter a take-home assignment (68%)
+, a portfolio review (63%), and a screen share / pair programming session (51%).
+It’s worth noting that candidates might not realize that a hiring manager is reviewing their side projects or Github repo since that activity isn’t necessarily visible to the candidate. Online coding tests through a site like HackerRank came near the bottom for both parties.
+Source: 
+stateoftechhiring.com
+Source: 
+stateoftechhiring.comWhat do hiring managers think of the efficacy of their pre-onsite hiring practices?
+Now that we know what the typical hiring process is like, how can we know what is actually useful for determining if there is a good chance of a candidate being successful in a role?
+We asked hiring managers and candidates to rate the value/usefulness of each pre-onsite practice as well.
+Due to an inconsistency in the two versions of the survey, hiring managers were asked to rate on a scale of “Very valuable”, “Valuable”, “Somewhat valuable”, “Not at all valuable”, and “Negative (inverse correlation with fit)”. Meanwhile candidates were asked to rate on scale of “Very useful”, “Useful”, “A little useful”, and “Useless”.
+Some findings:
+Hiring managers value phone screens and portfolio a lot. 
+By far the most valued pre-onsite hiring practice, 74% of hiring managers said phone screens were valuable or very valuable, with portfolio reviews in a strong second place at 61%.
+Candidates put more stock in resumes than hiring managers. 
+Candidates rated resume review as their most useful pre-onsite hiring practice (66%) while only 48% of hiring managers felt the same way.
+Take-home assignments are as valuable as resumes to hiring managers.
+ Take-home assignment were tied at 3rd with resume reviews, with 48% of hiring managers saying both processes were valuable or very valuable.
+Everyone is skeptical of online coding challenges. 
+Both candidates and hiring managers had the lowest regard for online coding tests compared to the other pre-onsite hiring tests, though at 39%, candidates seemed to give it almost twice the sway of hiring managers (19%).
+Source: 
+stateoftechhiring.com
+Source: 
+stateoftechhiring.comWhat do hiring managers and candidates think of take-home assignments?
+I’m personally really interested in the practice of homework assignments and asked hiring managers and candidates to share their thoughts on their value in an open response question.
+Hiring managers that used take-home assignments valued the many signals assignments reveal both in the work they hand in, and in a later conversation about it.
+Code style, meticulousness, thoroughness, design aptitude; most importantly, ability to talk about their work in a follow-up interview/call.
+Others saw the value in observing what candidates do in ambiguous circumstances, perhaps because the technology work typically requires solving new problems (as older problems typically have known solutions).
+I enjoy seeing what kinds of questions they ask (and don’t ask) while they’re trying to complete the assignment. I believe it’s helpful to understand how people work just as much as it is to understand how good their work is
+At least one hiring manager noted that take-home assignments take time, and can filter out candidates who may be qualified but don’t have the bandwidth to complete an assignment.
+Another datapoint for technical analysis. I also learn that the person has time to complete it. There are several folks who aren’t in the position to do it so we scrapped that because it introduces bias into the equation.
+From the candidate perspective, some candidates liked them because they provided a way to demonstrate skills when they have a less robust portfolio.
+I like them because they give you an opportunity to show your skills when you don’t have a lot of projects to show.
+Others enjoyed them but only if they were correctly scoped.
+Good after initial interviews, and assignment is clear and appropriately sized, right intent
+Some candidates noted the same challenge of lack of time that hiring managers pointed out.
+I have two jobs. I don’t have time for take-home assignments, and so they either take a long time or I don’t put forth my best effort.
+While others feel that assignments should come with compensation.
+They should be paid if related to the company hiring or if more than 2 hours are expected to be put inA platform to manage take-home assignments
+Based on a long-standing personal interest in take-home assignments and the findings from this research, I’ve been building out a tool that I think addresses some of the key problems with take-home assignments for both candidates and hiring managers.How do hiring managers evaluate candidates in the onsite interview?
+From my own personal observation, it seems that historically, companies might interview a candidate over several rounds, which took place on separate days over the course of a week or two. This may still be a common practice in other industries but tech seems to have converged onto a 4–6 hour series of back to back interviews.
+Having made it through to the onsite, there’s a whole new set of hiring practices that tech employers typically use. We asked both hiring managers and candidates to rate the frequency and value/usefulness of 7 common interview practices:
+Discussing past projects completed by the candidate
+Discussing the company’s culture and values
+Discussing technical topics related to the job generally
+A behavioral interview where the candidate is asked to describe specific situations that demonstrate a quality (i.e. “describe a time you led a team/resolved conflict/solved a problem under pressure”)
+Having a conversation over a meal like lunch or dinner
+Answering a brain teaser or puzzle question (i.e. how many golf balls fit in a 747 or the 
+three light bulbs
+ problem)
+Here are some notable findings:
+Discussing past projects was cited by both groups as the most common onsite hiring practice. 
+100% of hiring managers and 96% of candidates said they discussed prior projects either sometimes or always. Given that hiring relies heavily on a model where past performance is used as an indicator for future results, this is to be expected.
+Discussing culture and values was the #2 most common onsite hiring practice according to both hiring managers (100%) and candidates (91%)
+. This is an encouraging result as it shows employers recognize the importance of aligning the values of the candidate with that of the company. However, depending on the nature of the discussion, this practice could also lead to the elimination of otherwise qualified candidates who don’t “fit in” to the larger group.
+Most interviews include discussion over a meal—according to 78% of hiring managers and 86% of candidates
+. This is worth noting since when companies spread out their interviews over several days, the likelihood of a meal was lower. Making meals a fundamental part of the interview experience adds another layer of intimacy, and brings issues like dietary restrictions and talking while chewing to the forefront.
+Whiteboard problem solving is actually one of the least common hiring techniques.
+ Being asked to solve a problem using pseudo-code or by sketching or diagramming a solution on a whiteboard has become known as one of the more challenging and sometimes controversial practices. But in our study, we found that only 56% of hiring managers and 55% of candidates are encountering them.
+Candidates seem to encounter brain teasers and puzzles at a higher rate than hiring managers say they are using them.
+ While only 14% of hiring managers say they use brain teasers sometimes or always, 55% of candidates claim to have encountered them in their interviews. There are a number of reasons that might explain this discrepancy. First off, it is possible that a few companies that lots of candidates are interviewing at use them, and that’s why so many candidates see it. Secondly, hiring managers might think their company doesn’t use them, but are unaware that some of the interviewers at their firm are actually still asking puzzles. And finally, candidates and hiring managers might have a different definition of what a brain teaser or puzzle actually is.
+Source: 
+stateoftechhiring.com
+Source: 
+stateoftechhiring.comWhat do hiring managers think of the efficacy of their onsite hiring practices?
+Now that we’ve discussed the frequency of the onsite hiring practices, let’s now look at their efficacy.
+Discussing culture/values, technical topics, and past projects are at the top of both candidates and hiring managers’ lists of most valuable/useful onsite hiring practices.
+ This is a promising finding in that it suggests candidates and hiring mangers are on the same page about what they think is going to help determine a candidate’s fit in an organization. 88% of hiring managers and 81% of candidates said talking about culture and values was valuable/useful or very valuable/useful. 86% of hiring managers and 87% of candidates said the same for technical topics, and 82% of hiring managers and 89% of candidates said the same for talking about past projects.
+Despite being a common practice, most hiring managers do not see significant value in sharing a meal.
+ Less than half of hiring managers (48%) saw conversation over a meal as valuable or very valuable practice, despite the fact that over three quarters of them are using meals as part of the hiring process. This may be due to simply a biological need to feed candidates when you’re putting them through 5, 6, or 7 hours of interviews.
+No one thinks brain teasers are helpful in determining fit.
+ In a finding that should surprise few, only 10% of hiring managers and 17% of candidates saw any value or use for brain teasers and puzzles, which makes it sad that two-thirds of candidates are still encountering them in interviews.
+Source: 
+stateoftechhiring.com
+Source: 
+stateoftechhiring.com
+How Much Time Do Companies and Candidates Spend Through the Hiring Process?
+Finding a great candidate to fill an open role is one of the more drawn-out and time-intensive things a company needs to do on a regular basis. Similarly, finding a new job at a great company can be a huge burden on an employee.
+We found that about 47% of all companies spend 5–10 hours across all their people in preparing for and interviewing a candidate that makes it to the onsite. Few spend less than that, and the remaining (37%) spend more than 10 hours, with very few spending more than 25 hours.
+Nearly half of candidates (47%) told us they spend more than 10 hours per company they made it to the onsite interview for, and of that group, nearly a third spend more than 25 hours per company.
+This research suggests that while interviewing candidates is a time-consuming process for companies, it is even more taxing on candidates.
+While a company might need to interview 5 or even 10 candidates per hire (a question I wish we had asked), that time might average around 10 hours and would be spread out across several people. Meanwhile, many candidates will sink a dozen hours per company, and similarly need to interview at more than one firm to land the best possible job.
+Source: 
+stateoftechhiring.com
+What Are the Biggest Reasons Candidates Do Not Receive a Job Offer After Coming Onsite?
+After the onsite, there is typically a discussion period and then a decision to make an offer or not. One of the questions we had was around what issues might prevent a candidate from getting an offer.
+Not having the appropriate technical ability was the top reason for both hiring managers (62%) and candidates (48%)
+. In a field where highly talented workers are prized (i.e. “the 10x engineer”), this answer makes sense.
+Culture fit
+ was the second most common reason for hiring managers (28%) and candidates (20%) followed by salary requirements.
+Among other reasons for not receiving a offer, the breakdown of logistics around start date, location and other issues was a top vote-getter,
+ followed by a number of write-in responses including having no clue why they didn’t get an offer, performing poorly (uncharacteristically I would assume) in the interview, choosing to back out themselves, and being too old.
+Source: 
+stateoftechhiring.com
+Source: 
+stateoftechhiring.com
+What Tools Do Hiring Managers and Candidates Use to Hire/Get Jobs?
+There is an entire industry of products and companies devoted to helping companies source, interview, and onboard companies, so it was difficult to do a comprehensive look at what hiring managers used, but we gave it a shot.
+First off, everyone uses email and spreadsheets. 
+This was a poorly worded question because they are two different tools and don’t really need to be grouped, and honestly who doesn’t use email, but given it was in the survey, we will state this fact.
+Lever and Greenhouse were the most popular applicant tracking systems (ATS) 
+of our respondents with Jobvite and JazzHR in a distant 3rd and 4th place.
+Hiring managers are generally happy with their ATS
+, with 45% indicating they were satisfied or very satisfied, and less than a quarter indicating any dissatisfaction.
+Angellist and Hired were two popular tools, 
+as both are platforms that help companies source talent.
+We did not include LinkedIn in this list, which is a major oversigh
+t. It’s hard to imagine this would not have been high up on the list.
+Source: 
+stateoftechhiring.com
+Source: 
+stateoftechhiring.com
+And now for candidates:
+LinkedIn was the most commonly cited resource,
+ which is not too surprising given it’s broad adoption as the professional social network and its numerous offerings including to look up shared contacts, update one’s own profile, apply for job openings, and communicate with recruiters.
+Glassdoor was the second most common resource
+, which speaks to the desire candidates have to 1) understand a potential employer’s culture and decide if they even want to work there and 2) benchmark what kind of salary ranges to expect for the role they are interviewing for and 3) search for clues on the company’s hiring process so they can prepare.
+The popularity of Twitter, Slack, Instagram, and the write-in response of email newsletters suggests that a lot of job hunting is often still relies on serendipity
+. Broadcasting one’s search or following up in fairly noisy social communication channels is a critical activity for many job-seekers to stumble across opportunities.
+Similar to hiring managers, many candidates cited Angellist and Hired 
+as well as other job boards like Indeed, Salary.com and Dice as resources for their search.
+Source: 
+stateoftechhiring.com
+What Are the Biggest Challenges That Hiring Managers and Candidates Face in Hiring/Job Searching?
+For both hiring managers and candidates, identifying potential options (candidates/jobs) is a top concern. 
+52% of hiring managers cited attracting enough candidates as the biggest challenge, far above any other issue. For candidates, discovering open jobs that were relevant to them was their second most common challenge (30%). This is may be due in part to the opaque nature of open job opportunities and candidates’ desire to hide their interest in a new job from their current employer.
+Candidates feel they cannot rise above the crowd. The most common challenge of candidates was getting through the initial resume / application filter. 
+Despite the concern that hiring managers have about attracting candidates, it seems they also have a very heavy filter that screens out many candidates before they even have a chance to speak to anyone at the firm.
+Technical ability is a bigger challenge than cultural fit.
+ Assessing technical ability or clearing the technical hurdle was more frequently cited by both hiring managers (26%) and candidates (17%) as a major challenge compared to aligning on cultural fit (~5%).
+Source: 
+stateoftechhiring.com
+Source: 
+stateoftechhiring.com
+So What’s Next?
+This study sought to understand how tech hires, trends on hiring practices and attitudes, and opinions on what hiring managers and candidates think 
+ought
+ to be done
+.
+I’d like to leave my own opinion largely out of this report and ask for thoughts, questions, and ideas from those who are still reading (thanks for making it to the end!) on what you all think needs to change.
+I hope to publish follow-up piece in the coming weeks that summarizes my own perspective after running this study and where I think we ought to go.As some final food for thought, I’ll share some of the write-in responses hiring managers and candidates shared about what they saw as important challenges that still needed to be addressed.
+We’ll start with hiring managers and recruiters:
+Finding diverse candidate pools to hire from:
+“It’s difficult to find women and minorities to apply through traditional channels.”
+Employing effective pre-onsite practices:
+“It’s hard to get a strong signal via traditional phone screens and interviews.”
+Dealing with the trade-offs of time, money, quality, and depth:
+“Whiteboard questions are garbage, but a take-home assignment only tells one story. Deeper technical evaluation (that’s fair and objective) is expensive and time-consuming.”
+Getting buy-in from leadership to pay appropriate salaries:
+“Executives don’t want to pay for top-notch talent, then complain that the job market is dry. They are full of shit. We’ve passed on a lot of great candidates because their salary requirements were reasonable and we were not.”
+Here’s how tech workers answered the same problem from their perspective:
+Establishing clear expectations on what a role requires:
+“Hiring managers who don’t know what they want; job descriptions that aren’t reflective of the needs or the actual role.”
+Getting an accurate assessment of life at a particular company:
+“Understanding the job and company in reality, not the rosy picture painted by them.”
+Dealing with bad recruiters:
+“I never work with external recruiters but even internal ones tend to be pretty painful to deal with. Companies don’t invest enough into operationalizing the processes that recruiters use with candidates. Recruitment funnel, scheduling, flights etc. It’s all manual at most places.”
+Finding the time to interview:
+“Interviewing around a full time work schedule”
+Joining a team with low-performers:
+“The people hiring rarely are technically sound enough to make good decisions. The majority of Software Engineers I come across in industry at large companies look good on paper (because they know how to make it through the interview) but they produce low quality work. I’m at a stage of my career where getting a job is easy, most companies give me offers, but once I’m on the inside I’m highly disappointed with the quality of engineers they’ve previously hired.”
+Nonsensical hiring practices:
+“Having to learn a bunch of algorithms that you’ll never use on the job due to the general apathy every company has towards the hiring process.”
+Jason Shen
+ is the author of the 
+State of Tech Hiring
+ survey and a tech entrepreneur building tools to making hiring a more fair and empirically-driven experience for employers and candidates.
+He was previously a product manager at Etsy, a Presidential Innovation Fellow, and co-founder of Ridejoy, a Y Combinator backed startup.
+Follow him on Twitter at 
+@jasonshen
+.Huge thanks
+ to 
+Wayne Gerard
+, 
+Belinda Ju
+, 
+Vesha Parker
+, and 
+Daniel Kao
+ for helping develop this survey and reviewing drafts of the write-up.If you enjoyed this story, please recommend and share to help others find it! Feel free to leave a comment below.
+The Mission publishes stories, videos, and podcasts that make smart people smarter. You can subscribe to get them 
+here
+.

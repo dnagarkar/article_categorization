@@ -1,0 +1,141 @@
+An early stage founders guide to working with VCs — Preparing your fundraising
+Hi there, we’re 
+Point Nine Capital
+ a VC firm focused on SaaS and marketplaces. If you want to be kept informed of our new posts you can subscribe to our 
+content newsletter
+ or follow our 
+Medium channel
+.
+An early stage founders guide to working with VCs
+:
+Part 1: 
+Before working with VCs
+.
+Part 2: 
+Preparing your fundraising.
+Part 3: 
+Assessment phase, hot or not?
+Part 4: 
+From term sheet to signed deal
+.
+Part 5: Post investment.(coming soon)The 2min TL;DR video
+Ok now that you’ve decided to raise with VCs let’s get our hands dirty and:
+Shortlist the relevant VCs.
+Do your first “light” reference checks.
+Create your fundraising material.
+Contact them.
+1- Shortlisting the relevant VCs
+If the core concept of the VC model is quite simple — money against company ownership to generate an ROI — many variations exist: large VC firms which have hundreds of millions of dollars, or even billions, under management versus micro VCs which raise less money and are leaner. Early stage VCs versus late stage VCs. Specialized VCs — investing in specific industries/verticals only — versus generalists. “Hands-on” VCs which are offering a lot of operational support to their startups versus “hands-off” VCs. Etc.
+It’s the reason why rather than contacting every VC you’ll find; you need to shortlist the ones which are relevant for your startup 
+AND
+ for which your startup is relevant (it works both ways). In that perspective be sure to check for each VC firm:
+The stage they invest in (seed, Series A, B, C…)
+. The first thing to check is whether a fund invests in companies at your stage. If you’re an early stage company looking for a seed round, there is no need to contact funds investing in series B and more. This information is usually visible on their website.
+Their Investment scope: 
+the majority of VC firms limit their investments to specific types of companies and specific geographies. For instance, at Point Nine, we only invest in SaaS and Marketplaces (we don’t invest in social or gaming apps), mostly in Europe and North America even if we have some exceptions. Before contacting a VC, you need to check whether you fit their scope or not.
+Their Investment thesis
+: most VCs have what they call an “investment thesis” which details precisely what they look for: the characteristics of the founding teams they like to back, the technologies they find exciting, the markets they think are promising… This document is the hardest to find as it’s not often accessible on their website. USV is an excellent example of a “
+thesis driven
+” fund.
+Their “value add” / operational support
+: if during the “
+Before working with VCs
+” phase you’ve concluded that, beyond money, particular value-adds will be critical to your success, you need to find the investors who offer that. It’s key when you operate in specific industries or verticals as industry focused VCs can help tremendously: for examples funds specialized in Healthcare tech or Government Tech can provide operational support, network, and knowledge that non-specialized can’t.
+Where do I find lists of VCs?
+Network
+: first ask fellow founders in your city. If they have already raised, it’s very likely that they have such a list.
+Incubators and Accelerators
+: if you’re part of an incubator don’t forget to ask them for a list of investors (if they don’t have one it’s a huge warning).
+A Google search
+: simple but effective, just Google “VC in your area” and you’ll probably find a spreadsheet created by a local investor or by a founder (this is what I found by Googling “
+VC in Paris
+” or “
+VC in NY
+”).
+Startup directories
+: whether it’s on 
+Crunchbase
+, 
+AngelList
+, Dealroom or other directories you can filter VCs by geography.
+How do I understand an investment scope and thesis?
+Obviously, the first thing to do is to check their website. In most cases, you’ll be able to understand their investment scope: stage, types of companies and geographies they invest in.
+Regarding their investment thesis, it can be trickier. If you are lucky, they’ll have shared it on their website. If it’s not the case check:
+Their blogs
+: reading what investors write on their blog is the best way to have a good idea of their investment thesis. Some of them even publish 
+whole
+ 
+investment thesis
+.
+Their latest investments
+: by checking the latest investments of a VC firm on Crunchbase you can also get a rough idea of the trends they follow / the types of companies they like to back.
+Should I always value “prestigious” VCs over smaller ones in my list?
+Christoph wrote a post worth reading regarding this question: “
+Should I take small checks from deep pockets
+?”
+2- Do you first “light” reference checks
+Like in any industry you have 
+bad VCs and good VCs
+. Good VCs can be a huge part of your success, and bad VCs can kill your business. It’s why it’s important to do a minimum of reference checks at that stage.
+When shortlisting the VCs, you should try to collect the opinion of people who have worked with them:
+Other founders
+: whether it’s founders from their portfolio or who have tried to raise with them don’t hesitate to ask their opinion (during an event, through your network): what is it like to work with them? How did the fundraising process go? Do they recommend working with this VC firm? Are they known for harming startups?
+Business angels
+: if you have business angels don’t forget to ask their opinion too.
+Incubators and accelerators
+: they should be able to give you some feedback based on the experience of other incubated projects. Many accelerators and incubators have a private ranking of the VCs they have worked with.
+At that stage, it’s probably not worth doing “deep reference checks” (which we will cover in part 4), but you should at least be aware of the reputation of the different funds you’ll approach. 
+Don’t skip this phase.
+3- Creating your fundraising material
+Before contacting the first batch of VCs, you need to create your pitch deck. I won’t explain the art of pitch deck creation as almost every fund shares its template. You can get inspired by 
+Point Nine
+’s one or others like 
+Sequoia’s template
+.
+If I had to give two pieces of advice only, the first one would be to create a deck which explains enough so that your readers understand what you are doing but not too much in order to keep her/him curious and excited to learn more.
+When pitching or selling, we very often feel the urge to explain EVERYTHING. Why? Because we think it’ll be easier to convince someone if he/she understands everything directly.
+The 
+primary goal 
+of a pitch deck is not to share in details what your company does / will do, but rather 
+to create the urge for the VC to contact you back
+ because she/he got 
+curious
+ or even better, 
+excited
+.
+It sounds simple, but it’s tough to find the right balance and to refrain from sharing too much.
+The second advice is directly related to the investor’s investment thesis that we covered earlier. The better you understand a VC’s investment thesis, the better you can highlight your corresponding strengths in your deck. Don’t lie or oversell (terrible idea) but if you can create a pitch deck which is in line with an investment thesis you’ll probably have more chance to generate interest and to move to the next phase.
+Regarding your fundraising material, a deck is enough for this first step. If you manage to go to the next phase, you’ll probably be asked more documents such as a financial plan, your product metrics (cohorts) but these are documents that you should have for internal purposes anyway.
+4- Contacting your first VCs
+We’re now finally ready to contact the VCs we’ve shortlisted. How do we do that?
+The best way to get in touch with a VC is with a warm intro. If you know someone ready to intro you, don’t think twice. Obviously the warmer the intro the better. Some well know funds are only accepting requests coming from their network, they won’t answer to cold requests.
+What if I don’t have a warm intro?
+The first thing to do when you don’t have a warm intro is to go to the website of the investor and to check their recommended procedure.
+You’ll very often find on their website instructions on how to send your deck. It might not sound very fancy but if they wrote it somewhere, it means that it probably makes their life easier. And you want to make their life easier.
+On our 
+Point Nine website
+, we request founders to fill a 
+Typeform
+ that enables us to have all the relevant info correctly formated directly into our dealflow tool. You’ll get a faster answer if you submit your deck by following these instructions than by cold contacting one of us by email. Most of the times we redirect cold inquiries directly to our Typeform page.
+If there’s no information on the investor website or if you really want to contact someone directly (again that might not be the best solution) here’s the procedure to follow.
+Who should I contact first? Partner, Principal, Associate?
+Remember when I told you that it could be useful to understand 
+the hierarchy of a fund
+? It’s now that this information is worth.
+Again there’s no rule on how a fund is structured. Some funds will have several partners and almost no analysts / associates / principals while others will have both. You’ll find this information directly on the “team page” of their website or by searching on LinkedIn.
+For very small funds, targeting directly the Partners might make sense, but in the majority of the cases cold contacting them is not the best strategy for several reasons:
+Usually, Partners don’t manage the deal flow (the incoming stream of new startups) anymore. It’s the analysts, associates, and principals who are in charge of that. So even if a Partner receives your cold request, the chances are high that she/he’ll directly forward it to the dealflow team.
+They very often get a ton of requests, so your chances to get an answer are pretty slim.
+So if you are really in a “cold contacting mode”, reaching out to the analysts, associates or principals might be the best option.
+How?
+Again it’s all about being relevant. You need to understand what are the area of expertise and the interests, through their website bio, social media accounts or the content they produce, of the investors you want to pitch. If your project fits their interests, then you can contact them directly by email, social media or during events. A simple email with your deck will be enough:
+“Hi XXX,
+I’m YYY the founder of ZZZ and I saw in your posts A, B and C that you were interested in D, E and F. My product is in line with what you wrote, and we’re currently raising a seed round.
+I’ve attached our pitch deck and would love to enter your dealflow process.
+Thank you and looking forward to your answer.
+YYY”
+The drawback of cold contacting a VC is that you cannot blame him/her if you don’t get an answer. If you follow the instructions on their website and don’t get an answer, you can legitimately ask them what’s the current status and why they haven’t answered you.
+To summarize, the best way to get in touch with a VC is, by order of efficiency:
+With a warm intro.
+By following the instructions on their website.
+By cold contacting the relevant ones.

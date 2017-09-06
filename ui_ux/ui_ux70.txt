@@ -1,0 +1,178 @@
+The Ultimate Guide to Chatbots: Why they’re disrupting UX and best practices for buildingThis guide is a sampling of what will be available in my upcoming book: The Ultimate Guide to Chatbots
+. 
+If you enjoy this article, you should consider signing up for 
+the book’s waitlist
+.The incredible potential of chatbots lies in the ability to 
+individually and contextually communicate one-to-many
+.
+Let’s break that down.
+One-to-Many Communication: 
+There are plenty of tools out there that allow us to communicate one-to-many at this point in history. These tools, including everything from basic mailers to email marketing to social media, make it easy to reach a large audience and target groups within that audience all at the same. But, for the most part, these tools do not allow us to communicate with people on an individual level.
+Individual Communication:
+ Reaching mass amounts of people at the individual level is something that hasn’t been around for very long. The most popular way to do so right now is 
+programmatic advertising
+ but, ultimately, reaching the individual in a meaningful way takes a lot of work and analytic knowhow if you want to do it right.
+Contextual Communication:
+ We do this every day when we talk to someone. It’s unconscious behavior for most people.
+When someone asks you “Should I bring a jacket?” you don’t ask them what day they were thinking about bringing a jacket, you just know that they’re asking if they should bring a jacket right now. You unconsciously (or maybe consciously, by checking your weather app) recognize the weather and give your best response based on the conversation you’re having and your current environment.
+I believe contextual communication (a form of dynamic intelligence) is what will make chatbots the revolutionary technology everyone is promising.
+Right now contextually communicating with bots isn’t something that’s reasonable to ask across the board but there are a 
+few
+ 
+that
+ 
+are
+ 
+doing
+ 
+it
+ 
+well
+, and I believe this type of interaction will be the standard in the future.
+While chatbots are still in their infancy in terms of creative potential, 
+it’s still a very exciting time for creatives
+ trying to understand the best way to use this new technology and how to build the best bot possible.Why Chatbots are Disrupting UX
+Aside from the reasoning we just walked through, there’s also the fact that humans are innately wired to have conversations. It’s part of our daily lives, and we rely on our devices to help us communicate every day.
+It’s only natural that we begin to see businesses build where their users are active — messaging platforms — instead of trying to create and onboard users to new ecosystems they’ve created. Not only is it easier and more cost effective, it’s also a more natural form of communication.
+The average person only uses 4–6 apps every day
+Although the average smartphone owner has 27 apps on their phone, they typically only use 4–6 of those apps every day. And at the end of 30 days, only 3% of all apps retain their new users.
+“Over 2.5 billion people have at least one messaging app installed. Within a couple of years that will reach 3.6 billion, about half of humanity.” — The Economist
+The effort required to download a new app and test it out to see if it could be the next to join our top 6 just isn’t worth the download anymore. Your users would rather have you integrate your services into an app they already use than download another app.
+What this means
+Stop wasting money trying to pull people into your ecosystem. Push your content where your users are already active.
+via Statista
+Messaging Apps have taken over
+We’ve been selling goods, learning new skills, and building relationships through conversation for millenniums. Messaging apps just happen to be the newest and most interesting way to do it.
+“When we send out broadcast messages to our Kik chatters, usually with links to new videos, we see conversion rates as high as 10%.” — Patrick Starzan, VP Funny or Die
+The top four messaging apps have more monthly active users than the top four networking apps. They also see longer periods of activity. WhatsApp users average almost 200 minutes of conversation every week.
+What this means
+It’s easier to continue a conversation than it is to start a new one. Use messaging apps to build relationships with your audience in a way that feels organic and natural.
+Statistics from 
+Buffer and Business InsiderSignifiers and Affordances
+Right now, and for the foreseeable future, bots are fairly limited in what you can output to users. This lack of signifiers and affordances is both the challenge and benefit of creating a bot.
+It’s a challenge because you have to figure out how to creatively use these fundamental elements to solve the problem.
+It’s a benefit because it will force you to strip your experience to the most raw, meaningful experience possible.
+Every interaction should have meaning and provide value.
+Text Elements
+The foundation of conversational interfaces is text. Some platforms allow for buttons or quick responses to accompany your textual elements, but this is not globally established at this point in time and, until SMS conforms to the needs of the chatbot economy, it probably won’t be global.
+Media Elements
+You’re currently allowed to use images on every bot platform, including SMS. Accepted formats include JPEG, PNG and GIF. Some platforms allow you to send videos and audio, but that’s about as far as you’re going to get and that’s only on the bleeding edge of bot platforms.
+The platforms that allow you to send video include Messenger and Telegram but these more advanced media types have to be sent through a custom code base.
+Building with template bot platforms like motion.ai, Chatfuel, and other similar platforms do not allow video and audio to be sent yet.Bot Building Best Practices
+Although chatbots are familiar to most people in the tech industry, they’re still a novelty to a majority of the world.
+I went home to Nebraska in September and when I told everyone what I was working on I got responses like: “You mean like those things that you could talk to on AOL when you were bored?”
+I laughed, but this is a reality. There are a lot of people that will have no idea what you’re talking about so it’s important that you keep that in mind as you build.
+Here are 9 best practices that will help you make your bot user friendly:
+1: Don’t lie to your users
+People aren’t dumb. If you over promise or tell them your bot is something that it’s not, they’ll figure it out eventually.
+For now, bots should handle logic and things that robots would be good at. They should not take over the role of a human being.
+Obviously you want your bot to feel as human as possible, but if you try to convince your users it’s not a bot and they get suspicious, they’ll probably leave. Earning their trust back will be more difficult than just telling them up front that they’re working with a bot.
+People are more comfortable and forgiving if you let them know they’re talking to a machine with limitations.
+What you should do
+Let users know up front they’re talking to a machine.
+Let your users know the capabilities and limitations of your bot so they don’t try to use your bot for anything and everything.
+Admit when things get messed up because of your bot’s capabilities.
+2: Onboard with conversation
+Although AI bots like Siri, Alexa and Google have been around for a while now, most people aren’t familiar with speaking or texting with an inanimate object to get what they want. We’re still used to navigating WYSIWYG interfaces to get what we need.
+It’s your job, as the bot designer, to tactfully teach your users how easy a conversational interface can be.
+What you should do
+When available, use buttons to ease your users into the experience with something familiar. (Some platforms like SMS don’t let you create buttons yet, so use actionable commands instead)
+After a few button clicks, make your users type a response to move forward in their experience to get them comfortable with typing. Do this by giving your users an actionable command.
+Make all buttons and commands actionable.
+3: Design for human emotion
+Talking to a robot is boring. While it may be efficient and meet the objective of the product, it won’t be something people enjoy coming back to. And it’s not something we’re used to.
+Even if you don’t give your bot a personality, users will assume one, so plan for that by projecting the personality you desire. This is something you should already be doing as a brand, but it’s even more important now.
+Designing for human emotion is just as, if not more, important with chatbots as it is with any other experience. The emotion is the bot, and the bot is the experience.
+What you should do
+Use friendly, inclusive language when speaking to your users to make them feel like they’re chatting with a friend or someone familiar.
+Repeat inputs back to users to check for understanding. This will make your users feel comfortable and help you gain their trust.
+When users start to play games with your bot (i.e. asking the same question over and over to test it) don’t be afraid to be sassy and show users that your bot is listening.
+4: Conversation is limitless
+Language is one of the most powerful tools on this planet. As an English minor in college, it’s always been something that has fascinated me. But Building a chatbot that has AI behind it was one of the hardest things I’ve ever done.
+Speaking, the way we form our sentences and the words we choose, becomes an unconscious behavior at a certain point in life. However, to build a bot with AI I had to deconstruct my unconscious model of language in order to teach a computer what I know.
+You’ll drive yourself crazy thinking about the variety of ways someone (or some thing) could be addressed, what syntax structure is most representative of the way your users talk, what words are most likely to be misspelled and how they could be misspelled.
+Most children in the United States go through 12 years of English class to learn the language, and they’re still usually not that great at it.
+Computers may learn faster but it still takes time, and there’s not much you can do to accelerate the process besides pushing loads of data at it.
+What you should do
+Front load your user base with people that like breaking things to test your system. Onboarding the right people up front is crucial.
+Use an 
+SEO typo generator
+ to plan for common misspellings and errors.
+Accept that building your AI is going to take time and that initially it’s not going to work well. The only way it gets better is when it breaks. Plan for this and create boundaries to limit breaks.
+5: Create Boundaries
+We’re used to websites, apps and digital devices that have a limit to the width of the screen, the length of the page, the number of buttons we can press, and so on. We are comfortable with these limitations and guiding elements.
+Conversations are limitless, if you let them be.
+To keep people engaged we need to create limits and pathways for users so it feels familiar. Users won’t tell you because they don’t know it yet, but they’ll appreciate it.
+What you should do
+Prompt users with actionable statements and buttons to guide the conversation.
+Use buttons to make it feel more like interactions users are used to from their experiences in websites and apps.
+Create content blocks to catch mistakes and reroute the conversation back to a safe place.
+Teach your bot 
+foundational conversation interactions
+ 
+and build triggers to resolve these common threads.
+6: Let them down easy
+Unless your bot is completely templated and only experienced through button clicks your bot is going to break at some point or another. There’s no way around it.
+Conversations are limitless and you probably won’t have connections to everything your users are going to want for months or years after building your bot. Even then your bot will still struggle at times.
+Plan for this by making the broken experience as painless as possible.
+What you should do
+Show that you understand their pain.
+Offer options on how to handle the situation and reroute users to safe areas within your system.
+Offer human intervention.
+Do 
+NOT
+ leave users with empty white space without reason.
+7: Every interaction is meaningful
+There’s no need for analytics software to be hooked on when every click or input means something. The task of understanding users behavior becomes less difficult, but maintaining focus may become more difficult.
+It’s important to realize that not everything your users want is part of your product and maintain focus through all the noise.
+What you should do
+Properly label all your content blocks so they’re easy to interpret.
+Track down the content blocks/inputs that you’re seeing the most users leave from, figure out why, then change them.
+Most analytics platforms will show you what blocks and buttons have been clicked, and what users have input into your system, along with lots of other data.
+8: Help users help you
+You can’t possibly anticipate everything your users will want at this point in time. A conversation is limitless.
+Instead of trying to infer user needs or asking them to fill out a survey, build hooks that allow users to give you feedback directly through the bot during an interaction that feels natural.
+What you should do
+Let users submit articles when they ask for something your bot doesn’t know about.
+Ask users if the results your bot gave them are what they were looking for, and if they’re not, let them tell you what they want.
+9: Identify and target user sentiments
+A conversation is filled with so much more emotion than an interface. Instead of asking your users for feedback, they’ll give it to you whether they realize they’re doing it or not.
+Use your knowledge of user’s sentiments to trigger content blocks to extend and improve the experience at the most appropriate time.
+What you should do
+Take advantage of positive sentiment to promote your product or get users to do some promoting for you.
+Identify negative sentiment and do what you can to save face.It’s Time to Create the Future
+Bots are a powerful tool when they’re created properly. And they’re only going to get more and more powerful as time goes on.
+Take advantage of being ahead of the curve and start building your own today!
+If you’d like to chat about anything related to this article, what tools I use, or anything else, please leave a comment below and I’ll do what I can to help!
+If you liked this article, please ❤️ it so other people stumble upon it as well!You might also like some of my other articles:
+The Unicorn Workflow, Design to Code with Atomic Design Principles and Sketch
+Wish your design could be as modular as your code? Click through to find out how to make it happen!
+medium.com
+6 Things that take your UX from Above Average to World-Class
+Many parts of applications are rarely experienced, yet we have to consider how the presence or absence of these states…
+medium.com
+WTF is Experience Design? — uxdesign.cc — User Experience Design
+The first question out of everyone’s mouth when we meet: Q: What do you do for work? A: I’m an Experience Designer. Q…
+uxdesign.cc
+Mobile First: Insights from going Mobile Only
+No matter how much I want to believe we’re all up to speed on Mobile First design, there are still many experiences…
+medium.comI am currently an Experience Designer for 
+R/GA
+ at Google in San Francisco, CA and a guest blogger for 
+InVision
+. On Medium I actively write for 
+uxdesign.cc
+, 
+Muzli
+, and 
+The Mission
+ publications.
+If you want more content like this, let’s connect: 
+Medium
+ // 
+Twitter
+ // 
+LinkedIn
+Muzli Design Inspiration
+Join over 100,000 others who enjoy Muzli for Chrome. Muzli is a goldmine of inspiring, beautiful & fresh content…
+muz.li

@@ -1,0 +1,64 @@
+5 Mistakes That Are Ruining Your Chances of Hiring a Great Senior Software Engineer
+Your team needs to grow.
+“We need someone great. Let’s get together with HR, write a req and put it out on our careers page and a few job sites. Don’t forget to mention that we have snacks, are Agile and have pairing stations!”
+Your job listing goes up and you get inundated with resumes (half or more of which are blatantly false).
+“I can’t review all these resumes, lets find some way to filter them”
+You add a Codility or HackerRank challenge to your recruiting funnel.
+“What the hell, all we’re getting is terrible candidates, they pass Codility but clearly have no clue. Let’s get someone to help”
+You hire an outside recruiting firm. They add a few more buzzwords and start sending you candidates.
+“No one can find good candidates. All the good senior developers are taken and no one is moving.”
+It’s Not The Pool’s Fault That You Don’t Know How To Swim
+Too many companies recruit like this. They commonly make the same mistakes and end up not finding the great talent they want and need. If you want to find great talent, stop complaining about the pool and learn to swim. You’ll be much better off in the long run when you can find the gems that few can reach because they’re busy barely treading water in the shallow (and over crowded) end.
+Before I continue I want to mention that 
+this applies to hiring senior level talent
+, not mid level, juniors, or interns. The current process isn’t as broken for hiring them (although mistake #2 applies to everyone, as you’ll see in a moment).
+Mistake #1 Focusing on Resumes
+Experience matters, but here’s a little secret: every resume is a well crafted lie. So is every job listing. So is every first date. Ever read a resume that said “I did 30 minutes of real work a week at this job, less if I could help it.” No? Because no one ever puts that on a resume even if it’s 100% true. Every resume, like every job listing (ever read a job posting that said “Wanted: Captain for our sinking ship”), is a marketing document. It’s designed to highlight, and even exaggerate the positives while burying any possible negative.
+In addition to the issue of exaggeration, resumes are historical documents. They don’t tell you anything about where the person wants to go, or what they’re into. Are you going to have them do mostly what they do at their current job? Then why would they leave? Most of the time they’re going to feel like they’re better off with the devil they know than the devil they don’t.
+Solution: Look At Their Public Contributions And Go Where The Puck Is Headed
+Here’s what contributions tell you that a resume never will: What is this person passionate about? By contributions I mean look at blog posts, look at GitHub, BitBucket, etc. Do you have a position that uses technologies that they are interested in? Do they give talks about technology at conferences or meetups? Have they contributed something to open source that you could use at your company? If you call me and say “Hey we saw that you wrote 
+electron-request-response
+ and we’re interested in using it” not only do you have my attention, but we immediately have a common interest. If you then describe the position and what we can build together you’re much more likely to close a deal with me.
+Mistake #2 Using Codility, HackerRank, etc.
+If you can’t get enough out of looking at some open source project that someone may have (and granted that not everyone is going to have something), then you need to see if they can actually do what they say. That said, Codility, HackerRank and their ilk are 
+terrible
+ at divining talent. Not only are the problems often poorly worded, the answers are timed, and the code they’ve written (ironically) often does a poor job of analyzing the code candidates have written. As icing on the cake, the solutions to their problems are often available online with minimal Googling so cheaters often pass the filter at far higher rates than good candidates.
+Solution: Use a Paid Coding Project
+I’ve written an entire blog post about how to do this 
+here,
+ which goes into great detail about the process. In short, give a candidate a project, give them some time to do it when they’re comfortable , then do a code review with them. Suffice it to say it’s a MUCH better approach. Unless the actual job you’re hiring for requires the person to write a breadth first search with no libraries in 15 minutes, avoid “coding quiz” sites.
+Mistake #3 Talking About How Agile You Are
+Have you ever noticed how great basketball players don’t constantly talk about how great they are? Ever notice how your buddy in your pickup game can’t stop talking about the 4 3 pointers in a row he got that one time? People who are process minimalists don’t sit around talking about process minimalism and they definitely don’t put it in job postings. People who are into buzzwords use them at every opportunity.
+No one who’s any good goes to work at a place because they claim to be “Agile”. For better or worse, the word has become the bane of senior engineers. If you’re interested in why, I’ve written about the cargo cult of Agile 
+here 
+and 
+here
+. The same goes for “pair programming”, “open work space” and “scrum master”, and “ping pong tables”.
+Solution: Let Them Ask About it
+Let the candidates ask about your process. When describing it, don’t use buzzwords. Talk about 
+why 
+you use steps in your process, not just 
+that 
+you use steps in your process. If you’re really a process minimalist, you should be able to identify clear and compelling reasons why every step in the process is there.
+Mistake #4 Using Recruiters That Aren’t Technical
+Often recruiters don’t speak technically and don’t understand what they’re recruiting for. As a result you end up with a pile of resumes that you could just as easily find by hitting LinkedIn with a keyword search. Worse yet, you end up losing the perfect candidate because they didn’t fall in this “ideal filter”.
+Here’s an actual conversation I had. “They use GitHub, are you familiar with that?” (Ignoring the fact that I have my GitHub stuff at the top of my resume) “Yeah, I use it extensively.” “They also use GitHub PR. Are you familiar with this technology?” Where do I even begin? I just lost all respect for your hiring process. You can’t hire off a checklist if you’re looking for great talent.
+Solution: Use Recruiters That Speak The Language
+Your recruiters don’t have to be developers, but they should be able to speak the language. If you’re hiring doctors, and your recruiters don’t know the difference between a cardiologist and a cardiac surgeon, you’re going to have a bad time. The same is true if your recruiters have no idea what technologies you use and how they fit together. Again they don’t need to understand the minutia, but they do generally need to get the broad strokes.
+Mistake #5 Expecting The Right People To Fall In Your Lap
+If your only outreach is posting a job to your careers page, a few job sites and having an automated reply when someone applies, you’re not going to do very well. Why would you spend less effort on outreach to the people who are going to shape your product than you do on outreach to your customers? You shouldn’t, but most careers pages are a black hole. Do you know what meetups and conferences are interesting to engineers in your field? When you show up at hiring events or talk to potential candidates do you refer them to your careers page and ask them to fill out a profile? That’s a great way to make someone feel like they’re going to be a cog at your company.
+Solution: Develop Relationships And Lower Barriers
+Here’s a bit of harsh truth: You’re not Google, or Facebook, or Microsoft Research. Great senior engineers aren’t going to come to you in droves, and no one cares that you’re tech is “changing the way people change the way” or that you’re “disrupting disruption”, everyone says things like that.
+Treat your job postings like products and candidates like potential customers. Spend time understanding the people who would fit well in that position. Create a persona for the person you want to hire. Focus on fundamentals, don’t sweat the details. When you meet someone excite them about what you do and then make it easy for them to want to join you (and do the followup).
+Additionally if someone is a great senior engineer, but hasn’t worked with the Flask version you use, you have 2 choices: Try to get them and then give them a bit of time to read up on Flask as part of their natural ramp up period, or hold out for a perfect senior engineer that also knows Flask. Guess which one is more likely to succeed? In an industry that’s constantly evolving, languages and frameworks aren’t what make senior engineers great; problem solving skills, experience using them, intellectual curiosity and an understanding of software craftsmanship are.
+TL;DR
+Stop trying to hire people for your new disruptive company using techniques from 1980; they really didn’t even work back then. Most companies are 1 step away from asking you to fax them your resume. If you want to continue doing that, stop complaining that you can’t find amazing, cutting edge, technology people in 2016.About Me
+I’m Amir Yasin, a polyglot developer deeply interested in high performance, scalability, software architecture and generally solving hard problems. You can 
+follow me on Medium
+ where I blog about software engineering, 
+follow me on Twitter
+ where I occasionally say interesting things, or check out 
+my contributions to the FOSS community on GitHub
+.
+If you enjoyed this post, I’d really appreciate a recommend (just click the heart below)
+.

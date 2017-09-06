@@ -1,0 +1,57 @@
+I am Hiring. Without Resumes or Puzzles
+I have had the opportunity to interview and hire hundreds of people in my career — across functions and levels, at startups and at large companies. Some turned out to be just ok, many good, and some truly outstanding.
+In many cases, they all had similar resumes at the time of hire — they came from similar schools, had been at similar companies, and had similar skills on paper. They did equally well in the interviews, and many excelled at the “challenges” and “puzzles” thrown their way.
+What made the outstanding outstanding at their job?
+They learned new things amazingly fast and did whatever it took to get what was needed done.
+Think about that carefully, and you’ll see why that’s not easy and has little to do with resumes or interview performances.
+The first part — learning — is natural and we all learn new things all the time. But learning something really fast, with a 
+forcing function
+ (tight deadlines, do or die situations) is not easy. It begins with asking the right questions, seeking answers from the right sources 
+(Google, Github, a technical paper), 
+and developing a view that goes beyond the answers 
+(“We should do this and not that”)
+. It involves not just intellect, but resourcefulness, curiosity, and more importantly, a strategy.
+Even more important is the second part — taking what you learned and applying it to accomplish what’s needed. Build and ship product as an engineer, position and increase sales pipeline as a marketer, or close a deal or strengthen a relationship as a sales person. As an aside, I was a management consultant early in my career and I learned the hard way that describing a problem, analyzing it, learning a lot about it is pretty useless in itself. Unless you can use that knowledge to build, sell, or do something to help build or sell. No one wants to hear you admire the problem and make paper recommendations —
+ ship, sell, or get out of the way.
+So when hiring people, the only 2 traits I look for:
+How fast can you learn something 
+completely
+ 
+new?
+H
+ow fast you can get the right things done with results to show?
+Learning under 
+forcing functions
+ does three things:
+You get very good at breaking down complexity — divide and conquer comes naturally.
+You become very agile — incremental learning gives you more breadth and depth over time.
+Most importantly, you 
+learn to learn fast and get things done.
+Ask any seasoned engineer — the best learning doesn’t always come from adding new features or fixing normal defects, it can often come from fixing those absurd defects that just drive you nuts! You chase them for days, often without sleep. In the end it could be, as in many cases, just a misplaced ‘;’, but you learn a LOT along the way. Every engineer I know has a debugging episode they’ll never forget.
+None of this has to do with resumes. In fact, I think resumes are meaningless — they have become the most abused pieces of paper. I recently came across a 5 page resume of an engineer who claims to have a 100+ skills. It went straight to where it belongs — the trash can.
+So insert yourself into fast paced environments — at school, at work, in your community. Pick up tough problems, and solve them fast. 
+Learn to learn fast and get things done. 
+Then don’t write the usual resume — stop the BS with “putting in the right keyword to catch a recruiter’s eye”. Instead write true stories about learning and doing.
+Three months in a startup = Three years in a big company.I Am Hiring. I Don’t Want Your Resume. I Want Your True Story
+Right now I am hiring for my healthcare startup — 
+LeanTaaS
+. We are on a 
+mission
+ to solve some 
+hard forward looking problems
+ and I am looking for data engineers, front-end and back-end engineers, product managers, and experienced healthcare sales folks. A CS / math / statistics background would be awesome but not required. 
+Details here
+.
+If you can do what’s needed to build or sell data science based SAAS products to hospitals I’d love to talk to you.
+Interested?
+Email me (
+sanjeev@leantaas.com
+) 1 to 3 anecdotes — 
+examples of where you learned something new and complicated in a short period of time and accomplished what was needed. Not your PhD thesis.
+Real world examples such as:
+How I solved a hard data science problem
+How I scaled our backend code over a weekend because we got hit with 10k users unexpectedly.
+How I launched a new feature in 3 days that got us 50k new users.
+If my team and I like what we see, we’ll call you and take it from there. Promise. Don’t worry about your writing skills, we care more about the story itself than the quality of narration. And by the way, we have BS detector plugins everywhere :), so be authentic.
+No recruiters. No ATSes. No puzzles. No BS.
+Just you and me.Sanjeev serves as the President of Healthcare and Chief Marketing Officer at LeanTaas, a Silicon Valley company that uses advanced data science to optimize healthcare operations. Sanjeev was Google’s first Head of Product Marketing. Since then, he has led three successful startups — CEO at Aloqa (acquired by Motorola), VP Products & Marketing at TellMe Networks (acquired by Microsoft) and Founder & CEO at Collegefeed (acquired by AfterCollege). Sanjeev graduated Phi Beta Kappa with an EECS degree from MIT and along the way spent time at McKinsey & Co. and Cisco Systems. He pretends to play squash when not chasing down his daughters for exercise.

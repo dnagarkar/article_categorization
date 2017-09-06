@@ -1,0 +1,66 @@
+Chicago Flag Mosaic Project
+Update:
+ The flag is officially on tour and up on display at it’s first stop…Navy Pier! Navy Pier’s social media posts announcing the installation are linked at the end of this post.
+Some quick background: 
+I’m not a writer.
+More background: 
+I’m a Computer Science teacher at 
+Lane Tech College Prep High School
+, one of roughly 650 
+Chicago Public Schools
+. Lane is a huge school with roughly 4400 students, and an 
+amazing history
+. In the past 4 years, our CS department has grown from 1 to 10 teachers offering 11 different CS courses. I’m honored to be working with an amazing team of talented and dedicated educators and an administration committed to bringing equitable and accessible CS to our students. With the support of the administration, the financial contributions of 
+a few philanthropic organizations
+, and the help of a 
+some amazing people
+, I designed, built and wrote curriculum for the 4000 sqft 
+LTMaker Lab
+.
+ Like other maker spaces, the lab is outfitted with a variety of design and digital manufacturing tools including laser cutters, 
+3D carvers
+, 3D printers and vinyl cutters as well as soldering irons, hardware prototyping materials, lo-fi prototyping materials and more.The Plan
+Each student was randomly assigned a “tile” and was given the vectors for that tile. Each tile was 4.2852” W x 4.4444” H. The final size was planned at 60” x 40” with a 3/4" x 62" x 42" plywood mounting base. The students were randomly assigned a “main” tool of either a laser cutter, 3D carver (we use 
+X-Carve
+ and 
+Carvey
+ from 
+Inventables
+), or 3D printer. They could incorporate any other tools into the project but the assigned tool had to play a significant role in their tile. What they did with that tile was up to to them as long as it was appropriate. The tile could be up to 3” tall and had to have three-dimensional aspects to it. When looking straight down on the tile, it had to match the exact vectors and overall color(s) they were given. The flag I used as a starting point is the 
+flag posted on Chicago’s Wikipedia page
+.
+I was a little worried that a lot of variation in the color of the tiles would cause it to lose the overall look of the Chicago flag. The materials would end up being a combination of wood, acrylic, HDPE, corian, PLA, and paint, and since I don’t have the best artistic eye, I decided to mock up the flag with some variation in the colors of the tiles. The Chicago flag is supposed to look like this (black border added so the top and bottom white stripes aren’t lost to the background):
+https://en.wikipedia.org/wiki/Flag_of_Chicago
+After I broke it up into the separate vectors, it looked like this:
+126 tiles, one for each of the 126 students taking Innovation and Creation Lab (4 sections of the course)
+To see if it would look strange to have variation of white, blue and red, including wood as white, I made this:
+Flag with color variationsAs things started to develop, I was getting really excited about how it was coming together. The creativity of my students seemed to have no limits. I’ve learned over my 15 years of teaching to let go of my fears of having to come up with creative ideas, and remember that if the students are given the right combination of opportunities and resources, and are taught with inquiry and passion, they’ll work magic.The ProgressI’m so proud of these kids and all of the creativity and effort they put into this project. As of now, my hope is that the project can be displayed at locations across the city and then make it’s way back to be permanently displayed at Lane Tech.
+And Now…The Final ProductFor A Closer Look…
+at the pictures throughout this post along with a few additional ones, please visit this Google Photos Album.
+Chicago Flag Mosaic Project
+47 new photos · Album by Jeff Solin
+bit.ly
+Additional Articles and Resources
+I’ll keep adding additional articles and resources to this section as they become available.
+Chicagoist Article
+This 3D Chicago-Flag Mosaic Made By CPS Students Is A Work Of Civic-Pride Genius
+fullscreen With due respect to Chicago's pothole artist, we may have some competition for favorite mosaic artists: the…
+chicagoist.com
+Chicago Magazine Article
+CPS Students Flex Skills in Beautifully Detailed Chicago Flag Sculpture
+Some people say mosaics are a lost art. Tell that to the students at Lane Tech High School. Hoping to unite his…
+www.chicagomag.com
+WGN Online Article and Video
+This cool Chicago flag is made of 3-D sculptures inspired by local landmarks, people
+CHICAGO -- What's more Chicago than the Chicago flag? A Chicago flag made up of smaller sculptures that portray the…
+wgntv.com
+WGN’s Facebook Post
+https://www.facebook.com/WGNTV/videos/10154627024547411/?comment_id=10154629699222411
+WGN’s 360 Photo
+WGN TV
+Take a look around a unique Chicago flag made by local students in this 360 photo! More on the project here: http://via…
+www.facebook.com
+Navy Pier’s Installation Announcements (FB, Twitter, Instagram)
+Instagram post by Navy Pier * Aug 12, 2017 at 5:44pm UTC
+154 Likes, 3 Comments - Navy Pier (@navypierchicago) on Instagram: "Designed by 126 students in Jeff Solin's Computer…
+instagram.com

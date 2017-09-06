@@ -1,0 +1,31 @@
+Fundraising Advice — A Fortune Cookie Message
+First published at daslee.me on 
+March 26, 2015
+. Not much to change here.YCombinator had its 
+Demo Day
+ this week. There were 100+ startups with an unprecedented breadth. I particularly liked the health informatics/tech-in-bio startups, an 
+area I’ve talked about before
+.
+And with every Demo Day, we at SV Angel and many other investors try to meet and evaluate many of the startups. We try to give advice and help, and one topic we discuss is fundraising.
+Advice on fundraising is hard to generalize. For some startups and founders, raising more money is the right thing to do; for others, raising less can be the right thing. It’s all fact-specific and situational. So when you try to give advice that applies to all startups, it starts to sound like a fortune cookie message.
+Startup Jackson has the 
+crispest recent advice
+ I’ve seen recently on this topic. Here’s an email I wrote to a startup we funded in 2013 when it was raising its seed round. The founder wanted high-level thoughts on how to think about his financing. It had a Heroku, Parse-like business but you could maybe apply this framework to your business with similar comps. There’s not much new that Startup Jackson doesn’t cover but hopefully it gives an insider view of how we think about fundraising for startups (some items redacted). I didn’t add substantive edits so some of the email is cringeworthy but hopefully it gives the reader a gist of our thinking:
+8/21/2013
+Hey ____,
+Here are some early thoughts:
+You will be able to raise a seed 1–1.5 pretty easily in September. I say this given the strength of the team/background and the space. Other startups have raised this on much less customer feedback and with no product launch.
+Very hard to generalize on funding advice since every case is fact-specific. But you should raise as little as possible but as much as you need. It sounds like a punchline but you’d be surprised how many founders don’t think through this!
+You want funding that will last 18 months comfortably. I’d estimate how many people you want to hire. Take that yearly salary and multiply by 1.4 (figure taxes, health, etc.). Then add rent and other incidentals. Then add 20% buffer. That’s the amount you want to raise.
+How many people? So that begs the question of how many people you need. That’s a function of either (a) number of things you need to do to get to cash-fow positive where you don’t need to raise, or (b) number of things you need to do to get a top tier VC to want to invest $5–10MM. This $5–10MM will presumably last you another 2 years where you do this exercise all over again for the Series B.
+On point (a) above, you are in best position to calculate. Will people pay? How much? How many customers? And so on.
+On point (b), I’d look at companies like Heroku, Parse, Github and others to see where they were when they hit their Series A. For example, Parse had 3,500 developers and growing 40% week/week when they 
+raised their Series A
+. Heroku had 10,000 developers when they 
+raised their Series A
+. So clearly developer growth was a key metric. You should also discount this because when these companies raised, they were in hot sectors at the time. Your space is heating up but there aren’t enough investors to make this heated as Rails development platforms or “AWS for mobile.” (Again, raising money is a function of investor interest and demand too)
+Given your space, you will attract certain investors like XXXXXXX. They will all be interested and give you good feedback and I’m happy to intro!
+Then there’s the Github model. They didn’t raise a dime until 
+this happened
+. That’s the path where you’re able to get to profitability within 18 months. The nice thing is that you could be a good candidate to do this. That’s just
+So lmk if you want to work though this live. I’m more than happy to!!

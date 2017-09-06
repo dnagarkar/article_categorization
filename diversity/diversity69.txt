@@ -1,0 +1,83 @@
+Why diversity matters in startups
+As noted in my previous 
+post
+, a startup’s advantage wholly lies its people. 
+Studies
+ from McKinsey have shown that companies with more diverse workforces (startups included) perform better financially. When companies commit themselves to diverse leadership and workforces, they are more successful. Companies in the top quartile for racial and ethnic diversity are 35 percent more likely to have financial returns above their national industry peers. Companies in the top quartile for gender diversity are 15 percent more likely to have financial returns above their national industry peers. Unfortunately, no industry or company is the top quartile in both dimensions.
+Technology is disrupting labor markets, but unconscious bias is holding tech back
+Let’s face it. The world is undergoing a major shift. A robot or computer is going to disrupt the labor market, but those robots and computers need to be programmed by someone. According to the U.S. Bureau of Statistics, the estimated size of the STEM workforce in the U.S. by 2018 is projected to increase 17 percent in the next ten years. On the other hand, non-STEM industries will see a job growth of 12 percent. If STEM jobs are increasing more than any other industry in the last decade or so, why aren’t more people, especially women and minorities, pursuing STEM careers? The tech industry has become more open to women, but an unconscious bias still remains. Many great female and minority candidates are passed on or looked over during the hiring process. On top of that, smart, capable entrepreneurs are kept out of leadership in truly complex, high-tech work.
+As a result, 
+many promising candidates are passed over for jobs, promotions and capital
+. This leads to less women and minorities finding opportunities, encouragement and support to take reins as CTOs or starting tech-focused companies. This unconscious bias is pervasive across the entire industry, and this 
+article
+ suggesting that women should sign off their emails with their initials reflects this attitude. This bias is so pervasive, that women and minorities in the tech industry unknowingly perpetuate these stereotypes.
+This should not come as a surprise. After all, women and other underrepresented minorities have been subjected to oppressive systems that have stifled their abilities to cultivate their own skills, achieve their goals and endure emotional subjugation as a "lesser" human being. Negative stereotypes start to form where people with outstanding talent and skills would gradually succumb to the thinking that they’re "underperforming" or "not as good" as their peers. Although STEM programs targeting women and underrepresented minorities have expanded significantly in the last few years, interest to pursue STEM degrees have declined due to this perception thus limiting the expansion of the talent pool.
+Demographics are changing America
+This is very alarming. According to the 
+U.S. Census
+, white Americans still make up around 62.6% of the population. African Americans account for 13.2%, Hispanics make up 17% of the population, and Asians constitute 4.8%. What’s more striking is that population growth is the fastest among minorities as a whole, especially Hispanic and Latino origin, accounting for more than 50% of American children under the age of 1. Women already surpassed their male peers in educational expectations and degree attainment over the last thirty years. Women are choosing to marry and have children later in life. In some cases, women are choosing not to have partners nor children. If these demographic trends and deep-seated bias continues, the tech industry may be severely limiting its talent pool in the U.S. Additionally, focusing on the user is every startup’s priority. In the future, these demographic shifts will significantly impact product development, customer acquisition and engagement. Actively ignoring these demographic shifts could cripple a startup’s growth and chances for success from the start.
+If the company’s employees do not reflect their audience, underrepresented communities will continue to be underrepresented or ignored. Imagine a scenario where the startup’s leadership team are all predominantly white males. What type of discussions on product and users occur in such a homogeneous group? A startup is essentially betting their success on one customer type instead of diversifying across broader audience. When there is a room full of white males, it is very easy to continue to hire more of the same people. There is a lot of research coming out supporting that diverse teams make better choices in complex situations.
+What is the most important thing we can do now?
+The problem does not lie in hiring more females and underrepresented minorities in tech roles. 
+Studies
+ show that women leave STEM fields at dramatically higher rates because they are often “less satisfied with their careers, perceive that they are less likely to advance at their current organizations, or believe they must change jobs in order to reach the next level.” The most important thing we can do now is to 
+retain and nurture our current female and minority talent, provide the same growth opportunities and stretch assignments, and promote the best performers to leadership positions
+.
+Create a safe, inclusive work environment for employees
+Suppose two employees — male and female — are chatting with the CEO about community management. They are discussing ways to grow community engagement without being overbearing.
+CEO: I think we should revisit our community guidelines and take a more hands-off approach.
+Female employee: I agree, but there are certain behaviors that cross the line. I researched community guidelines of similar platforms, and here is the list of behaviors we should have “zero tolerance” on.
+CEO: I agree that nudity and porn should not be on the platform. Everything else is subjective.
+Female employee: If a user says all Jews should die and I’ll kill all the gays in chat, how would you respond?
+Founder: That’s subjective.
+Silence in the room.
+This sounds unfathomable, but it actually happened at a startup. Whether this was intentional or not, the CEO’s response immediately made the female employee uncomfortable. Even worse, the male employee attending the meeting chose to remain silent. Imagine how the female employee felt in this situation. Do you think she would stay for long? What about other employees from underrepresented groups in the company?
+This is an extreme example, but this highlights the importance of creating a safe, inclusive environment for all employees. 
+Startups are hard
+, as they come with long hours, financial uncertainty, and emotional instability. It is critical to create an environment where employees are not only excited to come to work but feel safe. As soon as an employee does not feel safe, it negatively impacts everything he or she does. The employee is less likely to suggest ideas in fear of retaliation or ridicule, and the individual is less motivated to do his or her best work. When communication starts to break down, how would this affect teamwork and productivity? According to a 
+research study
+ by Google, psychological safety was critical to making a team work.
+Advocate women and minorities for high-impact, high visibility projects and sponsor their career advancement
+Younger generations seek role models for inspiration, learning and support. An 
+NYU sociology study
+ shows that students of all races — white, black, Latino, and Asian — have more positive perceptions of their black and Latino teachers than they do of their white teachers. If there are leaders from underrepresented groups in the organization, it signals to current and prospective employees that advancement is possible.
+The traditional mentorship model of providing guidance, resources and network is not enough to get women and underrepresented minorities promoted. Rachel Thomas 
+notes
+, “Men who received mentorship were statistically more likely to be promoted, but that was not true for women who were mentored.” Companies must take more active roles in identifying promising female and minority employees and provide mentorship with the explicit goal of helping them get promoted to more senior positions. Establishing an internal talent pipeline for advancement and recommending these employees to work on high-impact projects will increase visibility among peers and executives. This visibility is the 
+most critical factor
+ for promotions to the next level. This interaction of perceived skills, access to stretch assignments and gaining recognition by influential senior leaders are necessary for advancement.
+Acknowledge ideas from women and underrepresented minorities
+A study from Harvard, Wharton, and MIT found that men’s voices are perceived 
+as more persuasive, fact-based, and logical
+ than women’s voices, even when they are saying the exact same sentences. Many women — including 
+myself
+ — have had the experience of their idea being ignored, only for a man to suggest the same idea later and receive praise and credit for it. Even worse, there are instances when women’s ideas were chastised only to be repeated by men and received favorably by peers in the same meeting.
+A 
+recent article
+ shared a strategy used by women in meetings at the White House: “When a woman made a key point, other women would repeat it, giving credit to its author. This forced the men in the room to recognize the contribution — and denied them the chance to claim the idea as their own.” This strategy can be used by everyone. Listen closely during meetings, repeat unacknowledged good ideas, and give credit to the person who first had the idea.
+The wage gap is not a myth
+It is common knowledge that there are racial and gender wage gaps in tech. 
+MIT Professor Emilio Castilla studies the culture of meritocracy
+ and has found that organizations that promote meritocracy actually show greater bias in favor of men over equally performing women. He found that employees with the same performance rating, same job, same team, and same manager were receiving the same bonuses. In addition, Microsoft engineer 
+Leigh Honeywell states
+ that women were less likely to receive promotions at the same velocity as men. If women are not getting promoted as quickly as men, they are earning less for the same experience level.
+Visibility is not only important for women and minorities to get recognized by peers and leadership, but there needs to be more visibility into performance reviews, employee feedback, salaries and promotions internally and within the industry.
+What if I don’t have any female or minority employees in my company?
+Well, you need to start re-evaluating your recruiting and hiring practices. Even though the easiest way to source potential employees are from your own network, you should make an effort to source candidates from underrepresented groups. Ask your peers and friends if they know anyone that could be a good fit or a cool person to know. This is the perfect opportunity for you to meet new people and expand your network.
+If this is TLDR, here are a list of recommendations
+Create a safe, inclusive work environment where all employees openly communicate with each other without fear of retaliation.
+Acknowledge good ideas from women and underrepresented minorities and give credit to the person.
+Identify at least 1 person from an underrepresented group whose work you respect and champion his or her work internally.
+Set up a program to identify, fast-track and support people from underrepresented groups with the explicit goal of getting promoted.
+Get more employees from underrepresented groups involved in product discussions. Acknowledge and repeat good ideas. Give credit where it’s due.
+Scrutinize recruiting practices and performance reviews for any discrepancies within teams or functions.
+Learn from other companies on managing unconscious bias (
+Facebook
+, 
+Lever
+, 
+Google
+).
+Ultimately, we must all recognize that unconscious bias is real. In some way, we are all racist and sexist because we were programmed since birth to think that way. We can only solve the diversity problem if we recognize our unconscious biases and takes it upon ourselves to be an advocate for those from underrepresented groups.
+Originally posted October 13, 2016 on personal blog, 
+kohkim.com

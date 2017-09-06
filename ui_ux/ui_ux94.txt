@@ -1,0 +1,116 @@
+FAQ: Tips and tools for getting started in user experience design (aka UX)As an interaction designer on the Material Design team at Google, I often receive emails and questions from people who are trying to transition to UX or who simply want to learn more about the ins and outs of the industry.
+“I want to get started in the field, but being a [insert unrelated major] student, I just have no idea on where to start. Do you have any advice on what I can do to break into the UX field?”
+User experience design is one of the most in-demand jobs right now. It’s a field that has grown and evolved so fast that it places new demands on its practitioners every day. UX designers work on a vast range of products and services from websites, mobile apps, and the Internet of Things, to VR and AI. There’s constantly new tools, new trends, and new technologies that we’re required to keep up with. As a relatively new designer in the industry and a former intern at Google, I wanted to share what I’ve learned so far, and start a repository of the most frequently asked UX questions that land in my inbox.
+1. What is UX design?
+UX design stands for user experience design. It’s about finding the sweet spot where human needs and business goals meet, while giving users a delightful and seamless experience with a product or service. Good user experience design is often invisible because it’s not just about how something looks, but instead about how it 
+works
+. My friend and colleague Drew Shimomura helps distinguish between visual design and UX this way: “Visual design says ‘make it clear and simple’ while UX says ‘don’t make me think.’” As a UX designer, I try to help users reach their goal in as few steps as possible. UX is constantly working in the background, presenting information and functionality that makes sense to the user, while reflecting their needs.
+2. I want to become a UX designer. Where do I begin?
+Start with the fundamentals. Understanding how line, color, texture, shape, form, value, and space work together is useful if you want to develop an eye for good design, and necessary in helping you become a better designer. If you need a primer, I recommend reading 
+Graphic Design: The New Basics
+ by Ellen Lupton and Jennifer Cole Phillips, or 
+Meggs’ History of Graphic Design
+. Both teach the fundamentals and are informed by contemporary media, theory, and technology. Don’t forget about typography basics too, I love Ellen Lupton’s 
+Thinking with Type
+.
+At Google, we created a design language called Material Design which is a design system that combines theory, resources, and tools for crafting digital experiences. You can explore the system at 
+Material.io
+, and our 
+Material Design Guidelines
+ are a great resource for learning on your own.
+Moving beyond these basics, we need to incorporate design thinking. Good UX requires us to 
+understand people and behaviors
+. Consider reading up on 
+The Design of Everyday Things
+ by Don Norman as well as 
+IDEO.org’s Design Kit
+ to dig deeper into Human-Centered Design. This goes into the research phase of the design process which is especially important in understanding the problem you’re trying to solve. For more information on the design process, I’d take a look at the 
+sprint process
+ created by Google Ventures to get a sense of what a (condensed) design process looks like.
+3. Do I need a design degree to become a UX designer?
+You 
+don’t have to
+ have a design degree to be a UX designer. I formally studied graphic design and found it to be useful, but many of my colleagues and friends in the industry are either self-taught or have non-traditional backgrounds. For example, my intern manager at Google studied cognitive science and a former colleague was a psychobiology major.
+There are pros and cons for both formal training and being self-taught. Design school provides you with a structured learning environment and on-going guidance. There’s a well-planned curriculum with instructors, mentors, and people who are obligated to provide you with feedback. (UX bootcamps are a good alternative form of design education and typically run for 12-weeks or so).
+If you decide to learn on your own, you may have to create your own environment, projects, and lesson plans. You can focus on exactly what you want without the constraints of a semester timeline, and you get to choose your own mentors (as long as you put in the work to find them). While it’s great to have more freedom with the types of projects you take on, this may come at the cost of structured guidance.
+4. How important are internships?
+Internships are a great way to learn about the industry. However, they usually require you to know a bit about UX and have a substantial portfolio already. If you’re currently a student, I highly recommend taking advantage of internships during the summer since many companies only accept students. Internships allowed me to try new experiences without a long-term commitment. It gave me time to figure out what I really wanted in a career and what kind of place was good for me. In fact, being an intern at Google is how I ended up here as a full-time designer!
+5. What tools should I spend time learning?
+A designer’s toolkit is large and relies on many skills and tools: physical, digital, and emotional. I like to design with Illustrator but other colleagues use Sketch, or Photoshop. There’s no “right” tool to use, but whatever works for your own process. I’m a bit old-school so I always start with pencil and paper. No matter how advanced our software is, my team and I rely heavily on sketching as a starting point. For prototyping, there’s Framer, Principle, and Origami. I’m still very new to prototyping but my team uses 
+Flutter
+ which is an open-sourced framework for building cross-platform UIs—learning how to use it has been challenging because it’s my first programming experience but extremely rewarding. If you have zero to little experience with these tools, I highly recommend Skillshare and Lynda for video tutorials. You can also create simple prototypes with InVision and Marvel (I used these in school), by uploading pngs and creating hotspots linking your screens.
+6. What technical and non-technical skills should UX designers have?
+Being a great designer also requires soft skills; everything from being a good listener and communicator, to having empathy and self-awareness. You have to 
+understand
+ and empathize with what your users want. We can’t assume we’re designing for people who live just like us. Take YouTube for example. In their efforts to target the next billion internet users, the research team gathered field studies from India and learned that data was costly and slow. This resulted in YouTube’s offline mode feature, but that was just the beginning. Most recently the birth of 
+Youtube Go
+, a new Youtube app designed to be offline-first and work even when there’s low or no connectivity. When you think broadly for your users and from their perspective, designing effective solutions becomes easier.7. What kind of UX projects should I work on independently?
+Work on projects that allow you to solve problems involving UX thinking. It can be in the form of an app, a smart device, or even something like the redesign of way-finding at the airport! Take a look at your environment and find something that you are dissatisfied with, then figure out how you can improve that experience. Merge something that you’re passionate about with design and you’ll find your niche.
+Your perspective is what makes things interesting. For example, I travel a lot and always want the most authentic experience instead of visiting the tourist-y or must-see spots. That’s hard if I don’t know any locals, which is how I got the idea (while in school) for project 
+Loco
+, a concept app that connects travelers with local guides for tours or custom itineraries. Let yourself play creatively and you’ll find that your imagination is a great tool.
+8. What UX resources do you recommend?
+Read, watch, and listen to design articles, books, and videos by design leaders. There are tons of great interviews, podcasts, and blog posts that detail designers’ success stories and explain how teams operate at different companies. Learn about the future of design but also the history. Devouring as much as you can will expose you to how designers really work.
+Here are a few of my favorites:
+UX Design collection
+ on Medium — Designers from all backgrounds and skill levels share their experiences and thoughts.
+The Year of the Looking Glass
+ — I really enjoy Julie Zhou’s writing because of her thoughtful insight into design processes, career struggles, and creative confidence.
+InVision’s Blog
+ — InVision has a done a great job in curating useful and helpful blog posts ranging from intern insights to how different design teams work.
+35 Books Every Designer Should Read
+ — Here’s a good list of design books recommended by top design schools.
+Design Details Podcast
+ — A weekly podcast show created by 
+Bryn Jackson
+ and 
+Brian Lovin
+ featuring stories from people who create your favorite products.
+Five design leaders that you should get familiar with asap: 
+John Maeda
+, 
+Dan Saffer
+, 
+Julie Zhuo
+, 
+Frank Chimero
+, and 
+Don Norman
+.
+Virtual and in-person bootcamp design classes are also a great way to learn. I’m currently taking a class on Javascript with 
+Codecademy
+! There are so many different types of classes, you’re bound to find one you’ll like. See: 
+General Assembly
+, 
+Cooper U
+, 
+Bitmaker
+, 
+Coursera
+, 
+Skillshare
+, 
+Lynda
+.
+Also, don’t forget to reach out and meet real designers! Attend design 
+events
+ run by local organizations, or conferences (like 
+99U
+ and 
+FITC
+), and participate in community groups like 
+Designers Guild
+. I’ve met so many great designers from attending 
+Dribbble meetups
+ and co-hosting 
+XX+UX
+ happy hours. When I was just getting started in UX, I learned a lot by attending 
+Startup Weekend
+ and volunteering at 
+FITC
+ since I couldn’t afford the tickets. Just by attending, I learned a lot more about the UX world and how designers think and communicate. It’s likely that you’ll end up meeting others who are in a similar boat, and who you can learn together with. Continue putting yourself out there as you continue to learn and grow as a designer. Good luck and keep creating thoughtful design work!
+If there’s something you’re still wondering about, feel free to add your question in the comments below or 
+email me
+ directly. And if you’re a designer about to graduate, you might find this article that I co-wrote to be more useful: 
+The First Steps to Landing Your First Job
+.

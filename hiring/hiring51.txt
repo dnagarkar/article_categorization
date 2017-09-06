@@ -1,0 +1,63 @@
+There’s No Tech Talent Shortage in Europe — There’s a Smart Hiring Shortage
+By Dan Hynes
+Say something over and over again and people will believe it.
+For instance, tech industry people here have gotten used to saying there’s a chronic shortage of skilled tech talent in Europe, i.e. there just aren’t enough programmers, software engineers, product managers, data scientists, and designers to fill the growing ranks of startups on the Continent.
+It’s 
+become
+ 
+accepted wisdom
+, and it’s also being used, rightly or wrongly, in the 
+Brexit debate
+.
+But let’s look at the data, which we’ve gathered from Stack Overflow and CB Insights.
+‘Stack Overflow
+, the world’s largest website for developers 
+says
+ that as of March this year there were are 1.6 million professional developers in Europe’.
+So what do these numbers actually mean?
+If you slice the data both regionally (US vs Europe) or at the city level (Silicon Valley vs London), you come out with very similar numbers in terms of the size of the developer pool relative to the number of VC-backed tech companies. In the Valley, there are about ~90 professional developers per VC-backed company, versus ~380 in London. At the European level it’s about ~1,700 developers per VC-backed company versus ~450 in the US. So in effect, the data shows VC-backed startups in Europe can typically recruit from a 4x larger pool of talent.
+It’s not a perfect metric by any means, but it does give you some sense of the size of the talent pool relative to the demand, and the fact that competition for talent is not as intense here in Europe as it is in Silicon Valley.
+A 
+survey we conducted
+ last year shows that 57% of CEOs, founders and investors in technology businesses believe there is a good or very good supply of engineering talent in Europe. Founders are the most positive, with 60% believing there is a good pool of talent.
+So if we have enough programmers per VC-backed tech companies, why do 
+so many
+ people believe the complete opposite?
+I’d like to posit that it’s not that the talent doesn’t exist in large enough numbers, it’s that the process of finding, engaging and hiring that talent in Europe is broken.
+Here are a few examples of this broken system that I’ve personally witnessed, many times:
+Entrepreneurs are busy; they’re (legitimately) focused on building their business, honing their product, and often the crucial, time-consuming business of hiring is left to HR, or, even worse, the office manager.
+Often, HR (not to be confused with Internal Recruiters) then engage every single IT recruitment agency in town, who then blast the same pool of highly sought-after engineers on LinkedIn over and over with private messages that are not tailored to the engineers’ actual skill sets, their personal ambitions or the culture of the hiring company.
+Once applicants are identified, often the testing and screening process that then unfolds at the company itself is all wrong. Scenes like these are all too common:
+“We love your profile and are super impressed with your background. Can you spend a week doing a tech test and we will get back to you about a fortnight later,” or “We are a transparent and collaborative organisation, now come and spend a day with us with no idea about who you are meeting, and we will watch you whiteboard and take notes on our laptops.”
+So whilst these tests are well intentioned and optimised to save time for the interviewing panel they don’t actually test the skill set being used day-to-day by a software engineer. In a recent workshop I ran we asked 40 recently-hired engineers if the technical test used during their interview process was relevant to their day-to-day work.
+Not one said it was.
+Not a huge sample set but a solid enough indicator. The average time taken to complete the test was 10 hours. Factor in the time marking the test by the hiring company and you can see how this all adds up.
+I am a big fan of skills testing but believe that asking candidates to work on a project that simulates the work they’d actually do, for instance, by programming in pairs, is a better way to conduct the final “tech test.”
+Founders, CEOs and CTO’s constantly underestimate how time-consuming and difficult it is to hire an amazing team. Hiring a single engineer from a standing start takes about 30 actual work hours and involves things like building a position specification, sourcing channels, searching for candidates, responding to inbound applications, initial screening of applicants over the phone, then candidate interviews, carefully rejecting candidates and putting finalists in front of CEOs for an interview. Once that’s all done, there’s still paperwork, contract negotiations, and onboarding. With a great recruiter and process you can reduce that to around 15 hours — if you’re hiring multiples of the same profile.
+At Skype we hired on average 55 new hires a month from the time we spun out of eBay until the acquisition by Microsoft; and at Google in Europe we hired hundreds of people a month across Europe, rarely relocating them from outside the EU. But that took time, focus, resources and a programmatic approach to building a pipeline of qualified and motivated candidates. We trained interviewers to use 
+structured interviewing techniques
+, got them writing detailed feedback with scores so it could be properly reviewed, and generally treating candidates as we would — and should — treat customers. Before you say, “yeah, well Google and Skype have unlimited resources,” (trust me, Skype did not!) everything I have just listed is free. Everything except time, which is your most precious resource, that is. So invest up front in the time it takes to do proper recruiting, get great at screening, and implement a structured process.
+Finally, be sure to build a team that is diverse and inclusive as 
+data shows us
+ that a diverse perspective and experience strengthens business performance, so building inclusive and diverse businesses is something we should all treat with urgency. One initiative we are really proud of here at Atomico is working with 
+The Boardlist
+, which is building a pool of top quality female executive talent to serve on Boards at all stages.
+A really good idea for founders is to invest in hiring a great in-house recruiter early on. Making your internal culture awesome (check out Google’s 
+Project Oxygen
+) and paying competitively are also important.
+To summarise:
+invest in building an in-house 
+talent
+ resource early,
+from the outset build a diverse and inclusive company and hold your leadership team to account with metrics,
+make your culture a talent magnet, and be transparent with candidates on your interview process (
+Stripe
+ do this really well),
+train your interviewers to understand what “great” looks like at your company,
+use structured interviewing techniques with a scoring system (helps calibrate interviewers),
+give constructive feedback to those you say no to,
+move candidates through the recruitment cycle quickly, keep them updated frequently and pay fairly.
+gather feedback at each stage from candidates / new hires on the process.
+and don’t forget to create an on-boarding process that wow’s them.
+This is the golden age for European tech, but we can’t take it to the next level unless we step up our hiring game. Just as we’re catching up with Silicon Valley in producing great companies, we need to be hot on their heels building the best teams.
+Dan Hynes is the talent partner at Atomico, a London-based venture capital firm that invests across Europe. Before joining Atomico, Dan led the Talent teams at Skype, Google EMEA and Cisco Systems EMEA.

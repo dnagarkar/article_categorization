@@ -1,0 +1,150 @@
+Hiring Awesome Developers (who happen to be women)
+Before you start: it’s important to acknowledge that I’m not a woman, a visible minority, underprivileged, or any number of other things that you may or may not be. But we’re all in this crazy world together and I want to be part of making it better. 
+I’m not an expert on this topic at all and I acknowledge there are way more informed people doing way more thinking and writing about this.
+ You may be one of them, in which case this may seem like I’m explaining the obvious (or even mansplaining it), which is not my intent at all. There are lots of people who aren’t as well versed and who asked for more detail in early drafts. Regardless, I would love to hear your thoughts. Comment below!
+Time to grow!
+It’s time for us to grow the Sensei Labs team at 
+Klick
+ again! I love that our business is expanding. This means we get to find more awesome people to add to our team. I love that we’ll have more bandwidth to deliver awesome to our customers, add to our platform, and keep building our business.
+I hate that the vast majority of the developer candidates applying are men. Not because they aren’t incredibly awesome—they are—but because a range of perspectives makes us all better at what we do.
+This is a very difficult topic.
+ I’m in no way advocating for hiring quotas or adding team members who are anything less than the best possible person for the job. We ultimately shouldn’t care which race, gender, size, shape, or color of people joins us as long as they can add incredible value, teach the rest of the team, and help make us even just a little bit better. I’m also not explaining anything new that women in technology haven’t encountered throughout their entire careers. If you’re new to this topic (though I hope at this point it’s hard to find anyone who is), read on. If you’re not new, bear with me while I give a little background or skip ahead to see how we’re attacking this issue today and what we plan to do soon.
+This is also a very important topic.
+ Sensei Labs’ products are used by a very wide range of people, from new grads starting their first jobs to people about to retire from lengthy careers. They’re used by people in small, agile startups and in large, traditional companies. They’re used by people who spend their days at a desk cranking away on computers and by others who spend their days running between meetings. They’re used on the latest smartphones and tablets, nestled in between Snapchat and Peach (or whatever the social app du jour happens to be), and on cranky old desktops barely able to run modern browsers.
+Our team should represent the widest possible set of perspectives, backgrounds, experiences, and values we can possibly bring on board.
+ Our creativity will go way up. We’ll come up with new solutions we would never have dreamed of otherwise, implemented in different ways than we thought possible. We’ll invent new products that our otherwise groupthink-viewpoints would have tunneled under or around. And even if we all fall into the trap of hiring people like ourselves, our starting diversity will mean we remain diverse instead of gradually collapsing into a single, all-consuming stereotype.
+If you’re still not convinced, watch this trailer for the forthcoming CODE documentary. It says it much better than I can:
+There’s a personal angle to this, too.
+ I want to spend my workdays surrounded by the most kick-ass people we can find and from whom I can learn as much as possible from. The more like me they are, the less I’m going to learn. The more varied and different they are, the more we can teach each other and the more our achievements will become greater than the sum of our parts. I grew up surrounded by awesome women that have had a major impact on my life: my mom, grandmother, aunt, sister, wife, friends, colleagues. Now I have a super awesome six-year-old daughter who loves coding on her 
+Kano
+. I’ll be damned if I’m not going to do absolutely everything in my power to make sure their futures include whatever they want them to. To quote our new Prime Minister, “Because it’s 2015.” (Well, 2016. You get the point.)
+Canada’s new Prime Minister, Justin Trudeau, urging men to embrace feminism. If feminism means supporting women’s rights on the grounds of political, social, and economic equality, then I’m a feminist too.
+I spend a lot of time thinking about this.
+ Sensei Labs may be a young team, but culture begins from the moment you hire your first team member and only grows from there. 
+Entropy will take over if you’re not constantly and intentionally engineering your ecosystem. 
+The team is growing quickly and I’m highly aware that we’re setting a strong precedent for how it continues to grow from this point forward. We’re about 20 people now, so each new hire represents 5% of our team, which means they have a huge downstream impact on the future shape of who we are and who we’ll hire.
+A possible plan
+The only way I can think to change the ratio in our tech hires is to get the flow of candidates to match the population they come from. 
+We’re not interested in a failed policy that results in hiring the wrong people just because they have certain physical attributes, regardless of what those may be. We want to open up opportunities to everyone and still get the best possible hire filling each role.
+If half of our candidates were women—even if it means more effort to find them—then our hiring managers will be making hiring decisions knowing they’ve seen a representative sample. It’s very hard to do this at the top of the hiring funnel, only because there aren’t nearly as many female candidates as male ones: 
+only 28% of computer science ‘concentrators’ at Harvard were women in 2014—8% above the U.S. national average but still way below where it should be.
+ We need to increase the number of women entering that end of the funnel, and we also need to do everything we can to make sure that the candidates who make it through resume screening and initial conversations are more representative of the general population’s demographics.
+Klick has an absolutely amazing in-house recruiting team. They regularly pull off miracles, attracting an almost unbelievable level of talented people to join our ever-growing family (now 500+ across the Klick family!). They find awesome women to come on board for roles like Client Service and Marketing, which have traditionally skewed more female. Unfortunately, when we open up a developer job on 
+careers.klick.com
+, we’re overwhelmed with the number of male applicants.
+I don’t believe for a second that there aren’t amazing female developers out there, but there are a few possible things happening. Maybe they’re getting lost in amongst their male peers. Maybe we’re not reaching them in the first place. Or maybe our careers site, job descriptions, and hiring process are unconsciously skewed towards men in ways that we don’t understand. Maybe, if you’re reading this and feel as strongly about it as I do, you could help us make that better.What should our tech candidates look like?
+We primarily hire developers in Toronto. Canada has a census every five years, with the last one being five years ago in 2011, and a National Household Survey that was also conducted in 2011. That’s a long time ago, and it’s frustratingly difficult to find good stats, but it’s still the most accurate data we have today on what our country and city looks like.
+Based on those stats, if we’re going to try to get our candidate flow to look like our population, it should be 52% female (
+Toronto Population Age and Gender Background, City of Toronto
+). Unfortunately, if you require a computer science (CS) degree or equivalent, that’s an impossible target today. I couldn’t find good Canadian data, but the 
+NSF says
+:
+The 2012 line in the Bachelor’s section is highly concerning. The overall number of female undergraduate CS students is significantly lower than a decade before even though enrollment in CS programs is up significantly (2011–2012 was up 9.6% over the year prior according to the Computing Research Association’s 
+Computing Degrees and Enrollment Trends
+). Though obviously a critical step in solving for the downstream challenge of hiring more women, figuring out how to increase these numbers is way outside of the scope of this post. It’s encouraging to see initiatives like Obama granting 
+$4bn to the Comp Sci for All program
+ to build up CS courses in elementary and middle schools, which will help for the next cohort of college students.
+In an ideal world, assuming we can find enough candidates, I see no reason why our dev team shouldn’t reflect an even balance. Sadly, we don’t live in an ideal world. But we can try to make it that way.What we’re doing today
+Klick is doing pretty well, so far, on most diversity measures. Our team comes from a wide range of ethnic backgrounds, representative of Toronto’s highly multi-cultural community (though it could always be wider). We come from a pretty wide range of work backgrounds too. We’re pretty equal on gender across all roles, but not nearly in our tech teams and that sucks.
+This isn’t just a question of hiring more women. 
+It’s also a question of understanding how our own unconscious bias has shaped Klick’s culture and hiring practices
+, as well as how they affect the ability of all of our people to be successful. We’re determined not just to be a Top 5
+ Great Place to Work
+ but also to be widely recognized as a great place for women to work. Here’s how we’re making sure that happens:
+In December, we launched a pay-fairness program to guarantee that everyone on our staff is paid fairly regardless of gender, race, or sexual orientation.
+We launched a maternity leave top-up program to make sure that new moms can afford to take time at home with their babies (and, of course, we offer paternity leave for new Klick dads too).
+Thanks to enthusiastic input from a wide variety of Klicksters across all of our teams, our People Operations and Development team is relaunching our programs around management and leadership to make sure we’re growing successful and empowering leaders of all different stripes.
+We’ve launched a new library of learning materials, which will soon include resources for 
+unconscious bias
+ and 
+ally skills
+. We’ll be making training sessions available as well.
+We’re evaluating our hiring and testing protocols to make sure that they still help us determine the most awesome people without applying unconscious biases in the selection process. We want to make sure we’re testing for the right things and not testing out incredibly talented people who happen to not do well at our particular tests. Let me know in the comments if you’d like to hear more about what we discover.
+Supporting the next generation of coders through our participation in programs like 
+HackerYou
+, through sponsorships and guest lectures, and by speaking at community events like the 
+Girls in Technology Power Hour
+. Come on Feb 9th, 2016 to see one our awesome Technical Directors, 
+Renata Vaccaro
+, speak about her 18 years of experience working in technology.
+It’s a good start, but we need to make sure that what we’re doing is making a difference and that we continue to find new ways to make Klick a more welcoming and inclusive place.
+Help us make the world more better
+The Sensei Labs team is looking to immediately add two 
+Full Stack Developers
+ (or 
+Frontend Developers
+) and one 
+App Developer (or Backend Developer)
+. Job descriptions at those links. 
+Klick’s Technology team
+ is always looking for awesome people across a range of roles.
+Here’s how you can help:
+Please apply regardless of your gender, race, sexual orientation, hair color, shoe size, etc. We really do want the best people. We don’t care what you look like, where you come from, or who your partner is.
+If you’re an awesome woman who happens to have those skills, I really encourage you to apply. And then 
+let me know
+ that you applied so I can make sure your application doesn’t get lost along the way. Also, if you go through our site and application process, please 
+send me
+ your feedback. What could we do to make it more supportive of hiring a broader range of people without changing what makes it unique to Klick?
+If you’re not an awesome developer but know someone who is, send this her way (and then send her 
+this way
+).
+If you’re an awesome woman who thinks you might have interest in those skills, drop whatever else you’re doing and go join a program like 
+HackerYou
+, led by my awesome friend 
+Heather Payne
+. Or a program like it in your town. Then apply and 
+let me know
+.
+Understand your own unconscious biases. Everyone has them, no matter how enlightened you may feel about race, gender, etc. Try some online tests from Harvard’s 
+Project Implicit
+. Google (
+Unconscious Bias at Work
+), Facebook (
+Managing Unconscious Bias
+), and Microsoft (
+Uncovering Unconscious Bias
+) have published their materials on the topic, which are well worth reviewing and delivering to your own teams. Also check out 
+Paradigm
+’s excellent white paper on 
+Managing Unconscious Bias: Strategies to Address Bias & Build More Diverse, Inclusive Organizations.
+If you have the opportunity to encourage young women to consider 
+Science Technology Engineering and Math (STEM)
+ please do so. There’s no doubt that our collective futures will be defined by careers that include STEM even if you don’t end up writing code. I’ve written before about 
+Kids & Tech
+ if you’re looking for ways to get your younger kids involved, or check out programs like 
+Dean Kamen’s FIRST
+ (For Inspiration and Recognition of Science and Technology).
+If you work in a STEM environment today, understand that the ecosystem you engineer is either part of the problem or part of the solution. You have the choice to create an environment that welcomes people regardless of their appearance, background, or beliefs. You also make the choice not to. Make the right choice.A massive thank you to everyone who read and provided comments: Klick’s senior leadership team (who all gave their full support and excellent feedback), Mike Keningsberg (our Director of Recruiting), Sheryl Steinberg (our Director of Communications), Michelle Gorman (our VP, People Operations and Development), Jillian Mojeski (our Manager of People Operations), 
+debs
+, 
+Candice Faktor
+, 
+Leigh Honeywell
+, 
+bianca
+, Renata Vaccaro, 
+Heather Payne
+, 
+Rahaf Harfoush
+, D’Arcy Rittich, Andrew Woronowicz, and Benji Nadler.Brief and entirely self-promotional blurb about why you should come work with us:
+ I’m completely biased about Klick being the best place in the entire world to work, but I’m not the only one who is. In 2015, we were in the top 5 
+Great Place to Work
+ in Canada. We won the Deloitte Triple Crown: 
+Deloitte Fast 50™ Leadership Award
+, as well as being named a 
+Deloitte Technology Fast 50™
+ and 
+Technology Fast 500™ 
+company. We were named one of the country’s 
+50 Best Small and Medium Employers
+ for the fifth year in a row, reaching platinum status. We made the 
+PROFIT 500 
+list for the 11th time in a row (and our CEO is in their hall of fame for being the youngest person to ever lead a 
+PROFIT 500
+ company). Our book, 
+The Decoded Company
+, is a 
+New York Times
+ bestseller on leadership and building data-driven, talent-centric workplaces. 
+We ❤ our people.
+ ︎Come and join us.

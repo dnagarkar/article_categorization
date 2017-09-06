@@ -1,0 +1,53 @@
+Hiring a product designer: how to review portfolios
+It’s easy to spot a beautiful portfolio. Designers know that looks sell, and many people sell themselves that way. Of course, the ability to make something that looks good matters, especially for visual designers. But the challenge is that great images say nothing about what it will be like to work with someone, or whether they’ll be consistently able to produce good work.
+Hiring a designer is a challenge. As a founder without firsthand design experience, it’s hard to know what skills to value and how to judge a candidate. You likely have experience reading résumés and interviewing candidates, but how should you judge a design portfolio?
+It’s possible to look past the pretty imagery — you just need to balance first impressions with a bit of rigor and analysis. A portfolio isn’t a collection of pictures. (Writers have entire portfolios without a single image.) A portfolio is just a collection of past work. And it’s a great complement to a résumé because it shows you the actual work instead of just listing responsibilities and top-line accomplishments.
+Actually, start with the résumé
+Before I look at the portfolio, I usually look at the résumé to establish some baseline expectations:
+How many years of experience do they have?
+Any formal design education?
+Any companies or agencies I’d recognize?
+How are they positioning themselves? (Interaction designer, visual designer, etc.)
+Any job titles or responsibilities that seem overstated?
+Based on the résumé, I’ll look at the portfolio to challenge possible biases, look for clues to questions I now have, and get a more nuanced picture of what type of designer this person might be.
+Then I dive in. After seeing a couple hundred portfolios, there’s a set of questions I ask myself. Some are about the portfolio generally, and the rest are about the work.
+Look at the portfolio design itself
+Did they treat this like a design problem? Too often, designers don’t think about their portfolio as the solution to a design problem. Let’s phrase it as one: create an experience giving the person screening you enough insight into your unique set of experience, skills, and approaches that he or she feels reasonably confident that interviewing you won’t be a waste of time.
+Did they build it themselves? Yeah, building it yourself gets you more credibility, but only if it’s well-designed. An interaction designer might suffer here by putting their lackluster visual chops to work, though there’s more room for building thoughtful interactions. Portfolio sites — CargoCollective, Behance, any number of WordPress templates — tend to only emphasize images, and even a visual designer should have a good story to tell.
+What’s the navigation like? If it’s custom, are they communicating that they understand the nuances of portfolio browsing? Whenever I drill down on one piece, I look to see if I can move to another piece directly, and whether they’re placing that navigation in a thoughtful location, such as the end of a long page. If you’re using modal lightboxes, have you tried to make the image bigger and the navigation better than the defaults? If they’re grouping work, is it by theme, by job, or arbitrary?
+Look at each piece of work
+Did they communicate their understanding of the problem they were solving? Very few people do this, and it sucks. It sends the message that they were either lazy, not user-centered (where the “user” is the person looking at the portfolio), or that they value the wrong things about design: making pretty things and not solving problems through clear communication.
+Did they understand if and why their solution was successful? Success can be defined a number of ways: meeting the goals originally laid out, improving on a key metric, recognition by the press or users, etc. Can they be self-critical and assess the outcome of their work? Can they communicate what makes something effective?
+What was their contribution as part of a bigger team? This is especially tough if it’s a bigger project where other designers played a similar role. It’s great to know how much collaborative work someone has done, and it’s even better to know that a person can gracefully share credit with their peers.
+Generalize: What kind of designer is this?
+There are a few portfolio stereotypes I tend to see. Does the design candidate fit into one of these categories? Which category best fits your company’s need?
+Visual/UI designer: Likely the lowest word-to-pixel ratio of any designer, and the greatest use (and misuse) of trendy type, color, and visual effects. They can make your homepage hum and your buttons sparkle, but can they create a consistent and comprehensive brand and visual system?
+New grad: The portfolio is heavy on student projects. Most often it’s an HCI Masters student, or possibly an industrial or graphic design undergrad. How much work in your domain have they actually done? Can you discern their contribution to group projects? If they have an HCI background, they may have better research skills than actual design chops.
+Web designer: Comes off as a real all-arounder. They’ve most often worked at agencies or freelanced. Mentions their front-end skills and visual design skills, but might be bluffing on their UX chops. Have they tackled more challenging, stateful, and conditional interactions, or have they just built content sites?
+Experienced UX designer: They’ll throw out big product or company names you recognize, and you may see inflated job titles. Hopefully they’ve tackled longer projects and more challenging feature sets. However, if they’ve been at big companies, they may have moved much more slowly. Either way, set your standards high, but be hopeful.
+Making the decision: Should I interview this design candidate?
+Think hard about what a designer is communicating — deliberately or not — based on what they’re showing you. What are they saying and how are they saying it? Their focus and delivery tells you a ton about what they value. Will that align with — or be a complement to — what you and your company value?
+Who to hire depends on the specifics of your situation. Different products need different skills. It’s easy to go with the wrong set of skills, and easy to be swayed by the wrong things. Read 
+Braden’s article on hunting the unicorn
+ for help deciding what you need.
+What if they don’t have a portfolio?
+Lots of great designers don’t have portfolios, including some of the best ones I know. They’ve been working somewhere for a long time, or have great connections, or otherwise haven’t felt the need. Among web and software companies, portfolios weren’t used commonly as a screening tool until a couple of years ago. The portfolio was presented as part of the interview, but not as a requirement to get the meeting.
+But times are changing. When I screened candidates at Google from 2004 to 2008, I didn’t expect portfolios. Now I see online portfolios frequently enough that I do. If I don’t see one, I feel comfortable asking for one, usually expecting a PDF. If they’re hesitant or too busy but it still seems promising, I usually ask for a quick screen-sharing session over Skype to walk me through a project or two. It’s not ideal, but it’s better than wasting time on multiple in-person meetings if you learn too late that the person is clearly not a match.
+Some advice for designers
+Stop selling sex
+. If you’re not showing how you think, all you’re selling is your good looks, and you’re setting the tone for the relationship between yourself and the rest of the team going forward. Pretend your portfolio is an online dating profile. What would it say if you looked at someone’s profile and all they had was a bunch of perfectly coiffed photos of themselves, with nothing written and little else — visual or verbal — to give you a better sense of personality?
+Show that you’re a great thinker, not just a great Photoshopper
+. You are not a 
+voice controlled mouse cursor for the client
+. Show that you can clearly frame a problem, establish goals for success, and explore solutions in a way that inspires confidence.
+Balance breadth and depth
+. Show a wide variety of work. Do a “case study” where you spend more time on problem framing and process work — everything that shows that you’ve got a great brain, not just good eyes and hands. Then mix it up with shorter project descriptions — something that piques my curiosity and leaves me wanting to hear more. Surprise me with a section that’s shallow but broad, say a collection of your best sketches.
+Write about what’s unique
+. Don’t just say that you follow best practices: Personas, Contextual Inquiry, Card Sorting, blah blah. Everyone has that same list. Show me why your persona doc is better than any other, or why the way you capture behavioral states should be signed and framed. If your design solution is novel, tell me. If none of them are, that’s not so great, but then tell me why working with you is different. You are a unique snowflake, dammit, so hand me the magnifying glass.Choosing who to hire is arguably the most important decision a startup makes. Given the high-risk nature of startups, the kind of collaborative work involved, and the small size of the team, the team you pick (and the team who picks you) has a huge impact on your success. Hiring is important at large companies, but at startups, it’s absolutely critical.
+Designers have never been in more demand, so I feel conflicted about telling you to be more rigorous when looking at portfolios. But as demand rises, there’s always the risk of quality taking a dip. I want a generation of creative, thoughtful, disciplined designers making continually bigger contributions to startups, and your hiring choices will make that happen.Cover image credit: 
+people watching
+ by 
+This Year’s Love
+ (
+CC BY-NC-ND 2.0
+)

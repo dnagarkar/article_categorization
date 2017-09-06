@@ -1,0 +1,104 @@
+User Experience Design — Best sources to learn UX
+Sites, courses, UX Degrees and booksThis list about User Experience is often updated! We add newest sources on top of the list.Demand for UX designers is rapidly growing. Although the term “User Experience” has been used already in the ‘90s by Donald Norman it is still
+a young field in design, which many people have a problem identifying what it really does. We wrote about prototyping tools for UX designers 
+here
+. Today we would like to share some sites, books and other resources for you to get to know User Experience a bit more. If you want to know what UX is all about and how to design perfect apps, sites and interactive products matching expectation of the user — this post is a good start. Dig in and start learning!
+Boxes and Arrows
+Great site with articles from leading experts from design and ux. Woaaah!Boxes and Arrows
+DT Telepathy Blog
+If you’re already digging deep and you know you way around UX you can check out DT Telepathy Blog. This cool team from San Diego publishes articles related to UX.
+DT Telepathy BlogUsabilla Blog
+Team of Usabilia Blog is doing a pretty good job! (Although we weren’t sure if their name was Usabilla or Usabilia because of the chosen font ;) You’ll find articles mainly about UX, but they write about digital marketing also.
+Usabilla BlogThe UX Intern
+12 episodes of podcast interviewing seasoned User Experience Designers from the perspective of a UX Intern. 2014 stuff, but worth checking out.
+The UX InternUX Checklist
+Very helpful UX checklist, which will walk you through the whole process and all the steps in creation of User Experience.
+UX ChecklistUX Movement
+Do you want to find out why so called hamburger menu will help you increase conversion? Are you looking for a variety of well explained examples of how to design buttons, navigation and decide which grid to choose for your next mobile project? UX Movement is for you.
+UX MovementUX Booth
+Articles oscillating around UX. Some categories include research, philosophy of usability, analysis or story telling.
+UX BoothDesign Talks — UX
+359 videos from conferences around the world about design. 50 of them talking about User Experience. Expand your knowledge and hear great speakers!
+Design Talks — UXUXPin — Ebooks
+Polish company UXPin not only launched one of the most popular tools for prototyping, but also looks after designers providing free ebooks about UX, information architecture, flat design, mobile typography, usability testing, responsive design and so on. Cool e-books available online absolutely for free. Useful links, examples and case studies. And those covers!
+UXPin — EbooksUdemy — UX courses
+On this popular learning platform you will find more than 60 courses
+on User Experience (including 6 completely for free) at different levels. Prices start from 10 euros/course.
+Udemy — UX coursesUX Mastery
+A site devoted entirely to User Experience. You will find articles, sources (books, podcasts, courses, conferences, techniques, tools, etc.) and a forum where you can exchange thoughts and opinions with other UX designers.
+UX MasteryUX Magazine
+UX Magazine focuses on different aspects of User Experience design: emotions, usability, empathy and storytelling. You will also find a list of the most important international UX events and jobs.
+UX Magazine52 weeks of UX
+On this Tumblr blog each week there’s two notes about the process of designing for people.
+52 weeks of UXUxeria
+Uxeria allows you to remotely test usability of apps and websites. On Uxeria’s blog you will find content about usability, 
+the best of
+, case studies and more.
+UxeriaUX Crash Course — 31 Fundamentals
+31 Lessons from Joel Marsch about principles of UX design.
+UX Crash CourseUX is not UI
+Erik Flowers, Principal Service Experience Designer talks about differences between User Experience and User Interface. More posts 
+here.
+UX is not UI
+UX Today
+Daily news (2 links, to be precise) from UX World.
+UX TodayUX Recipe
+A helpful UX checklist for analyzing the specific parts of the projects and estimate its cost.
+UX RecipeEmotional Design by Donald Norman
+Emotional Design
+A classic from Donald Norman about cognitive functions and emotions. It answers the questions why we love or hate everyday things and why cheap wine tastes better served in a nice glass. Prologue can be found 
+here
+.
+A perfect complement to the emotional design is another book written by Norman called
+“The Design of Everyday Things”
+.
+Emotional Design
+Steve Krug‘sDon’t Make me Think
+.
+Don’t make me think: A Common Sense Approach to Web Usability
+Steve Krug’s guide helps to understand the rules of designing intuitive navigation and information design. Witty, commonsensical and extremely practical book — one of the most popular and most recommended works on the subject of UX.
+Don’t make me think
+Designing for interaction by Dan Saffer
+Design for Interaction
+Dan Suffer’a book reveals secrets of interaction design. You will learn how to create design strategy that differentiate your product from the competition, how to
+conduct research discovering goals and motivation of users and how to conduct brainstorming sessions. Check the sample 
+here.
+Design for Interaction
+Responsive Web Design by Ethan Marcotte
+.
+Responsive Web Design
+The book focuses on designing responsively and finding answers
+to the question how to provide the best user experience in interacting with your product regardless of the size of the screen.
+Responsive Web Design
+About Face by Alan Copper
+.
+.
+.
+About Face: The Essentials of Interaction Design
+Alan Cooper’s book is about designing interactions: methodologies, designing for mobile devices, responsiveness, sprinkled with numerous examples.
+About Face: The Essentials of Interaction Design
+Smart Things by Mike Kuniavsky
+Smart Things: Ubiquitous Computing User Experience Design
+The book focuses on the process of UX and not technology that constantly changes. Smart Things discusses methods, compromises and challenges of design in a commercial environment along with many case studies.
+Smart Things: Ubiquitous Computing User Experience Design
+Sketching User Experiences by Bill Buxton
+Sketching User Experiences: Getting the Design Right and the Right Design
+The book about design thinking and UX design.
+Sketching User Experiences: Getting the Design Right and the Right Design
+Lean UX: Applying Lean Principles to Improve User Experience
+Book published in 2013 focuses on improving methods of User Experience, teamwork including clients to ongoing project.
+Lean UX: Applying Lean Principles to Improve User Experience
+.
+.
+Courses, workshops and studying UX
+A list of UX Degrees around the world
+Conferences and more tutorials:
+Search engine for courses, workshops and conferences about UX
+Great and free tutorials on Coursera (Human Computer Interaction)
+Interaction Design Foundation — CoursesYou can also check facebook group: 
+Design (UX/UI)
+ and Linkedin group 
+UX Professionals
+. We also encourage you to like 
+UI&UX Design
+ fanpage.

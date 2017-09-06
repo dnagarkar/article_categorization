@@ -1,0 +1,56 @@
+99.5% of startup fundraising advisors are crooks and charlatans
+Working for an early-stage investor, I receive many emails from fundraising advisors, corporate finance advisors, placement agents etc. to tell me about the early-stage startup they represent and their fundraising plans. “Are you free for a quick call this week?” the advisor always asks.
+The founders of these startups have been convinced that only these fundraising advisors hold the keys to the venture capital kingdom and are able to do things the founders can’t do themselves. 
+This simply isn’t true. 
+Fundraising advisors are parasites trying to suck as much money as possible out of the startup and working with them will often leave the company much worse off than if they were to raise funding alone.
+Here are a few mistruths these advisors use to convince their prey:
+“We’ve been doing this for many years so know how this works”
+Admittedly the fundraising process for startups is more opaque than it should be but it is becoming much more transparent to the point that paying for advice on fundraising is completely unnecessary; every step in the process has been written about in detail and VCs often answer specific questions on Twitter and Quora so any question you have can be answered by a quick search. A full overview of raising funding can be found in books such as 
+@cee
+’s 
+Fundraising Field Guide
+, 
+@bussgang
+’s 
+Mastering the VC Game
+, 
+@bfeld
+ & 
+@jasonmendelson
+’s 
+Venture Deals
+ and 
+@gralston
+’s 
+A Guide to Seed Fundraising
+.
+Apart from self-learning; fellow founders are usually happy to share their experiences and connections for free, VCs are happy to answer questions and give feedback on pitches and your lawyer (who is paid, but for a role that is actually important) is there to advise you on all your legal questions during the process.
+“We’ll create a business plan and financial model”
+A deck for a seed stage fundraising should be a very simple thing that follows a standard template, see 
+@2lr
+’s post 
+here
+. Often the pitch decks prepared by professional fundraisers are far worse than those founders have made themselves; they overlook important insights into the business and often the advisors try to justify their fee by making unnecessary models that no one needs, or wants, to see. They’ll also be sure to put their logo (not yours) on every slide and purposefully hold back information from potential investors to maintain their privileged relationship.
+It’s important that the founder has thought through all the issues around their business themselves, has made all the strategic decisions and can explain them, rather than having outsourced their thinking to someone who doesn’t understand the business as well.
+“We’ll manage your fundraising process”
+Others have written about the importance of building a relationship with potential investors and how they want to be approached directly by the founder, eg. 
+@hunterwalk
+ 
+here
+ and 
+@johnehenderson
+ 
+here
+. At early-stage, most VCs are looking to invest predominantly in the founding team so you and your team are the main thing that is being judged; any interaction that is with someone else is negative as it doesn’t help to understand the founders and will only serve to damage the investor’s image of the business.
+At the same time, the founder is also looking for the best partner for their business that they want to work with and will provide the support they need, so need to evaluate the investor just as much as they are judging the startup; you can’t do that through a proxy. The fundraising advisor doesn’t care which investor is the best fit for the business, only which investor they can claim their commission on.
+The actual process of the fundraising can be a hassle but should be handled in the same way the sales process in the business is managed, if a founder doesn’t, or can’t, manage that process, it creates doubts around their sales ability in general.
+“Our relationships give us unique access to investors”
+This one is usually completely false. All corporate finance advisors who have contacted me are people that I have never met and have no relationship with what-so-ever (despite them telling their clients how well they know me). In most cases it seems these advisors simply send the company’s deck to a long list of investors in BCC without any regard to relevancy.
+Even if I did know them, I would still want to hear from the founder directly. The best route to an investor is always through a warm introduction from another founder they regard highly. If you can’t find an introduction, you can just email me directly, that’s always much better than paying someone else to email me.
+“No upfront costs, success fee only.”
+While technically true, this makes it sound like you’re getting a good deal by only paying for success (regardless of whether that success would have also happened without them). Often this success fee is structured as a percentage of the funding raised plus shares in the company, completely disproportional to the work done or the value added by the advisor.
+For example:
+ I have seen fundraising advisors charge a success fee of “5% of the cash + 5% of the transacted equity”. So, if you’re raising typical European seed round of €200k for 20% of the company, you would pay the fundraising advisor €10k in cash and 1% of your company’s shares upon closing. That’s an absurdly high fee for 5 minutes of feedback on a deck and spamming a list of investors. Nice work if you can get it.
+What about the other 0.5% of startup fundraising advisors? I’ll leave it to @2lr to respond 
+here
+.

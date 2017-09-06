@@ -1,0 +1,45 @@
+A guide to empathetic hiring processes
+During over ten years in the tech industry I went through the hiring process at small startups, mid-sized agencies and well-funded corporations at least a dozen times. I’ve seen colleagues struggling when interviewing and being under tremendous amount of stress and so was I.
+At the beginning of my career I assumed that seeking employment simply cannot be a pleasant journey—it’s one of those situations when you grit your teeth and push forward, looking forward to (hopefully) exciting times ahead when being already hired.
+There’s a lot of talk on company values, equal opportunity, diversity and transparency in hiring. 
+Unfortunately it seems like even companies that are publicly known for exemplary ethics and culture make the same mistakes.
+ During last couple months of heavy interviewing I’ve personally experienced unacceptably unprofessional slips and widespread lack of empathy. Sometimes mishandling was obviously a part of not-so-great culture but often recruitment was simply an afterthought.
+The dynamics of hiring
+Employers looking for filling the gaps in human resources are naturally in a privileged position, holding major advantage over the applicants. They hold the power to decide who’s going to be most valuable to their goals and needs, forgetting there’s an actual human on the other side of the line.
+The hiring scale is tipped in employers favour. The fact that finding a great fit isn’t a single-sided operation and means living up to your values even before new employee joining sadly slips unnoticed.
+Nowadays in the tech industry more senior, experienced candidates, feel comfortable and empowered to not to take on recruitment processes that seem unfair, too long or lacking in transparency. Even though, that’s still a very privileged position to be in.
+Changing these dynamics is a hard problem to solve, but we definitely can improve and 
+make hiring processes more humane, as they should be in the first place. 
+Having had said that, let’s dive into what the common missteps are and how to avoid them.
+Define clear expectations and process
+It’s a common problem to struggle with defining what skills are needed and what type of people would make a great addition to a given team. There are several reasons why that is happening:
+job ads are written based off other companies’ postings, which might relate to a similar role, but reside within entirely different context — this leads to ads that over-emphasise common buzzwords/patterns and misrepresent real needs
+individuals working in given roles aren’t involved in defining what’s necessary to get the work done,
+career openings rely on specific technology not necessarily willingness to learn, collaboration skills and other character traits that are more important, especially long term.
+Building teams and products strongly relies on clarity in understanding the necessities, context and future goals.
+ Expectations have to be transparent and customised for each use case (organisation) and even more importantly base off character traits a little bit more than learnable technologies.
+Doing that alongside with describing the hiring process in detail, in the open, will filter out candidates, who’d realise it’s not a good fit early on and by proxy show respect to everyone’s time.
+Keep job postings up-to-date
+Startups are especially prone to exponential, rapid growth but 
+it’s no excuse for keeping up ads for positions that have been filled long time ago. 
+In all cases it’s a waste of candidates time, and oftentimes, on larger scale, weeks waiting for an answer simply saying “we’re not hiring right now” or never receiving one at all.
+There are multiple solutions, the easiest one being accepting accountability for weekly or bi-weekly quick check-up whether everything’s up to the minute.
+Over-communicate, especially when it’s hard
+Usually there’s a fair bit of back and forth when interviewing, unfortunately the communication lapses when it’s crucial. Delayed in reviewing a code test? Notify the applicant. Can’t make a decision to hire when you promised to? 
+Notify the applicant immediately.
+ Employers often fail to acknowledge these breakdowns in communication are a major stress cause to future team members.
+Being upfront about the state of the process is even more important when the company decides not to proceed.
+ We’re dealing with two cases:
+obvious mismatch between the opening and candidate’s skills on applying initially,
+rejection further in the process.
+Ideally in both cases you’d be given reasons why it’s not a good fit, but looking realistically at number of applicants in some places and available bandwidth simple email saying “Unfortunately, we can’t proceed” is better than silence. While over-communication is key, over-promising lets people down and sets them up with expectations that are far from reality (ever got one of those emails saying “check back in couple months”? We all know how that ends up going.)
+Over-communication sheds additional light and empowers to make the decisions important to careers and make them quickly.
+Use inclusive language
+In the male-dominated tech industry often job ads are written using exclusionary language sub, or consciously, perpetuating sexism. 
+When composing a career posting make sure not to make any gender assumptions.
+Moreover, don’t facilitate unrealistic expectations by referring to people with “ninja”, “guru” or “wizard”. That approach has been dubbed a dark pattern long time ago but keeps resurfacing. 
+In professional settings, we’re dealing with people, not mythical creatures.
+ Additionally, that language is alienating for less senior developers or designers.
+Gear up for better company culture
+These are only a few pointers to multidimensional process that hiring is, but I strongly believe, from both the position of employer and employee, that taking these steps leads towards more empathetic approach.
+Have any tips on how empathetic hiring is implemented at your organisation or stumbled upon great examples elsewhere? Comment on the post or tweet with #empathetichiring.

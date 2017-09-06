@@ -1,0 +1,76 @@
+Dear Investors: So You Want to Take Diversity Seriously (Part 1)“Congratulations on your new diversity initiative,” another investor recently said to us. “We’re talking about lifting the language and adding it to our website. Hope that’s OK.”
+He was referring to Kapor Capital’s new 
+Founders’ Commitment
+, which just launched in January 2016. We were proud to introduce the Commitment; even more so when we saw 
+68 of our companies
+ quickly sign on, dedicating themselves to creating welcoming workplace cultures that value diversity and inclusion.
+Should we feel flattered, then, when other investors would like to borrow our language? The truth is, it makes us uneasy. While we have no concerns about our words being used, we are very concerned that venture firms will adopt 
+merely
+ the words of the Commitment, without understanding what it takes to truly support founders to achieve it.
+What’s the single best first step your firm can take if it wants to diversify its portfolio founders? Look inside. Start with your internal culture and diversity.
+Unmask the Myths in Your Culture
+Today, too many VC’s labor under self-serving myths and assumptions that, when spoken out loud to those of different backgrounds, turn out to be highly offensive.
+We remember the time a prominent VC was asked about his firm’s experience with diverse entrepreneurs at a public forum, one that consisted largely of very accomplished people of color from tech and entertainment. His response, peppered with pride, was that he was “color-blind” when it came to entrepreneurs. He said that he didn’t care what gender or color someone was, and that he didn’t care if a founder just “happened to be Black.” He was completely unaware of how clueless and harmful this notion is.
+If you are a woman or a person of color in tech, hearing a powerful gatekeeper deny that your color or gender (or both) has been a major factor in how you’ve been treated flies in the face of evidence and experience.
+Virtually every woman entrepreneur we know can tell you they’ve been the target of unwanted sexual attention, even to the point of being propositioned by an investor while trying to raise a round.
+Most entrepreneurs of color can tell you a story about how they’ve been treated with suspicion in an office because of race. They can tell you that they’ve been doubted about whether they really belong there; how they’ve been assumed to be a security guard, delivery person, or administrative assistant, rather than the CEO. The consequences are significant. 
+Research shows
+ that the cumulative effect of such slights — contributing to individual self-doubt and demoralization — leads to turnover at three and a half times the rate of white men, and a huge loss to the economy.
+We simply can’t afford to pretend we’re color-blind. The goal is to be post-racism, not post-racial.
+Similarly, when we hear VC’s express concern that expanding diversity means “lowering the bar,” we cringe. This notion stems from the false assumption that more underrepresented employees haven’t been hired because those candidates haven’t met high standards. The reality is that top-notch candidates from all backgrounds are out there; however, the hiring criteria, in practice, are hardly objective. If companies are having trouble finding underrepresented candidates, there are unacknowledged problems with their hiring practices and — far too often, office cultures that negatively affect reputation and retention.
+To many who are underrepresented in tech, “lowering the bar” is a coded message that says 
+you’re not one of us.
+It says that the status quo is just fine, and that companies are only grudgingly willing to change. It becomes a self-fulfilling prophecy, because it’s precisely the accumulation of these messages that create an unwelcoming culture and cause underrepresented talent to decline job offers from firms with poor reputations or to move on prematurely.
+What’s more, addressing the status quo by prioritizing one particular underrepresented group may seem appealing but will do more harm than good. Slack engineer and diversity advocate Erica Baker talks about the message conveyed to underrepresented people of color when a company or investor says they’ll focus their diversity efforts on women first. As she dubs it, “
+colorless diversity
+” sends a message to be patient, wait quietly, and maybe they’ll get around to you.
+Understanding the impact of assumptions, statements, and comments is particularly crucial when there are such great differences in power between investors and entrepreneurs. Being well-intentioned without understanding how you come across is simultaneously arrogant and self-defeating.
+To our VC colleagues, we challenge you to make it OK to respectfully call each other out in your partner meetings or investment teams about all of these dysfunctional shibboleths.
+Recognizing the biases in the room is the first step to overcoming them.
+Removing those biases pays dividends across the board:
+It builds your firm’s reputation as a place where all are truly welcome
+It makes women and underrepresented people of color feel valued and understood
+It fosters an investment decision-making process that relies less on crude pattern recognitionWork to Increase the Diversity Within Your Own Firm
+The most effective method to build a diverse portfolio is to make it a priority to increase the diversity of your own firm.
+The greater the diversity within the investment team, the more diverse the network of entrepreneurs, engineers, and executives the firm has access to.
+Something valuable happens when the collective lived experience of the investment team more fully reflects the ever-increasing diversity of markets which can be served through innovations in technology, The odds improve that those investors will recognize great new opportunities when they walk in the door.
+When the entrepreneurs you want to fund see someone in the room who looks like them, you have a leg up on all of the firms who don’t.
+There is no silver bullet solution to developing a diverse venture firm, but there are specific strategies that in our experience have proven successful. We want to share what we’ve done more as a case study than a series of prescriptions, and we welcome stories and comments of the paths taken by others.
+At Kapor Capital, half of our partners are Black, and two-thirds of 
+our investment team
+ come from underrepresented backgrounds — either Black or Latin@.
+Kapor Capital. from left to right: Brian Dixon, Jorge Mendez, Carolina Huaranca, Mandela Schumacher-Hodge and Anthony Heckman. Not pictured: the authors and Benjamin Todd Jealous
+We didn’t get here by accident. We took advantage of years of experience and research to improve Kapor Capital’s own hiring, retention, and promotion practices and maximize diversity on our own team, including:
+Employing a “distance-traveled” metric for hiring.
+ We take into account where a job candidate came from and how many obstacles they had to overcome to get to our door. We believe, and it’s borne out in practice, that this can be an important measure of work ethic and resilience.
+Focusing on key job responsibilities and measurable skills needed — not proxies.
+ As a head of People Ops at a tech company put it, “A degree from Stanford and a previous job at Google are not skills.”
+Emphasizing actions, not words.
+ We prioritize candidates who have experience building and managing diverse teams, or who have experience being an “only” in a professional or volunteer position. It’s amazing how quickly the “most qualified” candidates go to the bottom of the rankings if demonstrated experience with diverse teams is a requirement in the job description.
+Valuing varied experiences.
+ If you look at the array of skills, networks, and experiences required to be an engaged VC, the best firms build from varied backgrounds and leverage lived experiences to spot entrepreneurs, companies, and trends. Our best example of this is our Partner 
+Ben Jealous
+., He’s the former head of the NAACP, a Rhodes Scholar, and someone who has worked in a variety of fields, from the national association of Black newspapers to heading a foundation, but none in traditional business or investing. Ben’s experience, as a non-profit executive, his insights, networks, and links to advocacy and policy organizations have been enormously valuable to our founders.
+Implementing the Rooney Rule. 
+The 
+Rooney Rule
+, named for the NFL practice of requiring teams to have a diverse slate of candidates for coaching and senior jobs, emanates from a simple truth: zero diversity in a candidate pool means zero diverse hires. Recognizing that our own networks had generated fewer Latin@ investor candidates than other groups, we applied the Rooney Rule specifically to Latin@s when hiring for our recent Analyst and Associate positions. We’ve also implemented this practice for women applying to our Summer Associate positions, since they’ve been less likely to apply in the past.
+Identifying new networks for sourcing. 
+We start by expanding our search beyond elite schools, since a growing body of research shows that access to elite schools is disproportionately tied to family income, not the individual student’s talent, as it would be if there truly were a level playing field. We also specifically engage Black, Latin@, and women’s professional networks when we have an open position.
+Exposure to groups building diverse talent pipelines and plugging leaky pipelines
+.Thirteen years ago, we started 
+SMASH (Summer Math and Science Honors) Academy
+, a five week, three summer residential program for low income underrepresented high school students of color. Dozens of VCs, angels, and successful tech entrepreneurs have toured the program over the years, and nearly every one of them reacts with the same amazement and enthusiasm: “I had no idea kids like this existed!” We utilize these SMASH tours as an opportunity to expose investors and entrepreneurs to the currently unrecognized and untapped talent in their very own backyard.
+Developing a diverse talent pool.
+ We know openings for partners, principals, associates, and analysts occur infrequently in small firms like ours, so we decided to grow our own talent pool. Kapor Capital has worked with 
+Management Leaders for Tomorrow
+ for several years to recruit pre-MBA and MBA students from underrepresented backgrounds as Summer Associates. Several have gone on to full-time positions as investors in the industry. Our very own 
+Brian Dixon
+ was a Kapor Capital Summer Associate, prior to entering business school four years ago. Thereafter, he became a full-time Associate, then a Principal, and just a few months ago was named Partner.
+As you can see, there are a variety of strategies we’ve enlisted to build a diverse investment firm. Taking these kinds of steps helps increase the likelihood of finding a strong candidate from an underrepresented background, or at least, a candidate that is comfortable and effective working in a diverse team. It also provides a wealth of valuable lessons that we can utilize to help our own portfolio companies make progress on diversity and inclusion.If you ask your founders to do something you are unwilling to do yourselves, you’re talking the talk but not walking the walk.
+Creating real cultures of diversity and inclusion throughout the tech ecosystem is not easy, but neither is building a profitable business. As VC’s, we’ve never let challenges get in the way of meeting our goals, so why should making progress on diversity be any different? Why not bring the same “get-it-done-no-matter-what” enthusiasm to this conversation? Why not leverage the tried-and-true startup methods of A/B testing and designing with the end user in mind, recognizing that the end user comes in a diversity of packages with a variety of lived experiences and ideas to contribute?
+Why not build diversity and inclusion into your own investment firm?
+From our experience, it puts you in the best position to expand your deal flow, discover promising new solutions and markets, and support your portfolio companies in the early implementation of their own diversity initiatives. It’s a win-win-win, and those venture firms that recognize the value of prioritizing diversity today will be in the best position to identify and support the great investments of tomorrow.Tweet this article
+ or 
+share on Facebook
+Follow this page to get notified when the next post in the “Dear Investor” series gets published.

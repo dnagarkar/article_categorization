@@ -1,0 +1,33 @@
+7 reasons you should be hiring more junior developers
+I know it’s tempting, you’ve finally been given extra headcount for your team or you’re about to start a new project and your first thought is, “I want senior 
+rockstar
+ developers who really know their stuff”. I want a team of elite experienced individuals who are going to knock this out of the park.
+I’m urging you to consider another option.
+There are a number of advantages to growing or seeding your team with juniors rather than having it comprised of just mid-weight and senior developers.
+1. Mentoring is rewarding for everyone
+Having some junior developers mentored by your seniors keeps both sets on their toes. It encourages pair programming and joint problem solving where juniors will ask questions resulting in the seniors reinforcing their own knowledge.
+It demonstrates to your seniors that you have confidence in them and their abilities whilst simultaneously developing their leadership skills.
+Senior developers won’t always seek help or ask questions of their peers for fear of coming across as not understanding something they feel they should know — which in the long run, is holding them back from improving. You can alleviate this by introducing the mentoring model which brings about a culture where asking questions is not only acceptable but encouraged.
+2. Finding good people is hard, so breed great people in house
+This one speaks for itself really. At all my previous companies we spent a lot of time interviewing unsuitable candidates. It’s very tough to find people that have exactly the right combination of skills and character traits.
+If you hire junior developers with the right attitude they will learn from your experienced team members and become the seniors you wished you were able to find.
+3. Passion is infectious
+Do you remember when you first got into web development, using tables for layout and spacer gifs? That pride when you could add a 
+W3 validation badge
+ to the footer of your fresh new website! Remember how stoked you were to have landed your first professional development job?
+The juniors of today have that passion and drive you had then, they can’t wait to get started! It’s infectious, adding new fresh, enthusiastic people will increase the motivation of your existing team.
+4. Generate new ideas
+It’s easy to get stuck in set ways of solving certain problems. I myself have been guilty of not going back to check whether some of my old CSS hacks or workarounds are still needed with modern browsers.
+Junior developers won’t have solved all these problems before and don’t have preconceived ideas about how things should work, so will be looking at them with fresh eyes.
+5. Avoids butting heads
+One of the main problems with having a company built of people at the same level, is everyone thinking they know best. If a problem crops up there is no hierarchy for difficult decision making. It is common for egos to get in the way of coming to the right solution.
+Having a team comprised of varied weights means there is always someone to defer to when this situation arises.
+6. Creates progression opportunities
+As compelling as the day to day work and salary can make a role, a lot of developers want to be able to progress. Creating mentor and leadership roles for seniors to aspire to and mid-weight positions for juniors to work towards, means good developers will remain working for you for longer.
+7. How are they ever going to move past junior level if we don’t give them a shot?
+This is a big one for me.
+Years ago when I took that first step into an established company it didn’t just improve my coding skills but also gave me exposure to processes like version control, deployment, agile workflow, development cycles and a whole host of other things that contribute to becoming a well rounded developer. I wanted to learn these things but often wasn’t hired because of my lack of experience in these areas. A Catch 22 situation.
+There are currently more developer jobs than people to fill them, myself and my colleagues are endlessly harassed on sites like LinkedIn by recruiters trying to pry us away with promises of amazing roles whilst I’m seeing a large number of junior developers on Twitter looking for a single opportunity to shine. This is crazy to me - let’s give these juniors a chance!
+In conclusion
+I think these are all compelling reasons to add junior developers to your team make up. With that said, you need a balance! Don’t have the majority of your developers be juniors when starting on a new large project or start-up, you’ll need the experience that comes with having seniors on board as well.
+I believe a well balanced team is the cornerstone of a successful tech business and hope this post inspires you to make some junior hires this year.

@@ -1,0 +1,45 @@
+Employee referral programs are killing diversity in the tech industry
+Thoughts on workforce cloning in tech
+“Who do you know in the industry?”
+I was asked this question a few years ago during an interview with a top VC fund.
+In investment banking, I used to be asked technical questions, my thoughts on industry dynamics or even silly brainteasers but was never questioned about the quality or the breadth of my network.
+I liked the way investment banks were recruiting — it was one of the most meritocratic processes I have ever seen. Online application, then an assessment center, and finally interviews — with no way to activate any string-pulling or rely on an employee referral.
+Nobody gave a shit about who referred you or your network and as a consequence, each year the pool of new hires was extremely diverse in terms of gender and ethnicity.
+The tech industry, however, has another approach to recruiting.
+Roughly 70% of tech companies have programs to encourage referrals and most importantly, referrals account for up to 
+50%
+ of new hires in the US.
+In this context the “who do you know” takes its full meaning but brings along some serious questions about meritocracy, social reproduction and the sustainability of this industry.
+Dating the Technology Industry
+Seeking a job in tech is now very much like seeking access to an exclusive dating app. You have to meet certain standards and most of all be referred by a “member”.
+Google is a perfect example of this new phenomenon.
+Employees are highly incentivized to check job openings regularly and refer people who might be a good fit for the company. They can make up to $5K for each new hire they source — a pretty cool, institutionalized side business if you ask me.
+Beyond being a nice perk for employees, a referral program is a great way to extend a company’s HR reach and to source candidates already briefed on your internal culture. Many recruiters are delighted by the performance of this recruitment channel: fast and low-cost process, good cultural fit, high retention etc. They don’t comment much on diversity though.
+Unfortunately, an employee being asked to refer someone for a given position will almost always go for somebody who shares the same social capital
+: skills, tastes, posture, clothing, mannerisms, material belongings, credentials, degree etc.
+This is obviously a major source of inequality which is hurting diversity in the tech industry.
+Despite having invested hundreds of millions of dollars in diversity programs, 
+Google has only 
+30%
+ female employees 
+— I won’t event comment on ethnicity which is beyond my understanding. A pipeline issue as they say.
+In France, the exclusive tech club also does well — less than 20% females within top VCs investment team, less than 10% at Partner level. I only have in mind one employee coming from another ethnic group.
+Pipeline issue again?
+If recruitment is based on referral or cooptation, white men tend to favor white men. Simple as that. And when Intel decides to double referral bonuses for employees who either suggest women or minorities it’s the perfect evidence that a plain referral program is only good at creating a clone army.
+Fighting the Clone Army
+Tech companies such as Google, Apple, Facebook or Amazon that are often pointed at as non-diverse structures have eaten the world with their clone armies.
+So why bother?
+You might think it’s a legitimate question mark. Well it’s not.
+And it’s not for a simple reason: a group of white middle-aged executives who think alike cannot connect with a customer base made of diverse minds, cultures and experiences.
+Diversity fosters innovation and creativity which in turn brings growth and profits for any type of business, whatever their size. According to a 
+study
+ conducted by McKinsey, US public companies with diversity on their executive board have a 95% higher return on equity than those without.
+It goes the same way at non-board level. A diversified employee pool leads to more debate and questioning. This ongoing back and forth is the key to upgrading a business idea from okay to great.
+If being diverse means more innovation, are there any adverse effects to not being diverse?
+The British computing history is a very good example of how disastrous it could be to hinder diversity. During WW2, Britain was the most advanced country in terms of electronic computing. In a desperate move against Germany, Britain dedicated a lot of resources to break both the Enigma and Tunny through electronic programmable computers. Remember this huge machine in the Imitation Game?
+Computers at this time needed a considerable amount of labor and guess what, a good chunk of the technical workforce dedicated to computers were women. But as the government started to get the importance of computing, women were gradually pushed away.
+Thirty years later, the computing industry in Britain was extinct. 
+Programmed Inequality
+ offers a deep dive in the aftermath of this major gender flip.Risk-taking is highly rewarded in the tech industry except when it comes to recruiting. Referral programs are massive cloning factories dedicated to favoring culture over merit.
+Finding alternatives to “Who you know” is instrumental for the health of this industry and I’m having some serious hopes with the pace at which innovation is growing in HR Tech.
+Limiting human input in a recruitment process will be key in solving this consanguinity issue… AI will soon do the trick.

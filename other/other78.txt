@@ -1,0 +1,96 @@
+WTF is… Money?
+Here’s how bartering evolved into Blockchains.13
+.7 billion years ago,
+ the Big Bang brought the universe into existence. 3.8 billion years ago, life first appeared on our planet. 1.9 million years ago, Earth witnessed a hominid species, Home erectus, walking upright for the first time.
+And, 7,000 years ago, money was invented.
+But first, people bartered.
+Not everyone had everything.
+ We always had something in surplus, and we always needed something that the other person had. As the common sense would have said, we started exchanging our surplus assets for what we needed.
+Imagine I had extra apples and you had extra oranges, we could simply exchange fruits with one another.
+What if I had a surplus of apples, and didn’t want your oranges, but I’d love to have some strawberries.
+You would go and find someone who can give you strawberries in exchange for your oranges. Luckily you find your friend, Joe, to barter with you.
+Then, you’d bring me those strawberries, and I’d give you some apples.
+Joe, you and I are all happy.
+But what if Joe had a surplus of bananas, but he didn’t want your oranges either? That would be a problem.
+The smart among us started asking a profound question, “Can there be something that everyone wants?”
+By the way, I am curator of a weekly newsletter, 
+Unmade
+, which delivers one idea from the future to your inboxes.
+Then, there was commodity money.
+There were a few things that
+ almost everyone used, like salt, seeds, sheep, and cows. They became the commodity money. If we had any of these, we could use them to get whatever we wanted.
+We always knew that at any point in time, there would be no one to reject our offer of commodity money. These were the assets that everyone used, so everyone valued them. The system just worked.
+Commodity money was not without its own problems, however. Carrying sacks full of seeds to a different city was difficult. Also, storing them was a huge problem. If stored for longer periods of time, they would perish.
+Then, the smart among us started asking another profound question, “Is there something that is easier to carry, store, and which is still valuable?”
+Metals were the answer.
+Metals were easier to carry, divide,
+ store and were also scarce (thus, making them valuable). Countries and kingdoms started minting their coins of various weights that bore their seal. The seal assured the weight and authenticity of the coin.
+Each coin’s worth was measured by the material that made it. Based on the metal used and its weight, coins got their value.
+Coins were primarily made of gold and silver because they were rare to mine and didn’t corrode, thus ensuring a stable weight. Because they were easy to carry, we even took it a little too far: we started using them in the form of jewelry — so that they would always stay in our possession, and others could see how rich we were.
+By this time, humans had evolved past the phase where everything that they did was for survival.
+But this would cause a bit of trouble — theft.
+Temples came to the rescue.
+Gods came into the picture long
+ before money entered. They lived in temples, and our precious metals found their home there as well. We started storing them in temples, because no one had the courage to steal something from God. Thus, the coins were considered to be safe.
+As soon as you’d deposit your gold with the temple, the priest would give you a paper receipt that mentioned the amount of gold collected. It was a promise by the priest to not deny gold to the bearer of the receipt.
+Before we realized, banking had arrived.
+“Consumer banking — selling debt to middle class families — has been a gold mine.” — Elizabeth Warren
+The paper receipts represented the
+ value of the gold that was deposited with the priest, so therefore, transferring the paper receipt would mean moving the gold itself. The representation of money entered our society. We started using promissory notes instead of gold because they directly represented the gold and were easier to carry and store.
+In time, governments and banks replaced temples. Throughout the nineteenth and twentieth century, almost all of the currencies in existence were based on the promise of gold and silver in their return. The paper held its value because it represented a scarce resource, the precious metals held by those governments and banks.
+Until it didn’t anymore.
+The rise of Fiat Currencies
+A scarce resource doesn’t back
+ the currencies we use today. This is because money’s value no longer depends on the value of gold; it depends on the stability of the government in whose jurisdiction it is being issued and used. The reputation of the government gives money its value today.
+The paper we exchange for goods and services is actually the money itself. You’ll not get gold back if you go and hand a paper bill to your bank.
+Because central authorities like banks and governments controlled the value of that particular paper, to make the system more efficient, they replaced those valuable papers with valuable digits stored on a computer.
+Currency goes electronic
+I found it funny when I first
+ learned it. First, banks replaced gold with representative papers and then, they put value on those papers only without backing them with real gold. The same cycle repeated once again, and banks declared, “People can still steal your paper money. You paper money is still perishable. Why don’t you deposit you paper money with us and in exchange we’ll make an entry in our computer that’ll tell you how much we owe you? Anytime you’d come asking for you paper money, we’ll return it.”
+To us, the masses, the proposition seemed reasonable. Those digits in the computers were backed by our deposited paper money.
+Until it wasn’t anymore.
+Banks make new money whenever they make loans. Consider you taking a loan of $10 from a bank. The bank will not give you someone else’s $10. Instead, they will simply credit your account with $10 in the form of an IOU from the bank to you. You can spend the IOU worth $10 the same as you’d spend an actual $10, therefore, creating a substitute for money. This is also exactly the same thing that happened when we substituted gold with papers.
+That is why if everyone of us goes to our banks and demands cash at the same time for whatever our accounts are worth, there won’t be enough cash.
+Money that used to depend on the value of a rare metal has now become just a number in someone’s computer — 
+someone else’s
+ computer.
+At the dawn of the twenty-first century, the smart among us started asking another profound question, “If money can be only some digits in a computer, can there be a way to still back it by a scarce resource? And does it have to be stored on the computer of a centralized authority?”
+The dawn of cryptocurrencies
+The world is connected through the internet
+ now; it is at everyone’s fingertips. Computers make us more efficient at what we do than we ever were. What used to take us days, takes us minutes now. We couldn’t make more time, so instead we make more out of the time we do have.
+Computing power is such an integral part of our life that it has become as scarce and valuable as gold was to our ancestors. And when smart people asked the profound question, “Can we make a currency that is backed by computing power?,” the answer was Cryptocurrencies and Blockchains.
+If you don’t yet understand how blockchains work, I’ve written 
+the ultimate guide in plain English to understand the concept
+.
+WTF is money?
+Humans have been trading
+ long before money existed. We bartered with people whom we trusted. These were the people who believed in the same stories that we did — of gods and mythological creatures among others.
+Money is a story that everyone believes in.
+We believe in it because everyone else believes in it. The story gives money its value. And that story has become more and more abstracted as the complexity of our technology has increased.
+Are cryptocurrencies the holy grail of money?
+They are, for now, until something better
+ will come along. Cryptocurrencies are decentralized, but that doesn’t mean everyone will have equal portions of it. It is one of the misconceptions I keep hearing.
+“Because cryptocurrencies are totally decentralized, will everyone have equal portions of it?”
+“No.”
+If a currency will thrive in the long-term, it has to be backed by a scarce resource. Scarcity has the property that it is not evenly distributed. If it was, it wouldn’t be scarce in the first place.
+Thus, money, by design, is such that there have to be rich and poor in society for it to have any value. There must be people who have a surplus of it, while the rest desires to have a surplus of it.
+With cryptocurrencies, power and authority might change hands, but this will not change how society functions as a whole. The earlier you become part of the cryptocurrencies, the more you’ll have.
+Kings will fall.
+Kings will rise.
+But the money,
+Money survives.
+— 
+About the author
+Mohit Mamoria
+Mohit Mamoria is the cofounder of 
+GOD Token
+ and editor of a weekly newsletter, 
+Unmade
+, which delivers one business idea from the future to your inboxes. Have feedback? I am available 
+on Twitter
+.
+This story first appeared 
+on TechCrunch
+. Edited and proofread by 
+Doina
+.If you enjoyed this story, please recommend 💚 and share to help others find it! Feel free to leave a comment below.

@@ -1,0 +1,75 @@
+Image credit: 
+Andy Orsow
+Optimistic UIs in under 1000 words
+An illustrated introduction
+Let’s talk today about optimistic UIs.
+Optimistic?
+Optimistic UIs don’t wait for an operation to finish to update to the final state. They immediately switch to the final state, showing fake data for the time while the real operation is still in-progress.
+The textual description is not that easy to digest, so let’s look at the first example. The app is an imaginary messenger named “Cotton Candy”.
+There are 2 approaches on how sending a message can work:So, 
+Optimistic UI
+ 
+shows the final state 
+before
+ the app finishes (or starts, even) the real work
+.
+So, it’s a magic trick. Why do we need it?
+It is a very simple concept behind a fancy name. Yet it can make a huge impact on your users’ happiness (or “customer sat” if you are Apple).
+Firstly, it makes your app feel faster. User can start doing something else while your app uploads a Hilarious Betty the Cat Picture or posts a Smart And Ironic Comment to a discussion.
+Secondly, it streamlines the experience by removing unnecessary states and distractions. The app will look simpler and more friendly.
+Visual designers will have less screens to pixel-perfectize too.
+Real-world examples
+Optimistic UIs are frequently used in messengers and social apps. “Messages” for iOS or macOS uses this concept when user sends a message.
+Immediate UI update in Messages for Mac
+Instagram utilizes it in the comments section.
+Instagram comments. Note the progress indicator on the right.
+Let’s look at an example of a different kind: 
+Audible
+ for iOS. You can start playing as soon as only a tiny bit of the book been downloaded. It hopes to download the remainder while your are listening.
+“Ready to play” when only a fraction of the book is downloaded. Optimism as it is.
+One more example: 
+Trello
+. When a user moves a card, it is moved immediately, UI doesn’t wait for server to finish it’s job.
+Optimistic UIs are key to Trello’s fluency
+Medium uses it when user attaches an image to the post.
+It can be also, most probably, used in your product ;-)
+Progress
+Sometimes it is not enough to just show the final state immediately. Your user will be less confused if you give him some gentle indication of progress. It is especially important when an error happens. But more on error handling later.
+Of course, the longer the operation takes, the more salient this indication should be. It might be not necessary to show indication when a user adds a like. However, it is definitely useful when she uploads her favourite photo.
+Some apps show a progress indicator next to the already updated part of the UI.
+Showing progress in-line with the message.
+One more way is to display a tiny status icon (or status label) next to a message.
+Status icons on the Facebook Messenger for web.
+Message” for iOS also shows a progress bar on top of the window. It is especially noticable when uploading the Betty the Cat photo (or two).
+Progress indicator in iOS Messages
+Handling Errors
+What if something goes wrong?
+When designing the error message there are some points to consider:
+Salience. 
+The notification should be visible, user should not miss it (especially when user uploads data, etc);
+Causality. 
+The user should be able to understand which action caused this error. We already updated the UI, the action is “finished” in the mind of the user.
+Handling error states is the biggest challenge of optimistic UIs.
+The simplest solution is of course a Good Old bLocking Error Message (GOLEM).
+GOLEM in action!
+It is very good at the point #1. It is particularly hard to miss something that appears in the middle of your screen and impolitely blocks all the further interactions with the app.
+It falls short on the point #2. It is not mentally linked to the action that user made in the past. It pops up at a random moment (and contains scary text to).
+The second popular solution is to show a button or an icon close to the message we failed to sent.
+WhatsApp, Y U NO SENDING?
+When user taps on it, show a GOLEM or attempt to retry the action without it.
+GOLEM is summoned by the error indicator (Messages for iOS)
+It really shines at the point #2. Unfortunately, usually it is not salient enough. If user is on a different screen or he scrolled the message our of his view, he won’t see it.
+Messages for iOS solves this by using additional icons to make the error state more intrusive. They show it on the app icon, so user won’t miss it even if he exits the app.
+Messages for iOS is showing us that something went wrong… somewhere…
+To reduce the need to show the error state and scare the user, sometimes it might be enough to re-try the operation a few times.
+Conclusion
+Optimistic UIs can make your app more fluent, straightforward and enjoyable for a user.
+It is extremely helpful if your servers are sluggish (and Shawn, the server-side guy resigned last week).
+And yet, optimism in UIs should have a basis.
+If your server is far from being reliable (damn it, Shawn!), then the optimistic UIs can be harmful. They can be irritating by making a whole queues of GOMEMs. They can lead to a data loss if user misses the error message.
+So, keep in mind all the implications and use them responsibly!
+Like the post?🦄 Want to keep in touch? 
+Follow me on twitter: 
+http://twitter.com/mandrigin
+For longer-form text visit 
+https://medium.com/@mandrigin

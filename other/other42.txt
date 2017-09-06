@@ -1,0 +1,33 @@
+Hands On With Google’s ARCore
+Google’s ARCore will let Android phones experience augmented reality. We took it for a spin.
+By 
+Sascha Segan
+Google’s new ARCore software developer’s kit, 
+announced today
+, makes augmented reality on Android much more widely available.
+AR is potentially a much bigger deal than virtual reality, because it mixes virtual objects into real spaces on a screen. You enhance the world around you rather than disappearing into another reality altogether. But until now, Google AR was relegated to Project Tango, on phones like the 
+Lenovo Phab 2 Pro
+, which requires a cumbersome, three-camera setup.
+ARCore, 
+like Apple’s ARKit
+, does AR with one camera. It’ll initially run on the Google Pixel and Samsung Galaxy S8 devices, but we expect to see it on higher-end Android phones, too. ARCore is far from final release; the preview SDK that came out today is designed for software developers to start working on ideas. But we couldn’t help ourselves, so we downloaded it to see how well it worked.
+You can download it yourself from 
+Google’s developer site
+, or see fun examples of projects devs have made on Google’s 
+AR experiments page
+.
+Google’s ARCore isn’t an app you can download. It’s a software development kit (SDK), to help developers create AR apps. Right now, it runs on Pixel and Galaxy S8 phones. We 
+downloaded
+ it onto our 
+Pixel XL
+ and used Google’s tools to build the most basic demo app included, so we could see how well ARCore does at mapping surfaces.ARCore maps horizontal surfaces, provides lighting cues to help fit objects into a real-world environment, and uses the camera, accelerometer and gyro sensors in your phone to tell if you’re moving around. Previously, Google Tango phones needed three cameras to do this; ARCore, like Apple’s ARKit, does it with just one. We needed to aim the phone at a clear area of floor to get it to map.Once the phone saw the floor, a grid appeared to show the area that was mapped. 
+Microsoft’s HoloLens
+, Google’s Tango, and Qualcomm’s new three-camera 
+Spectra modules
+ rely on infrared cameras to map vertical surfaces, furniture, and even people’s hands in space. For now, with only a phone’s single visible-light camera, ARCore is sticking to flat, horizontal surfaces. It might become more capable on dual-camera phones.Tap anywhere in the mapped area, and it’ll place a little android. This is where software developers can get creative, planting their playfields on the mapped area.ARCore uses the phone’s camera, accelerometer, and gyro to figure out where you are in space. When we walked around the android, it stayed in the same position on the floor.Keep tapping, and it’ll place more androids. ARCore seems to have similar capabilities to Apple’s ARKit. Google is also working on Android and iOS web browsers, which include ARCore, so web developers will be able to put augmented-reality apps in web pages.ARCore apps won’t hit the Play Store until sometime this winter, and here you can see one reason why. When we backed up behind a desk, ARCore kept the androids where they would be if the desk wasn’t there; the system could only see the floor. More advanced AR systems, such as Google’s Tango, map objects around them in real time.
+The demo app we tested was pretty simple, but Google’s handpicked developers have gotten more creative with ARCore. Watch this sizzle reel to see some of the things they’ve been cooking up.
+Read more: “
+Google ARCore Brings AR to Existing, Future Android Phones
+”Originally published at 
+www.pcmag.com
+.

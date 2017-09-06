@@ -1,0 +1,40 @@
+Hiring the Ideal Startup Team
+In the early days of your startup, you might have heard you should have 
+a hacker, a hustler, and a hipster
+ on the founding team. That makes a lot of sense in the initial stages of your company due to the experimental nature of the business. Remember what 
+Steve Blank
+ says: a startup is not a “real” business but rather “an experiment searching for a business model.”
+Once you start to move out of the coffee shop and build your initial team, you’ll have to make some careful hiring decisions. I’ve seen founders hiring for new “formal” positions right out of the gate when all they need are operators to validate the business and find product market fit. Instead of finding your next VP of whatever or Chief whatever Officer, you should have no titles until you have paying customers and a product market fit.
+I advise all the founding team to call themselves “product” on slide decks and email signature (if you do that sort of thing). Early stage team members should not be going to conferences and don’t need business cards, so the title doesn’t matter.
+Here are a few other ways to manage the early stage hiring processes, and run your startup more effectively.
+Maintain Equilibrium
+Last year, I wrote a piece called “
+The Holy Trinity of Product Development
+.” I argued that it’s important to maintain balance in a company. Often, a startup’s first hires (besides the founders), tend to skew either to the technology side (we need 5 developers!), or the marketing side.
+Generally, if the founding team is more marketing-minded, they overhire engineers, and vice-versa. Instead, a company should be customer-centric. To achieve this “holy grail,” the company needs both technology and marketing expertise.
+Be Well-Rounded
+In another article, “
+Why CTOs Should Know Accounting
+,” I suggested that CTOs also need to understand the business side of your company. It’s important for all of the high-level employees in a company to be able to converse with the rest of the employees.
+Just like the CEO of a company should be able to at least pronounce the word “kanban,” (con-bon not can-ban) and know the difference between Java and JavaScript, a CTO should be relatively familiar with balance sheets, income and cash flow, annual statements, and budgets.
+How to Hire
+I’d argue that it’s better not to even bother with interviews. Rather, have coffee first. Discuss why they want to work at such an early stage company and review their skills there.
+If that goes well, then have the potential employee give a presentation to the entire team. It can be on any topic (Was “
+The Force Awakens
+” a remake or not? is a perfect choice), and it gives the team a feel for the candidate’s analytical skills, seriousness about the position, and ability to do something different, while it also provides a unique experience for the candidate.
+If the person is successful on their hiring presentation, I’d suggest the “can we have a beer with them” final check. This one’s really complicated — take them out for a beer with the team (or another social engagement if team members don’t drink). Get to know them on a personal level. When companies scale to be over 25 people, it is much harder to do this with the whole company, but each functional area (marketing/sales, tech, backoffice) can do it with their group and a select few members from other functional groups to join.
+Avoid Founder Disputes
+Early stage companies sometimes have no cash and bring on someone as a “co-founder” with little to no pay. It’s also crucial that you do your best to avoid founder disputes. I wrote a piece on this called “
+Dynamic Founder Agreements
+,” but I’ll give you a short summary. I described this agreement like a typical IF/THEN/ELSE.
+IF:
+The CTO works full-time and performs all of coding and technical duties of V1, his equity is 50% vested over 4 years, 1 year cliff.
+ELSEIF:
+The CTO works part time, is disengaged, or we need to hire developers sooner than expected, his vested equity is reduced by half and he forfeits his unvested equity. Loses board seat.
+ENDIF:
+The CTO has to leave the company because he needs a job or a family emergency: if the CTO built V1 then the buyout is a one time payout of $50,000 USD cash or 2% vested equity, if the CTO did not build V1, the buyout is 0.5% vested equity. Loses board seat.
+While you might not avoid all disputes, this agreement will go a long way.
+Hiring for Bigger Companies
+Once your company grows and matures, deliberately hire slow. “Scale” and “move fast” does not mean “hire crazy fast.” Rather, hire for a role only when it is obvious the company is suffering without it.
+There is a Silicon Valley secret that dictates that “you make a decision to join a company ONLY if they are resource-constrained. Once they have enough people, time to move on.” The idea behind this secret is that creativity needs constraints. Translation: if your plan calls for ten people, see what you can do with five.
+Use these tips when building out your initial team. Don’t fall into the hiring trap.

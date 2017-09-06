@@ -1,0 +1,119 @@
+Managing Performance Friction
+More than a year ago I did some research on what I ended up defining as “performance friction” (I’ll explain what this is a moment). I found myself re-reading that document in recent weeks and appreciating the sage advice from “younger me” so decided to share most of its content here.
+Start with Why
+Performance friction is a special case of general friction between the needs of the individual and the needs of the organization
+It usually manifests in one of these four use cases:
+Under performance
+ — person not meeting the performance requirements of the roles.
+Skimmer
+ — person is continuously barely meeting expectations. There is high opportunity cost compared to somebody that’s “crushing it” in the role.
+Performance gap
+ — the role grew but the individual didn’t, or the individual grew and the role didn’t. We’d typically try to hire above/below them, but sometimes we won’t be able to afford more than one person in that domain.
+Strategy shift
+ — there is no longer a need for the role the person is currently at.
+“[Performance friction] is rarely because the person is incompetent or a bad person. It’s typically the result of a gap of skill (which is either fixable or not) or will (where the person is motivated to do the work).” 
+— Laszlo Bock, Google’s former SVP of People Operations
+“This is hard to say because it sounds mean: the people you fire are more important to your culture than the people you hire. It’s a half-truth, as you have to hire people who are outstanding, but it’s an important half-truth because the best way to protect the environment is to recognize where 
+you
+ 
+have erred
+ and course correct.
+To do this requires 
+courage and confrontation
+. You muster both of these by telling yourself 
+it’s what you must do to make the company “safe” for your best people
+, who should — by the way — be the only people.
+It is like a sculpture revealed by what you chip away. Unlike a block of stone, though, you can add and chip iteratively, which means you don’t necessarily have to be Michaelangelo. Most companies know they have to be superb at the adding. What is less talked about is how important it is to become excellent at the chipping.” — 
+Andy Dunn (Bonobos’ CEO)
+The steepest price of performance friction is paid by the people indirectly involved — the employee’s peers
+When the results were in and tallied, three items correlated best with high performance for a team: “
+My coworkers are committed to doing quality work
+,” “The mission of our company inspires me,” and “I have the chance to use my strengths every day.” — 
+Reinventing Performance Management, HBR
+“
+But you’re not thinking about all the other people on your team who have problems with Jeff — Angela and Frank who know Jeff is a problem but every day see you not doing anything about it.
+ I guarantee you, whatever you believe Jeff is costing you, it’s really three to five times that. The non-obvious cost is all the credibility you’re losing as a leader.” — 
+Michael Lopp (Rands)
+People rarely take themselves out of the game
+“In nearly 20 years of doing business, no one has ever approached me and said they couldn’t do their job. Not once.
+No matter how challenging the role, people will be inclined to believe they can get it done. It’s human nature, equal parts ego and optimism. Simply put, we’re programmed to finish what we’ve started. Admitting that we can’t do it is just too hard for most of us, a particularly acute trait among overachievers.
+As a result, just like the star pitcher in the late innings of an important game, most individuals are not in a position to objectively evaluate their own performance. That’s where management comes in.
+As a manager it’s up to you to identify the potential performance issue and act accordingly. Perhaps that will result in leaving that individual in the role, perhaps not. Regardless, it’s ultimately your responsibility, not theirs. The sooner you hold yourself accountable for that decision, the better for everyone involved.” 
+— Jeff Weiner, LinkedIn CEO
+What: Should you Fire?
+When we’re considering firing someone, it’s usually a result of one of these three reasons:
+Cause
+ (ethics, code of conduct) — no brainer…
+Culture fit
+ (extreme case: brilliant assholes) — not covered in this dicussion
+Performance ← focus of this discussion
+Netflix vs. Virgin
+Netflix
+“We’re a team, not a family. We’re like a pro sports team, not a kid’s recreational team.
+Coaches’ job at every level of Netflix to hire, develop and cut smartly, so we have stars in every position”
+The Netflix Keeper Test:
+“Which of my people, if they told me they were leaving in two months, for a similar job at a peer company, would I fight to keep at Netflix? — The other people should get a generous severance now, so we can open a slot to try to find a star for that role”
+The biggest challenge with the Netflix approach is that it assumes a fixed mindset: the only way to manage performance friction is by separating the individual and the organization, as none are capable of changing in a way that would eliminate the friction in a different way.
+Virgin
+“My philosophy is very different. I think that you should only fire somebody as an act of last resort. If someone has broken a serious rule and damaged the brand, part company. Otherwise, stop and think.
+If someone is messing things up royally, offer them a role that might be more suitable, or a job in another area of the business. 
+You’d be amazed how quickly people change for the better, given the right circumstances, and how willing they are to learn from costly mistakes given a second chance.
+I think companies can be like families, that it’s a good approach to business, and that Virgin’s created better corporate families than most. We’ve done it by accepting the fact that we have to think beyond the bottom line. Families forgive each other. Families work around problems. Families require effort, and patience. You have to be prepared to take the rough with the smooth.” 
+— Richard Branson
+Google — a middle ground?
+“At Google, we regularly identify the bottom-performing 5% or so of our employees. These individuals for the bottom tail of our performance distribution. 
+Note that this happens outside of our normal performance management process
+. We’re not looking to fire people: we’re finding the people who need help.
+We don’t have a reliable measure for performance for every job… so 
+this is a human process, not an algorithmic one
+… In practice, the bottom tail does end up including those who “need improvement”, but it also captures “skimmers” — people who have been skimming along the lower end of meeting expectations for a long time.
+So rather than following the traditional path of making “poor performance” the kiss of death, we decided to take a different approach: our goal is to tell every person in the bottom 5 percent that they are in that group. This is not a fun conversation to have. But it’s made easier by the message we give these people: “you are at the bottom 5% of performers across all of Google. I know that doesn’t feel good. The reason I’m telling you this is that I want to help you grow and get better”
+Our interventions here are for the small handful of people who struggle the most. If that doesn’t work, we help the person find another role within Google. For the remaining people, some choose to leave and some we have to fire.” — 
+Laszlo Bock, Google’s former SVP of People Operations
+Startup vs. mature company
+At a startup:
+Performance “goal posts” in many roles change dynamically
+A year ago, a less experienced person in a certain role was enough, but now the organization really needs a more senior person
+You may need a very different type of person at the same level (think 
+pioneer, settler, town planner
+, for example)
+You may no longer need a certain role due to a refinement in strategy
+The smaller the org — the less opportunities to move to a different role within the company
+You have less dedicated resources to support a more nurturing performance friction management approach
+Be deliberate about your organization’s approach to firing as a tool for managing performance friction
+If you’re a startup, you should aim for the area between Google and Netflix (rationale outlined above)
+How to best manage performance friction?
+Traditional performance friction approaches advocate for either assigning the individual a “performance improvement plan” (PIP) or pushing for expedited termination. The former hardly ever sets up the individual to actually improve their performance and often times comes across as simply laying out the groundworks for an inevitable termination. It also ignores the fact the performance improvement may not be the best path for addressing the friction. The latter violates a core tenant of maintaining trust and parting on good terms by having the termination come as a complete surprise to the individual.
+“When you’re making a critical decision, you have to understand how it’s going to be interpreted from all points of view. Not just your point of view and not just the person you’re talking to but the people who aren’t in the room, everybody else. In other words, you have to be able, when making critical decisions, to see the decision through the eyes of the company as a whole.” — 
+Ben Horowitz
+Manager POV: avoid fear and guilt, be honest
+This is hard!!!
+“One thing I don’t like is when I have to make a change in [staffing], when I have to tell somebody I think 
+somebody else can do a better job
+… It’s pure agony, and I usually postpone it and suck my thumb and do all kinds of other things before I finally carry it out.” — 
+Warren Buffet
+“Once you’ve recognized a performance issue with a member of the team, more often than not, the natural inclination is to rationalize it away. This is typically a byproduct of fear:
+ Fear of how difficult it will be to replace the individual, fear of hurting them, fear of how their team will react, etc
+. That fear will inevitably lead to sub-optimal decisions that have the potential to do far more harm than the fear itself.” — 
+Jeff Weiner, LinkedIn CEO
+“That’s exactly the construct that produces guilt — the assumption that [optimizing for the business and optimizing for the people] are at odds. 
+I’ve got 100+ other people working their butts off building this company. I’m optimizing for those people
+” 
+— JW Player CEO
+But doable
+“If you develop a reputation with yourself for 
+treating people respectfully in transition, for being direct, for generous severance, and for being proactively helpful in their search for what’s next, you will find firing people isn’t so scary.
+ You then will be more likely to be decisive in borderline cases; if something’s a borderline case, it’s probably not.
+You may even (rightfully) come to view a firing as your own atonement for getting the hiring decision wrong. Or maybe that the hire was right three years ago, but isn’t anymore. You can’t keep someone around out of loyalty; your loyalty is to the mission, not to any particular person pursuing that mission. It doesn’t matter how vital they have been historically, it is only your judgment of how important they are going forward that counts. This is a sports team, not a family”. — 
+Andy Dunn
+Employee POV: no surprises, maintain dignity
+No surprises
+“Every employee you or one of your managers fires, needs to have heard the following sentences weeks earlier: “things aren’t working, and this is what you need to do to fix them — or you will be fired”. This last sentence needs to be explicitly stated and repeated in writing. I can’t stress this enough. No euphemisms. Don’t say “part ways” or “move on”, say “you will be fired”.” — 
+the Startup CEO Field Guide
+Minimize humiliation
+“You can take somebody’s job, you have to take their job, but you don’t have to take their dignity. This is something Bill Campbell taught me… The right thing to do is thank them for their work. Let people know that they’re moving on. You don’t have to explain all their personal details. It’s more important to leave them with their dignity and let them go on to live another day”. — 
+Ben Horowitz
+Team/peers POV: communicate well
+“If you’re actually letting someone go, then your team’s number one concern is going to be whether everyone is getting fired. You can allay those fears while respecting confidentiality. Develop a communications plan around it. That’s an important part of the healing process.” — 
+Rands
+Solution Outline:

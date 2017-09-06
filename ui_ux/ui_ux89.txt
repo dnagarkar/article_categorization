@@ -1,0 +1,48 @@
+Top Three UX Mobile Design Trends
+UI/UX trends that are shaping the next generation of mobile apps
+The way we used our phones have changed in the last few years. Mobile design trends have as well.
+As our screen real estate balloons with each new release of a larger device, designers must consider the real world implications and adjust their designs accordingly. We must strive for creativity that also considers usability.
+Credit: Scott Hurff
+Here are the top three mobile design trends in the recent app market.
+Written Like a Human
+Brand voices showcasing playful personality
+Poncho
+Brand voice gets an upgrade — look for apps to speak with personality and warmth in your interactions whether on the loading screen or as a notification.
+Brand voice is a crucial part of a product’s identity. It keeps your product from simply being another commodity in the eyes of your customers.
+There are three steps in establishing brand voice.
+Find a brand personality
+Define a brand voice
+Translate it into user experience
+Personality is defined by the American Psychological Association as a “unique psychological qualities of an individual that influence a variety of characteristic behavioral patterns across different situations and over time”. The goal is to determine how your company faces a customer in any given situation.
+Ask the following:
+What would my brand say and how?
+How would my brand speak to users during the different stages of their experience?
+What does it hate?
+What does it absolutely love?
+MailChimp
+Navigation Made Simple
+Coherence and minimalism
+Youtube
+Gone are the tab-within-another-tab-buried-within-a-hamburger-menu days, circles/sliders/tab bars are the new hamburger.
+Circular forms are gaining popularity as navigation devices, they don’t need to be confined to a strict grid system to look good and can house both words, images or icons at the right size.
+While there’s nothing wrong with more traditional navigation UI patterns like sidebars, pulldowns, or even the hamburger menu… except that they’re used quite a lot (to the point where the user will ignore it as navigation till need be).
+Sometimes you need to get creative with how users get around your site, while balancing old patterns and familiarity. Just don’t sacrifice usability and coherence.
+Bite Sized Content
+Progressive disclosure and optimal amounts of content
+Quora
+There’s a reason Google chose to make card-based design their standard and the rest of the web has slowly adapted.
+Each card represents a digestible piece of related information — typically defined by a headline, an image or graphic, and a short string of text that gives you a general overview. This allows enough information for users to choose if they want to dig down or move on in an instant.
+Takeaway
+While design trends can help inform us the direction of apps in the future, it is important to choose UI and interactions that are appropriate to the content and goal that we need to achieve.
+—
+Thanks for reading! Feel free to check out 
+my design work
+ if you’d like.
+My handbook on UX is now available on 
+Amazon
+! My second book on design thinking is available 
+here
+.
+Learn how to create beautiful mobile app icons with my course —now available on 
+Skillshare
+.

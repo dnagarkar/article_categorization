@@ -1,0 +1,52 @@
+Reducing friction in VC fundraising
+Or, how to maximise your conversion rateThe concept of ‘reducing friction’ is now an important part of any tech startup.
+You want to maximize the chances of your user performing a certain action: signing up, purchasing your product etc. You have given your user a good motivation. You then need to minimize the barriers to them taking action.
+This might be the time required, confusion on the proposition, addressing them at the wrong time, social stigma. Whether the user gives up completely, or just pauses, you will have been cast back into the pool of other companies seeking a fragment of their attention.
+A good rule of thumb is to reduce the number of steps to take an action to the absolute minimum, and make the expected next step very clear at every stage
+There is masses of further reading on this topic e.g. 
+Bryan Eisenburg
+, 
+Hooked by Nir Eyal
+, and the 
+Qubit blog
+What I have not seen is this concept applied to startup fundraising.
+As a founder, you want to minimize the friction for an investor as he moves through the funnel from awareness, through interest, to decision. You want to maximise your chances of a yes, and you want a quick decision (even if it is a no).
+Of course, the most important thing in getting funded is the quality of your business. A great business will get funded even with lots of friction in the funnel. However, achieving a 10% better business is hard, whereas it can be easy to eliminate 10% of friction in your interactions with investors.
+I have taken a first cut at what might cause friction through the funnel of investor interactions below, broken down by stage
+Friction in getting to first meeting:
+Emailing the VC’s generic email address (
+information@balderton.com
+ or similar). It will get read, but usually by the most junior member of the team on a Friday night
+Emailing a partner cold. 95% of the time will end up in generic email box — see above. If you can get a genuine warm intro to a partner great. Otherwise go for an associate or principal.
+Emailing a list of investors, or an obvious mail merge (instant delete)
+Not providing enough info, e.g. “Please can we meet for a coffee” emails with no info on the business, or insisting you can only speak about the business in person, or giving only vague details
+Asking for an NDA (see Mark Suster post on the topic 
+here
+ )
+Complex/unclear descriptions of what the business does, or providing so much info that it becomes confusing
+Not giving any context for the business: “We have no competitors”; ”Our market is entirely new”
+Not having a social context: not having an Angellist profile; not saying how you connected with the VC (you can always find something, even if it is a second degree linkedin connection or blog post)
+Not having a clear ask (almost always this should be a meeting)
+Friction in first meeting 
+(see also my post ‘
+What VCs listen to in meetings
+’)
+:
+Speaking by phone. Sometimes this can’t be helped, but it’s far from ideal. Couple of tips:
+Avoid skype, poor mobile signal, free conference call numbers — anything that harms sound quality or call reliabilityThe only objective of the call is to get one of you to travel to make a meeting in person
+Too many people in the room. Having someone in the room who is completely silent, or (even worse) tapping away on their laptop, is a distraction. Equally, having several people talking a lot, embellishing each other’s points, makes it hard to really connect with the VC.
+Too much jargon or buzz words. Any VC will then be using their mental energy working out what you are actually talking about rather than engaging on it .
+Over-selling. At best this is irritating. At worse it can create suspicion: “If it’s so good why is he selling it so hard?”
+Exaggerating, over-promising (especially for current month metrics) or downright lies. Credibility, once lost, is very hard to regain.
+Not managing time well. Trying to get through final 10 slides in 5 minutes.
+Not sharing data.
+Not agreeing next steps.
+Fiction in getting to decision:
+Not following up. If there any next steps from your side, aim to get them done next day (or a quick email to say when they will be ready). If next steps are on the VC’s side, send them a reminder. VCs see a lot of companies, are generally poor at prioritising, and so it is hard to stay top of their mind. Not following up doesn’t say much for an entrepreneur’s hustle and/or organizational skills.
+Negotiating too early. You should absolutely negotiate with a VC on valuation and terms. But only after you know that they want to invest in you. Making demands too early in the process, when they don’t know if they want to invest yet, is just friction.
+Setting false deadlines. Certainly you should create a sense of urgency by giving the VC the impression that other investors are moving forward quickly. But false deadlines (“I need a termsheet by next week”) usually backfire.
+I hope these thoughts are somewhat helpful. Please comment/challenge.
+There is of course a lot that VCs need to do to eliminate friction on their side (Gil Dibner has a good post covering some of these 
+here
+). I also believe that Angellist & similar platforms should make the whole VC investing process smoother and less expensive.
+There is plenty of potential here on both sides — a long way to go before securing VC investment is as frictionless as Tinder or Amazon…

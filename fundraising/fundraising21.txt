@@ -1,0 +1,41 @@
+How to Fundraise (2/5): Trial & Error
+This is the second installment of @efLDN’s five-part series on tactical fundraising advice. The first post of the series was on 
+Preparation
+.There’s no substitute for experience and while preparation is key, you can’t become “investor ready” without actually talking to investors. You wouldn’t launch a full product without doing a beta test, right? Neither should you jump straight into fundraising mode without doing some controlled practice in the real world. To be fully transparent, this can (and likely will) be a painful phase as your initial excitement will most likely be met with rejection. The important thing to remember is that this is part of the process and at this point you haven’t started “active fundraising” yet. In this post we’d like to focus on the strategies that have helped our teams minimize the time requirement of this stage by maximizing learning.
+Trial & Error: The Painful Part
+Control your environment: 
+It’s very natural to be flattered by early investor interest, but it’s important that you fight the urge to take that high-profile VC meeting right away. Without sufficient practice you’re almost guaranteed to come off as “too early” or unpolished, which can have a negative ripple effect on your round. You have a responsibility to your company and your team to take the time to get things right. The best way to do that is to gather feedback from qualified, but safe sources so you can hone your pitch over time. When prioritizing, there are a few investor groups to consider.
+Trusted Advisors: 
+The best source of feedback is someone that you have a previous relationship with. They can take an initial meeting as a training scenario, rather than a formal pitch, because they’ve already formed their initial impressions of you. A trusted investor that you already know can give you a level of honest feedback that’s nearly impossible to find via first introductions. They want you to succeed and will be able to share their candid thoughts without risk of coming off as rude or disrespectful, because trust has already been established. Look to your existing investors as a first step (if you have them). In addition to their own thoughts, they can connect you with other investors that they trust to provide useful guidance. If you don’t have any close investor friends, try to leverage your network of fellow founders and get meetings under the guise of a training exercise.
+Later Stage Investors: 
+This doesn’t mean Series C or later financiers. Rather, seek out investors that consistently back teams in later rounds than what you’re raising. When an investor doesn’t have to make a Yes/No decision (because you’re too early) they can provide insightful guidance in a safe environment. The added benefit of this is that you can get on the radar of later stage investors and start building your relationship early.
+Isolated Experts:
+ Try to find individuals who have relevant sector/technology knowledge as well as limited exposure to your relevant investment community. This may sound like “talk to shit investors” but it’s not. Bad investors will likely lead to bad advice. Absolutely search for feedback from those who can provide meaningful insight into your market, target customer, etc. so you can tailor your narrative. But ALSO search for investors that aren’t very plugged into the investment scene. At this stage you have to assume that you’re not going to be great at pitching. Do you really want to talk to a highly networked VC within your first week of fundraising? The overwhelming chances are that they’ll pass, but once they do you can’t control who they speak with or what they say. This is a less discussed, but very real form of 
+signaling risk
+. Do yourself a favor and mitigate it before it starts.
+Fundraising Management: 
+It’s more efficient for your time and sanity to have one co-founder lead all fundraising efforts while the other focus on the business. Most times this is the CEO but it really needs to be the strongest communicator. Have the lead take all intro meetings and bring the co-founder in when appropriate, which is usually the full partner meeting.
+“Whichever founder is the better communicator should do most of the talking, you don’t need to artificially split up answers.” — Toby Mather (CEO of 
+Lingumi
+)
+Always Use a No: 
+Don’t ever forget to follow up!
+ 
+Every pass is an opportunity to learn more. If it’s a good no (“you’re too early” or “we can’t invest right now”) ask that investor for introductions to others. If it’s a bad no (“we don’t get your product”) as for honest feedback to make yourself better. You may not always get a response, but asking for ways to improve demonstrates professionalism and a commitment to the business.
+Focus on feedback trends not data-points:
+ Every investor has an opinion but that doesn’t mean it’s right. As a founder you should know your product/market/team better than anyone so one viewpoint shouldn’t be enough to change your opinion. If an investor says they think your strategy is flawed, brush it off and know that they probably weren’t right for your business. If, however, you get five investors saying the same thing you might want to think through some stuff.
+Build your auxiliary team: 
+Your team is more than just your cofounder and those within management. An auxiliary team is anyone you can call on to help you out with the fundraising due diligence that will inevitably come. As you finalize your pitch, you’re going to see a pattern in what investors gravitate towards. It could be your customers, your growth plan, your references or maybe all three! As these patterns emerge, start to build out a shortlist of trusted resources to share with an investor based on their concerns. If you’re seeing a lot of customer/market interest, you should identify a few enthusiastic users who would be willing to speak on behalf of the product. If your meetings focus on the use of funds, spend time curating a list of hiring targets for your critical roles. Professional or academic references will be of particular interest to investors which heavily value founder quality in their decision. Once you have this list, help them do the best job they can by arming them with the critical points you need them to touch on during their call(s).
+Stamina:
+ In the f
+irst post
+ I opened with the point that fundraising can be a very emotional experience. Things can be fun and exciting while your creating and designing a story. Now is when the going gets tough. You will experience rejection. You will experience doubt. This is normal, and I always tell founders to trust in the process, but I recognize that this is much easier said than done. There’s no ideal timeline of how long this stage will take, but if you’re 100% dedicated to this I would argue that two to three weeks is sufficient before “active fundraising” begins.
+“Fundraising is your opportunity to use investors to improve your business.” — Marc Sloan (CEO of 
+Context Scout
+)
+To be clear, there’s no magic number of meetings, strategy sessions or . Instead focus on the point where you feel very confident going into any meeting. When you feel like you’ve already thought of any questions/concern an investor can mention. That confidence is worth it’s weight in gold.
+To continue to the next section of our framework please click 
+here
+. Or you can start from the beginning with our 
+first post
+.

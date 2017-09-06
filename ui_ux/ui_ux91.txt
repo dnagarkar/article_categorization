@@ -1,0 +1,103 @@
+The Myths of UX Design/ Product Design/Whatever They Call It This Week
+As with 
+my other “myth” article
+, it starts with me 
+reading an essay
+, frothing at the mouth a bit, 
+running out of characters on Twitter
+ and ending up here where I can type more than 140 characters.
+Like the previous essay, this will be short, sloppy and probably full of typos. Oh and incomplete. Super incomplete.
+My credentials for this rant: I was a designer for years(IA/IxD/UX), then as a Product Manager, I worked with UX Designers and managed not to murder them, I managed UXDs as both a Design Director and as a GM, and now I’m teaching them at CCA. I have the disdain one can only have for one’s own people.
+MYTHS!
+#1 “UX designers focus almost entirely on interfaces”
+This myth is prevalent because it is often true. There are dozens of job listings for a UX/UI designer as if the company doesn’t care what you call yourself, as long as they get an interface out of it. But pretty is as pretty does, and a UX designer must design that pretty interior NOT just the exterior.
+A UX Designer owns 
+designing 
+the experience of the product, 
+excluding 
+marketing and customer service.
+I emphasize 
+designing
+, because their partners Product Management and Engineering share product strategy and execution.
+UX Design does NOT “own” the user experience. Product Management does.
+I emphasize 
+excluding 
+because while the user’s experience includes marketing, support and more, the UX Design does not typically touch this and this might be why the title is confusing and messy and a bunch of folks are moving to Product Designer these days. People want to who do it all call themselves Service Designers. It’s a thing, look it up.
+User Experience Design is the design of:
+The 
+Concept Model
+, which teaches the user (and often the team) how to think about the system’s organization and use.
+Interaction Design: how the system behaves including feedback systems.
+Information Architecture: how data is ordered and expressed as information to users.
+User Interface (UI): how the user accesses all the glory listed out above, including affordances such as buttons and dropdowns. 
+Sometimes this job is shared with graphic design and copywriters, other times you’re it. (
+Side note: if you don’t have a writer on staff, please don’t make the engineer write error messages. Words are part of the UI and you should be good at it.
+)
+Got it?
+If you ONLY design the interface, call yourself a UI design and stop confusing people.
+#2 You can’t Design an Experience
+I don’t want to go down this rabbit hole, so:
+Disneyland
+Per Se/French Laundry
+Lord of the Rings trilogy (I’m not discussing the Hobbit movies with you either)
+GAMES! Monument Valley, Journey, Dance Central, even Dots and Threes. Go read about 
+MDA
+.
+And that is just a short list experiences people have designed.
+Are we done here?
+#3 UX Designers are the User Advocate
+This is such a dangerous one.
+It suggests that it’s the designer’s job, not everybody’s job. In great companies, everyone is the user’s advocate.
+It places the design in conflict with the business, instead of both collaborating to find a solution that serves the user and the business.
+It can create a sense of entitlement and disregard to other’s insights, for example marketing, data mining, or customer service who see other aspects of the user’s experience. (I have seen this)
+Yes, sometimes you are the only person at the company who cares about the user. But that's probably because they are a bad company, and they will probably go out of business so might as well start job hunting now.
+You are not the
+ 
+user advocate; everyone is. You are the designer. Enjoy! you still get to make people’s lives better.
+“Never work for a company that doesn’t like its users” 
+Laura Klein 
+“As soon as you get that wiff of contempt, get out of there.”
+Kate Rutter
+On “
+What Is Wrong with UX” Podcast
+#4 UX Designers make things pretty, like Apple.
+See #1.
+Also, see iTunes.
+When everyone suddenly wanted to be Apple, they went out and got their own UX Designer to sprinkle some happy experience-pixie-dust on their product.
+Pretty is not enough.
+Sprinkling some UX on things is a pig-lipstick exercise.
+If you want things to be good, they have to be designed to be good from the inside out. Start with a core team of UX designer, engineer and product manager, and empower them to all serve the user and the business by making something that’s good from architecture to interface.
+If you can’t be bothered to make something good, go hire a black hat marketeer to rebrand your rotten apple as “organic partially-fermented high-anti-oxidant apples.”
+#5 The UX designer doesn’t exist, because no one can do all that.
+… no one can do all those things as well as a team of specialists.
+But a small company, or even a small team in a big company has ONE HEADCOUNT. So no, they aren't going to hire a information architect and a interaction design and a visual designer and a user researcher. And honestly, stop explaining the difference, because the servers are melting down and revenue is free fall and the CEO is breathing down her neck.
+Anyone running a small team is going to hire a UX Designer, and hope to high heaven that one person is good enough at enough of those things to get the job done. If the person hiring (I’m picturing a product manager/GM or a cofounder) is smart, they’ll know what that UX person should be great at, and what that person can be “good enough” at. She may need a UX Designer who has great interaction design skills or understands databases but makes ugly interfaces. He may need a UX Designer who has mad graphic design chops and decent UI skills, because it’s a fashion app. Anyhow, the engineer read Don Norman’s book and won’t shut up about usability so that’s covered.
+UX Designers are never good at everything, but they are good at one thing and decent at a couple more, and that’s enough for most jobs.
+Anyhow
+There was one more line in 
+Raph’s article
+ that bugged me, and since I have never heard it anywhere else, I can’t really call it a myth. But I can still rant.
+“ 
+UX is about clarity that hides complexity, and game design is about clarity that teaches complexity.”
+No.
+UXD 
+and 
+GD must both always be “clarity that teaches complexity.” Because Excel is hard. And Microsoft Word is hard (talk about hiding complexity!) And photo management and music management and OS design and so many things are hard. Our current tools are just as complex as games, and to hide their power is a waste of the work of engineering. More importantly, it’s a waste of a chance to 
+make our users into badasses, as Kathy Sierra says.
+UXD can learn so much from Game Design. It can learn about progression and mastery and the joy of flow. But Game Design can learn from UXD; it can learn about transparent interfaces, crisp feedback and supporting core tasks, be they work or play.
+Which brings me back to the title I gave this rant. I often wonder why game design is game design, but UX Design is web design/interaction design/information architecture/product design/software design.
+I 
+think
+, I 
+suspect
+, that it’s because the role is still too generic. Are we really saying that what User Experience Designers design is “anything with an experience?”
+How can anyone be truly great at that?
+I’m far from sure that interaction design or information architecture is much better. Search design is not the same as recommendation engine design and occasional use scenarios or different from daily use scenarios. How can anyone be great across so many contexts?
+Perhaps the future is a world where we have Digital Tool Designers and Search Designers and Social Network designers. Maybe the future is focusing on a problem space rather than an aspect of the work.
+I do know the changing titles, roles and specialties is annoying and frustrating to me, and I actually care. Is it any wonder people are hiring for “UX/UI?” Rather than complaining, perhaps we should just talk to those folks and help them make good product rather than correct their terminology.
+It’s no myth that something is broken here, and I hope this essay sparks some ideas about how to fix it.
+— ❤ —
+I wrote this book and IT‘S NOT ABOUT UX DESIGN. But it’s a fun read (look at my Amazon reviews for proof!)(I don’t even know half those people!) and it has a lot to do with getting a diverse group of people to work together toward a common goal.
+Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results
+ How do you inspire a diverse team to work together, going all out in pursuit of a single, challenging goal? How do you get your team to commit to bold goals? How do you stay motivated despite setbacks and disappointments? And what do you do when it looks like you’re headed for failure? 
+amzn.to

@@ -1,0 +1,45 @@
+Six Tips for Fundraising in a Cooling Venture Capital Market
+Adnan Mahmud
+ is the founder and CEO of 
+LiveStories
+ (Seattle ’14), a data collaboration hub for governments.
+LiveStories
+ recently announced our 
+seed round
+. Initially, our goal was to raise $2 million. We ended up raising $3 million. Our success occurred against the backdrop of venture capital investments generally slowing down. Going into fundraising, we received many warnings about the difficult fundraising environment. We were told to expect a long, drawn out process.
+In this blog post I will share some of the learnings from the process that helped us succeed. It is important to note that we were raising for seed stage. Many have said that the cooling of the venture market hasn’t affected the seed stage as much. Mattermark, an investor-focused data firm, offers 
+a detailed analysis
+ of the change in the funding landscape.
+Here are our six tips for success:
+Focus on Revenue
+Revenue helped us big time in this not-so-friendly investment climate. Our narrative was around our unique business model. We demonstrated a growing customer base, growing revenue and the ability to close government customers in less than half the time of our competitors.
+We shared testimonials in support of our product to help add color to our story and demonstrate customer satisfaction. They say, when the tide is low you see who swims naked — we wanted to make it clear to investors that we were building a real business.
+Know your Story
+Be prepared to summarize your company in a way that highlights the investment case. For LiveStories, these pillars are:
+The government is the largest sector and thus represents a huge opportunity.
+The market is underserved; we offer a product that customers love.
+Our unique business model gives us quick sales cycles with governments, and we are generating revenue.
+Answer the Important Questions
+Preparing for the fundraising, everyone told us our pitch should answer such questions as: (1) What problem does your startup solve? (2) What is unique about your approach? (3) What traction do you have so far? (4) What will you do with the money? You should develop clear, concise answers for each of these questions.
+Ask for Feedback. Iterate. Repeat.
+This process has two aspects to consider. First, you should be committed to spending a few cycles on your deck and pitch. Ask for feedback and update your pitch accordingly.
+In my case, I went through 183 versions of my fundraising deck before it was complete. You might think that’s a lot, but this kind of diligence is what can set your presentation apart in the sea of pitches that investors get on a weekly basis.
+The second aspect of this process is to surround yourself with business-minded people outside of your immediate team. Chris DeVore from Founders Co-op (@CrashDev) and Gary Benitt from Social Leverage (@GaryBenitt) were early investors in LiveStories and have always been generous with their time when I have asked for feedback.
+Make Fundraising the CEO’s Sole Focus
+When you are in fundraising mode, the CEO should be prepared to put the day-to-day aspects of their job on the backburner. This means delegating tasks to the lateral leadership.
+Delegation allows the CEO to focus on preparing the pitch deck, contacting investors, setting up meetings, doing follow ups, and other vital fundraising tasks.
+I remember when we started to put our pitch deck together; Eric Dillon, our CTO, said, “I got the product. You should focus on fundraising.” Fundraising is a full-time job, and his leadership allowed me to fully concentrate on doing it well.
+Prepare to Be Lucky
+Going into this process, we were warned multiple times to brace for a long fundraising process. We were lucky to meet our lead investor, True Ventures, very early on in the process and were immediately impressed by their vision and track record.
+They also moved incredibly quickly. Less than three weeks passed between our first meeting and our signed term sheet. Our preparation meant we didn’t have to play the game of shopping our deal around to drive up the price, we knew True would be a great fit and that allowed us to act decisively on their offer and close the round so quickly.
+As they say, luck comes to those who are prepared.
+When it comes to meeting the challenges of fundraising, Thomas Jefferson captured it best: “I find that the harder I work, the luckier I get.”
+Be more prepared than you think you need to be, rehearse more than you want, and delegate responsibilities so you can focus your efforts. Many elements of fundraising are out of your control, but if you follow these tips, you’ll amplify your chances of success when opportunities do arise.
+This was originally published on the Techstars’ 
+blog
+.
+— —
+Subscribe
+ to get our new posts straight to your inbox. We publish fresh content almost daily, stay in the loop with an easy 
+email digest
+ sent twice a week.

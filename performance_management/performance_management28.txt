@@ -1,0 +1,39 @@
+The language of achieving challenging goals.When talking to managers, one thing we can agree on is that no two teams are alike. Some seem to achieve impossible goals in stride and amaze us by hitting them, while others seem to false-start at goals that we know they can absolutely reach.
+The science behind achieving challenging goals might be all about perception.
+In fact, despite the differing nature of every goal and individual’s skill set, everyone perceives their ability to achieve a challenging goal in two different stress responses. It’s easy to forget to take into account the effect that stress has on achieving challenging goals.
+ It’s the ultimate culprit behind demotivated employees and abandoned goals.
+“[Research] show[s] that specific difficult goals create excessive stress and arousal, thereby hampering performance.”
+— Huber, 1985
+This is not to say all stress is bad; it depends on how it is perceived.
+“Stress (as opposed to no stress)…arises from a judgment that particular demands exceed the resources of the system for dealing with them.”
+— Folkman & Lazarus, 1985; Holroyd & Lazarus, 1982; Lazarus, 1991; Lazarus, 1999
+Lazarus and his team classified the effect of stress on performance into two groups: 
+threat or challenge.
+When a goal is seen as a threat, employees perceive it as an impossible task. However, when a goal is seen as a challenge, the recipient sees it an outcome within their control.
+The ideal scenario is to have a team who jumps at everything you throw at them. So, how can you control how an employee perceives a goal?
+Researchers at the 
+Technion-Israel Institute of Technology has found a coping mechanism
+ you can use to manage your team’s stress and shape difficult goals as a healthy, achievable challenge. And it all comes down to language.
+The threat condition.
+The language of a threatening goal focuses on failure.
+This occurs when difficult goals are communicated in a way that expresses low performance will be penalized. For instance, a manager communicating the goal “increase sales to $2 million this year” with the threat condition that “those who do not meet the minimum expectation of our goal will not receive a bonus this year.”
+It could be even more subtle. If the company is going through a rocky patch, or there have been visible layoffs — things that could be perceived as a threat by an employee, their perception of a goal may automatically categorize it as a threat goal.
+When employees view a difficult goal as a threat, their stress becomes a demotivating factor and significantly lowers the chances of achievement.
+85% of participants in Lazarus’ research failed to complete a complex task as a result of the threat condition — reporting a lack of control over their overall performance.
+The challenge condition.
+On the contrary, the language of a challenging goal places a focus on success.
+Managers can implement this mechanism by focusing on the strengths of their team, articulating expectations and emphasizing that it is achievable with a challenge condition. Taking the same goal “increase sales to $2 million this year”, you can add the challenge condition of “the entire team will receive a handsome year-end bonus when the goal is achieved”.
+Notice the challenge condition can drive motivation for individual and team goals by shedding a different light on the same outcome. Employees are more motivated when they feel their managers are setting them up for success instead of failure.
+In spite of hard times in a company, this might include managers making great efforts to stress that the team owns the outcome, they are fully behind the process or action and will own any consequences. For instance, this could mean communicating that every individual can leverage the skills and knowledge of other team members to achieve success. The aim is to remove the threat component from team and individual.
+As managers, if we can communicate to our teams that they have the skills, knowledge, and resources to achieve a difficult goal, this becomes a healthy challenge. The stress factor now exists as a desire for your team to do their best work.
+Under the challenge condition, Lazarus’ participants reported that “…high effort, persistence, and attention helped them to accomplish the task” — attributing their achievements to their own capabilities.
+The main intention for communicating your goal is to get employees excited about the process and confident enough to achieve the outcome.
+Although difficult and clunky to review manually, employees perception of a goal would ideally be:
+‘‘The task seems like a challenge to me.’’
+‘‘The task provides opportunities to exercise reasoning skills.’’
+‘‘The task provides opportunities to overcome obstacles.’’
+Managers can measure the effectiveness of their communication through these descriptive perceptions. If an employee perceives their controllability to be high when it comes to achieving a challenging goal — you have effectively implemented the language of success. If, however, an employee deems their controllability over completing a difficult task to be slim, you might need to reevaluate the message you’re communicating.
+While this might appear to be the most painful part of goal setting, it’s important to invest time and care into the way you communicate goals to your team.
+Present difficult goals in a way that will improve your team’s performance. Make sure to leverage the strengths of your team by using the challenge condition in the language of goal setting. This ensures your team is given the right perception of the difficult task from the start.Originally published at 
+OKRs and Continuous Performance Management | 7Geese
+.

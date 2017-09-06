@@ -1,0 +1,47 @@
+Cloud Is Not a Digital Transformation Strategy (Unless You Are Amazon)
+How did an online bookstore eat the cloud?
+In 2002, Jeff Bezos did an odd, remarkable thing. He applied an IT architecture (SOA) to the culture, processes, and organizational structure at Amazon.
+Bezos sent an internal 
+mandate
+ demanding that Amazon teams communicate with each other by exposing “their data and functionality through services interfaces.” Anyone who disobeyed the mandate would be fired.
+Unbeknownst to the rest of the world, Bezos had quietly refactored Amazon into a platform company.
+And it worked. A few years later, Amazon’s transformation gave rise to S3, the first of Amazon’s web services, which we now know collectively as the cloud.
+A year after the Bezos mandate, Nicholas Carr published an article in the 
+Harvard Business Review 
+titled, “
+IT Doesn’t Matter
+.” Carr argued that IT had already transformed nearly every industry, and the lack of opportunity for differentiation meant companies should be focused on playing defense: risk management and cost containment.
+IT organizations became incredibly cost conscious, creating layers of decision making and architectural review for every new technology considered — all in a battle to increase standardization and minimize costs.
+But information technology can’t be compared to the transition from steam engines to railroads or from telegraphs to telephones — technologies that became commoditized utilities that drive little differentiation to businesses today.
+Information technology builds upon itself, each layer of innovation opening up new avenues to transform the world.
+Smartphones proliferated, GPS and mapping technologies matured, and startups began building on the infinite capacity of the cloud. These layered innovations enabled Netflix, Airbnb, Spotify, and even Amazon itself to break across legacy industries like tidal waves.
+The Bezos mandate changed the world. He turned a tactical technology stack into one of the most strategic products of all time.
+It was time to play offense, not defense.
+Today, you’ll be hard pressed to find a company that does not have a cloud strategy. “Cloud First” and “Cloud Shift” are the popular mantras espoused by Gartner analysts and IT executives, all fueling the 
+trillion dollars 
+forecasted in cloud spending over the next four years.
+On the surface, the narrative is clear and compelling. If you’re not in the cloud business, managing data centers and IT systems isn’t a core competency. Instead, pay for what you use from a superior service at lower costs due to shared economies of scale. In addition, you can take advantage of an ecosystem of tools and services designed to accelerate development.
+But enterprises can’t compete with leaner, faster startups by migrating to the cloud. Following the herd is not a survival strategy for the digital era.
+First,
+ migrating to the cloud (private, public, or hybrid) is a big IT undertaking. If IT is under delivering for application development and the goal is to improve time to market, then adding yet another big IT program only pushes the goal farther away.
+Second
+, even if companies do get to the cloud, they often find themselves releasing software at legacy speeds.
+Releasing software faster requires changes in architecture (e.g. micro services), processes (e.g. Agile, CI/CD), tools (e.g. DevOps), and new skillsets. In addition, if you want high quality releases, you need fast, representative environments (e.g. Docker) and datasets (e.g. Delphix).
+Third
+, most enterprises invest in incremental, marginal innovation, building more features for their largest existing customers.
+But there’s a fundamental equation at work in the world today:
+Legacy Industry + Digital Era = Digitally Refactored Industry
+You can’t increment your way into the future. You can’t survive by playing 
+defense
+ from a legacy position. 
+You have to play offense to win the future.
+Offense looks like Amazon and Jeff Bezos buying Whole Foods to instantly acquire a critical mass of customers and physical stores as local distribution hubs to disrupt the grocery business. Defense looks like yet another bank adding mobile check deposit to their iPhone or Android app.
+More than ever, enterprises need to focus on what really drives revolutionary innovation: the few great ideas inside or outside a company that will refactor an industry for the digital era.
+Take the biggest, best idea from all of your programs, and ask yourself a simple, honest question:
+Will this program define the future of your industry?
+If the answer is no, then it’s time to revisit your strategy for the future.
+Cloud doesn’t matter. It wasn’t even the goal for Amazon — just a byproduct of cost-effectively scaling retail operations. If you ask your teams about innovation, and their best idea is migrating to the cloud, then you know you’re on the path to obsolescence.
+Instead, focus and execute on the great ideas that will win the future. Or you’ll end up just another legacy company, lost in the clouds.To learn about the frameworks that drive revolutionary innovation, sign up for updates about my forthcoming book,
+ Disrupt or Die: What Companies Need to Learn from Silicon Valley to Survive the Digital Era
+.
+j3

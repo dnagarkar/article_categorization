@@ -1,0 +1,113 @@
+Pre-VC career tips part 1 — Which VC funds might be hiring?
+[Update: 
+Due to popular request I have launched a regular newsletter listing the latest European VC jobs; click here to sign up.
+]
+I often get asked by people on how they can improve their chances of getting into VC.
+Below I have started to summarise my advice on how to best prepare yourself 
+“before making the move to Venture Capital”,
+ based more or less on my own experiences and journey from Consultancy to Startup to Investment-fund over the last few years.“The secret to getting ahead is getting started” ― 
+Mark TwainPart 1 - Identify job openings ahead of time
+It is no secret that there are only a few junior VC jobs out there. I estimate ~100 non-partner VC roles across the main funds in Western Europe, but since most of these investors seem to enjoy their job, the turnover is low and as a result new openings are particularly rare.
+What that means for aspiring investors is that 
+one needs to be following the job openings proactively over a period of time
+ and react as soon as something opens up versus just looking around for openings when trying to make a move.
+It also means that most vacancies for Associate roles don’t make it to a public posting or job board as they tend to get filled quickly with an already strong candidate pipeline many funds have via their network and via specialised recruiters.
+But just emailing every fund asking whether they are currently looking for someone is probably also a bad idea; 
+the
+ 
+best time to reach out to VCs is when they are 
+likely
+ looking for someone new
+, typically when someone junior on the investment team is on the way out to a new company. VCs also sometimes increase their team when they have just raised a new, larger than before fund, but more often then not it’s too late when you can read about it on TechCrunch.
+Overall, it is probably worth mentioning that cold emails to the talent manager of the VC or members of the investment team have a lower hitrate, even when the fund is likely to be looking for someone new. Just like when entrepreneurs want to reach out to VCs for fundraising, 
+the most effective way of getting attention is via an introduction through someone they already know
+ (
+LinkedIn
+ works well to find mutual connections).
+The following sources, beyond the websites of VC funds of course, should be useful in identifying as many (potential) openings as early as possible:
+Recruiters
+Recruiters with focus on Venture Capital usually know of the handful of funds in their target geography that are currently looking for a new Analyst/Associate/Principal. Some (like PE Recruit) even post more or less anonymised job descriptions on their internal websites.
+You can 
+check LinkedIn for employees in any of the below firms and let your mutual connections do the first step 
+or reaching out:
+In Europe, 
+KEA Consultants
+ and 
+PE Recruit
+ are the main sources for VC roles. 
+SPKsearch
+, 
+Pinpoint Partners
+, 
+The Up Group
+ and 
+Egon Zehnder
+ are good sources for venture roles.
+In the US it seems 
+CPI
+, 
+Oxbridge Group
+ 
+and 
+Glocap
+ have a steady flow of Venture Capital roles
+If you know of any other high quality search firms in these or other geographies please 
+get in touch
+ so I can add them here
+Twitter
+Occasionally job openings also appear on Twitter, so 
+following a few people in the tech and VC community is probably a good idea
+. It is worth noting that I came across my current job at Wellington Partners via a 
+tweet
+ from Ben Rooney back in 2013.
+Another way to see where new openings are or might become available is to try to keep an eye on the movements of existing junior investors: By following some or all members of this 
+curated list of junior VCs in Europe
+, combined with activating 
+bioIsChanged
+ 
+on your Twitter account you can get a RSS feed or daily email with details on who of your Twitter followers changed their profile text. This can lead to interesting insights about who is moving on from their job quite a bit earlier than the official LinkedIn or fund announcements (look out for changes such as “Associate at Fund X” to “Early Stage Investor”).
+Free newsletters
+So far there was only one good Venture Capital focussed job newsletter sent out by 
+Christina Cacioppo
+ (ex-VC at USV) called 
+VC Gigs
+. As that one only focusses on US opportunities I have now launched my own 
+European VC job newsletter
+.
+Sometimes the Venture Capital newsletters covering recent funding news also include job openings. The following 2 are free to subscribe and while generally a good source of information for future (as well as current) investors they are also the only 2 of the many free VC newsletters that sometimes include data useful for job seekers:
+StrictlyVC
+ 
+by
+ 
+Connie Loizos occasionally includes junior (mostly US focussed) VC job postings at the end
+Termsheet
+ by Dan Primack has a section at the end where new fund announcements and people movements are highlighted. This can be a useful, but is probably a slightly lagging indicator of job availabilityGreen Park Tube Station in Mayfair, London
+Continue reading:
+Pre-VC career tips part 2 — Which startups to talk about in an interview?
+In future sections of this blog post I plan to include tips on how to:
+Collect skills useful for junior investors (reporting, networking, coding, recruiting)
+Build a social media profile & opinions on technology trends
+Join a startup as an employee if you plan to become a VC later onOther interesting reads in the meantime:
+Overview of VC roles and how to land a job in each by 
+Rob Moffat
+ at Balderton (2015):
+https://medium.com/venture-capital-growth-hacking/how-to-get-into-tech-vc-in-europe-8e790aa23c6b
+For people with finance background:
+http://www.mergersandinquisitions.com/break-into-venture-capital/
+General tips from 
+Brittany Laughlin
+ at USV (2015):
+www.brittanymlaughlin.com/post/115212272081/finding-a-vc-job
+General tips from 
+Adam Ludwin
+ when he was at RRE Ventures (2011):
+http://www.businessinsider.com/so-youre-an-mba-student-that-wants-to-work-in-venture-capital-2011-3
+Another list of links:
+http://johngannonblog.com/vc-careers/The pictures in this post have been created using the app of our portfolio company 
+EyeEm
+. Find more of my photos 
+here
+.
+Additions and thoughts are welcome!
+For updates on this post follow me on Twitter 
+@vonperger

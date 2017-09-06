@@ -1,0 +1,217 @@
+How to Shut Down a Startup in 36 Hours
+Recently, we’ve shut down our startup. In my previous post, “
+My cofounder said “I love what we’re doing” and we shut down our startup
+”, 
+I detailed the 36 hours that had led us to the decision. Today, I’ll cover the next 36 hours — the time it took us to gracefully shut down the company.
+For every $100K of monthly burn, a company spends $5K each day. In order to preserve the remaining investors’ capital, we consciously decided to shutdown quickly and efficiently. Obviously, we had to learn a lot on the fly. And sometimes too little, too late…
+At the time, I’ve documented what we had learned. This is a clean version of the original shared with the K9 Ventures founders community last fall.
+No one can tell you when to close your startup and I hope you never have to. However, if you’ve made that decision, this may save you time, money and unpleasant surprises.
+Note: 
+This article covers the case when you lay off a loyal, hard working team. Not firing for cause or poor performance. You handpicked each member, nurtured a high performance team, but the business is not picking up.
+Disclaimer
+I’m not a lawyer/tax advisor. Do your own research, follow at your own risk.
+Investors
+Call every single investor (another reason not to take 51 checks of $5K each). While it’s not always possible, ideally, do it 
+before
+ you inform your team.
+Dealing with investors is a delicate subject, so here are a few general tips:
+Most importantly — own it!
+Take the time to answer their (sometimes repetitive) questions.
+Be direct, honest and transparent. Do not withhold anything.
+Have an answer to 
+“What’s next?” 
+even if it’s just 
+“I need more time.”
+Follow up with an email to summarize what you’ve talked about.
+In the weeks following the shutdown, send weekly reports to your investors. Include details about cash position, customers, legal, equity changes, concerns and next steps. Your investors will appreciate these emails.
+Have a list of each service your team uses
+Gmail, Mailchimp, AWS, Balsamiq, Jira, iTunes Connect/Google Play, Slack, Testflight, Mixpanel, Adobe, Wordpress, Adwords, Quickbooks, Gusto, eShares, office keys, laptops, iPads, AT&T data plans, corporate Dropbox/Box/social networks/credit cards, mailing lists, in-house admin panels and databases...
+Everything!
+Make it a habit to update the list every time someone subscribes to a new service. Small or large, physical or digital. You never know when you’ll suddenly need a 100% up to date list.
+Health Insurance
+Health insurance is a crucial benefit your employees and their families rely on. Research and understand the implications of the upcoming actions. Talk to your agent.
+COBRA is available 
+only
+ if the company keeps its original group insurance. You need at least one employee, who is not the owner of the company, or two owners to remain on the policy.
+If you cancel the company group insurance, COBRA will 
+not
+ be available.
+There are two COBRAs: 
+Federal Cobra and California Cobra
+. Companies under 20 employees fall into California COBRA. They charge 110% of the premium, vs. Federal COBRA which is only 102%. This is a crucial piece of information your employees will need when they shop for new plans.
+Cal COBRA will send its paperwork to each employee once their coverage expires. No action is required.
+Cal COBRA for HealthNet contact info: 
+800–977–2207 press option 3 then option 4.
+Separation is a hectic moment. Provide your employees their health insurance premium and COBRA info 
+in writing
+.
+Edit: 
+Additional info provided by 
+Robin Van Vliet
+ below in 
+comments
+.
+Another insurance you probably have is Workers Compensation. WC’s premium is proportional to number of employees and their salaries. You will need to adjust it. If you no longer have employees, consider canceling it.
+Severance
+If you’re shutting down before you run out of money, you should consider paying severance to the team. Paying severances with investors’ money is a fine line to walk and you’ll need to figure it out for yourself.
+Here are a few things to consider:
+Severance is typically described in terms of weeks of pay. However, salaries matter! Especially in a startup, where early employees often take submarket pay. Look at absolute dollar amounts.
+Length of employment.
+Chances are, you have an unlimited vacation policy. It presents a major disadvantage to the employees on the termination date — no payout for unused vacation days. An employee postponing their ‘unlimited vacation’ for a year is about to get screwed now. However, if you do have a defined vacation policy, you must pay accrued and unused vacation.
+Equity
+Obviously, we used 
+eShares
+ and handling this was an absolute breeze.
+Do not underestimate the complexity of the topic. Most people do not have the baseline understanding you do. Research and prepare everything 
+in writing
+.
+Employee’s Options
+Unvested
+: Either cancel or accelerate the unvested options.
+Vested
+: Explain the 90 days deadline to exercise, exercise price, current 409a evaluation and potential tax implications. Circumstantially, you might consider switching 
+ISO to NSO
+ to remove the 90 days deadline.
+Employee’s Restricted Stock
+Unvested
+: Either repurchase or let them keep the unvested shares.
+Vested
+: Expect them to walk away with it.
+General
+Remind your team about the cliff and the vesting schedule.
+Remind them that you are not a tax advisor and they should speak to one before making their final decision.
+Be upfront about the future of the company, even if you’re unclear about it yourself.
+If you offer to buy back the vested equity, make sure they understand it’s only 
+an
+ 
+option
+. If your stock agreement allows you to repurchase vested equity without employee’s consent — please call me. I’d love to learn why.
+Repurchased shares/canceled options go back to the option pool only if they originally came from it. Otherwise, they will disappear from your cap table, bumping everyone’s ownership.
+eShares support: 
+650–669–8381 or 
+support@esharesinc.com
+.
+Consult your attorney.
+Payroll
+Obviously, 
+Gusto
+ administered our payroll.
+Gusto’s interface is super easy to navigate. If unsure, call their support.
+Red ‘Dismiss Employee’ button exists on each employee’s info page. Gusto immediately handles the last payroll, 
+not
+ including severance.
+Run a correction payroll for severance payout. Correction payroll option is available on employee’s info page, even if they were dismissed.
+Set the date to today and select ‘pay by check’. You’re not allowed to direct deposit to non-employee’s bank account.
+Enter the dollar amount into the “Gross Correction” field. For example, 2 weeks gross severance for a $100K salary: 
+$100,000 / 52 * 2 = $3,846.15
+.
+Gusto will run the payroll. It’ll tell you how much taxes will be deducted from the company’s bank and the 
+net
+ amount to write the check for.
+An employee may decline to sign the separation agreement, thus forfeiting their severance. You can cancel this correction payroll later on.
+Repeat the process for outstanding commissions.
+Gusto’s support: 
+(800) 936–0383 or 
+support@gusto.com
+.
+Unemployment
+Research the relevant EDD information, which depends on your office location and employees’ zipcodes. You can find ours below in the notes.
+Once an employee applies for EDD, you will receive a confirmation letter. You may contest the application. If not contested, you will receive another letter stating the level of approved benefits. No action is required.
+You may receive a letter asking to 
+confirm
+ employee’s earnings. To avoid unnecessary benefits’ delays, use 
+faxZERO
+ to respond in a timely manner.
+T minus 1
+The day before you lay off everyone is going to be the busiest day in your recent history. The scope of due diligence and preparations you will need to do is enormous. The probability for an error is huge. Plan a 12–16 hours workday.
+Message
+Craft and practice your message to your employees. 
+Do not wing it.
+Say loud and clear that it isn’t their fault, but rather the business didn’t work out. They worked hard, you know and appreciate it and so do the investors.
+Thank them.
+Buy a printer
+With extra ink, paper and paperclips. You’ll print ~30 pages per employee. You’ll make mistakes and need to reprint. Kinko’s simply won’t cut it today.
+I consider a packet of paper is better than email with PDFs in this situation.
+For each employee:
+Finalize last pay, severance, commissions and expenses. Cut the checks.
+Print two copies of the separation agreement, sign and date both.
+Print a named personal letter. Sign and date.
+Print the signed Confidential Information and Information Assignment agreement (CIIA). Everyone should’ve signed it when they started. This acts as a confidentiality reminder, even post employment.
+Print equity related info and documents. If repurchasing, cut the check.
+Print the relevant unemployment details.
+Print an outline of the relevant COBRA details, including premiums.
+Email asking for employee’s outstanding expense report.
+Schedule a 30 minute meeting. Allow a buffer in case you run over and to avoid employees bumping into each other on their way in and out.
+Prepare for tomorrow
+Paperwork, organized by names, with checks attached to the proper set.
+Checkbook (you might need it for last minute expenses).
+Per employee individual checklist cheatsheet for yourself.
+Coordinate with your cofounders who is doing what tomorrow.
+Redbull (x2).
+Triple check everything
+: paperwork, names, dates and amounts.
+The day of
+At the moment people lose their jobs, their minds reel. Everyone has a different reaction, sometimes quite emotional. You must provide a safe environment to handle it.
+Start with your message, be clear and firm. Own it.
+Handle their reaction. 
+Do not rush.
+ Look into their eyes. Have tissues and a glass of water handy.
+Take a pause, answer any question they might have before proceeding.
+Give them final pay, expenses and commissions checks.
+Explain severance package (dollars and benefits).
+Give them 2 copies of the separation agreement (pre-signed by you). Explain that they need to read, agree and sign it to receive the severance. It’s unethical to expect anyone to sign a five page legal document on the spot. Especially considering the stress of the moment. Give enough time to review it (leave the room if needed) or let them take it home (with a deadline). Keep the severance check until you receive a signed copy. Special rules apply to employees over 40. Consult with your attorney.
+Explain COBRA details and premiums.
+Provide unemployment application details.
+Explain equity changes.
+Provide a copy of the CIIA.
+Collect their equipment. Be prepared to handle exceptions. Such as “I don’t have my iPad on me”, “I need to copy my personal files” or “May I buy my company laptop/iPad?”
+Reiterate that it’s not their fault and they’re not being fired.
+Thank them!
+Offer to help with their job hunt. Suggest relevant companies from your investors’ portfolio.
+Offer to be their referral and to recommend them on LinkedIn.
+Reiterate that the checks are 
+live
+ and they need to deposit them.
+Consider having your co-founders join you. Circumstantially, I had both cases, on my own with a few employees and with my cofounder with others.
+There are pros and cons. Another cofounder in the room shows solidarity around the decision, reinforcing the message. However, it alters the dynamics of the meeting, as it’s no longer a 1:1. Some employees might not be comfortable expressing their concerns with someone else in the room.
+Others
+Follow up with each employee with a personal email.
+Give every employee a strong LinkedIn recommendation.
+Your employees probably used work email to register with eShares and Gusto. Help them change it.
+After your communication with investors and employees, the job isn’t over. Next on the list are your customers, your contractors, advisors and friends of the company. Inform them in a timely fashion. Don’t let anyone discover the news through the rumor mill.
+Consult your lawyer. Be transparent, they are on your side. Time permitting, do your research prior to the call. This will make your conversation more productive and less expensive. Here is an ideal dialogue: 
+“Dear attorney. Here’s the situation. My research shows there’re two ways to proceed. I think option B is better, considering X”.
+ Your attorney either confirms your analysis and provides further evidence validating your conclusion or gives you a better advice.
+You need to file dissolutions with California and Delaware Secretaries of State. And file Federal, CA and DE tax returns. Your attorney and tax advisor will help you with these. None are time sensitive.
+Our EDD info: 
+Apply online:
+ 
+https://eapply4ui.edd.ca.gov
+. Apply by phone:
+ 
+8am - noon, 800–300–5616. Mailing Address:
+ 
+EDD, P.O. Box 12906, Oakland, CA 94604–2906. Fax: 866–215–9159. 
+Add your company address, as it’s needed for the EDD application.
+Your employees might not understand it, but you are losing your job too. Share the load, talk to your cofounders, talk to your significant other. It’ll be instrumental in keeping you sane during these absolutely crazy times.
+Involve someone who is not emotionally tied to your company. Luckily, 
+Pamela Day
+ was there for me and she made a huge difference.
+I’m lucky to have had Manu Kumar from K9 Ventures as our investor. When everything’s going great, meetings with investors are a no-brainer. Everyone’s happy to see their investments grow, even if it’s only on paper. However, it’s when things start to go south, your investors, representing their LPs, are being tested. Manu’s support to me and the company was impeccable throughout the entire process. Choose your investors wisely.
+— — — —
+Thank you for reading! If you found the post helpful, please 
+recommend
+ it to help others discover the story.
+With the remaining funds, we’ve built 
+Bugsee
+ — a debugging tool for developers. Check out our explainer videos for 
+iOS and Android
+ and 
+Web
+, or our 
+Demo
+. Bugsee is also on 
+Facebook
+ and 
+Twitter
+.

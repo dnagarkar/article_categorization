@@ -1,0 +1,28 @@
+Hiring and Retaining Women in Tech
+What to do when you can’t find women who are qualifiedThe same day UX Magazine published a 
+QuickPanel on Women in Tech
+, featuring comments from Indi Young, Christina Wodtke, and Brenda Laurel, and me, I had dinner with a high ranking executive at a large well-known tech company. When the topic about women in tech came up, he declared,
+“I would love to hire women,
+if only I could find ones who are qualified.”
+This perspective is not surprising to me since so many others in this industry have expressed the same sentiment. His comment opened a door for us to have a healthy discussion about this perception. Here are some thoughts I shared with him:
+Be aware of your hidden biases
+Women often don’t match our mental model of someone who is qualified, because we have a fixed archetype of who constitutes being qualified.
+ It is natural for us to form a model in our minds of what works and seek others that match that pattern. This is especially true for highly effective, efficient, and intelligent people. The better we are at pattern recognition and matching, the easier and faster we can be at accomplishing what we seek to get done.
+But a woman engineer who is highly qualified might not look like a typical highly qualified man. Case in point: at one company, a common question asked of candidates was “What’s the largest project you’ve ever worked on, in terms of number of lines of code?” It turns out that male candidates were more likely to talk about their involvement in open source projects, whereas women were at a disadvantage because they participate in open source projects at a lower rate.
+Furthermore, hiring managers are more likely to trust referrals from people they know. Given that most people inside tech organizations are young men, and that people are more likely to refer people from their own networks which usually are comprised of people similar to themselves, there is a natural bias toward hiring more of the same.
+Fortunately, this company recognized that these biases exist, and are now training all hiring managers to become more self-aware of their hidden biases to address inequities in their hiring practices.
+Help women become qualified candidates
+Still can’t find qualified women? Help women become qualified candidates. Etsy sets a great example as a tech company that invested in training women with an eye toward hiring them. By 
+funding $7000 per student in grants
+ to cover women’s living expenses for Hacker School which was held at Etsy’s offices, Etsy was able to increase their pipeline of women candidates and hired several of them. In other words, instead of giving lip service to wanting more women in tech, take action by developing or sponsoring programs that will help close the gap.
+This executive then pointed out that when he looks at his team’s hiring statistics, it turns out that women are being hired at a rate similar to or more than men. But keeping them on the team is another issue.
+Help women stay in the workforce
+Many women don’t want to throw their entire lives into their careers at the expense of family. 
+Companies can do more to retain women in tech by making it easier for women to not have to choose between career and family. 
+Giving women the option to work part-time is an obvious, easy choice: companies benefit by having more diversity in the workforce and having happier, more fulfilled employees. In my experience, managers have little to no incentive to allow people to work part-time because part-time employees occupy one full-time headcount. In many companies, the headcount accounting has to change for this to be a viable option for managers.
+Still, there are other creative ways to help working mothers stay in the workforce. As an executive at Yahoo, I sponsored a job-share arrangement for two women employees who were new mothers. They were high performers who were diligent, effective, and responsible. They took it upon themselves to keep each other informed on all projects, so that they were essentially interchangeable from the perspectives of the teams they worked with. They were motivated to make it work, and did so with considerable success.
+Even when managers overcome their hidden biases, get women hired, and help them balance work and family life, too often women opt to leave the workforce because it’s not worth the fight. Just as we have hidden biases that thwart our good intentions to hire women, similar biases get in the way of women’s advancement in the workforce.
+Dig deeper to recognize talent
+Be aware that similar traits and behavior are perceived differently in men than in women. 
+For example, what is considered “aggressive” behavior by a woman is lauded as “assertive” behavior by a man. When a man is perceived to be “passionate”, that same behavior makes a woman “emotional”. Female leadership might look different, but it can be just as effective.
+Diversity in a company ultimately enables organizations to make better decisions. Fortunately the challenge of hiring and retaining women in tech is not an intractable problem; there are concrete things managers and companies can do to help be part of the solution. By being more self-aware of our own hidden biases to overcome them, initiating programs to train women to be better qualified, and changing workplace policies to support women’s needs and interests, we can all help close the gender gap in tech.

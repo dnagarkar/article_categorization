@@ -1,0 +1,35 @@
+Is the hiring process really broken?
+I came across this
+ really good post
+ about hiring for engineering positions and how nonsensical it can be. Tech companies are quite well known for coming up with really hard challenges for interviews, but is that process really broken as the author said?
+To start with, the author’s experience resonates with me, especially after being in the field for some time. Just in the past couple of years I have interviewed at more than 10 companies and switched jobs 3 times until I finally found a place I’m happy with.
+A bad interview experience is definitely something I don’t want to go through again. At the same time, I can think of only one reason for a bad interview: the candidate and the company are not a good match.
+A bad match doesn’t mean you are incompetent or that the company doesn’t know how to interview. Sometimes, it’s just different expectations or a process prepared for one particular type of candidate.
+I don’t like algorithmic interviews that involve complex data structures or math problems simply because that’s not what I do most of the time. I just don’t have the experience. My entire career has been focused on choosing the right tools to deliver customer-facing features and control entropy. That’s quite different from coming up with math or algorithmic solutions to do something 5% faster but doesn’t mean I’m better than people who are capable of reversing a binary tree from the top of their heads or vice versa.
+Let’s be clear. String manipulation or dealing with arrays/hashes involves just basic programming skills. Implementing existing algorithms on a whiteboard without help from Google is what I’m talking about.
+I believe what you should look for before interviewing is a good company/candidate match. Here are four questions I ask myself before applying for a new job:
+1. Am I applying to a start-up or a big corporation?
+The strategy of such companies as Google and
+ Facebook is to focus on fresh-out-of-college students
+ and train them to have the mind-set they need. If most of your candidates are college students, it doesn’t make sense to ask practical questions or have experience-related problems to be solved. In this case, all you can do is to ensure the student was actually a good student and that they know what they learned in class: algorithms and math.
+Most of these big companies have their interview process tuned for these types of candidates. There’s more into why they do whiteboard challenges, but if one day I decide to apply to one of these places, I won’t be mad if the interviewer doesn’t even ask about my experience and goes straight to a whiteboard challenge.
+2. Am I a generalist or a specialist?
+For early-stage start-ups, ideal candidates tend to be generalists who are capable of doing a number of different things well, but as companies grow, the focus tends to move toward more specialized people.
+In a big company, most of product decisions are made by product managers or other stakeholders, engineers receive a very well defined set of tasks to work on, sometimes theses tasks are very specific like tasks for data guy, tasks for the Frontend engineer, for the Backend and designer.
+In a big company, most product decisions are made by product managers or other stakeholders, engineers receive a well-defined set of tasks to work on.
+I’m not a good match for such an environment. I like to be part of everything, and I love the chaos of having to figure out what we have to work on next. As a full-stack engineer and UI designer, I’m quite a generalist, and that doesn’t fit well with bigger companies and sometimes not even midsize start-ups.
+3. Does the company know why they are asking for algorithmic or math code challenges?
+Many companies don’t take hiring very seriously and just try to copy other companies’ processes for lack of experience or because the people involved just don’t care.
+Many companies apply whiteboard challenges because Google does that, not because they are looking for a particular type of person. The best way to spot this problem is by asking why and where you will use that. If the person doesn’t know, it’s most likely that they don’t know what they are doing. They are just going with the status quo and trying to be cool/hard to get in as Google. If the person has a real-life use case where they had to do something similar and if that’s something common there but I have no idea how to solve it, I might not be the best match for the role.
+4. What is the background of the interviewers?
+It’s important to remember that interviews are two-sided, and you can always walk away, but I don’t like to do that during early phases of the interviewing process, such as phone screens or a first interview.
+There’s a good chance the first person interviewing is not senior. Sometimes, they are just doing the first triage, and you will get a better grasp of the company when you go further on in the process.
+There’s also a chance that if you are interviewing for a midsize start-up some of their employees will be people who came from big companies, and they will do the same type of interview they used to do before. That’s not ideal, but I usually consider this as an orange flag, not a red one. Just try to get that out of the way and get a real sense of a good match from the other interviewers.
+The hiring process is not entirely broken 
+. . .
+I don’t think the hiring process is entirely broken. You just might not be a good match for the company or vice versa. That doesn’t mean you are bad or inexperienced. Sometimes, it only means that the company is looking for a different type of candidate, or they are incapable of adapting their process for each person.
+For example, in my case, I’m not a fresh-out-of-college student anymore, and I want to focus on what I can do best. So I avoid big companies and look for small to midsize companies. That’s one of my criteria when I’m on the hunt for a new job — a good company match.
+. . . but finding the right companies to apply is challenging!
+What is really hard is finding the ideal companies to apply to. Size is one criteria, but there are many others as well, such as salary, benefits, location, culture fit, processes they use, time off, tech stack, code quality, experience of the team, and more. Most of this is very hard to figure out before you apply to the company and go through the entire interview process.
+To make things even worse, I don’t think interviews are really as two-sided as they should be. The company interviews you, but you don’t have the same mechanisms to interview them. If it’s not a good match, you will only find out after you join, and then it’s a waste of time and resources for both sides.
+I believe we can do things to minimize that, and I will talk about these in a series of posts. Stay tuned!
